@@ -1,0 +1,30 @@
+{
+  "name": "emojilib",
+  "version": "0.0.3",
+  "description": "Emoji keyword library.",
+  "main": "index.js",
+  "files": [
+    "emojis.json",
+    "index.js",
+    "LICENSE",
+    "package.json"
+  ],
+  "scripts": {
+    "test": "phantomjs test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muan/emojilib.git"
+  },
+  "keywords": [
+    "emoji",
+    "keyword",
+    "search"
+  ],
+  "author": "Mu-An Chiou <me@muanchiou.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muan/emojilib/issues"
+  },
+  "homepage": "https://github.com/muan/emojilib#readme"
+}
