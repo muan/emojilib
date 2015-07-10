@@ -10,5 +10,10 @@
   "keywords": [
     "emoji"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "test.js",
+    "*.yml",
+    "CONTRIBUTING.md"
+  ]
 }
