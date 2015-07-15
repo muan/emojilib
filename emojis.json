@@ -1,4 +1,124 @@
 {
+  "1:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕐",
+    "category": "objectsandsymbols"
+  },
+  "1:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕜",
+    "category": "objectsandsymbols"
+  },
+  "2:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕑",
+    "category": "objectsandsymbols"
+  },
+  "2:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕝",
+    "category": "objectsandsymbols"
+  },
+  "3:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕒",
+    "category": "objectsandsymbols"
+  },
+  "3:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕞",
+    "category": "objectsandsymbols"
+  },
+  "4:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕓",
+    "category": "objectsandsymbols"
+  },
+  "4:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕟",
+    "category": "objectsandsymbols"
+  },
+  "5:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕔",
+    "category": "objectsandsymbols"
+  },
+  "5:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕠",
+    "category": "objectsandsymbols"
+  },
+  "6:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕕",
+    "category": "objectsandsymbols"
+  },
+  "6:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕡",
+    "category": "objectsandsymbols"
+  },
+  "7:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕖",
+    "category": "objectsandsymbols"
+  },
+  "7:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕢",
+    "category": "objectsandsymbols"
+  },
+  "8:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕗",
+    "category": "objectsandsymbols"
+  },
+  "8:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕣",
+    "category": "objectsandsymbols"
+  },
+  "9:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕘",
+    "category": "objectsandsymbols"
+  },
+  "9:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕤",
+    "category": "objectsandsymbols"
+  },
+  "10:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕙",
+    "category": "objectsandsymbols"
+  },
+  "10:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕥",
+    "category": "objectsandsymbols"
+  },
+  "11:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕚",
+    "category": "objectsandsymbols"
+  },
+  "11:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕦",
+    "category": "objectsandsymbols"
+  },
+  "12:00": {
+    "keywords": ["time", "clock"],
+    "char": "🕛",
+    "category": "objectsandsymbols"
+  },
+  "12:30": {
+    "keywords": ["time", "clock"],
+    "char": "🕧",
+    "category": "objectsandsymbols"
+  },
   "grinning": {
     "keywords": ["face", "smile", "happy", "joy"],
     "char": "😀",
