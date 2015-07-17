@@ -1,4 +1,4 @@
-# :book: emojilib
+# :book: emojilib [![Travis CI](https://travis-ci.org/muan/emojilib.svg?branch=master)](https://travis-ci.org/muan/emojilib)
 
 Emoji keyword library.
 
