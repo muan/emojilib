@@ -1,10 +1,10 @@
 {
-  "name": "emojilib",
-  "version": "0.0.4",
-  "description": "Emoji keyword library.",
+  "name": "emojilib-spanish",
+  "version": "0.1",
+  "description": "Emoji keyword library in spanish.",
   "main": "index.js",
   "files": [
-    "emojis.json",
+    "es_emojis.json",
     "index.js",
     "LICENSE",
     "package.json"
@@ -14,17 +14,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muan/emojilib.git"
+    "url": "git+https://github.com/beeva-labs/emojilib.git"
   },
   "keywords": [
     "emoji",
+    "spanish",
     "keyword",
     "search"
   ],
-  "author": "Mu-An Chiou <me@muanchiou.com>",
+  "author": "BEEVA Labs <innovacion@beeva.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muan/emojilib/issues"
+    "url": "https://github.com/beeva-labs/emojilib/issues"
   },
-  "homepage": "https://github.com/muan/emojilib#readme"
+  "homepage": "https://github.com/beeva-labs/emojilib#readme"
 }

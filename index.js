@@ -1,1 +1,1 @@
-module.exports = require("./emojis.json")
+module.exports = require("./es_emojis.json")

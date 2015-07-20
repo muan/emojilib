@@ -1,5 +1,5 @@
 var fs          = require('fs')
-var rawData     = fs.read('emojis.json').toString()
+var rawData     = fs.read('es_emojis.json').toString()
 var buildFailed = false
 var passed      = function() { console.log("\x1B[92mPASSED\x1B[0m\n") }
 var failed      = function() {
@@ -20,23 +20,13 @@ var reveal = function() {
 console.log("\nTEST: Correct JSON format")
 
 try {
-  var data = JSON.parse(fs.read('emojis.json'))
+  var data = JSON.parse(fs.read('es_emojis.json'))
   var keys = Object.keys(data)
   passed()
 } catch(e) {
   console.log('Invalid JSON format. See the CONTRIBUTING doc for reference.')
   failed()
   reveal()
-}
-
-//
-console.log("TEST: Correct number of emojis")
-
-if(keys.length !== 862) {
-  console.log("There are 862 emojis, but emojis.json has " + keys.length + " entries.")
-  failed()
-} else {
-  passed()
 }
 
 //
@@ -55,7 +45,7 @@ keys.forEach(function(key) {
 
 if(dups.length > 0) {
   dups.forEach(function(key) {
-    console.log('There is more than one "' + key + '" in emojis.json.')
+    console.log('There is more than one "' + key + '" in es_emojis.json.')
   })
   failed()
 } else {

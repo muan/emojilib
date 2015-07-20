@@ -1,0 +1,4232 @@
+{
+  "grinning": {
+    "keywords": ["cara", "sonrisa", "sonreir", "feliz", "contento", "alegria", "alegrar"],
+    "char": "😀",
+    "category": "gente"
+  },
+  "grin": {
+    "keywords": ["cara", "feliz", "contento", "sonrisa", "sonreir", "alegria", "alegrar"],
+    "char": "😁",
+    "category": "gente"
+  },
+  "joy": {
+    "keywords": ["cara", "reir", "risa", "feliz", "contento", "jaja", "jeje"],
+    "char": "😂",
+    "category": "gente"
+  },
+  "smiley": {
+    "keywords": ["cara", "feliz", "contento", "alegria", "alegrar", "jaja", "jeje"],
+    "char": "😃",
+    "category": "gente"
+  },
+  "smile": {
+    "keywords": ["cara", "feliz", "contento", "alegria", "alegrar", "divertido", "diversion", "jaja", "jeje", "reir", "risa", "gustar"],
+    "char": "😄",
+    "category": "gente"
+  },
+  "sweat_smile": {
+    "keywords": ["cara", "feliz", "contento", "reir", "risa"],
+    "char": "😅",
+    "category": "gente"
+  },
+  "laughing": {
+    "keywords": ["feliz", "contento", "alegria", "alegrar", "lol", "satisfecho", "satisfaccion", "jaja", "jeje", "cara", "contento"],
+    "char": "😆",
+    "category": "gente"
+  },
+  "innocent": {
+    "keywords": ["cara", "angel", "cielo", "halo"],
+    "char": "😇",
+    "category": "gente"
+  },
+  "smiling_imp": {
+    "keywords": ["diablo", "cuernos"],
+    "char": "😈",
+    "category": "gente"
+  },
+  "imp": {
+    "keywords": ["diablo", "enfadar", "cabrear", "cabreo", "enfado", "cuernos"],
+    "char": "👿",
+    "category": "gente"
+  },
+  "wink": {
+    "keywords": ["cara", "feliz", "contento", "travieso", "travesura", "secreto", "guino"],
+    "char": "😉",
+    "category": "gente"
+  },
+  "blush": {
+    "keywords": ["cara", "sonrisa", "sonreir", "feliz", "contento", "sonrojar", "enrojecer", "enamorar", "gustar", "avergonzar", "avergonzado", "timido", "timidez", "alegria", "alegrar"],
+    "char": "😊",
+    "category": "gente"
+  },
+  "relaxed": {
+    "keywords": ["cara", "rubor", "ruborizado", "masaje", "relax", "relajado", "feliz", "felicidad"],
+    "char": "☺️",
+    "category": "gente"
+  },
+  "yum": {
+    "keywords": ["feliz", "contento", "alegria", "alegrar", "lengua", "sonrisa", "sonreir", "cara", "tonto"],
+    "char": "😋",
+    "category": "gente"
+  },
+  "relieved": {
+    "keywords": ["cara", "relax", "relajado", "uf", "alivio", "masaje", "relax", "relajado", "feliz", "felicidad"],
+    "char": "😌",
+    "category": "gente"
+  },
+  "heart_eyes": {
+    "keywords": ["cara", "amor", "gustar", "carino","afecto", "san valentin", "enamorado", "amor ciego", "enamorar", "gustar"],
+    "char": "😍",
+    "category": "gente"
+  },
+  "sunglasses": {
+    "keywords": ["cara", "guay", "cool", "sonrisa", "sonreir", "verano", "playa", "gafas de sol"],
+    "char": "😎",
+    "category": "gente"
+  },
+  "smirk": {
+    "keywords": ["cara", "sonrisa", "sonreir", "canalla", "jum", "broma", "bromista", "presumir", "presumido", "sarcasmo"],
+    "char": "😏",
+    "category": "gente"
+  },
+  "neutral_cara": {
+    "keywords": ["indiferencia", "meh", "bah"],
+    "char": "😐",
+    "category": "gente"
+  },
+  "expressionless": {
+    "keywords": ["cara", "indiferente", "ejem", "-_-", "meh", "bah"],
+    "char": "😑",
+    "category": "gente"
+  },
+  "unamused": {
+    "keywords": ["indiferencia", "aburrido", "cara seria", "seriedad","serio"],
+    "char": "😒",
+    "category": "gente"
+  },
+  "sweat": {
+    "keywords": ["cara", "sudar","acalorado","calor", "triste", "tristeza", "cansancio", "cansado", "ejercicio"],
+    "char": "😓",
+    "category": "gente"
+  },
+  "pensive": {
+    "keywords": ["cara", "triste", "tristeza", "pensativo", "deprimido", "depresion", "ok", "okey", "molesto"],
+    "char": "😔",
+    "category": "gente"
+  },
+  "confused": {
+    "keywords": ["cara", "confusion", "confundido", "indiferencia", "huh", "raro", "hmmm"],
+    "char": "😕",
+    "category": "gente"
+  },
+  "confounded": {
+    "keywords": ["cara", "confundido", "enfermo", "malo", "oops"],
+    "char": "😖",
+    "category": "gente"
+  },
+  "kissing": {
+    "keywords": ["beso", "besar", "amor", "gustar", "cara", "3", "san valentin", "enamorado", "enamorar"],
+    "char": "😗",
+    "category": "gente"
+  },
+  "kissing_heart": {
+    "keywords": ["beso", "besar", "cara", "amor", "gustar", "carino", "afecto", "san valentin", "enamorado", "enamorar"],
+    "char": "😘",
+    "category": "gente"
+  },
+  "kissing_smiling_eyes": {
+    "keywords": ["beso", "besar", "cara", "carino","afecto", "san valentin", "enamorado", "enamorar"],
+    "char": "😙",
+    "category": "gente"
+  },
+  "kissing_closed_eyes": {
+    "keywords": ["cara", "amor", "gustar", "carino","afecto", "san valentin", "enamorado", "enamorar"],
+    "char": "😚",
+    "category": "gente"
+  },
+  "stuck_out_tongue": {
+    "keywords": ["cara", "broma", "bromista", "infantil", "alegre", "travieso", "guason", "travieso", "travesura", "sonrisa", "sonreir"],
+    "char": "😛",
+    "category": "gente"
+  },
+  "stuck_out_tongue_winking_eye": {
+    "keywords": ["cara", "broma", "bromista", "infantil", "alegre", "travieso", "guason", "travieso", "travesura", "sonrisa", "sonreir"],
+    "char": "😜",
+    "category": "gente"
+  },
+  "stuck_out_tongue_closed_eyes": {
+    "keywords": ["cara", "broma", "bromista", "alegre", "travieso", "guason", "travieso", "travesura", "sonrisa", "sonreir"],
+    "char": "😝",
+    "category": "gente"
+  },
+  "disappointed": {
+    "keywords": ["cara", "triste", "tristeza", "molesto", "decepcion", "decepcionado", "deprimido", "depresion"],
+    "char": "😞",
+    "category": "gente"
+  },
+  "worried": {
+    "keywords": ["cara", "preocupacion", "preocupado", "nervios", "nervioso"],
+    "char": "😟",
+    "category": "gente"
+  },
+  "angry": {
+    "keywords": ["enfado", "enfadado", "enfadar", "cabrear", "cabreado", "furia", "furioso", "cara", "irritar", "irritado", "frustracion", "frustrado"],
+    "char": "😠",
+    "category": "gente"
+  },
+  "rage": {
+    "keywords": ["enfadar", "cabrear", "cabreo", "enfado", "enfado", "enfadado", "enfadar", "cabrear", "cabreado", "furia", "furioso", "odio", "odiar", "desprecio", "despreciar"],
+    "char": "😡",
+    "category": "gente"
+  },
+  "cry": {
+    "keywords": ["cara", "lagrimas", "llorar", "triste", "tristeza", "deprimido", "depresion", "molesto"],
+    "char": "😢",
+    "category": "gente"
+  },
+  "persevere": {
+    "keywords": ["cara", "insistir", "enfermo", "no", "molesto", "oops"],
+    "char": "😣",
+    "category": "gente"
+  },
+  "triumph": {
+    "keywords": ["cara", "triunfo", "triunfar", "uf", "alivio", "orgulloso", "orgullo", "amor propio"],
+    "char": "😤",
+    "category": "gente"
+  },
+  "disappointed_relieved": {
+    "keywords": ["cara", "uf", "alivio", "sudar", "gota de sudor", "nervios", "nervioso"],
+    "char": "😥",
+    "category": "gente"
+  },
+  "frowning": {
+    "keywords": ["cara", "aw", "cenudo", "ceno fruncido"],
+    "char": "😦",
+    "category": "gente"
+  },
+  "anguished": {
+    "keywords": ["cara", "aturdido", "angustia", "nervios", "nervioso"],
+    "char": "😧",
+    "category": "gente"
+  },
+  "fearful": {
+    "keywords": ["cara", "susto", "asustar", "asustado", "miedo", "miedoso", "nervios", "nervioso", "oops", "huh"],
+    "char": "😨",
+    "category": "gente"
+  },
+  "weary": {
+    "keywords": ["cara", "cansancio", "cansado", "sueno", "dormido", "triste", "tristeza", "frustracion", "frustrado", "molesto"],
+    "char": "😩",
+    "category": "gente"
+  },
+  "sleepy": {
+    "keywords": ["cara", "cansancio", "cansado", "descansar", "descanso", "siesta"],
+    "char": "😪",
+    "category": "gente"
+  },
+  "tired_face": {
+    "keywords": ["enfermo", "cansado", "quejar", "molesto", "frustracion", "frustrado"],
+    "char": "😫",
+    "category": "gente"
+  },
+  "grimacing": {
+    "keywords": ["cara", "mueca", "diente"],
+    "char": "😬",
+    "category": "gente"
+  },
+  "sob": {
+    "keywords": ["cara", "llorar",  "lagrimas",  "triste", "tristeza", "molesto", "deprimido", "depresion"],
+    "char": "😭",
+    "category": "gente"
+  },
+  "open_mouth": {
+    "keywords": ["cara", "sorpresa", "sorprendido", "impresionado", "wow", "boca abierta"],
+    "char": "😮",
+    "category": "gente"
+  },
+  "hushed": {
+    "keywords": ["cara", "woo", "shh", "silencio"],
+    "char": "😯",
+    "category": "gente"
+  },
+  "cold_sweat": {
+    "keywords": ["cara", "nervios", "nervioso"],
+    "char": "😰",
+    "category": "gente"
+  },
+  "scream": {
+    "keywords": ["cara", "grito", "gritar", "susto", "asustar", "asustado", "omg"],
+    "char": "😱",
+    "category": "gente"
+  },
+  "astonished": {
+    "keywords": ["cara", "xox", "sorpresa", "envenenado"],
+    "char": "😲",
+    "category": "gente"
+  },
+  "flushed": {
+    "keywords": ["cara", "rubor", "ruborizado", "timido", "timidez", "halago"],
+    "char": "😳",
+    "category": "gente"
+  },
+  "sleeping": {
+    "keywords": ["cara", "cansancio", "cansado", "sueno", "dormido", "noche", "zzz"],
+    "char": "😴",
+    "category": "gente"
+  },
+  "dizzy_cara": {
+    "keywords": ["agotado", "mareado", "inconsciente", "xox"],
+    "char": "😵",
+    "category": "gente"
+  },
+  "no_mouth": {
+    "keywords": ["cara", "sin palabras"],
+    "char": "😶",
+    "category": "gente"
+  },
+  "mascara": {
+    "keywords": ["cara", "enfermo", "malo", "enfermedad"],
+    "char": "😷",
+    "category": "gente"
+  },
+  "smile_cat": {
+    "keywords": ["animal", "gato"],
+    "char": "😸",
+    "category": "gente"
+  },
+  "joy_cat": {
+    "keywords": ["animal", "gato", "jaja", "jeje", "feliz", "contento", "lagrimas"],
+    "char": "😹",
+    "category": "gente"
+  },
+  "smiley_cat": {
+    "keywords": ["animal", "gato", "feliz", "contento"],
+    "char": "😺",
+    "category": "gente"
+  },
+  "heart_eyes_cat": {
+    "keywords": ["animal", "amor", "gustar", "carino","afecto", "gato", "enamorado"],
+    "char": "😻",
+    "category": "gente"
+  },
+  "smirk_cat": {
+    "keywords": ["animal", "gato"],
+    "char": "😼",
+    "category": "gente"
+  },
+  "kissing_cat": {
+    "keywords": ["animal", "gato", "beso", "besar"],
+    "char": "😽",
+    "category": "gente"
+  },
+  "pouting_cat": {
+    "keywords": ["animal", "gato", "triste", "tristeza"],
+    "char": "😾",
+    "category": "gente"
+  },
+  "crying_cat_cara": {
+    "keywords": ["animal", "lagrimas", "triste", "tristeza", "gato", "molesto"],
+    "char": "😿",
+    "category": "gente"
+  },
+  "scream_cat": {
+    "keywords": ["animal", "gato", "munch", "susto", "asustar", "asustado"],
+    "char": "🙀",
+    "category": "gente"
+  },
+  "huella": {
+    "keywords": ["pie", "seguimiento", "andar", "caminar", "playa" ],
+    "char": "👣",
+    "category": "gente"
+  },
+  "bust_in_silhouette": {
+    "keywords": ["usuario", "persona", "humano"],
+    "char": "👤",
+    "category": "gente"
+  },
+  "busts_in_silhouette": {
+    "keywords": ["usuario", "persona", "humano", "grupo", "gente", "equipo"],
+    "char": "👥",
+    "category": "gente"
+  },
+  "bebe": {
+    "keywords": ["nino", "nina", "chico", "chica", "bebe"],
+    "char": "👶",
+    "category": "gente"
+  },
+  "chico": {
+    "keywords": ["hombre", "masculino", "chico", "adolescente"],
+    "char": "👦",
+    "category": "gente"
+  },
+  "chica": {
+    "keywords": ["femenino", "mujer", "chica", "adolescente"],
+    "char": "👧",
+    "category": "gente"
+  },
+  "hombre": {
+    "keywords": ["bigote", "padre", "papa", "chico", "clase", "senor", "bigote"],
+    "char": "👨",
+    "category": "gente"
+  },
+  "woman": {
+    "keywords": ["femenino", "chicas", "senorita"],
+    "char": "👩",
+    "category": "gente"
+  },
+  "family": {
+    "keywords": ["hogar", "casa", "padres", "familia", "nino", "madre", "mama", "papa", "padre", "gente", "humano"],
+    "char": "👪",
+    "category": "gente"
+  },
+  "pareja": {
+    "keywords": ["pareja", "gente", "humano", "amor", "cita", "quedar", "gustar", "carino","afecto", "san valentin", "enamorado", "matrimonio"],
+    "char": "👫",
+    "category": "gente"
+  },
+  "two_men_holding_hands": {
+    "keywords": ["pareja", "hombres", "amor", "gustar", "romance", "amistad", "gente", "humano"],
+    "char": "👬",
+    "category": "gente"
+  },
+  "two_women_holding_hands": {
+    "keywords": ["pareja", "amistad", "pareja", "amor", "gustar", "mujeres", "gente", "humano"],
+    "char": "👭",
+    "category": "gente"
+  },
+  "cop": {
+    "keywords": ["hombre", "policia", "ley", "legal", "ley", "arrestar", "911"],
+    "char": "👮",
+    "category": "gente"
+  },
+  "dancers": {
+    "keywords": ["femenino", "bailarinas", "mujeres", "chicas"],
+    "char": "👯",
+    "category": "gente"
+  },
+  "bride_with_veil": {
+    "keywords": ["pareja", "novia", "matrimonio", "boda"],
+    "char": "👰",
+    "category": "gente"
+  },
+  "person_with_blond_hair": {
+    "keywords": ["hombre", "masculino", "chico", "rubio", "chico"],
+    "char": "👱",
+    "category": "gente"
+  },
+  "man_with_gua_pi_mao": {
+    "keywords": ["masculino", "chico"],
+    "char": "👲",
+    "category": "gente"
+  },
+  "man_with_turban": {
+    "keywords": ["masculino", "indio", "hindu", "arabe", "moro"],
+    "char": "👳",
+    "category": "gente"
+  },
+  "man": {
+    "keywords": ["humano", "masculino", "hombre", "hombre mayor", "abuelo"],
+    "char": "👴",
+    "category": "gente"
+  },
+  "older_woman": {
+    "keywords": ["femenino", "mujeres", "chica", "senora", "abuela"],
+    "char": "👵",
+    "category": "gente"
+  },
+  "bebe": {
+    "keywords": ["nino", "chico", "chica", "bebe"],
+    "char": "👶",
+    "category": "gente"
+  },
+  "construction_worker": {
+    "keywords": ["masculino", "humano", "trabajador", "obrero", "chico", "construir"],
+    "char": "👷",
+    "category": "gente"
+  },
+  "princess": {
+    "keywords": ["chica", "mujer", "femenino", "rubia", "corona", "real", "reina", "princesa"],
+    "char": "👸",
+    "category": "gente"
+  },
+  "guardsman": {
+    "keywords": ["reino unido", "reino unido", "britanico", "masculino", "chico", "guardia", "real"],
+    "char": "💂",
+    "category": "gente"
+  },
+  "angel": {
+    "keywords": ["cielo", "alas", "halo"],
+    "char": "👼",
+    "category": "gente"
+  },
+  "santa": {
+    "keywords": ["festival", "vacaciones", "hombre", "masculino", "navidad", "papa noel", "santa claus"],
+    "char": "🎅",
+    "category": "gente"
+  },
+  "ghost": {
+    "keywords": ["halloween", "escalofriante", "fantasma", "asustar", "miedo"],
+    "char": "👻",
+    "category": "gente"
+  },
+  "japanese_ogre": {
+    "keywords": ["monstruo", "mascara", "halloween", "asustar", "miedo", "horripilante", "diablo", "demonio"],
+    "char": "👹",
+    "category": "gente"
+  },
+  "japanese_goblin": {
+    "keywords": ["demonio", "mascara", "monstruo", "asustar", "miedo", "horripilante"],
+    "char": "👺",
+    "category": "gente"
+  },
+  "hankey": {
+    "keywords": ["mierda", "caca", "cagada", "fail", "truno"],
+    "char": "💩",
+    "category": "gente"
+  },
+  "skull": {
+    "keywords": ["muerte", "muerto", "esqueleto", "calavera", "horripilante"],
+    "char": "💀",
+    "category": "gente"
+  },
+  "alien": {
+    "keywords": ["ovni", "raro", "extraterrestre", "alien"],
+    "char": "👽",
+    "category": "gente"
+  },
+  "space_invader": {
+    "keywords": ["juego", "arcade", "jugar", "space invader"],
+    "char": "👾",
+    "category": "gente"
+  },
+  "bow": {
+    "keywords": ["hombre", "masculino", "chico"],
+    "char": "🙇",
+    "category": "gente"
+  },
+  "information_desk_person": {
+    "keywords": ["femenino", "chica", "mujer", "humano", "o sea", "osea", "pija"],
+    "char": "💁",
+    "category": "gente"
+  },
+  "no_good": {
+    "keywords": ["femenino", "chica", "mujer", "no"],
+    "char": "🙅",
+    "category": "gente"
+  },
+  "ok_woman": {
+    "keywords": ["mujer", "chica", "femenino", "humano", "si", "ok"],
+    "char": "🙆",
+    "category": "gente"
+  },
+  "raising_hand": {
+    "keywords": ["femenino", "chica", "mujer", "yo", "alzar mano", "+1"],
+    "char": "🙋",
+    "category": "gente"
+  },
+  "person_with_pouting_face": {
+    "keywords": ["femenino", "chica", "mujer"],
+    "char": "🙎",
+    "category": "gente"
+  },
+  "person_frowning": {
+    "keywords": ["femenino", "chica", "mujer", "triste", "tristeza", "deprimido", "depresion", "infeliz"],
+    "char": "🙍",
+    "category": "gente"
+  },
+  "massage": {
+    "keywords": ["femenino", "chica", "mujer", "masaje", "cabeza"],
+    "char": "💆",
+    "category": "gente"
+  },
+  "haircut": {
+    "keywords": ["femenino", "chica", "mujer", "corte de pelo"],
+    "char": "💇",
+    "category": "gente"
+  },
+  "couple_with_heart": {
+    "keywords": ["pareja", "amor", "gustar", "carino","afecto", "humano", "cita", "san valentin", "enamorado", "matrimonio"],
+    "char": "💑",
+    "category": "gente"
+  },
+  "couplekiss": {
+    "keywords": ["pareja", "san valentin", "enamorado", "amor", "gustar", "cita", "matrimonio", "beso"],
+    "char": "💏",
+    "category": "gente"
+  },
+  "raised_hands": {
+    "keywords": ["gesto", "manos", "chocar", "hurra", "yeah", "celebracion"],
+    "char": "🙌",
+    "category": "gente"
+  },
+  "clap": {
+    "keywords": ["manos", "aplaudir", "celebrar", "enhorabuena"],
+    "char": "👏",
+    "category": "gente"
+  },
+  "ear": {
+    "keywords": ["cara", "oir", "sonido", "escuchar"],
+    "char": "👂",
+    "category": "gente"
+  },
+  "eyes": {
+    "keywords": ["mirar", "observar", "ver", "contemplar", "vigilar", "ojear"],
+    "char": "👀",
+    "category": "gente"
+  },
+  "nose": {
+    "keywords": ["oler", "esnifar"],
+    "char": "👃",
+    "category": "gente"
+  },
+  "labios": {
+    "keywords": ["boca", "beso", "labios"],
+    "char": "👄",
+    "category": "gente"
+  },
+  "beso": {
+    "keywords": ["cara", "labios", "amor", "gustar", "carino","afecto", "enamorado"],
+    "char": "💋",
+    "category": "gente"
+  },
+  "lengua": {
+    "keywords": ["boca", "lengua", "lamer"],
+    "char": "👅",
+    "category": "gente"
+  },
+  "nail_care": {
+    "keywords": ["belleza", "manicura", "moda"],
+    "char": "💅",
+    "category": "gente"
+  },
+  "ola": {
+    "keywords": ["manos", "gesto", "adios", "saludar", "despedida", "hola"],
+    "char": "👋",
+    "category": "gente"
+  },
+  "+1": {
+    "keywords": ["+1", "si", "vale", "correcto", "de acuerdo", "acepto", "guay", "cool", "gustar"],
+    "char": "👍",
+    "category": "gente"
+  },
+  "-1": {
+    "keywords": ["-1", "no"],
+    "char": "👎",
+    "category": "gente"
+  },
+  "point_up": {
+    "keywords": ["mano", "dedos", "senalar", "direccion"],
+    "char": "☝️",
+    "category": "gente"
+  },
+  "point_up_2": {
+    "keywords": ["dedos", "mano", "direccion", "arriba"],
+    "char": "👆",
+    "category": "gente"
+  },
+  "point_down": {
+    "keywords": ["dedos", "mano", "direccion", "abajo"],
+    "char": "👇",
+    "category": "gente"
+  },
+  "point_left": {
+    "keywords": ["direccion", "dedos", "mano", "izquierda"],
+    "char": "👈",
+    "category": "gente"
+  },
+  "point_right": {
+    "keywords": ["dedos", "mano", "direccion", "derecha"],
+    "char": "👉",
+    "category": "gente"
+  },
+  "ok_hand": {
+    "keywords": ["dedos", "perfecto", "ok", "okey"],
+    "char": "👌",
+    "category": "gente"
+  },
+  "v": {
+    "keywords": ["dedos", "yeah", "mano", "paz", "victoria", "dos"],
+    "char": "✌️",
+    "category": "gente"
+  },
+  "carapunch": {
+    "keywords": ["enfadar", "cabrear", "cabreo", "enfado", "violencia", "puno", "punetazo", "golpear", "atacar", "pelear", "mano"],
+    "char": "👊",
+    "category": "gente"
+  },
+  "puno": {
+    "keywords": ["dedos", "mano", "agarrar"],
+    "char": "✊",
+    "category": "gente"
+  },
+  "mano": {
+    "keywords": ["dedos", "parar", "chocar", "palma", "prohibir"],
+    "char": "✋",
+    "category": "gente"
+  },
+  "muscle": {
+    "keywords": ["brazo", "musculo", "gimnasio", "gym", "biceps", "mano", "verano", "fuerte", "fuerza"],
+    "char": "💪",
+    "category": "gente"
+  },
+  "open_hands": {
+    "keywords": ["dedos", "mano abierta", "mariposa"],
+    "char": "👐",
+    "category": "gente"
+  },
+  "pray": {
+    "keywords": ["por favor", "esperanza", "rezar", "namaste"],
+    "char": "🙏",
+    "category": "gente"
+  },
+  "seedling": {
+    "keywords": ["planta", "naturaleza", "cesped", "primavera"],
+    "char": "🌱",
+    "category": "naturaleza"
+  },
+  "evergreen_tree": {
+    "keywords": ["planta", "naturaleza", "pino", "arbol"],
+    "char": "🌲",
+    "category": "naturaleza"
+  },
+  "deciduous_tree": {
+    "keywords": ["planta", "naturaleza", "arbol"],
+    "char": "🌳",
+    "category": "naturaleza"
+  },
+  "palm_tree": {
+    "keywords": ["planta", "palmera", "naturaleza", "verano",  "playa" ],
+    "char": "🌴",
+    "category": "naturaleza"
+  },
+  "cactus": {
+    "keywords": ["cactus", "planta", "naturaleza"],
+    "char": "🌵",
+    "category": "naturaleza"
+  },
+  "tulip": {
+    "keywords": ["tulipan", "flor", "planta", "naturaleza", "verano",  "primavera"],
+    "char": "🌷",
+    "category": "naturaleza"
+  },
+  "cherry_blossom": {
+    "keywords": ["cerezo", "naturaleza", "planta", "primavera", "flor"],
+    "char": "🌸",
+    "category": "naturaleza"
+  },
+  "rose": {
+    "keywords": ["flor", "rosa", "san valentin", "enamorado", "amor", "primavera"],
+    "char": "🌹",
+    "category": "naturaleza"
+  },
+  "hibiscus": {
+    "keywords": ["planta", "hibisco", "flor", "playa" ],
+    "char": "🌺",
+    "category": "naturaleza"
+  },
+  "sunflower": {
+    "keywords": ["naturaleza", "planta", "girasol", "otono"],
+    "char": "🌻",
+    "category": "naturaleza"
+  },
+  "blossom": {
+    "keywords": ["naturaleza", "flor"],
+    "char": "🌼",
+    "category": "naturaleza"
+  },
+  "bouquet": {
+    "keywords": ["flor", "ramo", "naturaleza", "primavera"],
+    "char": "💐",
+    "category": "naturaleza"
+  },
+  "ear_of_rice": {
+    "keywords": ["naturaleza", "planta"],
+    "char": "🌾",
+    "category": "naturaleza"
+  },
+  "herb": {
+    "keywords": ["vegetal", "planta", "medicina", "hierba", "cesped"],
+    "char": "🌿",
+    "category": "naturaleza"
+  },
+  "four_leaf_clover": {
+    "keywords": ["vegetal", "trebol", "planta", "naturaleza", "suerte", "fortuna", "afortunado"],
+    "char": "🍀",
+    "category": "naturaleza"
+  },
+  "maple_leaf": {
+    "keywords": ["naturaleza", "hoja", "arce", "planta", "canada", "otono"],
+    "char": "🍁",
+    "category": "naturaleza"
+  },
+  "fallen_leaf": {
+    "keywords": ["naturaleza", "planta", "hoja", "hojas", "otono"],
+    "char": "🍂",
+    "category": "naturaleza"
+  },
+  "hojas": {
+    "keywords": ["naturaleza", "planta", "arbol",  "cesped", "pasto", "primavera"],
+    "char": "🍃",
+    "category": "naturaleza"
+  },
+  "mushroom": {
+    "keywords": ["planta", "vegetal", "hongo", "champinon"],
+    "char": "🍄",
+    "category": "naturaleza"
+  },
+  "chestnut": {
+    "keywords": ["comida", "alimento", "castana", "ardilla"],
+    "char": "🌰",
+    "category": "naturaleza"
+  },
+  "rat": {
+    "keywords": ["animal", "raton", "rata", "roedor"],
+    "char": "🐀",
+    "category": "naturaleza"
+  },
+  "mouse2": {
+    "keywords": ["animal", "naturaleza","raton", "rata", "roedor"],
+    "char": "🐁",
+    "category": "naturaleza"
+  },
+  "raton": {
+    "keywords": ["animal", "naturaleza", "raton", "rata", "queso"],
+    "char": "🐭",
+    "category": "naturaleza"
+  },
+  "hamster": {
+    "keywords": ["animal", "naturaleza", "hamster"],
+    "char": "🐹",
+    "category": "naturaleza"
+  },
+  "buey": {
+    "keywords": ["animal", "vaca", "ternera"],
+    "char": "🐂",
+    "category": "naturaleza"
+  },
+  "water_buffalo": {
+    "keywords": ["animal", "naturaleza", "buey", "vaca"],
+    "char": "🐃",
+    "category": "naturaleza"
+  },
+  "cow2": {
+    "keywords": ["ternera", "buey", "animal", "naturaleza", "muu", "leche"],
+    "char": "🐄",
+    "category": "naturaleza"
+  },
+  "vaca": {
+    "keywords": ["ternera", "buey", "animal", "naturaleza", "muu", "leche"],
+    "char": "🐮",
+    "category": "naturaleza"
+  },
+  "tiger2": {
+    "keywords": ["animal", "naturaleza", "tigre", "rugir"],
+    "char": "🐅",
+    "category": "naturaleza"
+  },
+  "leopard": {
+    "keywords": ["animal", "naturaleza", "leopardo"],
+    "char": "🐆",
+    "category": "naturaleza"
+  },
+  "tiger": {
+    "keywords": ["animal","tigre", "gato", "peligro", "salvaje", "naturaleza", "rugir"],
+    "char": "🐯",
+    "category": "naturaleza"
+  },
+  "rabbit2": {
+    "keywords": ["animal", "naturaleza", "mascota", "magia", "primavera"],
+    "char": "🐇",
+    "category": "naturaleza"
+  },
+  "rabbit": {
+    "keywords": ["animal", "naturaleza", "mascota", "primavera", "magia"],
+    "char": "🐰",
+    "category": "naturaleza"
+  },
+  "cat2": {
+    "keywords": ["animal", "meow", "miau", "mascota", "gato"],
+    "char": "🐈",
+    "category": "naturaleza"
+  },
+  "gato": {
+    "keywords": ["animal", "meow", "miau", "naturaleza", "mascota"],
+    "char": "🐱",
+    "category": "naturaleza"
+  },
+  "racehorse": {
+    "keywords": ["animal", "apostar", "apuesta", "suerte"],
+    "char": "🐎",
+    "category": "naturaleza"
+  },
+  "horse": {
+    "keywords": ["animal", "naturaleza", "unicornio"],
+    "char": "🐴",
+    "category": "naturaleza"
+  },
+  "ram": {
+    "keywords": ["animal", "oveja", "naturaleza"],
+    "char": "🐏",
+    "category": "naturaleza"
+  },
+  "sheep": {
+    "keywords": ["animal", "naturaleza", "lana"],
+    "char": "🐑",
+    "category": "naturaleza"
+  },
+  "goat": {
+    "keywords": ["animal", "naturaleza", "cabra"],
+    "char": "🐐",
+    "category": "naturaleza"
+  },
+  "rooster": {
+    "keywords": ["animal", "naturaleza", "pollo", "gallo", "gallina"],
+    "char": "🐓",
+    "category": "naturaleza"
+  },
+  "chicken": {
+    "keywords": ["animal", "cacarear", "naturaleza", "pajaro"],
+    "char": "🐔",
+    "category": "naturaleza"
+  },
+  "baby_chick": {
+    "keywords": ["animal", "pollo", "pajaro"],
+    "char": "🐤",
+    "category": "naturaleza"
+  },
+  "hatching_chick": {
+    "keywords": ["animal", "pollo", "huevo", "nacer", "bebe", "pajaro", "cascaron"],
+    "char": "🐣",
+    "category": "naturaleza"
+  },
+  "hatched_chick": {
+    "keywords": ["animal", "pollo", "bebe", "pajaro", "pollito"],
+    "char": "🐥",
+    "category": "naturaleza"
+  },
+  "bird": {
+    "keywords": ["animal", "naturaleza", "pajaro", "volar", "tweet", "primavera"],
+    "char": "🐦",
+    "category": "naturaleza"
+  },
+  "penguin": {
+    "keywords": ["animal", "naturaleza", "pingüino"],
+    "char": "🐧",
+    "category": "naturaleza"
+  },
+  "elephant": {
+    "keywords": ["animal", "naturaleza", "elefante", "tailandia", "circo"],
+    "char": "🐘",
+    "category": "naturaleza"
+  },
+  "dromedary_camel": {
+    "keywords": ["animal", "acalorado","calor", "desierto", "joroba", "dromedario"],
+    "char": "🐪",
+    "category": "naturaleza"
+  },
+  "camel": {
+    "keywords": ["animal", "naturaleza", "acalorado","calor", "desierto", "joroba", "camello"],
+    "char": "🐫",
+    "category": "naturaleza"
+  },
+  "boar": {
+    "keywords": ["animal", "naturaleza", "jabali"],
+    "char": "🐗",
+    "category": "naturaleza"
+  },
+  "pig2": {
+    "keywords": ["animal", "naturaleza", "cerdo"],
+    "char": "🐖",
+    "category": "naturaleza"
+  },
+  "pig": {
+    "keywords": ["animal", "oink", "naturaleza", "cerdo"],
+    "char": "🐷",
+    "category": "naturaleza"
+  },
+  "pig_nose": {
+    "keywords": ["animal", "oink", "cerdo"],
+    "char": "🐽",
+    "category": "naturaleza"
+  },
+  "dog2": {
+    "keywords": ["animal", "naturaleza", "perro", "perrito", "mascota", "fiel"],
+    "char": "🐕",
+    "category": "naturaleza"
+  },
+  "poodle": {
+    "keywords": ["perro", "animal", "cachorro", "naturaleza", "mascota"],
+    "char": "🐩",
+    "category": "naturaleza"
+  },
+  "dog": {
+    "keywords": ["animal", "naturaleza", "guau", "perro", "cachorrito", "mascota", "fiel"],
+    "char": "🐶",
+    "category": "naturaleza"
+  },
+  "wolf": {
+    "keywords": ["animal", "naturaleza", "salvaje", "lobo"],
+    "char": "🐺",
+    "category": "naturaleza"
+  },
+  "bear": {
+    "keywords": ["animal", "naturaleza", "salvaje", "oso", "oso pardo"],
+    "char": "🐻",
+    "category": "naturaleza"
+  },
+  "koala": {
+    "keywords": ["animal", "naturaleza", "koala"],
+    "char": "🐨",
+    "category": "naturaleza"
+  },
+  "panda_cara": {
+    "keywords": ["animal", "naturaleza", "oso panda", "panda"],
+    "char": "🐼",
+    "category": "naturaleza"
+  },
+  "monkey_cara": {
+    "keywords": ["animal", "naturaleza", "circo", "mono", "monito"],
+    "char": "🐵",
+    "category": "naturaleza"
+  },
+  "see_no_evil": {
+    "keywords": ["mono", "animal", "naturaleza", "jaja", "jeje"],
+    "char": "🙈",
+    "category": "naturaleza"
+  },
+  "hear_no_evil": {
+    "keywords": ["animal", "mono", "naturaleza", "sordo"],
+    "char": "🙉",
+    "category": "naturaleza"
+  },
+  "speak_no_evil": {
+    "keywords": ["mono", "animal", "naturaleza", "omg", "oh"],
+    "char": "🙊",
+    "category": "naturaleza"
+  },
+  "monkey": {
+    "keywords": ["animal", "naturaleza", "circo", "mono"],
+    "char": "🐒",
+    "category": "naturaleza"
+  },
+  "dragon": {
+    "keywords": ["animal", "mito", "naturaleza", "chino", "dragon"],
+    "char": "🐉",
+    "category": "naturaleza"
+  },
+  "dragon_cara": {
+    "keywords": ["animal", "mito", "naturaleza", "chino", "dragon"],
+    "char": "🐲",
+    "category": "naturaleza"
+  },
+  "crocodile": {
+    "keywords": ["animal", "naturaleza", "reptil", "cocodrilo"],
+    "char": "🐊",
+    "category": "naturaleza"
+  },
+  "snake": {
+    "keywords": ["animal", "demonio", "naturaleza", "serpiente"],
+    "char": "🐍",
+    "category": "naturaleza"
+  },
+  "turtle": {
+    "keywords": ["animal", "lento", "naturaleza", "tortuga"],
+    "char": "🐢",
+    "category": "naturaleza"
+  },
+  "frog": {
+    "keywords": ["animal", "naturaleza", "croar", "rana", "sapo"],
+    "char": "🐸",
+    "category": "naturaleza"
+  },
+  "whale2": {
+    "keywords": ["animal", "naturaleza", "mar", "oceano", "ballena"],
+    "char": "🐋",
+    "category": "naturaleza"
+  },
+  "whale": {
+    "keywords": ["animal", "naturaleza", "mar", "oceano", "ballena"],
+    "char": "🐳",
+    "category": "naturaleza"
+  },
+  "dolphin": {
+    "keywords": ["animal", "naturaleza", "delfin", "mar", "oceano", "flipper", "playa"],
+    "char": "🐬",
+    "category": "naturaleza"
+  },
+  "octopus": {
+    "keywords": ["animal", "criatura", "oceano", "mar", "naturaleza", "playa", "pulpo", "calamar" ],
+    "char": "🐙",
+    "category": "naturaleza"
+  },
+  "pescado": {
+    "keywords": ["animal", "comida", "alimento", "naturaleza", "pez", "pescado"],
+    "char": "🐟",
+    "category": "naturaleza"
+  },
+  "tropical_fish": {
+    "keywords": ["pez", "animal", "nadar", "oceano", "playa", "pez tropical"],
+    "char": "🐠",
+    "category": "naturaleza"
+  },
+  "blowfish": {
+    "keywords": ["pez", "naturaleza", "comida", "alimento", "mar", "oceano", "pez globo"],
+    "char": "🐡",
+    "category": "naturaleza"
+  },
+  "shell": {
+    "keywords": ["naturaleza", "mar", "playa", "concha" , "almeja"],
+    "char": "🐚",
+    "category": "naturaleza"
+  },
+  "snail": {
+    "keywords": ["lento", "animal", "caracol", "caparazon"],
+    "char": "🐌",
+    "category": "naturaleza"
+  },
+  "bug": {
+    "keywords": ["insecto", "bicho", "naturaleza", "bug", "gusano"],
+    "char": "🐛",
+    "category": "naturaleza"
+  },
+  "ant": {
+    "keywords": ["animal", "insecto", "bicho", "naturaleza", "bug", "hormiga"],
+    "char": "🐜",
+    "category": "naturaleza"
+  },
+  "bee": {
+    "keywords": ["animal", "insecto", "bicho", "naturaleza", "bug", "abeja", "primavera"],
+    "char": "🐝",
+    "category": "naturaleza"
+  },
+  "beetle": {
+    "keywords": ["insecto", "bicho", "naturaleza", "bug", "escarabajo"],
+    "char": "🐞",
+    "category": "naturaleza"
+  },
+  "feet": {
+    "keywords": ["animal", "seguimiento", "huella", "perro", "gato", "mascota", "pezunas"],
+    "char": "🐾",
+    "category": "naturaleza"
+  },
+  "zap": {
+    "keywords": ["trueno", "tormenta", "tiempo meteorologico", "rayo", "rapido"],
+    "char": "⚡",
+    "category": "naturaleza"
+  },
+  "fire": {
+    "keywords": ["acalorado","calor", "cocinar", "llama", "fuego", "fogata"],
+    "char": "🔥",
+    "category": "naturaleza"
+  },
+  "crescent_moon": {
+    "keywords": ["noche", "dormir", "cielo", "anochecer", "luna", "luna creciente", "magia"],
+    "char": "🌙",
+    "category": "naturaleza"
+  },
+  "sunny": {
+    "keywords": ["sol","soleado","tiempo meteorologico", "naturaleza", "brillo", "verano",  "playa" , "primavera"],
+    "char": "☀️",
+    "category": "naturaleza"
+  },
+  "partly_sunny": {
+    "keywords": ["tiempo meteorologico", "naturaleza", "nublado", "parcialmente soleado", "manana", "otono", "primavera"],
+    "char": "⛅",
+    "category": "naturaleza"
+  },
+  "cloud": {
+    "keywords": ["tiempo meteorologico", "cielo", "nube", "cloud"],
+    "char": "☁️",
+    "category": "naturaleza"
+  },
+  "droplet": {
+    "keywords": ["agua", "goteo", "gotear", "gota", "grifo", "primavera"],
+    "char": "💧",
+    "category": "naturaleza"
+  },
+  "sweat_drops": {
+    "keywords": ["agua", "goteo", "gotear", "gota", "sudar", "sudor"],
+    "char": "💦",
+    "category": "naturaleza"
+  },
+  "umbrella": {
+    "keywords": ["paraguas","lluvia", "lluvioso", "tiempo meteorologico", "primavera"],
+    "char": "☔",
+    "category": "naturaleza"
+  },
+  "dash": {
+    "keywords": ["viento", "aire", "rapido", "pedo", "humo", "fumar", "puff", "uff"],
+    "char": "💨",
+    "category": "naturaleza"
+  },
+  "snowflake": {
+    "keywords": ["invierno", "temporada", "frio", "tiempo meteorologico", "nieve", "copo", "navidad"],
+    "char": "❄️",
+    "category": "naturaleza"
+  },
+  "star2": {
+    "keywords": ["noche", "brillar", "estrella", "magia"],
+    "char": "🌟",
+    "category": "naturaleza"
+  },
+  "estrella": {
+    "keywords": ["noche", "brillar", "estrella", "estrellada"],
+    "char": "⭐",
+    "category": "naturaleza"
+  },
+  "estrellas": {
+    "keywords": ["noche", "estrella fugaz", "fugaz", "estrella"],
+    "char": "🌠",
+    "category": "naturaleza"
+  },
+  "sunrise_over_mountains": {
+    "keywords": ["vista", "vacaciones", "foto", "fotografia", "anochecer", "amanecer","paisaje"],
+    "char": "🌄",
+    "category": "naturaleza"
+  },
+  "sunrise": {
+    "keywords": ["manana", "vista", "vacaciones", "foto", "fotografia", "paisaje", "anochecer", "amanecer"],
+    "char": "🌅",
+    "category": "naturaleza"
+  },
+  "rainbow": {
+    "keywords": ["naturaleza", "arcoiris","feliz", "contento",  "foto", "fotografia", "cielo", "primavera", "paisaje"],
+    "char": "🌈",
+    "category": "naturaleza"
+  },
+  "ocean": {
+    "keywords": ["mar", "agua", "ola", "oceano","oleaje","naturaleza", "tsunami", "desastre"],
+    "char": "🌊",
+    "category": "naturaleza"
+  },
+  "volcano": {
+    "keywords": ["foto", "fotografia", "volcan","naturaleza", "desastre"],
+    "char": "🌋",
+    "category": "naturaleza"
+  },
+  "milky_way": {
+    "keywords": ["foto", "fotografia", "universo", "cielo","via lactea","espacio", "estrellas"],
+    "char": "🌌",
+    "category": "naturaleza"
+  },
+  "mount_fuji": {
+    "keywords": ["foto", "fotografia", "montana", "naturaleza", "japones", "japon"],
+    "char": "🗻",
+    "category": "naturaleza"
+  },
+  "japon": {
+    "keywords": ["nacion", "pais", "japones", "japon", "asia"],
+    "char": "🗾",
+    "category": "naturaleza"
+  },
+  "globe_with_meridians": {
+    "keywords": ["meridiano","tierra", "planeta", "internacional", "mundo", "internet", "web"],
+    "char": "🌐",
+    "category": "naturaleza"
+  },
+  "earth_africa": {
+    "keywords": ["tierra", "mundo", "internacional", "africa", "europa"],
+    "char": "🌍",
+    "category": "naturaleza"
+  },
+  "earth_americas": {
+    "keywords": ["tierra", "mundo", "america", "EEUU", "USA", "internacional"],
+    "char": "🌎",
+    "category": "naturaleza"
+  },
+  "earth_asia": {
+    "keywords": ["tierra", "mundo", "este", "internacional", "asia", "china"],
+    "char": "🌏",
+    "category": "naturaleza"
+  },
+  "new_moon": {
+    "keywords": ["naturaleza", "luna nueva", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "luna"],
+    "char": "🌑",
+    "category": "naturaleza"
+  },
+  "waxing_crescent_moon": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "luna creciente", "luna"],
+    "char": "🌒",
+    "category": "naturaleza"
+  },
+  "first_quarter_moon": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "cuarto creciente", "luna"],
+    "char": "🌓",
+    "category": "naturaleza"
+  },
+  "moon": {
+    "keywords": ["naturaleza", "noche", "cielo", "crepusculo", "planeta", "espacio", "anochecer", "dormir", "luna"],
+    "char": "🌔",
+    "category": "naturaleza"
+  },
+  "full_moon": {
+    "keywords": ["naturaleza",  "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "luna", "luna llena"],
+    "char": "🌕",
+    "category": "naturaleza"
+  },
+  "waning_gibbous_moon": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "luna gibosa", "luna"],
+    "char": "🌖",
+    "category": "naturaleza"
+  },
+  "last_quarter_moon": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "cuarto menguante", "luna"],
+    "char": "🌗",
+    "category": "naturaleza"
+  },
+  "waning_crescent_moon": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "luna menguante", "luna"],
+    "char": "🌘",
+    "category": "naturaleza"
+  },
+  "new_moon_with_cara": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "luna nueva", "luna"],
+    "char": "🌚",
+    "category": "naturaleza"
+  },
+  "full_moon_with_cara": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "luna llena", "luna"],
+    "char": "🌝",
+    "category": "naturaleza"
+  },
+  "first_quarter_moon_with_cara": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "cuarto menguante", "luna"],
+    "char": "🌛",
+    "category": "naturaleza"
+  },
+  "last_quarter_moon_with_cara": {
+    "keywords": ["naturaleza", "crepusculo", "planeta", "espacio", "noche", "anochecer", "dormir", "cuarto menguante", "luna"],
+    "char": "🌜",
+    "category": "naturaleza"
+  },
+  "sun_with_cara": {
+    "keywords": ["naturaleza", "manana", "cielo", "sol"],
+    "char": "🌞",
+    "category": "naturaleza"
+  },
+  "tomato": {
+    "keywords": ["tomate","fruta", "vegetal", "naturaleza", "comida", "alimento"],
+    "char": "🍅",
+    "category": "foodanddrink"
+  },
+  "eggplant": {
+    "keywords": ["vegetal", "naturaleza", "comida", "alimento", "berenjena"],
+    "char": "🍆",
+    "category": "foodanddrink"
+  },
+  "corn": {
+    "keywords": ["comida", "alimento", "vegetal", "planta", "maiz"],
+    "char": "🌽",
+    "category": "foodanddrink"
+  },
+  "sweet_potato": {
+    "keywords": ["comida", "alimento", "naturaleza", "batata"],
+    "char": "🍠",
+    "category": "foodanddrink"
+  },
+  "grapes": {
+    "keywords": ["fruta", "comida", "alimento", "vino", "uvas"],
+    "char": "🍇",
+    "category": "foodanddrink"
+  },
+  "melon": {
+    "keywords": ["fruta", "naturaleza", "comida", "alimento", "melon"],
+    "char": "🍈",
+    "category": "foodanddrink"
+  },
+  "watermelon": {
+    "keywords": ["fruta", "comida", "alimento", "picnic", "verano", "sandia"],
+    "char": "🍉",
+    "category": "foodanddrink"
+  },
+  "tangerine": {
+    "keywords": ["comida", "alimento", "fruta", "naturaleza", "mandarina"],
+    "char": "🍊",
+    "category": "foodanddrink"
+  },
+  "lemon": {
+    "keywords": ["fruta", "naturaleza", "comida", "alimento", "limon"],
+    "char": "🍋",
+    "category": "foodanddrink"
+  },
+  "banana": {
+    "keywords": ["fruta", "comida", "alimento", "platano", "banana"],
+    "char": "🍌",
+    "category": "foodanddrink"
+  },
+  "pineapple": {
+    "keywords": ["fruta", "naturaleza", "comida", "alimento", "pina"],
+    "char": "🍍",
+    "category": "foodanddrink"
+  },
+  "apple": {
+    "keywords": ["fruta", "manzana", "mac", "escuela", "apple"],
+    "char": "🍎",
+    "category": "foodanddrink"
+  },
+  "green_apple": {
+    "keywords": ["fruta", "naturaleza", "manzana"],
+    "char": "🍏",
+    "category": "foodanddrink"
+  },
+  "pear": {
+    "keywords": ["fruta", "naturaleza", "comida", "alimento", "pera"],
+    "char": "🍐",
+    "category": "foodanddrink"
+  },
+  "peach": {
+    "keywords": ["fruta", "naturaleza", "comida", "alimento", "melocoton"],
+    "char": "🍑",
+    "category": "foodanddrink"
+  },
+  "cherries": {
+    "keywords": ["comida", "alimento", "fruta", "cereza"],
+    "char": "🍒",
+    "category": "foodanddrink"
+  },
+  "strawberry": {
+    "keywords": ["fruta", "comida", "alimento", "naturaleza", "fresa"],
+    "char": "🍓",
+    "category": "foodanddrink"
+  },
+  "hamburger": {
+    "keywords": ["carne", "comida rapida", "ternera", "hamburguesa", "burguer", "mcdonalds", "burger king"],
+    "char": "🍔",
+    "category": "foodanddrink"
+  },
+  "pizza": {
+    "keywords": ["comida", "alimento", "pizza","fiesta"],
+    "char": "🍕",
+    "category": "foodanddrink"
+  },
+  "meat_on_bone": {
+    "keywords": ["comida", "alimento", "drumstick", "carne", "hueso", "pata de pollo"],
+    "char": "🍖",
+    "category": "foodanddrink"
+  },
+  "poultry_leg": {
+    "keywords": ["alitas", "alita de pollo","comida", "alimento", "carne", "pata de pollo", "pajaro", "pollo", "pavo"],
+    "char": "🍗",
+    "category": "foodanddrink"
+  },
+  "rice_cracker": {
+    "keywords": ["comida", "alimento", "japones", "japon", "arroz"],
+    "char": "🍘",
+    "category": "foodanddrink"
+  },
+  "rice_ball": {
+    "keywords": ["comida", "alimento", "japones", "japon", "bola de arroz", "arroz"],
+    "char": "🍙",
+    "category": "foodanddrink"
+  },
+  "arroz": {
+    "keywords": ["comida", "alimento", "china", "asian", "arroz"],
+    "char": "🍚",
+    "category": "foodanddrink"
+  },
+  "curry": {
+    "keywords": ["comida", "alimento", "picante", "acalorado","calor", "indio", "curry"],
+    "char": "🍛",
+    "category": "foodanddrink"
+  },
+  "ramen": {
+    "keywords": ["comida", "alimento", "japones", "japon", "noodle", "fideos", "ramen", "palillos"],
+    "char": "🍜",
+    "category": "foodanddrink"
+  },
+  "spaghetti": {
+    "keywords": ["comida", "alimento", "italiano", "espaguetis", "spaghetti"],
+    "char": "🍝",
+    "category": "foodanddrink"
+  },
+  "bread": {
+    "keywords": ["comida", "alimento", "pan", "trigo", "desayuno", "tostada"],
+    "char": "🍞",
+    "category": "foodanddrink"
+  },
+  "fries": {
+    "keywords": ["patatas", "patatas fritas", "snack", "comida rapida"],
+    "char": "🍟",
+    "category": "foodanddrink"
+  },
+  "dango": {
+    "keywords": ["comida", "alimento", "pinchito", "brocheta", "barbacoa", "carne"],
+    "char": "🍡",
+    "category": "foodanddrink"
+  },
+  "oden": {
+    "keywords": ["comida", "alimento", "pinchito", "brocheta", "japones", "japon"],
+    "char": "🍢",
+    "category": "foodanddrink"
+  },
+  "sushi": {
+    "keywords": ["comida", "alimento", "pescado", "japones", "japon", "arroz", "sushi"],
+    "char": "🍣",
+    "category": "foodanddrink"
+  },
+  "fried_shrimp": {
+    "keywords": ["comida", "alimento", "animal", "gamba","aperitivo", "verano"],
+    "char": "🍤",
+    "category": "foodanddrink"
+  },
+  "fish_cake": {
+    "keywords": ["comida", "alimento", "japon", "mar", "playa" ],
+    "char": "🍥",
+    "category": "foodanddrink"
+  },
+  "icecream": {
+    "keywords": ["helado","comida", "alimento", "acalorado","calor", "postre", "verano"],
+    "char": "🍦",
+    "category": "foodanddrink"
+  },
+  "shaved_ice": {
+    "keywords": ["helado","comida","acalorado","calor", "postre", "verano"],
+    "char": "🍧",
+    "category": "foodanddrink"
+  },
+  "ice_cream": {
+    "keywords": ["comida", "helado", "alimento", "acalorado","calor", "postre"],
+    "char": "🍨",
+    "category": "foodanddrink"
+  },
+  "doughnut": {
+    "keywords": ["comida", "alimento", "postre", "snack", "dulce", "donut"],
+    "char": "🍩",
+    "category": "foodanddrink"
+  },
+  "cookie": {
+    "keywords": ["comida", "alimento", "snack", "oreo", "chocolate", "dulce", "postre", "galleta"],
+    "char": "🍪",
+    "category": "foodanddrink"
+  },
+  "chocolate_bar": {
+    "keywords": ["comida", "alimento", "snack", "postre", "dulce", "chocolate"],
+    "char": "🍫",
+    "category": "foodanddrink"
+  },
+  "candy": {
+    "keywords": ["snack", "postre", "caramelo", "dulce", "gominola", "golosina"],
+    "char": "🍬",
+    "category": "foodanddrink"
+  },
+  "lollipop": {
+    "keywords": ["comida", "alimento", "snack", "caramelo", "dulce", "gominola", "golosina"],
+    "char": "🍭",
+    "category": "foodanddrink"
+  },
+  "custard": {
+    "keywords": ["postre", "comida", "alimento", "natillas"],
+    "char": "🍮",
+    "category": "foodanddrink"
+  },
+  "honey_pot": {
+    "keywords": ["abejas", "dulce", "cocina", "miel"],
+    "char": "🍯",
+    "category": "foodanddrink"
+  },
+  "cake": {
+    "keywords": ["comida", "alimento", "postre", "bizcocho", "pastel", "dulce"],
+    "char": "🍰",
+    "category": "foodanddrink"
+  },
+  "bento": {
+    "keywords": ["comida", "alimento", "japones", "japon", "bento", "sushi"],
+    "char": "🍱",
+    "category": "foodanddrink"
+  },
+  "stew": {
+    "keywords": ["comida", "alimento", "carne", "estofado","sopa"],
+    "char": "🍲",
+    "category": "foodanddrink"
+  },
+  "huevo": {
+    "keywords": ["comida", "alimento", "desayuno", "cocina", "huevo"],
+    "char": "🍳",
+    "category": "foodanddrink"
+  },
+  "fork_and_knife": {
+    "keywords": ["cubiertos", "cocina", "cuchillo", "tenedor", "restaurante", "comida"],
+    "char": "🍴",
+    "category": "foodanddrink"
+  },
+  "tea": {
+    "keywords": ["bebida", "bol", "desayuno", "britanico", "te"],
+    "char": "🍵",
+    "category": "foodanddrink"
+  },
+  "coffee": {
+    "keywords": ["bebida", "bebida", "cafe", "espresso"],
+    "char": "☕",
+    "category": "foodanddrink"
+  },
+  "sake": {
+    "keywords": ["sake","vino", "bebida", "borracho", "bebida", "japones", "japon", "alcohol", "bebida alcoholica"],
+    "char": "🍶",
+    "category": "foodanddrink"
+  },
+  "wine_glass": {
+    "keywords": ["vino", "copa de vino","bebida", "bebida", "borracho", "alcohol", "bebida alcoholica"],
+    "char": "🍷",
+    "category": "foodanddrink"
+  },
+  "cocktail": {
+    "keywords": ["cocktail","bebida", "borracho", "alcohol", "bebida", "bebida alcoholica"],
+    "char": "🍸",
+    "category": "foodanddrink"
+  },
+  "tropical_drink": {
+    "keywords": ["bebida", "cocktail", "verano",  "playa" , "alcohol", "bebida alcoholica"],
+    "char": "🍹",
+    "category": "foodanddrink"
+  },
+  "beer": {
+    "keywords": ["cerveza","relax", "bebida", "bebida", "borracho", "fiesta", "pub", "verano",  "alcohol", "bebida alcoholica"],
+    "char": "🍺",
+    "category": "foodanddrink"
+  },
+  "beers": {
+    "keywords": ["cervezas","relax", "bebida", "bebida", "borracho", "fiesta", "pub", "verano",  "alcohol", "bebida alcoholica"],
+    "char": "🍻",
+    "category": "foodanddrink"
+  },
+  "baby_bottle": {
+    "keywords": ["biberon","comida", "alimento", "contenedor", "leche"],
+    "char": "🍼",
+    "category": "foodanddrink"
+  },
+  "ribbon": {
+    "keywords": ["decoracion", "lazo", "pajarita", "chica"],
+    "char": "🎀",
+    "category": "celebracion"
+  },
+  "regalo": {
+    "keywords": ["regalo", "cumpleanos", "navidad", "navidad"],
+    "char": "🎁",
+    "category": "celebracion"
+  },
+  "birthday": {
+    "keywords": ["cumpleanos","fiesta", "pastel", "tarta", "celebracion"],
+    "char": "🎂",
+    "category": "celebracion"
+  },
+  "jack_o_lantern": {
+    "keywords": ["halloween", "luz", "calabaza", "horripilante", "otono"],
+    "char": "🎃",
+    "category": "celebracion"
+  },
+  "christmas_tree": {
+    "keywords": ["arbol de navidad", "festival", "vacaciones", "diciembre", "navidad", "celebracion"],
+    "char": "🎄",
+    "category": "celebracion"
+  },
+  "tanabata_tree": {
+    "keywords": ["planta", "naturaleza", "rama", "verano"],
+    "char": "🎋",
+    "category": "celebracion"
+  },
+  "bamboo": {
+    "keywords": ["planta", "naturaleza", "vegetal", "panda", "bambu"],
+    "char": "🎍",
+    "category": "celebracion"
+  },
+  "rice_scene": {
+    "keywords": ["foto", "fotografia", "japon", "asia", "tsukimi"],
+    "char": "🎑",
+    "category": "celebracion"
+  },
+  "fireworks": {
+    "keywords": ["foto", "fotografia", "festival", "fuegos artificiales", "carnaval", "enhorabuena"],
+    "char": "🎆",
+    "category": "celebracion"
+  },
+  "sparkler": {
+    "keywords": ["estrellas", "noche", "brillar"],
+    "char": "🎇",
+    "category": "celebracion"
+  },
+  "tada": {
+    "keywords": ["fiesta", "yuhuuuuuu", "enhorabuena", "cumpleanos", "magia", "circo"],
+    "char": "🎉",
+    "category": "celebracion"
+  },
+  "confetti_ball": {
+    "keywords": ["festival", "confetti","fiesta", "cumpleanos", "circo"],
+    "char": "🎊",
+    "category": "celebracion"
+  },
+  "balloon": {
+    "keywords": ["fiesta", "globo","celebracion", "cumpleanos", "circo"],
+    "char": "🎈",
+    "category": "celebracion"
+  },
+  "dizzy": {
+    "keywords": ["estrella", "mareo", "brillar", "magia"],
+    "char": "💫",
+    "category": "celebracion"
+  },
+  "sparkles": {
+    "keywords": ["estrellas", "brillar", "brillante", "guay", "cool", "vale", "correcto", "magia"],
+    "char": "✨",
+    "category": "celebracion"
+  },
+  "boom": {
+    "keywords": ["bomba", "explotar", "explosion", "colision", "golpe", "roto"],
+    "char": "💥",
+    "category": "celebracion"
+  },
+  "mortar_board": {
+    "keywords": ["escuela", "instituto", "carrera", "universidad", "graduacion", "birrete","sombrero", "legal", "estudiar", "educacion"],
+    "char": "🎓",
+    "category": "celebracion"
+  },
+  "crown": {
+    "keywords": ["rey", "lider", "realeza", "real", "corona", "majestad", "reyes","lord"],
+    "char": "👑",
+    "category": "celebracion"
+  },
+  "dolls": {
+    "keywords": ["japones", "japon", "juguete", "kimono"],
+    "char": "🎎",
+    "category": "celebracion"
+  },
+  "flags": {
+    "keywords": ["pescado", "banderin", "japones", "japon", "koinobori", "carpa", "banner"],
+    "char": "🎏",
+    "category": "celebracion"
+  },
+  "wind_chime": {
+    "keywords": ["naturaleza", "japones", "japon","ding","dong", "primavera", "campana"],
+    "char": "🎐",
+    "category": "celebracion"
+  },
+  "crossed_flags": {
+    "keywords": ["japones", "japon", "nacion", "pais", "bandera", "frontera"],
+    "char": "🎌",
+    "category": "celebracion"
+  },
+  "izakaya_lantern": {
+    "keywords": ["luz", "linterna","papel", "halloween", "escalofriante"],
+    "char": "🏮",
+    "category": "celebracion"
+  },
+  "ring": {
+    "keywords": ["boda", "anillo","pedida", "proposicion", "matrimonio", "san valentin", "enamorado", "diamante", "moda", "joyeria", "gema"],
+    "char": "💍",
+    "category": "celebracion"
+  },
+  "corazon": {
+    "keywords": ["corazon", "te quiero", "quiero", "querer", "amor", "gustar", "enamorado"],
+    "char": "❤️",
+    "category": "celebracion"
+  },
+  "broken_heart": {
+    "keywords": ["corazon roto", "ruptura", "triste", "tristeza", "lo siento", "roto"],
+    "char": "💔",
+    "category": "celebracion"
+  },
+  "love_letter": {
+    "keywords": ["email", "gustar", "carino","afecto", "carta de amor", "enamorado"],
+    "char": "💌",
+    "category": "celebracion"
+  },
+  "two_hearts": {
+    "keywords": ["corazon", "corazones", "amor", "gustar", "carino", "afecto", "enamorado"],
+    "char": "💕",
+    "category": "celebracion"
+  },
+  "revolving_hearts": {
+    "keywords": ["corazon", "corazones","amor", "gustar", "carino","afecto", "enamorado"],
+    "char": "💞",
+    "category": "celebracion"
+  },
+  "heartbeat": {
+    "keywords": ["latido", "latir","corazon", "corazones","amor", "gustar", "carino","afecto", "san valentin", "enamorado"],
+    "char": "💓",
+    "category": "celebracion"
+  },
+  "heartpulse": {
+    "keywords": ["latido", "latir","corazon", "corazones","gustar", "amor", "carino","afecto", "san valentin", "enamorado"],
+    "char": "💗",
+    "category": "celebracion"
+  },
+  "sparkling_heart": {
+    "keywords": ["corazon","amor", "gustar", "carino","afecto", "enamorado"],
+    "char": "💖",
+    "category": "celebracion"
+  },
+  "cupid": {
+    "keywords": ["corazon", "cupido","amor", "gustar", "corazon", "carino","afecto", "enamorado"],
+    "char": "💘",
+    "category": "celebracion"
+  },
+  "gift_heart": {
+    "keywords": ["corazon", "amor", "enamorado"],
+    "char": "💝",
+    "category": "celebracion"
+  },
+  "heart_decoration": {
+    "keywords": ["corazon", "amor", "gustar"],
+    "char": "💟",
+    "category": "celebracion"
+  },
+  "purple_heart": {
+    "keywords": ["corazon","amor", "gustar", "carino","afecto", "enamorado"],
+    "char": "💜",
+    "category": "celebracion"
+  },
+  "yellow_heart": {
+    "keywords": ["corazon","amor", "gustar", "carino","afecto", "enamorado"],
+    "char": "💛",
+    "category": "celebracion"
+  },
+  "green_heart": {
+    "keywords": ["corazon","amor", "gustar", "carino","afecto", "enamorado"],
+    "char": "💚",
+    "category": "celebracion"
+  },
+  "blue_heart": {
+    "keywords": ["corazon","amor", "gustar", "carino","afecto", "enamorado"],
+    "char": "💙",
+    "category": "celebracion"
+  },
+  "runner": {
+    "keywords": ["hombre", "andar", "ejercicio", "carrera", "running"],
+    "char": "🏃",
+    "category": "activity"
+  },
+  "andar": {
+    "keywords": ["humano", "pie", "pasos"],
+    "char": "🚶",
+    "category": "activity"
+  },
+  "dancer": {
+    "keywords": ["femenino", "chica", "mujer", "bailar", "bailarina","diversion"],
+    "char": "💃",
+    "category": "activity"
+  },
+  "rowboat": {
+    "keywords": ["deportes", "hobby", "agua", "remo", "kayak", "canoa", "barca","barco"],
+    "char": "🚣",
+    "category": "activity"
+  },
+  "swimmer": {
+    "keywords": ["deportes", "ejercicio", "humano", "natacion", "nadar","atleta", "agua", "verano"],
+    "char": "🏊",
+    "category": "activity"
+  },
+  "surfer": {
+    "keywords": ["deportes", "oceano", "mar", "verano",  "playa", "surfear", "olas", "surf"],
+    "char": "🏄",
+    "category": "activity"
+  },
+  "bath": {
+    "keywords": ["limpiar", "ducha", "lavar","bano", "banera"],
+    "char": "🛀",
+    "category": "activity"
+  },
+  "snowboarder": {
+    "keywords": ["deportes", "invierno", "snow","snowboard","montana", "nieve"],
+    "char": "🏂",
+    "category": "activity"
+  },
+  "esqui": {
+    "keywords": ["deportes", "invierno", "frio", "nieve", "esqui", "montana","esquiar"],
+    "char": "🎿",
+    "category": "activity"
+  },
+  "snowman": {
+    "keywords": ["invierno", "muneco de nieve","temporada", "frio", "tiempo meteorologico", "navidad", "navidad", "frozen"],
+    "char": "⛄",
+    "category": "activity"
+  },
+  "bicyclist": {
+    "keywords": ["deportes", "bici", "bicicleta", "ejercicio", "hipster"],
+    "char": "🚴",
+    "category": "activity"
+  },
+  "mountain_bicyclist": {
+    "keywords": ["transporte", "deportes", "humano", "carrera", "bicicleta", "bici"],
+    "char": "🚵",
+    "category": "activity"
+  },
+  "horse_racing": {
+    "keywords": ["animal", "apostar", "carrera de caballos","competicion", "apuesta", "suerte"],
+    "char": "🏇",
+    "category": "activity"
+  },
+  "tent": {
+    "keywords": ["foto", "fotografia", "tienda de campana","acampar", "exterior"],
+    "char": "⛺",
+    "category": "activity"
+  },
+  "fishing_pole_and_fish": {
+    "keywords": ["comida", "pescar", "pesca","alimento", "hobby", "verano"],
+    "char": "🎣",
+    "category": "activity"
+  },
+  "soccer": {
+    "keywords": ["deportes", "futbol","pelota", "futbol", "fifa", "liga"],
+    "char": "⚽",
+    "category": "activity"
+  },
+  "basketball": {
+    "keywords": ["deportes", "baloncesto", "basket", "pelota", "NBA"],
+    "char": "🏀",
+    "category": "activity"
+  },
+  "football": {
+    "keywords": ["deportes", "pelota", "futbol americano", "NFL"],
+    "char": "🏈",
+    "category": "activity"
+  },
+  "baseball": {
+    "keywords": ["deportes", "beisbol", "pelota", "MLB"],
+    "char": "⚾️",
+    "category": "activity"
+  },
+  "tennis": {
+    "keywords": ["deportes", "tenis", "pelota"],
+    "char": "🎾",
+    "category": "activity"
+  },
+  "rugby_football": {
+    "keywords": ["deportes", "rugby", "pelota", "equipo"],
+    "char": "🏉",
+    "category": "activity"
+  },
+  "golf": {
+    "keywords": ["deportes", "golf", "negocio", "hoyo", "verano"],
+    "char": "⛳",
+    "category": "activity"
+  },
+  "trophy": {
+    "keywords": ["ganar", "vencer", "premio", "concurso", "lugar", "ceremonia"],
+    "char": "🏆",
+    "category": "activity"
+  },
+  "running_shirt_with_sash": {
+    "keywords": ["jugar"],
+    "char": "🎽",
+    "category": "activity"
+  },
+  "checkered_flag": {
+    "keywords": ["concurso", "bandera", "formula 1", "meta", "carrera", "karts"],
+    "char": "🏁",
+    "category": "activity"
+  },
+  "musical_keyboard": {
+    "keywords": ["musica", "piano", "instrumento"],
+    "char": "🎹",
+    "category": "activity"
+  },
+  "guitar": {
+    "keywords": ["musica", "guitarra", "instrumento"],
+    "char": "🎸",
+    "category": "activity"
+  },
+  "violin": {
+    "keywords": ["musica", "instrumento", "violin","orquesta", "sinfonia"],
+    "char": "🎻",
+    "category": "activity"
+  },
+  "saxophone": {
+    "keywords": ["musica", "saxofon", "instrumento", "jazz", "blues"],
+    "char": "🎷",
+    "category": "activity"
+  },
+  "trumpet": {
+    "keywords": ["musica", "instrumento","trompeta", "brass"],
+    "char": "🎺",
+    "category": "activity"
+  },
+  "musical_note": {
+    "keywords": ["musica", "partitura", "tono", "sonido"],
+    "char": "🎵",
+    "category": "activity"
+  },
+  "notas": {
+    "keywords": ["musica", "partitura"],
+    "char": "🎶",
+    "category": "activity"
+  },
+  "musical_score": {
+    "keywords": ["musica", "partitura", "clave de sol", "clave"],
+    "char": "🎼",
+    "category": "activity"
+  },
+  "headphones": {
+    "keywords": ["musica", "partitura", "auriculares", "escuchar"],
+    "char": "🎧",
+    "category": "activity"
+  },
+  "microphone": {
+    "keywords": ["sonido", "musica", "microfono", "cantar"],
+    "char": "🎤",
+    "category": "activity"
+  },
+  "performing_arts": {
+    "keywords": ["actuar", "teatro", "drama", "obra de teatro"],
+    "char": "🎭",
+    "category": "activity"
+  },
+  "ticket": {
+    "keywords": ["evento", "entrada", "ticket", "concierto", "pass"],
+    "char": "🎫",
+    "category": "activity"
+  },
+  "tophat": {
+    "keywords": ["magia", "sombrero","caballero", "clase", "circo"],
+    "char": "🎩",
+    "category": "activity"
+  },
+  "circus_tent": {
+    "keywords": ["festival", "circo", "carpa","carnaval", "fiesta"],
+    "char": "🎪",
+    "category": "activity"
+  },
+  "clapper": {
+    "keywords": ["movie", "claqueta", "pelicula", "grabar"],
+    "char": "🎬",
+    "category": "activity"
+  },
+  "art": {
+    "keywords": ["diseno", "dibujo","arte", "pintura", "dibujar"],
+    "char": "🎨",
+    "category": "activity"
+  },
+  "dart": {
+    "keywords": ["juego", "jugar", "bar", "dardos"],
+    "char": "🎯",
+    "category": "activity"
+  },
+  "8ball": {
+    "keywords": ["billar", "hobby", "juego", "suerte", "magia"],
+    "char": "🎱",
+    "category": "activity"
+  },
+  "bowling": {
+    "keywords": ["deportes", "bolera", "diversion", "jugar"],
+    "char": "🎳",
+    "category": "activity"
+  },
+  "slot_machine": {
+    "keywords": ["tragaperras", "apostar", "apuesta", "vegas", "suerte", "casino"],
+    "char": "🎰",
+    "category": "activity"
+  },
+  "game_die": {
+    "keywords": ["dado", "aleatorio", "apuesta", "jugar", "suerte"],
+    "char": "🎲",
+    "category": "activity"
+  },
+  "video_game": {
+    "keywords": ["jugar", "consola", "PS4", "videoconsola", "videojuego"],
+    "char": "🎮",
+    "category": "activity"
+  },
+  "flower_playing_cards": {
+    "keywords": ["juego", "cartas","puesta de sol"],
+    "char": "🎴",
+    "category": "activity"
+  },
+  "black_joker": {
+    "keywords": ["poquer", "apostar", "cartas", "juego", "jugar", "magia"],
+    "char": "🃏",
+    "category": "activity"
+  },
+  "mahjong": {
+    "keywords": ["juego", "jugar", "mahjong", "chino", "kanji"],
+    "char": "🀄",
+    "category": "activity"
+  },
+  "carousel_horse": {
+    "keywords": ["foto", "fotografia", "carrusel", "carnaval"],
+    "char": "🎠",
+    "category": "activity"
+  },
+  "ferris_wheel": {
+    "keywords": ["foto", "fotografia", "noria", "carnaval"],
+    "char": "🎡",
+    "category": "activity"
+  },
+  "roller_coaster": {
+    "keywords": ["carnaval", "montana rusa", "foto", "fotografia", "diversion"],
+    "char": "🎢",
+    "category": "activity"
+  },
+  "railway_car": {
+    "keywords": ["transporte", "tranvia", "vehiculo"],
+    "char": "🚃",
+    "category": "travelandplaces"
+  },
+  "mountain_railway": {
+    "keywords": ["transporte", "tranvia","vehiculo"],
+    "char": "🚞",
+    "category": "travelandplaces"
+  },
+  "steam_locomotive": {
+    "keywords": ["transporte", "vehiculo", "tren"],
+    "char": "🚂",
+    "category": "travelandplaces"
+  },
+  "train": {
+    "keywords": ["transporte", "vehiculo", "tren", "viajar"],
+    "char": "🚋",
+    "category": "travelandplaces"
+  },
+  "monorail": {
+    "keywords": ["transporte", "tren", "monorail", "vehiculo"],
+    "char": "🚝",
+    "category": "travelandplaces"
+  },
+  "bullettrain_side": {
+    "keywords": ["transporte", "AVE", "rapido", "vehiculo"],
+    "char": "🚄",
+    "category": "travelandplaces"
+  },
+  "bullettrain_front": {
+    "keywords": ["transporte", "AVE", "vehiculo", "rapido",  "viajar"],
+    "char": "🚅",
+    "category": "travelandplaces"
+  },
+  "train2": {
+    "keywords": ["transporte", "vehiculo", "tren", "viajar"],
+    "char": "🚆",
+    "category": "travelandplaces"
+  },
+  "metro": {
+    "keywords": ["transporte", "metro", "vehiculo"],
+    "char": "🚇",
+    "category": "travelandplaces"
+  },
+  "light_rail": {
+    "keywords": ["transporte", "metro ligero", "vehiculo"],
+    "char": "🚈",
+    "category": "travelandplaces"
+  },
+  "station": {
+    "keywords": ["transporte", "vehiculo", "estacion"],
+    "char": "🚉",
+    "category": "travelandplaces"
+  },
+  "tram": {
+    "keywords": ["transporte", "vehiculo", "tranvia"],
+    "char": "🚊",
+    "category": "travelandplaces"
+  },
+  "bus": {
+    "keywords": ["vehiculo", "transporte", "bus", "autobus"],
+    "char": "🚌",
+    "category": "travelandplaces"
+  },
+  "oncoming_bus": {
+    "keywords": ["vehiculo", "transporte", "bus", "autobus"],
+    "char": "🚍",
+    "category": "travelandplaces"
+  },
+  "trolleybus": {
+    "keywords": ["bus",  "transporte", "vehiculo"],
+    "char": "🚎",
+    "category": "travelandplaces"
+  },
+  "minibus": {
+    "keywords": ["vehiculo", "bus", "transporte"],
+    "char": "🚐",
+    "category": "travelandplaces"
+  },
+  "ambulancia": {
+    "keywords": ["ambulancia", "salud", "911", "hospital"],
+    "char": "🚑",
+    "category": "travelandplaces"
+  },
+  "fire_engine": {
+    "keywords": ["transporte", "bomberos", "vehiculo"],
+    "char": "🚒",
+    "category": "travelandplaces"
+  },
+  "police_car": {
+    "keywords": ["vehiculo", "policia", "transporte", "ley", "legal", "ley"],
+    "char": "🚓",
+    "category": "travelandplaces"
+  },
+  "oncoming_police_car": {
+    "keywords": ["policia", "vehiculo", "ley", "legal", "ley", "911"],
+    "char": "🚔",
+    "category": "travelandplaces"
+  },
+  "rotating_light": {
+    "keywords": ["policia", "ambulancia", "911", "urgencia", "alerta", "error", "ley", "legal"],
+    "char": "🚨",
+    "category": "travelandplaces"
+  },
+  "taxi": {
+    "keywords": ["taxi", "uber", "vehiculo", "transporte"],
+    "char": "🚕",
+    "category": "travelandplaces"
+  },
+  "oncoming_taxi": {
+    "keywords": ["taxi", "uber","vehiculo",  "uber"],
+    "char": "🚖",
+    "category": "travelandplaces"
+  },
+  "coche": {
+    "keywords": ["coche", "transporte", "vehiculo"],
+    "char": "🚗",
+    "category": "travelandplaces"
+  },
+  "oncoming_automobile": {
+    "keywords": ["coche", "vehiculo", "transporte"],
+    "char": "🚘",
+    "category": "travelandplaces"
+  },
+  "blue_car": {
+    "keywords": ["coche","transporte", "vehiculo"],
+    "char": "🚙",
+    "category": "travelandplaces"
+  },
+  "truck": {
+    "keywords": ["camion", "transporte"],
+    "char": "🚚",
+    "category": "travelandplaces"
+  },
+  "articulated_lorry": {
+    "keywords": ["vehiculo", "camion", "transporte", "express"],
+    "char": "🚛",
+    "category": "travelandplaces"
+  },
+  "tractor": {
+    "keywords": ["vehiculo", "coche", "tractor", "granja", "agricultura"],
+    "char": "🚜",
+    "category": "travelandplaces"
+  },
+  "bike": {
+    "keywords": ["deportes", "bicicleta", "bici", "ejercicio", "hipster"],
+    "char": "🚲",
+    "category": "travelandplaces"
+  },
+  "busstop": {
+    "keywords": ["transporte", "bus", "parada", "esperar"],
+    "char": "🚏",
+    "category": "travelandplaces"
+  },
+  "fuelpump": {
+    "keywords": ["gasolinera", "gasolina", "petroleo", "gasolina"],
+    "char": "⛽",
+    "category": "travelandplaces"
+  },
+  "construction": {
+    "keywords": ["construccion", "progress", "cuidado", "precaucion"],
+    "char": "🚧",
+    "category": "travelandplaces"
+  },
+  "vertical_traffic_light": {
+    "keywords": ["transporte", "senal", "semaforo", "conducir"],
+    "char": "🚦",
+    "category": "travelandplaces"
+  },
+  "traffic_light": {
+    "keywords": ["transporte", "semaforo", "conducir", "senal"],
+    "char": "🚥",
+    "category": "travelandplaces"
+  },
+  "rocket": {
+    "keywords": ["cohete","lanzar", "barco", "NASA", "espacio exterior", "extraterrestre", "volar"],
+    "char": "🚀",
+    "category": "travelandplaces"
+  },
+  "helicopter": {
+    "keywords": ["transporte", "helicoptero","vehiculo", "volar"],
+    "char": "🚁",
+    "category": "travelandplaces"
+  },
+  "avion": {
+    "keywords": ["vehiculo", "avion", "aeroplano", "transporte", "vuelo", "volar"],
+    "char": "✈️",
+    "category": "travelandplaces"
+  },
+  "seat": {
+    "keywords": ["asiento","sentarse", "avion", "transporte", "bus", "vuelo", "volar"],
+    "char": "💺",
+    "category": "travelandplaces"
+  },
+  "anchor": {
+    "keywords": ["barco","ancla", "ferry", "mar", "bote"],
+    "char": "⚓",
+    "category": "travelandplaces"
+  },
+  "barco": {
+    "keywords": ["barco", "transporte", "titanic"],
+    "char": "🚢",
+    "category": "travelandplaces"
+  },
+  "speedboat": {
+    "keywords": ["barco", "lancha","transporte", "vehiculo", "verano"],
+    "char": "🚤",
+    "category": "travelandplaces"
+  },
+  "boat": {
+    "keywords": ["barco", "bote","verano", "transporte", "agua", "navegar", "velero"],
+    "char": "⛵",
+    "category": "travelandplaces"
+  },
+  "aerial_tramway": {
+    "keywords": ["transporte", "vehiculo", "esqui"],
+    "char": "🚡",
+    "category": "travelandplaces"
+  },
+  "mountain_cableway": {
+    "keywords": ["transporte", "vehiculo", "esqui"],
+    "char": "🚠",
+    "category": "travelandplaces"
+  },
+  "suspension_railway": {
+    "keywords": ["vehiculo", "transporte"],
+    "char": "🚟",
+    "category": "travelandplaces"
+  },
+  "passport_control": {
+    "keywords": ["aduana", "pasaporte"],
+    "char": "🛂",
+    "category": "travelandplaces"
+  },
+  "customs": {
+    "keywords": ["aduana", "pasaporte", "frontera"],
+    "char": "🛃",
+    "category": "travelandplaces"
+  },
+  "baggage_claim": {
+    "keywords": [ "equipaje","aeropuerto", "transporte"],
+    "char": "🛄",
+    "category": "travelandplaces"
+  },
+  "left_luggage": {
+    "keywords": ["equipaje", "viajar"],
+    "char": "🛅",
+    "category": "travelandplaces"
+  },
+  "yen": {
+    "keywords": ["dinero", "ventas", "japones", "japon", "yen", "moneda"],
+    "char": "💴",
+    "category": "travelandplaces"
+  },
+  "euro": {
+    "keywords": ["dinero", "ventas", "euro", "moneda"],
+    "char": "💶",
+    "category": "travelandplaces"
+  },
+  "pound": {
+    "keywords": ["britanico", "libra", "dinero", "ventas", "reino unido", "inglaterra", "moneda"],
+    "char": "💷",
+    "category": "travelandplaces"
+  },
+  "dolar": {
+    "keywords": ["dolar","dinero", "ventas", "moneda"],
+    "char": "💵",
+    "category": "travelandplaces"
+  },
+  "statue_of_liberty": {
+    "keywords": ["libertad", "estatua", "americano", "nueva york"],
+    "char": "🗽",
+    "category": "travelandplaces"
+  },
+  "moyai": {
+    "keywords": ["moyai", "piedra", "isla de pascua", "pascua", "playa" , "estatua"],
+    "char": "🗿",
+    "category": "travelandplaces"
+  },
+  "foggy": {
+    "keywords": ["foto", "fotografia", "niebla", "montana"],
+    "char": "🌁",
+    "category": "travelandplaces"
+  },
+  "tokyo_tower": {
+    "keywords": ["foto", "fotografia", "tokio","japones","torre", "japon"],
+    "char": "🗼",
+    "category": "travelandplaces"
+  },
+  "fountain": {
+    "keywords": ["foto", "fotografia", "verano",  "agua","fuente", "fresco"],
+    "char": "⛲",
+    "category": "travelandplaces"
+  },
+  "european_castle": {
+    "keywords": ["edificio", "castillo", "realeza", "historia"],
+    "char": "🏰",
+    "category": "travelandplaces"
+  },
+  "japanese_castle": {
+    "keywords": ["foto", "fotografia", "castillo", "edificio"],
+    "char": "🏯",
+    "category": "travelandplaces"
+  },
+  "city_sunrise": {
+    "keywords": ["foto", "fotografia", "ciudad", "buenos dias", "amanecer"],
+    "char": "🌇",
+    "category": "travelandplaces"
+  },
+  "city_sunset": {
+    "keywords": ["foto", "fotografia", "ciudad","anochecer", "cielo", "edificios"],
+    "char": "🌆",
+    "category": "travelandplaces"
+  },
+  "night_with_stars": {
+    "keywords": ["anochecer", "ciudad", "noche", "centro urbano"],
+    "char": "🌃",
+    "category": "travelandplaces"
+  },
+  "bridge_at_noche": {
+    "keywords": ["foto", "fotografia", "puente", "san francisco"],
+    "char": "🌉",
+    "category": "travelandplaces"
+  },
+  "casa": {
+    "keywords": ["edificio", "hogar", "casa"],
+    "char": "🏠",
+    "category": "travelandplaces"
+  },
+  "house_with_garden": {
+    "keywords": ["hogar", "casa", "planta", "jardin", "naturaleza"],
+    "char": "🏡",
+    "category": "travelandplaces"
+  },
+  "oficina": {
+    "keywords": ["edificio", "oficina", "trabajo"],
+    "char": "🏢",
+    "category": "travelandplaces"
+  },
+  "department_store": {
+    "keywords": ["edificio", "tienda", "comprar", "supermercado"],
+    "char": "🏬",
+    "category": "travelandplaces"
+  },
+  "factory": {
+    "keywords": ["fabrica", "edificio", "industria", "contaminacion", "humo", "fumar"],
+    "char": "🏭",
+    "category": "travelandplaces"
+  },
+  "post_office": {
+    "keywords": ["correos", "postal", "carta", "edificio", "email", "comunicacion"],
+    "char": "🏣",
+    "category": "travelandplaces"
+  },
+  "european_post_office": {
+    "keywords": ["correos",  "postal","edificio", "carta", "email"],
+    "char": "🏤",
+    "category": "travelandplaces"
+  },
+  "hospital": {
+    "keywords": ["edificio","hospital", "salud", "cirugia", "doctor"],
+    "char": "🏥",
+    "category": "travelandplaces"
+  },
+  "banco": {
+    "keywords": ["banco","edificio", "dinero", "ventas", "efectivo", "negocio", "empresa"],
+    "char": "🏦",
+    "category": "travelandplaces"
+  },
+  "hotel": {
+    "keywords": ["edificio", "hotel", "alojamiento", "check in"],
+    "char": "🏨",
+    "category": "travelandplaces"
+  },
+  "love_hotel": {
+    "keywords": ["hotel", "picadero", "gustar", "carino","afecto", "cita"],
+    "char": "🏩",
+    "category": "travelandplaces"
+  },
+  "wedding": {
+    "keywords": ["boda","amor", "gustar", "carino","afecto", "pareja", "matrimonio", "novia", "novio"],
+    "char": "💒",
+    "category": "travelandplaces"
+  },
+  "church": {
+    "keywords": ["iglesia", "edificio", "religion", "cristo"],
+    "char": "⛪",
+    "category": "travelandplaces"
+  },
+  "convenience_store": {
+    "keywords": ["edificio", "comprar", "comestibles"],
+    "char": "🏪",
+    "category": "travelandplaces"
+  },
+  "school": {
+    "keywords": ["edificio", "escuela", "estudiante", "educacion", "estudiar", "ensenar"],
+    "char": "🏫",
+    "category": "travelandplaces"
+  },
+  "cn": {
+    "keywords": ["china", "chino", "chinos", "cn","bandera", "pais", "nacion", "banner"],
+    "char": "🇨🇳",
+    "category": "flags"
+  },
+  "fr": {
+    "keywords": ["banner", "bandera", "nacion", "francia", "franceses", "frances", "pais"],
+    "char": "🇫🇷",
+    "category": "flags"
+  },
+  "de": {
+    "keywords": ["alemania", "aleman", "alemanes", "nacion", "bandera", "pais", "banner"],
+    "char": "🇩🇪",
+    "category": "flags"
+  },
+  "it": {
+    "keywords": ["italia", "italiano", "italiana", "bandera", "nacion", "pais", "banner"],
+    "char": "🇮🇹",
+    "category": "flags"
+  },
+  "jp": {
+    "keywords": ["japones", "japon", "nacion", "bandera", "pais", "banner"],
+    "char": "🇯🇵",
+    "category": "flags"
+  },
+  "kr": {
+    "keywords": ["corea", "coreano", "nacion", "bandera", "pais", "banner"],
+    "char": "🇰🇷",
+    "category": "flags"
+  },
+  "ru": {
+    "keywords": ["rusia", "ruso","nacion", "bandera", "pais", "banner"],
+    "char": "🇷🇺",
+    "category": "flags"
+  },
+  "es": {
+    "keywords": ["espana", "español", "española", "bandera", "nacion", "pais", "banner"],
+    "char": "🇪🇸",
+    "category": "flags"
+  },
+  "gb": {
+    "keywords": ["banner", "nacion", "bandera", "britanico", "reino unido", "pais", "ingles", "inglaterra", "union jack"],
+    "char": "🇬🇧",
+    "category": "flags"
+  },
+  "us": {
+    "keywords": ["USA", "EEUU", "estadounidende" ,"nacion", "bandera", "americano", "pais", "banner"],
+    "char": "🇺🇸",
+    "category": "flags"
+  },
+  "watch": {
+    "keywords": ["reloj", "hora", "accesorio"],
+    "char": "⌚",
+    "category": "objectsandsymbols"
+  },
+  "iphone": {
+    "keywords": ["tecnologia", "apple", "telefono","iphone", "smartphone", "movil", "gadgets", "llamar por telefono"],
+    "char": "📱",
+    "category": "objectsandsymbols"
+  },
+  "calling": {
+    "keywords": ["iphone", "telefono", "llamada entrante"],
+    "char": "📲",
+    "category": "objectsandsymbols"
+  },
+  "computer": {
+    "keywords": ["tecnologia", "portatil", "ordenador", "computadora","pc"],
+    "char": "💻",
+    "category": "objectsandsymbols"
+  },
+  "alarm_clock": {
+    "keywords": ["despertador","hora", "despertar"],
+    "char": "⏰",
+    "category": "objectsandsymbols"
+  },
+  "hourglass_flowing_sand": {
+    "keywords": ["reloj de arena", "reloj", "hora", "cuenta atras"],
+    "char": "⏳",
+    "category": "objectsandsymbols"
+  },
+  "hourglass": {
+    "keywords": ["hora", "reloj", "reloj de arena", "limite", "examen", "cuestionario", "test"],
+    "char": "⌛",
+    "category": "objectsandsymbols"
+  },
+  "camera": {
+    "keywords": ["camara","gadgets", "foto", "fotografia"],
+    "char": "📷",
+    "category": "objectsandsymbols"
+  },
+  "video_camera": {
+    "keywords": ["videocamara", "pelicula", "grabar"],
+    "char": "📹",
+    "category": "objectsandsymbols"
+  },
+  "movie_camera": {
+    "keywords": ["camara de cine","pelicula", "grabar"],
+    "char": "🎥",
+    "category": "objectsandsymbols"
+  },
+  "tv": {
+    "keywords": ["tv", "tele","tecnologia", "programa", "antiguo", "show"],
+    "char": "📺",
+    "category": "objectsandsymbols"
+  },
+  "radio": {
+    "keywords": ["radio","comunicacion", "musica", "podcast", "programa"],
+    "char": "📻",
+    "category": "objectsandsymbols"
+  },
+  "pager": {
+    "keywords": ["bbcall", "antiguo"],
+    "char": "📟",
+    "category": "objectsandsymbols"
+  },
+  "telephone_receiver": {
+    "keywords": ["telefono","tecnologia", "comunicacion", "llamar por telefono"],
+    "char": "📞",
+    "category": "objectsandsymbols"
+  },
+  "telefono": {
+    "keywords": ["telefono", "tecnologia", "comunicacion", "llamar por telefono", "telefono"],
+    "char": "☎️",
+    "category": "objectsandsymbols"
+  },
+  "fax": {
+    "keywords": ["fax","comunicacion", "tecnologia"],
+    "char": "📠",
+    "category": "objectsandsymbols"
+  },
+  "minidisc": {
+    "keywords": ["minidisc","tecnologia", "grabar", "datos", "disco"],
+    "char": "💽",
+    "category": "objectsandsymbols"
+  },
+  "floppy_disk": {
+    "keywords": ["antiguo", "tecnologia", "disquette","guardar", "90s"],
+    "char": "💾",
+    "category": "objectsandsymbols"
+  },
+  "cd": {
+    "keywords": ["tecnologia","cd","dvd", "disco", "disc"],
+    "char": "💿",
+    "category": "objectsandsymbols"
+  },
+  "dvd": {
+    "keywords": ["dvd","cd", "disco", "disc"],
+    "char": "📀",
+    "category": "objectsandsymbols"
+  },
+  "vhs": {
+    "keywords": ["grabar", "vhs","video", "antiguo", "90s", "80s"],
+    "char": "📼",
+    "category": "objectsandsymbols"
+  },
+  "battery": {
+    "keywords": ["bateria","electricidad", "energia", "sostenible"],
+    "char": "🔋",
+    "category": "objectsandsymbols"
+  },
+  "electric_plug": {
+    "keywords": ["enchufe","cargador", "electricidad"],
+    "char": "🔌",
+    "category": "objectsandsymbols"
+  },
+  "bulb": {
+    "keywords": ["bombilla", "idea","luz", "electricidad"],
+    "char": "💡",
+    "category": "objectsandsymbols"
+  },
+  "flashlight": {
+    "keywords": ["linterna", "oscuro", "oscuridad", "camping", "vista", "noche"],
+    "char": "🔦",
+    "category": "objectsandsymbols"
+  },
+  "satellite": {
+    "keywords": ["satelite","comunicacion", "futuro", "radio", "espacio"],
+    "char": "📡",
+    "category": "objectsandsymbols"
+  },
+  "credit_card": {
+    "keywords": ["credito","dinero", "ventas", "dolar",  "pagos", "comprar"],
+    "char": "💳",
+    "category": "objectsandsymbols"
+  },
+  "money_with_wings": {
+    "keywords": ["dinero","gastar" ,"dolar",  "pagos", "venta"],
+    "char": "💸",
+    "category": "objectsandsymbols"
+  },
+  "moneybag": {
+    "keywords": ["dinero","dolar", "pagos", "moneda", "venta"],
+    "char": "💰",
+    "category": "objectsandsymbols"
+  },
+  "gema": {
+    "keywords": ["gema", "azul", "rubi", "diamante", "joyeria"],
+    "char": "💎",
+    "category": "objectsandsymbols"
+  },
+  "closed_umbrella": {
+    "keywords": ["paraguas","tiempo meteorologico", "lluvia", "drizzle"],
+    "char": "🌂",
+    "category": "objectsandsymbols"
+  },
+  "pouch": {
+    "keywords": ["bolso","bolsa", "accesorio", "comprar"],
+    "char": "👝",
+    "category": "objectsandsymbols"
+  },
+  "purse": {
+    "keywords": ["monedero","moda", "accesorio", "dinero", "ventas", "comprar"],
+    "char": "👛",
+    "category": "objectsandsymbols"
+  },
+  "handbag": {
+    "keywords": ["bolso","moda", "accesorio", "accesorio", "comprar"],
+    "char": "👜",
+    "category": "objectsandsymbols"
+  },
+  "briefcase": {
+    "keywords": ["maletin", "ejecutivo","negocio", "documento", "trabajo", "ley", "legal"],
+    "char": "💼",
+    "category": "objectsandsymbols"
+  },
+  "school_satchel": {
+    "keywords": ["mochila","estudiante", "educacion", "bolso"],
+    "char": "🎒",
+    "category": "objectsandsymbols"
+  },
+  "lipstick": {
+    "keywords": ["labios","femenino", "chica", "moda", "mujer"],
+    "char": "💄",
+    "category": "objectsandsymbols"
+  },
+  "eyeglasses": {
+    "keywords": ["gafas","moda", "accesorio", "vista", "friki", "empollon"],
+    "char": "👓",
+    "category": "objectsandsymbols"
+  },
+  "woman_hat": {
+    "keywords": ["sombrero","moda", "accesorio", "femenino", "senorita", "primavera"],
+    "char": "👒",
+    "category": "objectsandsymbols"
+  },
+  "sandal": {
+    "keywords": ["sandalias","zapato", "moda"],
+    "char": "👡",
+    "category": "objectsandsymbols"
+  },
+  "high_heel": {
+    "keywords": ["tacon","moda", "zapato", "femenino"],
+    "char": "👠",
+    "category": "objectsandsymbols"
+  },
+  "boot": {
+    "keywords": ["botas","zapato", "moda"],
+    "char": "👢",
+    "category": "objectsandsymbols"
+  },
+  "human_shoe": {
+    "keywords": ["zapatos","moda", "masculino"],
+    "char": "👞",
+    "category": "objectsandsymbols"
+  },
+  "athletic_shoe": {
+    "keywords": ["zapatillas", "running","zapato", "deportes"],
+    "char": "👟",
+    "category": "objectsandsymbols"
+  },
+  "bikini": {
+    "keywords": ["bikini","natacion", "femenino", "mujer", "chica", "moda", "playa" , "verano"],
+    "char": "👙",
+    "category": "objectsandsymbols"
+  },
+  "vestido": {
+    "keywords": ["vestido","ropa", "moda", "comprar"],
+    "char": "👗",
+    "category": "objectsandsymbols"
+  },
+  "kimono": {
+    "keywords": ["kimono","vestido", "moda", "mujeres", "femenino", "japones", "japon"],
+    "char": "👘",
+    "category": "objectsandsymbols"
+  },
+  "women_clothes": {
+    "keywords": ["moda", "comprar", "femenino"],
+    "char": "👚",
+    "category": "objectsandsymbols"
+  },
+  "camisa": {
+    "keywords": ["falda","moda", "casual", "camiseta"],
+    "char": "👕",
+    "category": "objectsandsymbols"
+  },
+  "necktie": {
+    "keywords": ["corbata","camisa", "suitup", "formal", "moda", "ejecutivo", "negocio"],
+    "char": "👔",
+    "category": "objectsandsymbols"
+  },
+  "jeans": {
+    "keywords": ["vaqueros","jeans","moda", "comprar"],
+    "char": "👖",
+    "category": "objectsandsymbols"
+  },
+  "door": {
+    "keywords": ["puerta", "casa", "entrada", "salida"],
+    "char": "🚪",
+    "category": "objectsandsymbols"
+  },
+  "ducha": {
+    "keywords": ["ducha","limpiar", "agua", "bano"],
+    "char": "🚿",
+    "category": "objectsandsymbols"
+  },
+  "bathtub": {
+    "keywords": ["bañera","limpiar", "ducha", "bano"],
+    "char": "🛁",
+    "category": "objectsandsymbols"
+  },
+  "toilet": {
+    "keywords": ["toilet", "wc", "toilet", "bano"],
+    "char": "🚽",
+    "category": "objectsandsymbols"
+  },
+  "barber": {
+    "keywords": ["barberia","barbero","pelo", "salon", "style"],
+    "char": "💈",
+    "category": "objectsandsymbols"
+  },
+  "syringe": {
+    "keywords": ["jarabe","salud", "hospital", "drogas", "blood", "medicina", "needle", "doctor", "nurse"],
+    "char": "💉",
+    "category": "objectsandsymbols"
+  },
+  "pill": {
+    "keywords": ["pastilla","salud", "medicina", "doctor", "pharmacy"],
+    "char": "💊",
+    "category": "objectsandsymbols"
+  },
+  "microscope": {
+    "keywords": ["microscopio","laboratory", "experiment", "zoomin", "science", "estudio"],
+    "char": "🔬",
+    "category": "objectsandsymbols"
+  },
+  "telescope": {
+    "keywords": ["telescopio","estrellas", "espacio", "zoom"],
+    "char": "🔭",
+    "category": "objectsandsymbols"
+  },
+  "crystal_ball": {
+    "keywords": ["disco", "fiesta", "magia", "circo"],
+    "char": "🔮",
+    "category": "objectsandsymbols"
+  },
+  "wrench": {
+    "keywords": ["herramienta", "diy", "ikea", "fix", "maintainer"],
+    "char": "🔧",
+    "category": "objectsandsymbols"
+  },
+  "hocho": {
+    "keywords": ["cuchillo", "blade", "cubiertos", "cocina", "arma"],
+    "char": "🔪",
+    "category": "objectsandsymbols"
+  },
+  "nut_and_bolt": {
+    "keywords": ["handy", "herramienta", "fix"],
+    "char": "🔩",
+    "category": "objectsandsymbols"
+  },
+  "hammer": {
+    "keywords": ["martillo","herramienta", "veredicto", "juez", "juzgado", "done", "ley", "legal", "ruling", "gavel"],
+    "char": "🔨",
+    "category": "objectsandsymbols"
+  },
+  "bomba": {
+    "keywords": ["bomba","boom", "explotar", "explosion"],
+    "char": "💣",
+    "category": "objectsandsymbols"
+  },
+  "smoking": {
+    "keywords": ["fumar", "fumador","tabaco", "cigarro"],
+    "char": "🚬",
+    "category": "objectsandsymbols"
+  },
+  "gun": {
+    "keywords": ["violencia", "arma", "pistola", "revolver"],
+    "char": "🔫",
+    "category": "objectsandsymbols"
+  },
+  "bookmark": {
+    "keywords": ["favorito", "etiqueta", "guardar"],
+    "char": "🔖",
+    "category": "objectsandsymbols"
+  },
+  "newspaper": {
+    "keywords": ["periodico", "prensa", "titular"],
+    "char": "📰",
+    "category": "objectsandsymbols"
+  },
+  "key": {
+    "keywords": ["clave", "bloquear", "door", "contraseña"],
+    "char": "🔑",
+    "category": "objectsandsymbols"
+  },
+  "email": {
+    "keywords": ["email","carta", "postal", "inbox", "comunicacion"],
+    "char": "✉️",
+    "category": "objectsandsymbols"
+  },
+  "envelope_with_arrow": {
+    "keywords": ["email", "comunicacion"],
+    "char": "📩",
+    "category": "objectsandsymbols"
+  },
+  "incoming_envelope": {
+    "keywords": ["email", "inbox"],
+    "char": "📨",
+    "category": "objectsandsymbols"
+  },
+  "e-mail": {
+    "keywords": ["comunicacion", "inbox", "email"],
+    "char": "📧",
+    "category": "objectsandsymbols"
+  },
+  "inbox_tray": {
+    "keywords": ["email", "documento"],
+    "char": "📥",
+    "category": "objectsandsymbols"
+  },
+  "outbox_tray": {
+    "keywords": ["inbox", "email"],
+    "char": "📤",
+    "category": "objectsandsymbols"
+  },
+  "package": {
+    "keywords": ["paquete","mail", "regalo", "cardboard", "caja", "mudanza"],
+    "char": "📦",
+    "category": "objectsandsymbols"
+  },
+  "postal_horn": {
+    "keywords": ["correo", "postal","instrumento", "musica"],
+    "char": "📯",
+    "category": "objectsandsymbols"
+  },
+  "postbox": {
+    "keywords": ["correo", "postal","email", "buzon", "carta"],
+    "char": "📮",
+    "category": "objectsandsymbols"
+  },
+  "mailbox_closed": {
+    "keywords": ["email", "comunicacion", "inbox"],
+    "char": "📪",
+    "category": "objectsandsymbols"
+  },
+  "mailbox": {
+    "keywords": ["email", "inbox", "comunicacion"],
+    "char": "📫",
+    "category": "objectsandsymbols"
+  },
+  "mailbox_with_mail": {
+    "keywords": ["email", "inbox", "comunicacion"],
+    "char": "📬",
+    "category": "objectsandsymbols"
+  },
+  "mailbox_with_no_mail": {
+    "keywords": ["email", "inbox"],
+    "char": "📭",
+    "category": "objectsandsymbols"
+  },
+  "page_facing_up": {
+    "keywords": ["documento", "oficina", "papel", "dato","informacion"],
+    "char": "📄",
+    "category": "objectsandsymbols"
+  },
+  "page_with_curl": {
+    "keywords": ["documento", "oficina", "papel"],
+    "char": "📃",
+    "category": "objectsandsymbols"
+  },
+  "bookmark_tabs": {
+    "keywords": ["favorito", "guardar", "order", "ordenar"],
+    "char": "📑",
+    "category": "objectsandsymbols"
+  },
+  "chart_with_upwards_trend": {
+    "keywords": ["grafica", "presentacion", "estadistica", "recovery", "negocio", "economics", "dinero", "ventas", "correcto", "success"],
+    "char": "📈",
+    "category": "objectsandsymbols"
+  },
+  "chart_with_downwards_trend": {
+    "keywords": ["grafica", "presentacion", "estadistica", "recession", "negocio", "economics", "dinero", "ventas", "bad", "failure"],
+    "char": "📉",
+    "category": "objectsandsymbols"
+  },
+  "bar_chart": {
+    "keywords": ["grafica", "presentacion", "estadistica"],
+    "char": "📊",
+    "category": "objectsandsymbols"
+  },
+  "dia": {
+    "keywords": ["fecha","calendario", "horario"],
+    "char": "📅",
+    "category": "objectsandsymbols"
+  },
+  "calendario": {
+    "keywords": ["horario", "dia", "fecha","planning"],
+    "char": "📆",
+    "category": "objectsandsymbols"
+  },
+  "low_brightness": {
+    "keywords": ["brillo","sol", "tarde", "calido", "verano"],
+    "char": "🔅",
+    "category": "objectsandsymbols"
+  },
+  "high_brightness": {
+    "keywords": ["brillo","sol", "luz"],
+    "char": "🔆",
+    "category": "objectsandsymbols"
+  },
+  "scroll": {
+    "keywords": ["documento", "ancient", "historia", "papel"],
+    "char": "📜",
+    "category": "objectsandsymbols"
+  },
+  "clipboard": {
+    "keywords": ["portapapeles","papeleria", "documento"],
+    "char": "📋",
+    "category": "objectsandsymbols"
+  },
+  "book": {
+    "keywords": ["libro", "leer", "libreria", "conocimiento", "literatura", "estudiar", "estudio"],
+    "char": "📖",
+    "category": "objectsandsymbols"
+  },
+  "notebook": {
+    "keywords": ["cuaderno","papeleria", "grabar", "notas", "papel", "estudio"],
+    "char": "📓",
+    "category": "objectsandsymbols"
+  },
+  "notebook_with_decorative_cover": {
+    "keywords": ["cuaderno","clase", "notas", "grabar", "papel", "estudio"],
+    "char": "📔",
+    "category": "objectsandsymbols"
+  },
+  "ledger": {
+    "keywords": ["notas", "papel"],
+    "char": "📒",
+    "category": "objectsandsymbols"
+  },
+  "closed_book": {
+    "keywords": ["leer", "libreria", "conocimiento", "libro", "estudiar"],
+    "char": "📕",
+    "category": "objectsandsymbols"
+  },
+  "green_book": {
+    "keywords": ["leer", "libreria", "conocimiento", "estudio"],
+    "char": "📗",
+    "category": "objectsandsymbols"
+  },
+  "blue_book": {
+    "keywords": ["leer", "libreria", "conocimiento", "estudiar", "estudio"],
+    "char": "📘",
+    "category": "objectsandsymbols"
+  },
+  "orange_book": {
+    "keywords": ["leer", "libreria", "conocimiento", "libro", "estudio"],
+    "char": "📙",
+    "category": "objectsandsymbols"
+  },
+  "books": {
+    "keywords": ["libros","literatura", "libreria", "estudio"],
+    "char": "📚",
+    "category": "objectsandsymbols"
+  },
+  "card_index": {
+    "keywords": ["negocio", "papeleria"],
+    "char": "📇",
+    "category": "objectsandsymbols"
+  },
+  "link": {
+    "keywords": ["link", "url"],
+    "char": "🔗",
+    "category": "objectsandsymbols"
+  },
+  "paperclip": {
+    "keywords": ["documento", "papeleria"],
+    "char": "📎",
+    "category": "objectsandsymbols"
+  },
+  "pushpin": {
+    "keywords": ["papeleria", "marcar", "aqui"],
+    "char": "📌",
+    "category": "objectsandsymbols"
+  },
+  "scissors": {
+    "keywords": ["tijeras","recorte","papeleria", "cortar"],
+    "char": "✂️",
+    "category": "objectsandsymbols"
+  },
+  "triangular_ruler": {
+    "keywords": ["regla","papeleria", "matematicas", "arquitecto", "sketch"],
+    "char": "📐",
+    "category": "objectsandsymbols"
+  },
+  "round_pushpin": {
+    "keywords": ["papeleria", "lugar", "mapa", "aqui"],
+    "char": "📍",
+    "category": "objectsandsymbols"
+  },
+  "straight_ruler": {
+    "keywords": ["regla","papeleria", "calculate", "length", "matematicas", "escuela", "drawing", "arquitecto", "sketch"],
+    "char": "📏",
+    "category": "objectsandsymbols"
+  },
+  "triangular_flag_on_post": {
+    "keywords": ["marcar", "milestone", "lugar"],
+    "char": "🚩",
+    "category": "objectsandsymbols"
+  },
+  "file_folder": {
+    "keywords": ["documento", "negocio", "oficina"],
+    "char": "📁",
+    "category": "objectsandsymbols"
+  },
+  "open_file_folder": {
+    "keywords": ["documento", "load"],
+    "char": "📂",
+    "category": "objectsandsymbols"
+  },
+  "black_nib": {
+    "keywords": ["boligrafo", "papeleria", "writing", "escribir"],
+    "char": "✒️",
+    "category": "objectsandsymbols"
+  },
+  "pencil2": {
+    "keywords": ["papeleria", "escribir", "papel", "writing", "escuela", "estudio"],
+    "char": "✏️",
+    "category": "objectsandsymbols"
+  },
+  "memo": {
+    "keywords": ["nota","escribir", "documento", "papeleria", "lapiz", "papel", "writing", "legal", "examen", "cuestionario", "test", "estudio"],
+    "char": "📝",
+    "category": "objectsandsymbols"
+  },
+  "lock_with_ink_pen": {
+    "keywords": ["seguridad", "secreto", "guino"],
+    "char": "🔏",
+    "category": "objectsandsymbols"
+  },
+  "closed_lock_with_key": {
+    "keywords": ["seguridad", "privacidad"],
+    "char": "🔐",
+    "category": "objectsandsymbols"
+  },
+  "bloquear": {
+    "keywords": ["seguridad", "contraseña", "padlock"],
+    "char": "🔒",
+    "category": "objectsandsymbols"
+  },
+  "unlock": {
+    "keywords": ["privacidad", "seguridad"],
+    "char": "🔓",
+    "category": "objectsandsymbols"
+  },
+  "mega": {
+    "keywords": ["sonido", "altavoz", "volumen"],
+    "char": "📣",
+    "category": "objectsandsymbols"
+  },
+  "loudspeaker": {
+    "keywords": ["volumen", "sonido"],
+    "char": "📢",
+    "category": "objectsandsymbols"
+  },
+  "altavoz": {
+    "keywords": ["sonido", "volumen", "silence", "broadcast"],
+    "char": "🔈",
+    "category": "objectsandsymbols"
+  },
+  "sonido": {
+    "keywords": ["volumen", "altavoz", "broadcast"],
+    "char": "🔉",
+    "category": "objectsandsymbols"
+  },
+  "loud_sound": {
+    "keywords": ["volumen", "ruido", "noisy", "altavoz", "broadcast"],
+    "char": "🔊",
+    "category": "objectsandsymbols"
+  },
+  "silencio": {
+    "keywords": ["sonido", "volumen", "silence", "silencio"],
+    "char": "🔇",
+    "category": "objectsandsymbols"
+  },
+  "zzz": {
+    "keywords": ["sueno", "dormido", "cansado"],
+    "char": "💤",
+    "category": "objectsandsymbols"
+  },
+  "campana": {
+    "keywords": ["sonido", "notificacion", "navidad", "navidad", "chime"],
+    "char": "🔔",
+    "category": "objectsandsymbols"
+  },
+  "no_bell": {
+    "keywords": ["sonido", "volumen", "silencio", "silencio", "silencioso"],
+    "char": "🔕",
+    "category": "objectsandsymbols"
+  },
+  "thought_balloon": {
+    "keywords": ["bocadillo", "penso", "pensar"],
+    "char": "💭",
+    "category": "objectsandsymbols"
+  },
+  "speech_balloon": {
+    "keywords": ["bocadillo", "dijo","hablo","palabras", "mensaje", "hablar", "voz"],
+    "char": "💬",
+    "category": "objectsandsymbols"
+  },
+  "children_crossing": {
+    "keywords": ["escuela", "precaucion", "peligro", "señal", "conducir"],
+    "char": "🚸",
+    "category": "objectsandsymbols"
+  },
+  "mag": {
+    "keywords": ["lupa","buscar", "zoom"],
+    "char": "🔍",
+    "category": "objectsandsymbols"
+  },
+  "mag_right": {
+    "keywords": ["lupa","buscar", "zoom"],
+    "char": "🔎",
+    "category": "objectsandsymbols"
+  },
+  "no_entry_sign": {
+    "keywords": ["prohibido el paso", "parar", "limite", "denegado", "disallow"],
+    "char": "🚫",
+    "category": "objectsandsymbols"
+  },
+  "no_entry": {
+    "keywords": ["limite", "seguridad", "privacidad",  "parar"],
+    "char": "⛔",
+    "category": "objectsandsymbols"
+  },
+  "name_badge": {
+    "keywords": ["badge"],
+    "char": "📛",
+    "category": "objectsandsymbols"
+  },
+  "no_pedestrians": {
+    "keywords": ["crossing", "andar"],
+    "char": "🚷",
+    "category": "objectsandsymbols"
+  },
+  "do_not_litter": {
+    "keywords": ["papelera", "basura"],
+    "char": "🚯",
+    "category": "objectsandsymbols"
+  },
+  "no_bicycles": {
+    "keywords": ["cyclist", "prohibido"],
+    "char": "🚳",
+    "category": "objectsandsymbols"
+  },
+  "non-potable_water": {
+    "keywords": ["bebida", "grifo"],
+    "char": "🚱",
+    "category": "objectsandsymbols"
+  },
+  "no_mobile_phones": {
+    "keywords": ["iphone", "silencio"],
+    "char": "📵",
+    "category": "objectsandsymbols"
+  },
+  "underage": {
+    "keywords": ["18", "menor"],
+    "char": "🔞",
+    "category": "objectsandsymbols"
+  },
+  "acepto": {
+    "keywords": ["ok", "correcto", "chino", "kanji", "de acuerdo", "si", "orange-circle"],
+    "char": "🉑",
+    "category": "objectsandsymbols"
+  },
+  "ideograph_advantage": {
+    "keywords": ["chino", "kanji", "circulo"],
+    "char": "🉐",
+    "category": "objectsandsymbols"
+  },
+  "white_flower": {
+    "keywords": ["japones", "japon"],
+    "char": "💮",
+    "category": "objectsandsymbols"
+  },
+  "secret": {
+    "keywords": ["chino",  "kanji"],
+    "char": "㊙️",
+    "category": "objectsandsymbols"
+  },
+  "enhorabuena": {
+    "keywords": ["chino", "kanji", "japones", "japon"],
+    "char": "㊗️",
+    "category": "objectsandsymbols"
+  },
+  "u5408": {
+    "keywords": ["japones", "japon", "chino", "join", "kanji"],
+    "char": "🈴",
+    "category": "objectsandsymbols"
+  },
+  "u6e80": {
+    "keywords": ["chino", "japones", "japon",  "kanji"],
+    "char": "🈵",
+    "category": "objectsandsymbols"
+  },
+  "u7981": {
+    "keywords": ["kanji", "japones", "japon", "chino"],
+    "char": "🈲",
+    "category": "objectsandsymbols"
+  },
+  "u6709": {
+    "keywords": [ "chino", "kanji"],
+    "char": "🈶",
+    "category": "objectsandsymbols"
+  },
+  "u7121": {
+    "keywords": ["chino", "kanji", "japones", "japon"],
+    "char": "🈚",
+    "category": "objectsandsymbols"
+  },
+  "u7533": {
+    "keywords": ["chino", "japones", "japon", "kanji"],
+    "char": "🈸",
+    "category": "objectsandsymbols"
+  },
+  "u55b6": {
+    "keywords": ["japones", "japon"],
+    "char": "🈺",
+    "category": "objectsandsymbols"
+  },
+  "u6708": {
+    "keywords": ["chino", "japones", "japon",  "kanji"],
+    "char": "🈷️",
+    "category": "objectsandsymbols"
+  },
+  "u5272": {
+    "keywords": [ "chino", "kanji"],
+    "char": "🈹",
+    "category": "objectsandsymbols"
+  },
+  "u7a7a": {
+    "keywords": ["kanji", "japones", "japon", "chino"],
+    "char": "🈳",
+    "category": "objectsandsymbols"
+  },
+  "sa": {
+    "keywords": ["japones", "japon", "katakana"],
+    "char": "🈂️",
+    "category": "objectsandsymbols"
+  },
+  "koko": {
+    "keywords": [ "aqui", "katakana", "japones", "japon"],
+    "char": "🈁",
+    "category": "objectsandsymbols"
+  },
+  "u6307": {
+    "keywords": ["chino", "kanji"],
+    "char": "🈯",
+    "category": "objectsandsymbols"
+  },
+  "chart": {
+    "keywords": [ "grafica", "presentacion", "estadistica"],
+    "char": "💹",
+    "category": "objectsandsymbols"
+  },
+  "brillar": {
+    "keywords": ["estrellas",  "vale", "correcto", "fireworks"],
+    "char": "❇️",
+    "category": "objectsandsymbols"
+  },
+  "eight_spoked_asterisk": {
+    "keywords": ["estrella", "brillar"],
+    "char": "✳️",
+    "category": "objectsandsymbols"
+  },
+  "negative_squared_cross_mark": {
+    "keywords": ["x",  "no", "deny"],
+    "char": "❎",
+    "category": "objectsandsymbols"
+  },
+  "white_check_mark": {
+    "keywords": [ "ok", "de acuerdo", "vote", "election"],
+    "char": "✅",
+    "category": "objectsandsymbols"
+  },
+  "eight_pointed_black_star": {
+    "keywords": [ "forma", "polygon"],
+    "char": "✴️",
+    "category": "objectsandsymbols"
+  },
+  "vibration_mode": {
+    "keywords": ["vibracion", "telefono"],
+    "char": "📳",
+    "category": "objectsandsymbols"
+  },
+  "mobile_phone_off": {
+    "keywords": ["silencio",  "silence", "silencio"],
+    "char": "📴",
+    "category": "objectsandsymbols"
+  },
+  "vs": {
+    "keywords": ["versus", "vs", "palabras"],
+    "char": "🆚",
+    "category": "objectsandsymbols"
+  },
+  "a": {
+    "keywords": [ "abecedario", "letra"],
+    "char": "🅰️",
+    "category": "objectsandsymbols"
+  },
+  "b": {
+    "keywords": [ "abecedario", "letra"],
+    "char": "🅱️",
+    "category": "objectsandsymbols"
+  },
+  "ab": {
+    "keywords": [ "abecedario"],
+    "char": "🆎",
+    "category": "objectsandsymbols"
+  },
+  "cl": {
+    "keywords": ["abecedario", "palabras", "red-square"],
+    "char": "🆑",
+    "category": "objectsandsymbols"
+  },
+  "o2": {
+    "keywords": ["abecedario",  "letra"],
+    "char": "🅾️",
+    "category": "objectsandsymbols"
+  },
+  "sos": {
+    "keywords": ["sos","socorro","ayuda",  "palabras", "urgencia", "911"],
+    "char": "🆘",
+    "category": "objectsandsymbols"
+  },
+  "id": {
+    "keywords": [ "palabras"],
+    "char": "🆔",
+    "category": "objectsandsymbols"
+  },
+  "parking": {
+    "keywords": ["parking","aparcamiento", "abecedario", "letra"],
+    "char": "🅿️",
+    "category": "objectsandsymbols"
+  },
+  "wc": {
+    "keywords": ["wc","toilet", "restroom"],
+    "char": "🚾",
+    "category": "objectsandsymbols"
+  },
+  "cool": {
+    "keywords": ["palabras"],
+    "char": "🆒",
+    "category": "objectsandsymbols"
+  },
+  "free": {
+    "keywords": ["gratis", "palabras"],
+    "char": "🆓",
+    "category": "objectsandsymbols"
+  },
+  "new": {
+    "keywords": [ "palabras", "nuevo","empezar"],
+    "char": "🆕",
+    "category": "objectsandsymbols"
+  },
+  "ng": {
+    "keywords": [ "palabras", "forma", "icono"],
+    "char": "🆖",
+    "category": "objectsandsymbols"
+  },
+  "ok": {
+    "keywords": ["correcto", "de acuerdo", "si"],
+    "char": "🆗",
+    "category": "objectsandsymbols"
+  },
+  "up": {
+    "keywords": [ "above", "alto"],
+    "char": "🆙",
+    "category": "objectsandsymbols"
+  },
+  "atm": {
+    "keywords": ["dinero", "ventas", "efectivo", "pagos", "banco"],
+    "char": "🏧",
+    "category": "objectsandsymbols"
+  },
+  "aries": {
+    "keywords": ["señal",  "zodiaco", "astronomia"],
+    "char": "♈",
+    "category": "objectsandsymbols"
+  },
+  "taurus": {
+    "keywords": [ "señal", "zodiaco", "astronomia"],
+    "char": "♉",
+    "category": "objectsandsymbols"
+  },
+  "gemini": {
+    "keywords": ["señal", "zodiaco",  "astronomia"],
+    "char": "♊",
+    "category": "objectsandsymbols"
+  },
+  "cancer": {
+    "keywords": ["señal", "zodiaco",  "astronomia"],
+    "char": "♋",
+    "category": "objectsandsymbols"
+  },
+  "leo": {
+    "keywords": ["señal",  "zodiaco", "astronomia"],
+    "char": "♌",
+    "category": "objectsandsymbols"
+  },
+  "virgo": {
+    "keywords": ["señal", "zodiaco",  "astronomia"],
+    "char": "♍",
+    "category": "objectsandsymbols"
+  },
+  "libra": {
+    "keywords": ["señal",  "zodiaco", "astronomia"],
+    "char": "♎",
+    "category": "objectsandsymbols"
+  },
+  "scorpius": {
+    "keywords": ["señal", "zodiaco",  "astronomia", "scorpio"],
+    "char": "♏",
+    "category": "objectsandsymbols"
+  },
+  "sagittarius": {
+    "keywords": ["señal", "zodiaco",  "astronomia"],
+    "char": "♐",
+    "category": "objectsandsymbols"
+  },
+  "capricorn": {
+    "keywords": ["señal", "zodiaco",  "astronomia"],
+    "char": "♑",
+    "category": "objectsandsymbols"
+  },
+  "aquarius": {
+    "keywords": ["señal",  "zodiaco", "astronomia"],
+    "char": "♒",
+    "category": "objectsandsymbols"
+  },
+  "pisces": {
+    "keywords": [ "señal", "zodiaco", "astronomia"],
+    "char": "♓",
+    "category": "objectsandsymbols"
+  },
+  "restroom": {
+    "keywords": [ "toilet", "refresh", "wc", "gender"],
+    "char": "🚻",
+    "category": "objectsandsymbols"
+  },
+  "mens": {
+    "keywords": ["toilet", "restroom", "wc", "gender"],
+    "char": "🚹",
+    "category": "objectsandsymbols"
+  },
+  "womens": {
+    "keywords": [ "mujer", "femenino", "toilet", "loo", "restroom", "gender"],
+    "char": "🚺",
+    "category": "objectsandsymbols"
+  },
+  "baby_symbol": {
+    "keywords": [ "nino"],
+    "char": "🚼",
+    "category": "objectsandsymbols"
+  },
+  "wheelchair": {
+    "keywords": [ "discapacidad", "discapacitado","minusvalido"],
+    "char": "♿",
+    "category": "objectsandsymbols"
+  },
+  "potable_water": {
+    "keywords": [ "agua","agua potable","liquid", "restroom", "cleaning", "grifo"],
+    "char": "🚰",
+    "category": "objectsandsymbols"
+  },
+  "no_smoking": {
+    "keywords": ["cigarro", "oler", "humo", "fumar"],
+    "char": "🚭",
+    "category": "objectsandsymbols"
+  },
+  "put_litter_in_its_place": {
+    "keywords": [ "señal", "humano", "info"],
+    "char": "🚮",
+    "category": "objectsandsymbols"
+  },
+  "arrow_forward": {
+    "keywords": [ "adelante","derecha", "direccion"],
+    "char": "▶️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_backward": {
+    "keywords": [ "atras","izquierda", "direccion"],
+    "char": "◀️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_up_small": {
+    "keywords": [ "triangle", "direccion", "apuntar", "adelante", "arriba"],
+    "char": "🔼",
+    "category": "objectsandsymbols"
+  },
+  "arrow_down_small": {
+    "keywords": [ "direccion", "abajo"],
+    "char": "🔽",
+    "category": "objectsandsymbols"
+  },
+  "fast_forward": {
+    "keywords": [ "jugar", "speed", "continuar"],
+    "char": "⏩",
+    "category": "objectsandsymbols"
+  },
+  "rewind": {
+    "keywords": ["jugar"],
+    "char": "⏪",
+    "category": "objectsandsymbols"
+  },
+  "arrow_double_up": {
+    "keywords": [ "direccion", "arriba"],
+    "char": "⏫",
+    "category": "objectsandsymbols"
+  },
+  "arrow_double_down": {
+    "keywords": [ "direccion", "abajo"],
+    "char": "⏬",
+    "category": "objectsandsymbols"
+  },
+  "arrow_right": {
+    "keywords": [ "siguiente"],
+    "char": "➡️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_left": {
+    "keywords": [ "anterior", "volver"],
+    "char": "⬅️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_up": {
+    "keywords": [ "continuar", "arriba", "direccion"],
+    "char": "⬆️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_down": {
+    "keywords": [ "direccion", "abajo"],
+    "char": "⬇️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_upper_right": {
+    "keywords": [ "apuntar", "direccion"],
+    "char": "↗️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_lower_right": {
+    "keywords": [ "direccion"],
+    "char": "↘️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_lower_left": {
+    "keywords": [ "direccion"],
+    "char": "↙️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_upper_left": {
+    "keywords": [ "apuntar", "direccion"],
+    "char": "↖️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_up_down": {
+    "keywords": [ "direccion", "way"],
+    "char": "↕️",
+    "category": "objectsandsymbols"
+  },
+  "left_right_arrow": {
+    "keywords": ["forma", "direccion"],
+    "char": "↔️",
+    "category": "objectsandsymbols"
+  },
+  "arrows_counterclockwise": {
+    "keywords": [ "sync", "cycle"],
+    "char": "🔄",
+    "category": "objectsandsymbols"
+  },
+  "arrow_right_hook": {
+    "keywords": [ "return", "rotade", "direccion"],
+    "char": "↪️",
+    "category": "objectsandsymbols"
+  },
+  "leftwards_arrow_with_hook": {
+    "keywords": ["volver", "return", "undo"],
+    "char": "↩️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_heading_up": {
+    "keywords": [ "direccion", "arriba"],
+    "char": "⤴️",
+    "category": "objectsandsymbols"
+  },
+  "arrow_heading_down": {
+    "keywords": [ "direccion", "abajo"],
+    "char": "⤵️",
+    "category": "objectsandsymbols"
+  },
+  "twisted_rightwards_arrows": {
+    "keywords": [ "shuffle", "musica", "aleatorio"],
+    "char": "🔀",
+    "category": "objectsandsymbols"
+  },
+  "repetir": {
+    "keywords": ["repetir", "grabar"],
+    "char": "🔁",
+    "category": "objectsandsymbols"
+  },
+  "repeat_one": {
+    "keywords": [ "repetir"],
+    "char": "🔂",
+    "category": "objectsandsymbols"
+  },
+  "hash": {
+    "keywords": ["symbol", "twitter"],
+    "char": "#️⃣",
+    "category": "objectsandsymbols"
+  },
+  "zero": {
+    "keywords": ["0", "numero", "null"],
+    "char": "0️⃣",
+    "category": "objectsandsymbols"
+  },
+  "one": {
+    "keywords": [ "numero", "1"],
+    "char": "1️⃣",
+    "category": "objectsandsymbols"
+  },
+  "dos": {
+    "keywords": ["numero", "2", "prime"],
+    "char": "2️⃣",
+    "category": "objectsandsymbols"
+  },
+  "three": {
+    "keywords": ["3", "numero", "prime"],
+    "char": "3️⃣",
+    "category": "objectsandsymbols"
+  },
+  "four": {
+    "keywords": ["4", "numero"],
+    "char": "4️⃣",
+    "category": "objectsandsymbols"
+  },
+  "five": {
+    "keywords": ["5", "numero", "prime"],
+    "char": "5️⃣",
+    "category": "objectsandsymbols"
+  },
+  "six": {
+    "keywords": ["6", "numero"],
+    "char": "6️⃣",
+    "category": "objectsandsymbols"
+  },
+  "seven": {
+    "keywords": ["7", "numero", "prime"],
+    "char": "7️⃣",
+    "category": "objectsandsymbols"
+  },
+  "eight": {
+    "keywords": ["8", "numero"],
+    "char": "8️⃣",
+    "category": "objectsandsymbols"
+  },
+  "nine": {
+    "keywords": [ "numero", "9"],
+    "char": "9️⃣",
+    "category": "objectsandsymbols"
+  },
+  "keycap_ten": {
+    "keywords": ["numero", "10"],
+    "char": "🔟",
+    "category": "objectsandsymbols"
+  },
+  "1234": {
+    "keywords": ["numero"],
+    "char": "🔢",
+    "category": "objectsandsymbols"
+  },
+  "abc": {
+    "keywords": [ "abecedario"],
+    "char": "🔤",
+    "category": "objectsandsymbols"
+  },
+  "abcd": {
+    "keywords": [ "abecedario"],
+    "char": "🔡",
+    "category": "objectsandsymbols"
+  },
+  "capital_abcd": {
+    "keywords": ["abecedario", "palabras"],
+    "char": "🔠",
+    "category": "objectsandsymbols"
+  },
+  "information_source": {
+    "keywords": [ "abecedario", "letra"],
+    "char": "ℹ️",
+    "category": "objectsandsymbols"
+  },
+  "signal_strength": {
+    "keywords": [ "reception", "telefono", "internet", "conexion", "wifi", "bluetooth"],
+    "char": "📶",
+    "category": "objectsandsymbols"
+  },
+  "cinema": {
+    "keywords": [ "grabar", "pelicula", "movie"],
+    "char": "🎦",
+    "category": "objectsandsymbols"
+  },
+  "symbols": {
+    "keywords": [ "musica", "note", "ampersand", "percent", "glyphs", "characters"],
+    "char": "🔣",
+    "category": "objectsandsymbols"
+  },
+  "heavy_plus_sign": {
+    "keywords": ["matematicas", "calculo", "addition", "suma", "mas", "aumenta"],
+    "char": "➕",
+    "category": "objectsandsymbols"
+  },
+  "heavy_minus_sign": {
+    "keywords": ["matematicas", "calculo", "resta","restar", "menos"],
+    "char": "➖",
+    "category": "objectsandsymbols"
+  },
+  "wavy_dash": {
+    "keywords": ["dibujar", "linea", "bigote", "bigote", "squiggle", "scribble"],
+    "char": "〰️",
+    "category": "objectsandsymbols"
+  },
+  "heavy_division_sign": {
+    "keywords": ["divide","dividir","division", "matematicas", "calculo"],
+    "char": "➗",
+    "category": "objectsandsymbols"
+  },
+  "heavy_multiplication_x": {
+    "keywords": ["matematicas", "calculo"],
+    "char": "✖️",
+    "category": "objectsandsymbols"
+  },
+  "heavy_check_mark": {
+    "keywords": ["ok", "nike"],
+    "char": "✔️",
+    "category": "objectsandsymbols"
+  },
+  "arrows_clockwise": {
+    "keywords": ["sync", "cycle", "circulo", "repetir"],
+    "char": "🔃",
+    "category": "objectsandsymbols"
+  },
+  "tm": {
+    "keywords": ["marca registrada", "marca", "ley", "legal"],
+    "char": "™️",
+    "category": "objectsandsymbols"
+  },
+  "copyright": {
+    "keywords": ["copyright","ip", "licencia", "circulo", "ley", "legal"],
+    "char": "©️",
+    "category": "objectsandsymbols"
+  },
+  "registered": {
+    "keywords": ["abecedario", "circulo"],
+    "char": "®️",
+    "category": "objectsandsymbols"
+  },
+  "currency_exchange": {
+    "keywords": ["dinero", "ventas", "dolar", "viajar"],
+    "char": "💱",
+    "category": "objectsandsymbols"
+  },
+  "heavy_dollar_sign": {
+    "keywords": ["dinero", "ventas", "pagos", "moneda"],
+    "char": "💲",
+    "category": "objectsandsymbols"
+  },
+  "curly_loop": {
+    "keywords": ["scribble", "dibujar", "forma", "squiggle"],
+    "char": "➰",
+    "category": "objectsandsymbols"
+  },
+  "repeat": {
+    "keywords": ["tape", "cassette"],
+    "char": "➿",
+    "category": "objectsandsymbols"
+  },
+  "part_alternation_mark": {
+    "keywords": ["grafica", "presentacion", "estadistica", "negocio", "economics", "bad"],
+    "char": "〽️",
+    "category": "objectsandsymbols"
+  },
+  "exclamation": {
+    "keywords": ["heavy_exclamation_mark", "peligro", "sorpresa", "punctuation", "wow", "precaucion"],
+    "char": "❗",
+    "category": "objectsandsymbols"
+  },
+  "question": {
+    "keywords": ["pregunta","duda", "confused"],
+    "char": "❓",
+    "category": "objectsandsymbols"
+  },
+  "grey_exclamation": {
+    "keywords": ["sorpresa", "punctuation", "gray", "wow", "precaucion"],
+    "char": "❕",
+    "category": "objectsandsymbols"
+  },
+  "grey_question": {
+    "keywords": ["doubts", "gray", "huh"],
+    "char": "❔",
+    "category": "objectsandsymbols"
+  },
+  "bangbang": {
+    "keywords": ["exclamation", "sorpresa"],
+    "char": "‼️",
+    "category": "objectsandsymbols"
+  },
+  "interrobang": {
+    "keywords": ["wat", "punctuation", "sorpresa"],
+    "char": "⁉️",
+    "category": "objectsandsymbols"
+  },
+  "x": {
+    "keywords": ["no", "delete", "remove"],
+    "char": "❌",
+    "category": "objectsandsymbols"
+  },
+  "o": {
+    "keywords": ["circulo", "circulo"],
+    "char": "⭕",
+    "category": "objectsandsymbols"
+  },
+  "100": {
+    "keywords": ["score", "perfect", "numero", "century", "examen", "cuestionario", "test", "pass"],
+    "char": "💯",
+    "category": "objectsandsymbols"
+  },
+  "end": {
+    "keywords": ["fin","palabras", "flecha"],
+    "char": "🔚",
+    "category": "objectsandsymbols"
+  },
+  "volver": {
+    "keywords": ["volver","flecha", "palabras", "return"],
+    "char": "🔙",
+    "category": "objectsandsymbols"
+  },
+  "on": {
+    "keywords": ["on","flecha", "palabras"],
+    "char": "🔛",
+    "category": "objectsandsymbols"
+  },
+  "arriba": {
+    "keywords": ["arriba","palabras"],
+    "char": "🔝",
+    "category": "objectsandsymbols"
+  },
+  "soon": {
+    "keywords": ["pronto","flecha", "palabras"],
+    "char": "🔜",
+    "category": "objectsandsymbols"
+  },
+  "cyclone": {
+    "keywords": ["ciclon","tiempo meteorologico", "swirl", "azul", "cloud"],
+    "char": "🌀",
+    "category": "objectsandsymbols"
+  },
+  "m": {
+    "keywords": ["abecedario", "blue-circle", "letra"],
+    "char": "Ⓜ️",
+    "category": "objectsandsymbols"
+  },
+  "ophiuchus": {
+    "keywords": ["señal",  "constelacion", "astronomia"],
+    "char": "⛎",
+    "category": "objectsandsymbols"
+  },
+  "six_pointed_star": {
+    "keywords": [ "religion", "jewish", "hexagram"],
+    "char": "🔯",
+    "category": "objectsandsymbols"
+  },
+  "beginner": {
+    "keywords": ["medalla", "escudo"],
+    "char": "🔰",
+    "category": "objectsandsymbols"
+  },
+  "trident": {
+    "keywords": ["arma", "tridente"],
+    "char": "🔱",
+    "category": "objectsandsymbols"
+  },
+  "precaucion": {
+    "keywords": ["exclamation", "wip", "alerta", "error", "problem", "issue"],
+    "char": "⚠️",
+    "category": "objectsandsymbols"
+  },
+  "hotsprings": {
+    "keywords": ["bath", "calido", "relax"],
+    "char": "♨️",
+    "category": "objectsandsymbols"
+  },
+  "recycle": {
+    "keywords": ["reciclar","reciclaje","flecha", "environment", "papelera de reciclaje", "papelera"],
+    "char": "♻️",
+    "category": "objectsandsymbols"
+  },
+  "anger": {
+    "keywords": ["enfadar", "cabrear", "cabreo", "enfado", "mad"],
+    "char": "💢",
+    "category": "objectsandsymbols"
+  },
+  "diamond_shape_with_a_dot_inside": {
+    "keywords": ["joya", "azul", "gema", "crystal", "fancy"],
+    "char": "💠",
+    "category": "objectsandsymbols"
+  },
+  "spades": {
+    "keywords": ["picas","poquer", "cartas", "suits", "magia"],
+    "char": "♠️",
+    "category": "objectsandsymbols"
+  },
+  "hearts": {
+    "keywords": ["corazones","poquer", "cartas", "magia", "suits"],
+    "char": "♥️",
+    "category": "objectsandsymbols"
+  },
+  "clubs": {
+    "keywords": ["treboles","poquer", "cartas", "magia", "suits"],
+    "char": "♣️",
+    "category": "objectsandsymbols"
+  },
+  "diamonds": {
+    "keywords": ["diamantes","poquer", "cartas", "magia", "suits"],
+    "char": "♦️",
+    "category": "objectsandsymbols"
+  },
+  "ballot_box_with_check": {
+    "keywords": ["ok", "de acuerdo", "confirmacion"],
+    "char": "☑️",
+    "category": "objectsandsymbols"
+  },
+  "white_circle": {
+    "keywords": ["forma", "circulo"],
+    "char": "⚪",
+    "category": "objectsandsymbols"
+  },
+  "black_circle": {
+    "keywords": ["forma", "boton", "circulo"],
+    "char": "⚫",
+    "category": "objectsandsymbols"
+  },
+  "radio_button": {
+    "keywords": ["input", "old", "musica", "circulo"],
+    "char": "🔘",
+    "category": "objectsandsymbols"
+  },
+  "red_circle": {
+    "keywords": ["forma", "error", "peligro"],
+    "char": "🔴",
+    "category": "objectsandsymbols"
+  },
+  "large_blue_circle": {
+    "keywords": ["forma", "icono", "boton"],
+    "char": "🔵",
+    "category": "objectsandsymbols"
+  },
+  "small_red_triangle": {
+    "keywords": ["forma", "direccion", "up", "arriba"],
+    "char": "🔺",
+    "category": "objectsandsymbols"
+  },
+  "small_red_triangle_down": {
+    "keywords": ["forma", "direccion", "abajo"],
+    "char": "🔻",
+    "category": "objectsandsymbols"
+  },
+  "small_orange_diamond": {
+    "keywords": ["forma", "joya", "gema"],
+    "char": "🔸",
+    "category": "objectsandsymbols"
+  },
+  "small_blue_diamond": {
+    "keywords": ["forma", "joya", "gema"],
+    "char": "🔹",
+    "category": "objectsandsymbols"
+  },
+  "large_orange_diamond": {
+    "keywords": ["forma", "joya", "gema"],
+    "char": "🔶",
+    "category": "objectsandsymbols"
+  },
+  "large_blue_diamond": {
+    "keywords": ["forma", "joya", "gema"],
+    "char": "🔷",
+    "category": "objectsandsymbols"
+  },
+  "black_small_square": {
+    "keywords": ["forma", "icono"],
+    "char": "▪️",
+    "category": "objectsandsymbols"
+  },
+  "white_small_square": {
+    "keywords": ["forma", "icono"],
+    "char": "▫️",
+    "category": "objectsandsymbols"
+  },
+  "black_large_square": {
+    "keywords": ["forma", "icono", "boton"],
+    "char": "⬛",
+    "category": "objectsandsymbols"
+  },
+  "white_large_square": {
+    "keywords": ["forma", "icono", "piedra", "boton"],
+    "char": "⬜",
+    "category": "objectsandsymbols"
+  },
+  "black_medium_square": {
+    "keywords": ["forma", "boton", "icono"],
+    "char": "◼️",
+    "category": "objectsandsymbols"
+  },
+  "white_medium_square": {
+    "keywords": ["forma", "piedra", "icono"],
+    "char": "◻️",
+    "category": "objectsandsymbols"
+  },
+  "black_medium_small_square": {
+    "keywords": ["icono", "forma", "boton"],
+    "char": "◾",
+    "category": "objectsandsymbols"
+  },
+  "white_medium_small_square": {
+    "keywords": ["forma", "piedra", "icono", "boton"],
+    "char": "◽",
+    "category": "objectsandsymbols"
+  },
+  "black_square_button": {
+    "keywords": ["forma", "input", "frame"],
+    "char": "🔲",
+    "category": "objectsandsymbols"
+  },
+  "white_square_button": {
+    "keywords": ["forma", "input"],
+    "char": "🔳",
+    "category": "objectsandsymbols"
+  },
+  "clock1": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕐",
+    "category": "objectsandsymbols"
+  },
+  "clock130": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕜",
+    "category": "objectsandsymbols"
+  },
+  "clock2": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕑",
+    "category": "objectsandsymbols"
+  },
+  "clock230": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕝",
+    "category": "objectsandsymbols"
+  },
+  "clock3": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕒",
+    "category": "objectsandsymbols"
+  },
+  "clock330": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕞",
+    "category": "objectsandsymbols"
+  },
+  "clock4": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕓",
+    "category": "objectsandsymbols"
+  },
+  "clock430": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕟",
+    "category": "objectsandsymbols"
+  },
+  "clock5": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕔",
+    "category": "objectsandsymbols"
+  },
+  "clock530": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕠",
+    "category": "objectsandsymbols"
+  },
+  "clock6": {
+    "keywords": ["hora", "tarde", "temprano", "horario", "amanecer", "dusk"],
+    "char": "🕕",
+    "category": "objectsandsymbols"
+  },
+  "clock630": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕡",
+    "category": "objectsandsymbols"
+  },
+  "clock7": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕖",
+    "category": "objectsandsymbols"
+  },
+  "clock730": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕢",
+    "category": "objectsandsymbols"
+  },
+  "clock8": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕗",
+    "category": "objectsandsymbols"
+  },
+  "clock830": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕣",
+    "category": "objectsandsymbols"
+  },
+  "clock9": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕘",
+    "category": "objectsandsymbols"
+  },
+  "clock930": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕤",
+    "category": "objectsandsymbols"
+  },
+  "clock10": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕙",
+    "category": "objectsandsymbols"
+  },
+  "clock1030": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕥",
+    "category": "objectsandsymbols"
+  },
+  "clock11": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕚",
+    "category": "objectsandsymbols"
+  },
+  "clock1130": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕦",
+    "category": "objectsandsymbols"
+  },
+  "clock12": {
+    "keywords": ["hora", "noon", "midnoche", "tarde", "temprano", "horario"],
+    "char": "🕛",
+    "category": "objectsandsymbols"
+  },
+  "clock1230": {
+    "keywords": ["hora", "tarde", "temprano", "horario"],
+    "char": "🕧",
+    "category": "objectsandsymbols"
+  }
+}
