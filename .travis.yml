@@ -9,3 +9,4 @@ branches:
   only:
   - gh-pages
   - "/.+/"
+  
