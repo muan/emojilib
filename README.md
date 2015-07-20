@@ -20,6 +20,11 @@ npm install emojilib --save
 var emojis = require("emojilib")
 ```
 
+Add spanish translation:
+```javascript
+var emojis_es = require("emojilib").es
+```
+
 ## :electric_plug: Powered by emojilib
 
 * [Emoji Searcher](http://emoji.muan.co) – [muan/emoji](https://github.com/muan/emoji)
