@@ -1,33 +1,31 @@
-# :book: emojilib in spanish 
+# :book: emojilib
 
-Emoji keyword library in spanish
+Emoji keyword library.
 
 ## Install
 
 ### :bird: Bower
 
 ```
-bower install emojilib-spanish
+bower install emojilib
 ```
 
 ### :package: NPM
 
 ```
-npm install emojilib-spanish --save
+npm install emojilib --save
 ```
 
 ```javascript
-var emojis = require("emojilib-spanish")
+var emojis = require("emojilib")
 ```
 
-## :electric_plug: Powered by
+## :electric_plug: Powered by emojilib
 
-* Original emojilib in English: [muan/emojilib](https://github.com/muan/emojilib)
-
-* Twitter bot - News with emojijs in english and spanish - [beeva-labs/emojinews](https://github.com/beeva-labs/emojinews)
+* [Emoji Searcher](http://emoji.muan.co) – [muan/emoji](https://github.com/muan/emoji)
+* [Megamoji](http://megamoji.muan.co) – [muan/megamoji](https://github.com/muan/megaemoji)
+* [Emoji-translate](http://meowni.ca/emoji-translate) - [notwaldorf/emoji-translate](https://github.com/notwaldorf/emoji-translate)
 
 ## :heart: YES
 
 This library was originially started for/in [the Emoji Searcher project](http://github.com/muan/emoji) by @muan.
-Translated into spanish by [BEEVA Labs](https://github.com/beeva-labs).
-Used in [beeva-labs/emojinews](https://github.com/beeva-labs/emojinews)

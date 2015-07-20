@@ -1,15 +1,14 @@
 {
-  "name": "emojilib-spanish",
-  "version": "0.1",
-  "homepage": "https://github.com/beeva-labs/emojilib",
+  "name": "emojilib",
+  "version": "0.0.4",
+  "homepage": "https://github.com/muan/emojilib",
   "authors": [
-    "BEEVA Labs <innovacion@beeva.com>"
+    "Mu-An Chiou <me@muanchiou.com>"
   ],
-  "description": "Emoji keyword spanish lib in JSON",
-  "main": "es_emojis.json",
+  "description": "Emoji keyword lib in JSON",
+  "main": "emojis.json",
   "keywords": [
-    "emoji",
-    "spanish"
+    "emoji"
   ],
   "license": "MIT",
   "ignore": [
