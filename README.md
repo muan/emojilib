@@ -22,13 +22,13 @@ var emojis = require("emojilib")
 
 Using spanish dictionary:
 ```javascript
-var emojis_es = require("emojilib").es
+var emojis_es = require("emojilib").spanish
 ```
 
 or:
 ```javascript
 var emojis = require("emojilib")
-console.log(emojis.es["beso"]);
+console.log(emojis.spanish["beso"]);
 console.log(emojis["kiss"]);
 ```
 
