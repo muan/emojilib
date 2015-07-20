@@ -20,9 +20,16 @@ npm install emojilib --save
 var emojis = require("emojilib")
 ```
 
-Add spanish translation:
+Using spanish dictionary:
 ```javascript
 var emojis_es = require("emojilib").es
+```
+
+or:
+```javascript
+var emojis = require("emojilib")
+console.log(emojis.es["beso"]);
+console.log(emojis["kiss"]);
 ```
 
 ## :electric_plug: Powered by emojilib

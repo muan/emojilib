@@ -5,6 +5,7 @@
   "main": "index.js",
   "files": [
     "emojis.json",
+    "es_emojis.json",
     "index.js",
     "LICENSE",
     "package.json"
