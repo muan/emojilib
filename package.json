@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/muan/emojilib/issues"
   },
-  "homepage": "https://github.com/muan/emojilib#readme"
+  "homepage": "https://github.com/muan/emojilib#readme",
+  "devDependencies": {
+    "phantomjs": "^1.9.17"
+  }
 }
