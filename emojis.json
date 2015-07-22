@@ -1070,7 +1070,7 @@
     "category": "nature"
   },
   "blowfish": {
-    "keywords": ["nature", "food", "sea", "ocean"],
+    "keywords": ["animal", "nature", "food", "sea", "ocean"],
     "char": "🐡",
     "category": "nature"
   },
@@ -1085,7 +1085,7 @@
     "category": "nature"
   },
   "bug": {
-    "keywords": ["insect", "nature", "worm"],
+    "keywords": ["animal", "insect", "nature", "worm"],
     "char": "🐛",
     "category": "nature"
   },
@@ -1100,7 +1100,7 @@
     "category": "nature"
   },
   "beetle": {
-    "keywords": ["insect", "nature", "bug"],
+    "keywords": ["animal", "insect", "nature", "bug"],
     "char": "🐞",
     "category": "nature"
   },
