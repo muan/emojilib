@@ -2520,7 +2520,7 @@
     "category": "objectsandsymbols"
   },
   "computer": {
-    "keywords": ["tech", "laptop"],
+    "keywords": ["tech", "laptop", "screen", "display", "monitor"],
     "char": "💻",
     "category": "objectsandsymbols"
   },
@@ -2555,7 +2555,7 @@
     "category": "objectsandsymbols"
   },
   "tv": {
-    "keywords": ["technology", "program", "oldschool", "show"],
+    "keywords": ["technology", "program", "oldschool", "show", "television"],
     "char": "📺",
     "category": "objectsandsymbols"
   },
@@ -2620,7 +2620,7 @@
     "category": "objectsandsymbols"
   },
   "bulb": {
-    "keywords": ["light", "electricity"],
+    "keywords": ["light", "electricity", "idea"],
     "char": "💡",
     "category": "objectsandsymbols"
   },
@@ -2805,7 +2805,7 @@
     "category": "objectsandsymbols"
   },
   "crystal_ball": {
-    "keywords": ["disco", "party", "magic", "circus"],
+    "keywords": ["disco", "party", "magic", "circus", "fortune_teller"],
     "char": "🔮",
     "category": "objectsandsymbols"
   },
@@ -3515,7 +3515,7 @@
     "category": "objectsandsymbols"
   },
   "mens": {
-    "keywords": ["toilet", "restroom", "wc", "blue-square", "gender"],
+    "keywords": ["toilet", "restroom", "wc", "blue-square", "gender", "male"],
     "char": "🚹",
     "category": "objectsandsymbols"
   },
@@ -3895,7 +3895,7 @@
     "category": "objectsandsymbols"
   },
   "100": {
-    "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass"],
+    "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass", "hundred"],
     "char": "💯",
     "category": "objectsandsymbols"
   },
