@@ -1065,7 +1065,7 @@
     "category": "nature"
   },
   "tropical_fish": {
-    "keywords": ["animal", "swim", "ocean", "beach"],
+    "keywords": ["animal", "swim", "ocean", "beach", "nemo"],
     "char": "🐠",
     "category": "nature"
   },
@@ -3180,12 +3180,12 @@
     "category": "objectsandsymbols"
   },
   "mag": {
-    "keywords": ["search", "zoom"],
+    "keywords": ["search", "zoom", "find", "detective"],
     "char": "🔍",
     "category": "objectsandsymbols"
   },
   "mag_right": {
-    "keywords": ["search", "zoom"],
+    "keywords": ["search", "zoom", "find", "detective"],
     "char": "🔎",
     "category": "objectsandsymbols"
   },
