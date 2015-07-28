@@ -20,6 +20,28 @@ npm install emojilib --save
 var emojis = require("emojilib")
 ```
 
+## Usage
+
+```javascript
+> emojis
+{
+  "grinning": {
+    "keywords": ["face", "smile", "happy", "joy"],
+    "char": "😀",
+    "category": "people"
+  },
+  "grin": {
+    "keywords": ["face", "happy", "smile", "joy"],
+    "char": "😁",
+    "category": "people"
+  },
+  ...
+}
+
+> emojis.keys
+[ 'grinning', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
+```
+
 ## :electric_plug: Powered by emojilib
 
 * [Emoji Searcher](http://emoji.muan.co) – [muan/emoji](https://github.com/muan/emoji)
