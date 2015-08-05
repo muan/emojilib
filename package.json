@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/muan/emojilib#readme",
   "devDependencies": {
+    "commander": "^2.8.1",
+    "file-str-replace": "^0.2.0",
     "phantomjs": "^1.9.17"
   }
 }

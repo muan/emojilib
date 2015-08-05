@@ -42,6 +42,32 @@ var emojis = require("emojilib")
 [ 'grinning', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
 ```
 
+## Translate
+
+Using the [`translator`](translator/translate.js)
+
+1) Prepare your tranlation file:
+
+```
+node translator/translate.js prepare --locale de-DE
+```
+
+2) Translate the content of `translator/tmp/emoji-transaltion-de-DE.json`.
+
+3) Then create the actual `emojis-de-DE.json` file:
+
+```
+node translator/translate.js create --locale de-DE
+```
+
+Now you can use:
+
+```js
+var emojis = require("emojilib")['de-DE'];
+```
+
+Dont forget to commit and create PR. :grin:
+
 ## :electric_plug: Powered by emojilib
 
 * [Emoji Searcher](http://emoji.muan.co) – [muan/emoji](https://github.com/muan/emoji)
