@@ -22,6 +22,7 @@ console.log("\nTEST: Correct JSON format")
 try {
   var data = JSON.parse(fs.read('emojis.json'))
   var keys = Object.keys(data)
+  keys.splice(keys.indexOf('keys'), 1)
   passed()
 } catch(e) {
   console.log('Invalid JSON format. See the CONTRIBUTING doc for reference.')
