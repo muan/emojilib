@@ -15,6 +15,7 @@
     "test.js",
     "*.yml",
     "package.json",
-    "CONTRIBUTING.md"
+    "CONTRIBUTING.md",
+    "**/.*"
   ]
 }
