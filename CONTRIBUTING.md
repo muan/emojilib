@@ -25,4 +25,4 @@ Thanks for thinking about contributing to this project. :heart_eyes:
 
 - Include at least one emoji in your pull request description.
 
-- There are [tests](https://github.com/muan/emojilib/blob/gh-pages/test.js) for `emojis.json`, please do your best to fix the errors if any. You should be able to see your branch's test status on https://travis-ci.org/muan/emojilib/pull_requests
+- There are [tests](https://github.com/muan/emojilib/blob/master/test.js) for `emojis.json`, please do your best to fix the errors if any. You should be able to see your branch's test status on https://travis-ci.org/muan/emojilib/pull_requests
