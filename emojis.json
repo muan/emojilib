@@ -3530,7 +3530,7 @@
     "category": "objectsandsymbols"
   },
   "wheelchair": {
-    "keywords": ["blue-square", "disabled"],
+    "keywords": ["blue-square", "disabled", "a11y", "accessibility"],
     "char": "♿",
     "category": "objectsandsymbols"
   },
