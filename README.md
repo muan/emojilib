@@ -45,7 +45,7 @@ var emojis = require("emojilib")
 ## :electric_plug: Powered by emojilib
 
 * [Emoji Searcher](http://emoji.muan.co) – [muan/emoji](https://github.com/muan/emoji)
-* [Megamoji](http://megamoji.muan.co) – [muan/megamoji](https://github.com/muan/megaemoji)
+* [Megamoji](http://megamoji.muan.co) – [muan/megamoji](https://github.com/muan/megamoji)
 * [Emoji-translate](http://meowni.ca/emoji-translate) - [notwaldorf/emoji-translate](https://github.com/notwaldorf/emoji-translate)
 
 ## :heart: YES
