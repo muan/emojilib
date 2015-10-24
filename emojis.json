@@ -759,6 +759,11 @@
     "char": "🙏",
     "category": "people"
   },
+  "middle_finger": {
+    "keywords": ["hand", "fingers", "rude"],
+    "char": "🖕",
+    "category": "people"
+  },
   "seedling": {
     "keywords": ["plant", "nature", "grass", "lawn", "spring"],
     "char": "🌱",
@@ -4547,6 +4552,7 @@
     "muscle",
     "open_hands",
     "pray",
+    "middle_finger",
     "seedling",
     "evergreen_tree",
     "deciduous_tree",
