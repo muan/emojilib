@@ -295,22 +295,22 @@
     "category": "people"
   },
   "hugging": {
-    "keywords": ["face", "hugging", "smile"],
+    "keywords": ["face", "smile"],
     "char": "🤗",
     "category": "people"
   },
   "thinking": {
-    "keywords": ["face", "thinking"],
+    "keywords": ["face"],
     "char": "🤔",
     "category": "people"
   },
   "rolling_eyes": {
-    "keywords": ["face", "eyes", "eyeroll", "frustrated"],
+    "keywords": ["face", "eyeroll", "frustrated"],
     "char": "🙄",
     "category": "people"
   },
   "zipper_mouth": {
-    "keywords": ["face", "zipper", "sealed"],
+    "keywords": ["face", "sealed"],
     "char": "🤐",
     "category": "people"
   },
@@ -320,12 +320,12 @@
     "category": "people"
   },
   "white_frowning": {
-    "keywords": ["face", "frowning", "sad"],
+    "keywords": ["face", "sad"],
     "char": "☹",
     "category": "people"
   },
   "slightly_sad": {
-    "keywords": ["face", "sad", "frowning", "disappointed"],
+    "keywords": ["face", "frowning", "disappointed"],
     "char": "🙁",
     "category": "people"
   },
@@ -335,17 +335,17 @@
     "category": "people"
   },
   "thermometer_face": {
-    "keywords": ["face", "sick", "thermometer"],
+    "keywords": ["sick", "temperature"],
     "char": "🤒",
     "category": "people"
   },
   "bandage_face": {
-    "keywords": ["face", "injured", "bandage", "clumsy"],
+    "keywords": ["injured", "clumsy"],
     "char": "🤕",
     "category": "people"
   },
   "money_mouth": {
-    "keywords": ["face", "money", "rich", "dollar"],
+    "keywords": ["face", "rich", "dollar"],
     "char": "🤑",
     "category": "people"
   },
@@ -410,12 +410,12 @@
     "category": "people"
   },
   "speaking_head": {
-    "keywords": ["user", "person", "human", "speaking"],
+    "keywords": ["user", "person", "human"],
     "char": "🗣",
     "category": "people"
   },
   "man_levitating": {
-    "keywords": ["man", "suit", "business", "levitate", "hover", "jump"],
+    "keywords": ["suit", "business", "levitate", "hover", "jump"],
     "char": "🕴",
     "category": "people"
   },
@@ -515,12 +515,12 @@
     "category": "people"
   },
   "helmet": {
-    "keywords": ["helmet", "construction", "build"],
+    "keywords": ["construction", "build"],
     "char": "⛑",
     "category": "people"
   },
   "sleuth": {
-    "keywords": ["man", "human", "sleuth", "spy", "detective"],
+    "keywords": ["human", "spy", "detective"],
     "char": "🕵",
     "category": "people"
   },
@@ -774,13 +774,13 @@
     "char": "🤘",
     "category": "people"
   },
-  "raised_hand_with_fingers_splayed": {
-    "keywords": ["hand", "fingers", "raised_hand"],
+  "splayed_fingers": {
+    "keywords": ["raised_hand"],
     "char": "🖐",
     "category": "people"
   },
   "writing_hand": {
-    "keywords": ["hand", "writing", "pen"],
+    "keywords": ["pen"],
     "char": "✍",
     "category": "people"
   },
@@ -4575,7 +4575,7 @@
     "pray",
     "middle_finger",
     "sign_of_horns",
-    "raised_hand_with_fingers_splayed",
+    "splayed_fingers",
     "writing_hand",
     "seedling",
     "evergreen_tree",
