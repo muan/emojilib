@@ -289,6 +289,11 @@
     "char": "😷",
     "category": "people"
   },
+  "slightly_smiling": {
+    "keywords": ["face", "smile"],
+    "char": "🙂",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
