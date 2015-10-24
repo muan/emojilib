@@ -299,6 +299,11 @@
     "char": "🤗",
     "category": "people"
   },
+  "thinking": {
+    "keywords": ["face", "thinking"],
+    "char": "🤔",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
