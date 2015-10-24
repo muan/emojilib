@@ -324,6 +324,11 @@
     "char": "☹",
     "category": "people"
   },
+  "slightly_sad": {
+    "keywords": ["face", "sad", "frowning", "disappointed"],
+    "char": "🙁",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -4410,6 +4415,7 @@
     "zipper_mouth",
     "nerd",
     "white_frowning",
+    "slightly_sad",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
