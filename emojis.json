@@ -339,6 +339,11 @@
     "char": "🤒",
     "category": "people"
   },
+  "bandage_face": {
+    "keywords": ["face", "injured", "bandage", "clumsy"],
+    "char": "🤕",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -4428,6 +4433,7 @@
     "slightly_sad",
     "upside_down",
     "thermometer_face",
+    "bandage_face",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
