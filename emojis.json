@@ -304,6 +304,11 @@
     "char": "🤔",
     "category": "people"
   },
+  "rolling_eyes": {
+    "keywords": ["face", "eyes", "eyeroll", "frustrated"],
+    "char": "🙄",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
