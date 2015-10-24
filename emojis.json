@@ -344,6 +344,11 @@
     "char": "🤕",
     "category": "people"
   },
+  "money_mouth": {
+    "keywords": ["face", "money", "rich", "dollar"],
+    "char": "🤑",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -4434,6 +4439,7 @@
     "upside_down",
     "thermometer_face",
     "bandage_face",
+    "money_mouth",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
