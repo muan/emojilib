@@ -649,6 +649,11 @@
     "char": "👂",
     "category": "people"
   },
+  "eye": {
+    "keywords": ["face", "look", "see", "watch", "stare"],
+    "char": "👁",
+    "category": "people"
+  },
   "eyes": {
     "keywords": ["look", "watch", "stalk", "peek", "see"],
     "char": "👀",
@@ -4545,6 +4550,7 @@
     "raised_hands",
     "clap",
     "ear",
+    "eye",
     "eyes",
     "nose",
     "lips",
