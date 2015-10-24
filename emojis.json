@@ -504,6 +504,11 @@
     "char": "👷",
     "category": "people"
   },
+  "helmet": {
+    "keywords": ["helmet", "construction", "build"],
+    "char": "⛑",
+    "category": "people"
+  },
   "princess": {
     "keywords": ["girl", "woman", "female", "blond", "crown", "royal", "queen"],
     "char": "👸",
@@ -4476,6 +4481,7 @@
     "older_woman",
     "baby",
     "construction_worker",
+    "helmet",
     "princess",
     "guardsman",
     "angel",
