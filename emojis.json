@@ -294,6 +294,11 @@
     "char": "🙂",
     "category": "people"
   },
+  "hugging": {
+    "keywords": ["face", "hugging", "smile"],
+    "char": "🤗",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
