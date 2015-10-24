@@ -509,6 +509,11 @@
     "char": "⛑",
     "category": "people"
   },
+  "sleuth": {
+    "keywords": ["man", "human", "sleuth", "spy", "detective"],
+    "char": "🕵",
+    "category": "people"
+  },
   "princess": {
     "keywords": ["girl", "woman", "female", "blond", "crown", "royal", "queen"],
     "char": "👸",
@@ -4482,6 +4487,7 @@
     "baby",
     "construction_worker",
     "helmet",
+    "sleuth",
     "princess",
     "guardsman",
     "angel",
