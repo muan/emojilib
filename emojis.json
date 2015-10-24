@@ -414,6 +414,11 @@
     "char": "🗣",
     "category": "people"
   },
+  "man_levitating": {
+    "keywords": ["man", "suit", "business", "levitate", "hover", "jump"],
+    "char": "🕴",
+    "category": "people"
+  },
   "baby": {
     "keywords": ["child", "boy", "girl", "toddler"],
     "char": "👶",
@@ -4473,6 +4478,7 @@
     "bust_in_silhouette",
     "busts_in_silhouette",
     "speaking_head",
+    "man_levitating",
     "baby",
     "boy",
     "girl",
