@@ -10,6 +10,8 @@
     "package.json"
   ],
   "scripts": {
+    "build": "node build.js",
+    "prepublish": "npm run build",
     "test": "phantomjs test.js"
   },
   "repository": {
@@ -28,6 +30,8 @@
   },
   "homepage": "https://github.com/muan/emojilib#readme",
   "devDependencies": {
+    "JSONStream": "^1.0.4",
+    "format-json-stream": "^0.1.5",
     "phantomjs": "^1.9.17"
   }
 }
