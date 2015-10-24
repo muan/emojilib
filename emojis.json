@@ -314,6 +314,11 @@
     "char": "🤐",
     "category": "people"
   },
+  "nerd": {
+    "keywords": ["face", "nerdy", "geek", "dork"],
+    "char": "🤓",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -4398,6 +4403,7 @@
     "thinking",
     "rolling_eyes",
     "zipper_mouth",
+    "nerd",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
