@@ -309,6 +309,11 @@
     "char": "🙄",
     "category": "people"
   },
+  "zipper_mouth": {
+    "keywords": ["face", "zipper", "sealed"],
+    "char": "🤐",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -4392,6 +4397,7 @@
     "hugging",
     "thinking",
     "rolling_eyes",
+    "zipper_mouth",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
