@@ -409,6 +409,11 @@
     "char": "👥",
     "category": "people"
   },
+  "speaking_head": {
+    "keywords": ["user", "person", "human", "speaking"],
+    "char": "🗣",
+    "category": "people"
+  },
   "baby": {
     "keywords": ["child", "boy", "girl", "toddler"],
     "char": "👶",
@@ -4462,6 +4467,7 @@
     "footprints",
     "bust_in_silhouette",
     "busts_in_silhouette",
+    "speaking_head",
     "baby",
     "boy",
     "girl",
