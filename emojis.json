@@ -769,6 +769,11 @@
     "char": "🤘",
     "category": "people"
   },
+  "raised_hand_with_fingers_splayed": {
+    "keywords": ["hand", "fingers", "raised_hand"],
+    "char": "🖐",
+    "category": "people"
+  },
   "seedling": {
     "keywords": ["plant", "nature", "grass", "lawn", "spring"],
     "char": "🌱",
@@ -4559,6 +4564,7 @@
     "pray",
     "middle_finger",
     "sign_of_horns",
+    "raised_hand_with_fingers_splayed",
     "seedling",
     "evergreen_tree",
     "deciduous_tree",
