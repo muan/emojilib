@@ -759,6 +759,11 @@
     "char": "🖕",
     "category": "people"
   },
+  "sign_of_horns": {
+    "keywords": ["hand", "fingers", "evil_eye", "metal", "rock_on"],
+    "char": "🤘",
+    "category": "people"
+  },
   "seedling": {
     "keywords": ["plant", "nature", "grass", "lawn", "spring"],
     "char": "🌱",
@@ -4547,6 +4552,7 @@
     "open_hands",
     "pray",
     "middle_finger",
+    "sign_of_horns",
     "seedling",
     "evergreen_tree",
     "deciduous_tree",
