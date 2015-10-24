@@ -319,6 +319,11 @@
     "char": "🤓",
     "category": "people"
   },
+  "white_frowning": {
+    "keywords": ["face", "frowning", "sad"],
+    "char": "☹",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -2715,7 +2720,7 @@
     "category": "objectsandsymbols"
   },
   "eyeglasses": {
-    "keywords": ["fashion", "accessories", "eyesight", "nerd", "dork", "geek"],
+    "keywords": ["fashion", "accessories", "eyesight", "nerdy", "dork", "geek"],
     "char": "👓",
     "category": "objectsandsymbols"
   },
@@ -4404,6 +4409,7 @@
     "rolling_eyes",
     "zipper_mouth",
     "nerd",
+    "white_frowning",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
