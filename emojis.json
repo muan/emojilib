@@ -329,6 +329,11 @@
     "char": "🙁",
     "category": "people"
   },
+  "upside_down": {
+    "keywords": ["face", "flipped", "silly", "smile"],
+    "char": "🙃",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -4421,6 +4426,7 @@
     "nerd",
     "white_frowning",
     "slightly_sad",
+    "upside_down",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
