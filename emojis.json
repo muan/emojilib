@@ -2565,7 +2565,7 @@
     "category": "objectsandsymbols"
   },
   "pager": {
-    "keywords": ["bbcall", "oldschool"],
+    "keywords": ["bbcall", "oldschool", "90s"],
     "char": "📟",
     "category": "objectsandsymbols"
   },
@@ -2585,17 +2585,17 @@
     "category": "objectsandsymbols"
   },
   "minidisc": {
-    "keywords": ["technology", "record", "data", "disk"],
+    "keywords": ["technology", "record", "data", "disk", "90s"],
     "char": "💽",
     "category": "objectsandsymbols"
   },
   "floppy_disk": {
-    "keywords": ["oldschool", "technology", "save", "90s"],
+    "keywords": ["oldschool", "technology", "save", "90s", "80s"],
     "char": "💾",
     "category": "objectsandsymbols"
   },
   "cd": {
-    "keywords": ["technology", "dvd", "disk", "disc"],
+    "keywords": ["technology", "dvd", "disk", "disc", "90s"],
     "char": "💿",
     "category": "objectsandsymbols"
   },
@@ -2690,7 +2690,7 @@
     "category": "objectsandsymbols"
   },
   "eyeglasses": {
-    "keywords": ["fashion", "accessories", "eyesight", "nerd", "dork"],
+    "keywords": ["fashion", "accessories", "eyesight", "nerd", "dork", "geek"],
     "char": "👓",
     "category": "objectsandsymbols"
   },
@@ -2700,12 +2700,12 @@
     "category": "objectsandsymbols"
   },
   "sandal": {
-    "keywords": ["shoes", "fashion"],
+    "keywords": ["shoes", "fashion", "flip flops"],
     "char": "👡",
     "category": "objectsandsymbols"
   },
   "high_heel": {
-    "keywords": ["fashion", "shoes", "female", "pumps"],
+    "keywords": ["fashion", "shoes", "female", "pumps", "stiletto"],
     "char": "👠",
     "category": "objectsandsymbols"
   },
@@ -2720,7 +2720,7 @@
     "category": "objectsandsymbols"
   },
   "athletic_shoe": {
-    "keywords": ["shoes", "sports"],
+    "keywords": ["shoes", "sports", "sneakers"],
     "char": "👟",
     "category": "objectsandsymbols"
   },
@@ -2745,7 +2745,7 @@
     "category": "objectsandsymbols"
   },
   "shirt": {
-    "keywords": ["fashion", "cloth", "casual", "tshirt"],
+    "keywords": ["fashion", "cloth", "casual", "tshirt", "tee"],
     "char": "👕",
     "category": "objectsandsymbols"
   },
@@ -2775,7 +2775,7 @@
     "category": "objectsandsymbols"
   },
   "toilet": {
-    "keywords": ["restroom", "wc", "washroom", "bathroom"],
+    "keywords": ["restroom", "wc", "washroom", "bathroom", "potty"],
     "char": "🚽",
     "category": "objectsandsymbols"
   },
@@ -2790,7 +2790,7 @@
     "category": "objectsandsymbols"
   },
   "pill": {
-    "keywords": ["health", "medicine", "doctor", "pharmacy"],
+    "keywords": ["health", "medicine", "doctor", "pharmacy", "drug"],
     "char": "💊",
     "category": "objectsandsymbols"
   },
@@ -2830,12 +2830,12 @@
     "category": "objectsandsymbols"
   },
   "bomb": {
-    "keywords": ["boom", "explode", "explosion"],
+    "keywords": ["boom", "explode", "explosion", "terrorism"],
     "char": "💣",
     "category": "objectsandsymbols"
   },
   "smoking": {
-    "keywords": ["kills", "tobacco", "cigarette"],
+    "keywords": ["kills", "tobacco", "cigarette", "joint"],
     "char": "🚬",
     "category": "objectsandsymbols"
   },
