@@ -334,6 +334,11 @@
     "char": "🙃",
     "category": "people"
   },
+  "thermometer_face": {
+    "keywords": ["face", "sick", "thermometer"],
+    "char": "🤒",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -4422,6 +4427,7 @@
     "white_frowning",
     "slightly_sad",
     "upside_down",
+    "thermometer_face",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
