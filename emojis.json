@@ -394,11 +394,6 @@
     "char": "👭",
     "category": "people"
   },
-  "cop": {
-    "keywords": ["man", "police", "law", "legal", "enforcement", "arrest", "911"],
-    "char": "👮",
-    "category": "people"
-  },
   "dancers": {
     "keywords": ["female", "bunny", "women", "girls"],
     "char": "👯",
@@ -434,9 +429,9 @@
     "char": "👵",
     "category": "people"
   },
-  "baby": {
-    "keywords": ["child", "boy", "girl", "toddler"],
-    "char": "👶",
+  "cop": {
+    "keywords": ["man", "police", "law", "legal", "enforcement", "arrest", "911"],
+    "char": "👮",
     "category": "people"
   },
   "construction_worker": {
@@ -4394,7 +4389,6 @@
     "couple",
     "two_men_holding_hands",
     "two_women_holding_hands",
-    "cop",
     "dancers",
     "bride_with_veil",
     "person_with_blond_hair",
@@ -4402,7 +4396,7 @@
     "man_with_turban",
     "older_man",
     "older_woman",
-    "baby",
+    "cop",
     "construction_worker",
     "princess",
     "guardsman",

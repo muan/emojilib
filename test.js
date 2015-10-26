@@ -41,6 +41,16 @@ if(keys.length !== 862) {
 }
 
 //
+console.log("TEST: Ordered keys are up to date")
+
+if(data.keys.length !== 862) {
+  console.log("There are 862 emojis, but keys contains " + data.keys.length + " emojis.")
+  failed()
+} else {
+  passed()
+}
+
+//
 console.log("TEST: No duplicated entries")
 
 var arr = []
