@@ -3545,7 +3545,7 @@
     "category": "objectsandsymbols"
   },
   "arrow_forward": {
-    "keywords": ["blue-square", "right", "direction"],
+    "keywords": ["blue-square", "right", "direction", "play"],
     "char": "▶️",
     "category": "objectsandsymbols"
   },
@@ -3605,32 +3605,32 @@
     "category": "objectsandsymbols"
   },
   "arrow_upper_right": {
-    "keywords": ["blue-square", "point", "direction"],
+    "keywords": ["blue-square", "point", "direction", "diagonal", "ne", "northeast"],
     "char": "↗️",
     "category": "objectsandsymbols"
   },
   "arrow_lower_right": {
-    "keywords": ["blue-square", "direction"],
+    "keywords": ["blue-square", "direction", "diagonal", "se", "southeast"],
     "char": "↘️",
     "category": "objectsandsymbols"
   },
   "arrow_lower_left": {
-    "keywords": ["blue-square", "direction"],
+    "keywords": ["blue-square", "direction", "diagonal", "sw", "southwest"],
     "char": "↙️",
     "category": "objectsandsymbols"
   },
   "arrow_upper_left": {
-    "keywords": ["blue-square", "point", "direction"],
+    "keywords": ["blue-square", "point", "direction", "diagonal", "nw", "northwest"],
     "char": "↖️",
     "category": "objectsandsymbols"
   },
   "arrow_up_down": {
-    "keywords": ["blue-square", "direction", "way"],
+    "keywords": ["blue-square", "direction", "way", "vertical"],
     "char": "↕️",
     "category": "objectsandsymbols"
   },
   "left_right_arrow": {
-    "keywords": ["shape", "direction"],
+    "keywords": ["shape", "direction", "horizontal", "sideways"],
     "char": "↔️",
     "category": "objectsandsymbols"
   },
@@ -3645,7 +3645,7 @@
     "category": "objectsandsymbols"
   },
   "leftwards_arrow_with_hook": {
-    "keywords": ["back", "return", "blue-square", "undo"],
+    "keywords": ["back", "return", "blue-square", "undo", "enter"],
     "char": "↩️",
     "category": "objectsandsymbols"
   },
@@ -3760,12 +3760,12 @@
     "category": "objectsandsymbols"
   },
   "signal_strength": {
-    "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth"],
+    "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth", "bars"],
     "char": "📶",
     "category": "objectsandsymbols"
   },
   "cinema": {
-    "keywords": ["blue-square", "record", "film", "movie"],
+    "keywords": ["blue-square", "record", "film", "movie", "curtain", "stage", "theater"],
     "char": "🎦",
     "category": "objectsandsymbols"
   },
@@ -3800,7 +3800,7 @@
     "category": "objectsandsymbols"
   },
   "heavy_check_mark": {
-    "keywords": ["ok", "nike"],
+    "keywords": ["ok", "nike", "yes", "tick"],
     "char": "✔️",
     "category": "objectsandsymbols"
   },
@@ -3830,7 +3830,7 @@
     "category": "objectsandsymbols"
   },
   "heavy_dollar_sign": {
-    "keywords": ["money", "sales", "payment", "currency"],
+    "keywords": ["money", "sales", "payment", "currency", "buck"],
     "char": "💲",
     "category": "objectsandsymbols"
   },
@@ -3865,7 +3865,7 @@
     "category": "objectsandsymbols"
   },
   "grey_question": {
-    "keywords": ["doubts", "gray", "huh"],
+    "keywords": ["doubts", "gray", "huh", "confused"],
     "char": "❔",
     "category": "objectsandsymbols"
   },
@@ -3880,7 +3880,7 @@
     "category": "objectsandsymbols"
   },
   "x": {
-    "keywords": ["no", "delete", "remove"],
+    "keywords": ["no", "delete", "remove", "cancel"],
     "char": "❌",
     "category": "objectsandsymbols"
   },
@@ -3995,7 +3995,7 @@
     "category": "objectsandsymbols"
   },
   "ballot_box_with_check": {
-    "keywords": ["ok", "agree", "confirm", "black-square", "vote", "election"],
+    "keywords": ["ok", "agree", "confirm", "black-square", "vote", "election", "yes"],
     "char": "☑️",
     "category": "objectsandsymbols"
   },
@@ -4215,7 +4215,7 @@
     "category": "objectsandsymbols"
   },
   "clock12": {
-    "keywords": ["time", "noon", "midnight", "late", "early", "schedule"],
+    "keywords": ["time", "noon", "midnight", "midday", "late", "early", "schedule"],
     "char": "🕛",
     "category": "objectsandsymbols"
   },
