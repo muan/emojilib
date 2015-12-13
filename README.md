@@ -48,6 +48,8 @@ var emojis = require("emojilib")
 * [Megamoji](http://megamoji.muan.co) – [muan/megamoji](https://github.com/muan/megamoji)
 * [Emoji-translate](http://meowni.ca/emoji-translate) - [notwaldorf/emoji-translate](https://github.com/notwaldorf/emoji-translate)
 * [\<emo-ji\> Custom Element](https://github.com/wbinnssmith/emo-ji)
+* [Menubar emoji search: Mojibar](https://github.com/muan/mojibar) – [muan/mojibar](https://github.com/muan/mojibar)
+* [Emoji CLI](https://github.com/muan/emoji-cli) – [muan/emoji-cli](https://github.com/muan/emoji-cli)
 
 ## :heart: YES
 
