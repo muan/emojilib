@@ -50,6 +50,7 @@ var emojis = require("emojilib")
 * [\<emo-ji\> Custom Element](https://github.com/wbinnssmith/emo-ji)
 * [Menubar emoji search: Mojibar](https://github.com/muan/mojibar) – [muan/mojibar](https://github.com/muan/mojibar)
 * [Emoji CLI](https://github.com/muan/emoji-cli) – [muan/emoji-cli](https://github.com/muan/emoji-cli)
+* [Emoji Lookup for Launchbar](https://github.com/jasonrudolph/launchbar-emoji-lookup) – [jasonrudolph/launchbar-emoji-lookup](https://github.com/jasonrudolph/launchbar-emoji-lookup)
 
 ## :heart: YES
 
