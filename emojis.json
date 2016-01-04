@@ -3340,7 +3340,7 @@
     "category": "objectsandsymbols"
   },
   "white_check_mark": {
-    "keywords": ["green-square", "ok", "agree", "vote", "election"],
+    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer"],
     "char": "✅",
     "category": "objectsandsymbols"
   },
@@ -3800,7 +3800,7 @@
     "category": "objectsandsymbols"
   },
   "heavy_check_mark": {
-    "keywords": ["ok", "nike"],
+    "keywords": ["ok", "nike", "answer"],
     "char": "✔️",
     "category": "objectsandsymbols"
   },
