@@ -46,8 +46,8 @@ if(keys.length !== emojiNumber) {
 //
 console.log("TEST: Ordered keys are up to date")
 
-if(data.keys.length !== 903) {
-  console.log("There are 862 emojis, but keys contains " + data.keys.length + " emojis.")
+if(data.keys.length !== emojiNumber) {
+  console.log("There are " + emojiNumber + " emojis, but keys contains " + data.keys.length + " emojis.")
   failed()
 } else {
   passed()
