@@ -22,8 +22,8 @@ console.log("\nTEST: Correct JSON format")
 
 try {
   var data = JSON.parse(fs.read('emojis.json'))
+  var orderd_keys = JSON.parse(fs.read('ordered.json'))
   var keys = Object.keys(data)
-  keys.splice(keys.indexOf('keys'), 1)
   passed()
 } catch(e) {
   console.log('Invalid JSON format. See the CONTRIBUTING doc for reference.')
@@ -46,8 +46,8 @@ if(keys.length !== emojiNumber) {
 //
 console.log("TEST: Ordered keys are up to date")
 
-if(data.keys.length !== 903) {
-  console.log("There are 862 emojis, but keys contains " + data.keys.length + " emojis.")
+if(orderd_keys.length !== emojiNumber) {
+  console.log("There are " + emojiNumber + " emojis, but keys contains " + orderd_keys.length + " emojis.")
   failed()
 } else {
   passed()
