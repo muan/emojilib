@@ -1,4 +1,4 @@
 module.exports = {
-  "lib": require("./emojis"),
-  "ordered": require("./ordered")
+  lib: require("./emojis"),
+  ordered: require("./ordered")
 }
