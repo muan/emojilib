@@ -779,6 +779,101 @@
     "char": "✍",
     "category": "people"
   },
+  "seedling": {
+    "keywords": ["plant", "nature", "grass", "lawn", "spring"],
+    "char": "🌱",
+    "category": "nature"
+  },
+  "evergreen_tree": {
+    "keywords": ["plant", "nature"],
+    "char": "🌲",
+    "category": "nature"
+  },
+  "deciduous_tree": {
+    "keywords": ["plant", "nature"],
+    "char": "🌳",
+    "category": "nature"
+  },
+  "palm_tree": {
+    "keywords": ["plant", "vegetable", "nature", "summer", "beach"],
+    "char": "🌴",
+    "category": "nature"
+  },
+  "cactus": {
+    "keywords": ["vegetable", "plant", "nature"],
+    "char": "🌵",
+    "category": "nature"
+  },
+  "tulip": {
+    "keywords": ["flowers", "plant", "nature", "summer", "spring"],
+    "char": "🌷",
+    "category": "nature"
+  },
+  "cherry_blossom": {
+    "keywords": ["nature", "plant", "spring", "flower"],
+    "char": "🌸",
+    "category": "nature"
+  },
+  "rose": {
+    "keywords": ["flowers", "valentines", "love", "spring"],
+    "char": "🌹",
+    "category": "nature"
+  },
+  "hibiscus": {
+    "keywords": ["plant", "vegetable", "flowers", "beach"],
+    "char": "🌺",
+    "category": "nature"
+  },
+  "sunflower": {
+    "keywords": ["nature", "plant", "fall"],
+    "char": "🌻",
+    "category": "nature"
+  },
+  "blossom": {
+    "keywords": ["nature", "flowers", "yellow"],
+    "char": "🌼",
+    "category": "nature"
+  },
+  "bouquet": {
+    "keywords": ["flowers", "nature", "spring"],
+    "char": "💐",
+    "category": "nature"
+  },
+  "ear_of_rice": {
+    "keywords": ["nature", "plant"],
+    "char": "🌾",
+    "category": "nature"
+  },
+  "herb": {
+    "keywords": ["vegetable", "plant", "medicine", "weed", "grass", "lawn"],
+    "char": "🌿",
+    "category": "nature"
+  },
+  "four_leaf_clover": {
+    "keywords": ["vegetable", "plant", "nature", "lucky"],
+    "char": "🍀",
+    "category": "nature"
+  },
+  "maple_leaf": {
+    "keywords": ["nature", "plant", "vegetable", "canada", "fall"],
+    "char": "🍁",
+    "category": "nature"
+  },
+  "sign_of_horns": {
+    "keywords": ["hand", "fingers", "evil_eye", "metal", "rock_on"],
+    "char": "🤘",
+    "category": "people"
+  },
+  "splayed_fingers": {
+    "keywords": ["raised_hand"],
+    "char": "🖐",
+    "category": "people"
+  },
+  "writing_hand": {
+    "keywords": ["pen"],
+    "char": "✍",
+    "category": "people"
+  },
   "dark_sunglasses": {
     "keywords": ["face", "cool", "accessories"],
     "char": "🕶",
