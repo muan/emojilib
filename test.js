@@ -1,6 +1,7 @@
 var fs          = require('fs')
 var rawData     = fs.read('emojis.json').toString()
 var buildFailed = false
+var escapeStr   = require('escape-string-regexp')
 var passed      = function() { console.log("\x1B[92mPASSED\x1B[0m\n") }
 var failed      = function() {
   console.log("\x1B[91mFAILED\x1B[0m\n")
@@ -83,6 +84,7 @@ var unnecessitiesInKeywords = []
 
 keys.forEach(function(key) {
   data[key]["keywords"].forEach(function(keyword) {
+    keyword = escapeStr(keyword)
     if(key.match(keyword)) {
       unnecessities.push([key, keyword])
     }
@@ -115,7 +117,7 @@ console.log("TEST: Line format")
 
 var offenses = []
 var lines = rawData.replace(/^{\n([\s\S]*)\n}\n$/, '$1').split("\n")
-var baseRegex = '^    "keywords": \\["[\\w- ]+"(, "[\\w- ]+")*\\]'
+var baseRegex = '^    "keywords": \\["[^\"]+"(, "[^\"]+")*\\]'
 var contentRegex = new RegExp(baseRegex + ',$')
 var lastLineRegex = new RegExp(baseRegex + '$')
 lines.forEach(function(line, index) {
