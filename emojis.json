@@ -289,6 +289,66 @@
     "char": "😷",
     "category": "people"
   },
+  "slightly_smiling": {
+    "keywords": ["face", "smile"],
+    "char": "🙂",
+    "category": "people"
+  },
+  "hugging": {
+    "keywords": ["face", "smile"],
+    "char": "🤗",
+    "category": "people"
+  },
+  "thinking": {
+    "keywords": ["face"],
+    "char": "🤔",
+    "category": "people"
+  },
+  "rolling_eyes": {
+    "keywords": ["face", "eyeroll", "frustrated"],
+    "char": "🙄",
+    "category": "people"
+  },
+  "zipper_mouth": {
+    "keywords": ["face", "sealed"],
+    "char": "🤐",
+    "category": "people"
+  },
+  "nerd": {
+    "keywords": ["face", "nerdy", "geek", "dork"],
+    "char": "🤓",
+    "category": "people"
+  },
+  "white_frowning": {
+    "keywords": ["face", "sad"],
+    "char": "☹",
+    "category": "people"
+  },
+  "slightly_sad": {
+    "keywords": ["face", "frowning", "disappointed"],
+    "char": "🙁",
+    "category": "people"
+  },
+  "upside_down": {
+    "keywords": ["face", "flipped", "silly", "smile"],
+    "char": "🙃",
+    "category": "people"
+  },
+  "thermometer_face": {
+    "keywords": ["sick", "temperature"],
+    "char": "🤒",
+    "category": "people"
+  },
+  "bandage_face": {
+    "keywords": ["injured", "clumsy"],
+    "char": "🤕",
+    "category": "people"
+  },
+  "money_mouth": {
+    "keywords": ["face", "rich", "dollar"],
+    "char": "🤑",
+    "category": "people"
+  },
   "smile_cat": {
     "keywords": ["animal", "cats"],
     "char": "😸",
@@ -347,6 +407,16 @@
   "busts_in_silhouette": {
     "keywords": ["user", "person", "human", "group", "team"],
     "char": "👥",
+    "category": "people"
+  },
+  "speaking_head": {
+    "keywords": ["user", "person", "human"],
+    "char": "🗣",
+    "category": "people"
+  },
+  "man_levitating": {
+    "keywords": ["suit", "business", "levitate", "hover", "jump"],
+    "char": "🕴",
     "category": "people"
   },
   "baby": {
@@ -437,6 +507,16 @@
   "construction_worker": {
     "keywords": ["male", "human", "wip", "guy", "build"],
     "char": "👷",
+    "category": "people"
+  },
+  "helmet": {
+    "keywords": ["construction", "build"],
+    "char": "⛑",
+    "category": "people"
+  },
+  "sleuth": {
+    "keywords": ["human", "spy", "detective"],
+    "char": "🕵",
     "category": "people"
   },
   "princess": {
@@ -564,6 +644,11 @@
     "char": "👂",
     "category": "people"
   },
+  "eye": {
+    "keywords": ["face", "look", "see", "watch", "stare"],
+    "char": "👁",
+    "category": "people"
+  },
   "eyes": {
     "keywords": ["look", "watch", "stalk", "peek", "see"],
     "char": "👀",
@@ -674,630 +759,815 @@
     "char": "🙏",
     "category": "people"
   },
-  "seedling": {
-    "keywords": ["plant", "nature", "grass", "lawn", "spring"],
-    "char": "🌱",
-    "category": "nature"
+  "middle_finger": {
+    "keywords": ["hand", "fingers", "rude"],
+    "char": "🖕",
+    "category": "people"
   },
-  "evergreen_tree": {
-    "keywords": ["plant", "nature"],
-    "char": "🌲",
-    "category": "nature"
+  "sign_of_horns": {
+    "keywords": ["hand", "fingers", "evil_eye", "metal", "rock_on"],
+    "char": "🤘",
+    "category": "people"
   },
-  "deciduous_tree": {
-    "keywords": ["plant", "nature"],
-    "char": "🌳",
-    "category": "nature"
+  "splayed_fingers": {
+    "keywords": ["raised_hand"],
+    "char": "🖐",
+    "category": "people"
   },
-  "palm_tree": {
-    "keywords": ["plant", "vegetable", "nature", "summer", "beach"],
-    "char": "🌴",
-    "category": "nature"
+  "writing_hand": {
+    "keywords": ["pen"],
+    "char": "✍",
+    "category": "people"
   },
-  "cactus": {
-    "keywords": ["vegetable", "plant", "nature"],
-    "char": "🌵",
-    "category": "nature"
-  },
-  "tulip": {
-    "keywords": ["flowers", "plant", "nature", "summer", "spring"],
-    "char": "🌷",
-    "category": "nature"
-  },
-  "cherry_blossom": {
-    "keywords": ["nature", "plant", "spring", "flower"],
-    "char": "🌸",
-    "category": "nature"
-  },
-  "rose": {
-    "keywords": ["flowers", "valentines", "love", "spring"],
-    "char": "🌹",
-    "category": "nature"
-  },
-  "hibiscus": {
-    "keywords": ["plant", "vegetable", "flowers", "beach"],
-    "char": "🌺",
-    "category": "nature"
-  },
-  "sunflower": {
-    "keywords": ["nature", "plant", "fall"],
-    "char": "🌻",
-    "category": "nature"
-  },
-  "blossom": {
-    "keywords": ["nature", "flowers", "yellow"],
-    "char": "🌼",
-    "category": "nature"
-  },
-  "bouquet": {
-    "keywords": ["flowers", "nature", "spring"],
-    "char": "💐",
-    "category": "nature"
-  },
-  "ear_of_rice": {
-    "keywords": ["nature", "plant"],
-    "char": "🌾",
-    "category": "nature"
-  },
-  "herb": {
-    "keywords": ["vegetable", "plant", "medicine", "weed", "grass", "lawn"],
-    "char": "🌿",
-    "category": "nature"
-  },
-  "four_leaf_clover": {
-    "keywords": ["vegetable", "plant", "nature", "lucky"],
-    "char": "🍀",
-    "category": "nature"
-  },
-  "maple_leaf": {
-    "keywords": ["nature", "plant", "vegetable", "canada", "fall"],
-    "char": "🍁",
-    "category": "nature"
-  },
-  "fallen_leaf": {
-    "keywords": ["nature", "plant", "vegetable", "leaves"],
-    "char": "🍂",
-    "category": "nature"
-  },
-  "leaves": {
-    "keywords": ["nature", "plant", "tree", "vegetable", "grass", "lawn", "spring"],
-    "char": "🍃",
-    "category": "nature"
-  },
-  "mushroom": {
-    "keywords": ["plant", "vegetable"],
-    "char": "🍄",
-    "category": "nature"
-  },
-  "chestnut": {
-    "keywords": ["food", "squirrel"],
-    "char": "🌰",
-    "category": "nature"
-  },
-  "rat": {
-    "keywords": ["animal", "mouse", "rodent"],
-    "char": "🐀",
-    "category": "nature"
-  },
-  "mouse2": {
-    "keywords": ["animal", "nature", "rodent"],
-    "char": "🐁",
-    "category": "nature"
-  },
-  "mouse": {
-    "keywords": ["animal", "nature", "cheese"],
-    "char": "🐭",
-    "category": "nature"
-  },
-  "hamster": {
-    "keywords": ["animal", "nature"],
-    "char": "🐹",
-    "category": "nature"
-  },
-  "ox": {
-    "keywords": ["animal", "cow", "beef"],
-    "char": "🐂",
-    "category": "nature"
-  },
-  "water_buffalo": {
-    "keywords": ["animal", "nature", "ox", "cow"],
-    "char": "🐃",
-    "category": "nature"
-  },
-  "cow2": {
-    "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
-    "char": "🐄",
-    "category": "nature"
-  },
-  "cow": {
-    "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
-    "char": "🐮",
-    "category": "nature"
-  },
-  "tiger2": {
-    "keywords": ["animal", "nature", "roar"],
-    "char": "🐅",
-    "category": "nature"
-  },
-  "leopard": {
-    "keywords": ["animal", "nature"],
-    "char": "🐆",
-    "category": "nature"
-  },
-  "tiger": {
-    "keywords": ["animal", "cat", "danger", "wild", "nature", "roar"],
-    "char": "🐯",
-    "category": "nature"
-  },
-  "rabbit2": {
-    "keywords": ["animal", "nature", "pet", "magic", "spring"],
-    "char": "🐇",
-    "category": "nature"
-  },
-  "rabbit": {
-    "keywords": ["animal", "nature", "pet", "spring", "magic"],
-    "char": "🐰",
-    "category": "nature"
-  },
-  "cat2": {
-    "keywords": ["animal", "meow", "pet", "cats"],
-    "char": "🐈",
-    "category": "nature"
-  },
-  "cat": {
-    "keywords": ["animal", "meow", "nature", "pet"],
-    "char": "🐱",
-    "category": "nature"
-  },
-  "racehorse": {
-    "keywords": ["animal", "gamble", "luck"],
-    "char": "🐎",
-    "category": "nature"
-  },
-  "horse": {
-    "keywords": ["animal", "brown", "nature", "unicorn"],
-    "char": "🐴",
-    "category": "nature"
-  },
-  "ram": {
-    "keywords": ["animal", "sheep", "nature"],
-    "char": "🐏",
-    "category": "nature"
-  },
-  "sheep": {
-    "keywords": ["animal", "nature", "wool", "shipit"],
-    "char": "🐑",
-    "category": "nature"
-  },
-  "goat": {
-    "keywords": ["animal", "nature"],
-    "char": "🐐",
-    "category": "nature"
-  },
-  "rooster": {
-    "keywords": ["animal", "nature", "chicken"],
-    "char": "🐓",
-    "category": "nature"
-  },
-  "chicken": {
-    "keywords": ["animal", "cluck", "nature", "bird"],
-    "char": "🐔",
-    "category": "nature"
-  },
-  "baby_chick": {
-    "keywords": ["animal", "chicken", "bird"],
-    "char": "🐤",
-    "category": "nature"
-  },
-  "hatching_chick": {
-    "keywords": ["animal", "chicken", "egg", "born", "baby", "bird"],
-    "char": "🐣",
-    "category": "nature"
-  },
-  "hatched_chick": {
-    "keywords": ["animal", "chicken", "baby", "bird"],
-    "char": "🐥",
-    "category": "nature"
-  },
-  "bird": {
-    "keywords": ["animal", "nature", "fly", "tweet", "spring"],
-    "char": "🐦",
-    "category": "nature"
-  },
-  "penguin": {
-    "keywords": ["animal", "nature"],
-    "char": "🐧",
-    "category": "nature"
-  },
-  "elephant": {
-    "keywords": ["animal", "nature", "nose", "thailand", "circus"],
-    "char": "🐘",
-    "category": "nature"
-  },
-  "dromedary_camel": {
-    "keywords": ["animal", "hot", "desert", "hump"],
-    "char": "🐪",
-    "category": "nature"
-  },
-  "camel": {
-    "keywords": ["animal", "nature", "hot", "desert", "hump"],
-    "char": "🐫",
-    "category": "nature"
-  },
-  "boar": {
-    "keywords": ["animal", "nature"],
-    "char": "🐗",
-    "category": "nature"
-  },
-  "pig2": {
-    "keywords": ["animal", "nature"],
-    "char": "🐖",
-    "category": "nature"
-  },
-  "pig": {
-    "keywords": ["animal", "oink", "nature"],
-    "char": "🐷",
-    "category": "nature"
-  },
-  "pig_nose": {
-    "keywords": ["animal", "oink"],
-    "char": "🐽",
-    "category": "nature"
-  },
-  "dog2": {
-    "keywords": ["animal", "nature", "friend", "doge", "pet", "faithful"],
-    "char": "🐕",
-    "category": "nature"
-  },
-  "poodle": {
-    "keywords": ["dog", "animal", "101", "nature", "pet"],
-    "char": "🐩",
-    "category": "nature"
+  "dark_sunglasses": {
+    "keywords": ["face", "cool", "accessories"],
+    "char": "🕶",
+    "category": "people"
   },
   "dog": {
     "keywords": ["animal", "friend", "nature", "woof", "puppy", "pet", "faithful"],
     "char": "🐶",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
-  "wolf": {
-    "keywords": ["animal", "nature", "wild"],
-    "char": "🐺",
-    "category": "nature"
+  "cat": {
+    "keywords": ["animal", "meow", "nature", "pet"],
+    "char": "🐱",
+    "category": "animals_and_nature"
+  },
+  "mouse": {
+    "keywords": ["animal", "nature", "cheese", "rodent"],
+    "char": "🐭",
+    "category": "animals_and_nature"
+  },
+  "hamster": {
+    "keywords": ["animal", "nature"],
+    "char": "🐹",
+    "category": "animals_and_nature"
+  },
+  "rabbit": {
+    "keywords": ["animal", "nature", "pet", "spring", "magic"],
+    "char": "🐰",
+    "category": "animals_and_nature"
   },
   "bear": {
     "keywords": ["animal", "nature", "wild"],
     "char": "🐻",
-    "category": "nature"
-  },
-  "koala": {
-    "keywords": ["animal", "nature"],
-    "char": "🐨",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "panda_face": {
     "keywords": ["animal", "nature"],
     "char": "🐼",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
-  "monkey_face": {
-    "keywords": ["animal", "nature", "circus"],
-    "char": "🐵",
-    "category": "nature"
+  "koala": {
+    "keywords": ["animal", "nature"],
+    "char": "🐨",
+    "category": "animals_and_nature"
   },
-  "see_no_evil": {
-    "keywords": ["monkey", "animal", "nature", "haha"],
-    "char": "🙈",
-    "category": "nature"
+  "tiger": {
+    "keywords": ["animal", "cat", "danger", "wild", "nature", "roar"],
+    "char": "🐯",
+    "category": "animals_and_nature"
   },
-  "hear_no_evil": {
-    "keywords": ["animal", "monkey", "nature"],
-    "char": "🙉",
-    "category": "nature"
+  "lion_face": {
+    "keywords": ["animal", "nature"],
+    "char": "🦁",
+    "category": "animals_and_nature"
   },
-  "speak_no_evil": {
-    "keywords": ["monkey", "animal", "nature", "omg"],
-    "char": "🙊",
-    "category": "nature"
+  "cow": {
+    "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
+    "char": "🐮",
+    "category": "animals_and_nature"
   },
-  "monkey": {
-    "keywords": ["animal", "nature", "banana", "circus"],
-    "char": "🐒",
-    "category": "nature"
+  "pig": {
+    "keywords": ["animal", "oink", "nature"],
+    "char": "🐷",
+    "category": "animals_and_nature"
   },
-  "dragon": {
-    "keywords": ["animal", "myth", "nature", "chinese", "green"],
-    "char": "🐉",
-    "category": "nature"
-  },
-  "dragon_face": {
-    "keywords": ["animal", "myth", "nature", "chinese", "green"],
-    "char": "🐲",
-    "category": "nature"
-  },
-  "crocodile": {
-    "keywords": ["animal", "nature", "reptile"],
-    "char": "🐊",
-    "category": "nature"
-  },
-  "snake": {
-    "keywords": ["animal", "evil", "nature", "hiss", "python"],
-    "char": "🐍",
-    "category": "nature"
-  },
-  "turtle": {
-    "keywords": ["animal", "slow", "nature", "tortoise"],
-    "char": "🐢",
-    "category": "nature"
+  "pig_nose": {
+    "keywords": ["animal", "oink"],
+    "char": "🐽",
+    "category": "animals_and_nature"
   },
   "frog": {
     "keywords": ["animal", "nature", "croak"],
     "char": "🐸",
-    "category": "nature"
-  },
-  "whale2": {
-    "keywords": ["animal", "nature", "sea", "ocean"],
-    "char": "🐋",
-    "category": "nature"
-  },
-  "whale": {
-    "keywords": ["animal", "nature", "sea", "ocean"],
-    "char": "🐳",
-    "category": "nature"
-  },
-  "dolphin": {
-    "keywords": ["animal", "nature", "fish", "sea", "ocean", "flipper", "fins", "beach"],
-    "char": "🐬",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "octopus": {
     "keywords": ["animal", "creature", "ocean", "sea", "nature", "beach"],
     "char": "🐙",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
-  "fish": {
-    "keywords": ["animal", "food", "nature"],
-    "char": "🐟",
-    "category": "nature"
+  "monkey_face": {
+    "keywords": ["animal", "nature", "circus"],
+    "char": "🐵",
+    "category": "animals_and_nature"
   },
-  "tropical_fish": {
-    "keywords": ["animal", "swim", "ocean", "beach", "nemo"],
-    "char": "🐠",
-    "category": "nature"
+  "see_no_evil": {
+    "keywords": ["monkey", "animal", "nature", "haha"],
+    "char": "🙈",
+    "category": "animals_and_nature"
   },
-  "blowfish": {
-    "keywords": ["animal", "nature", "food", "sea", "ocean"],
-    "char": "🐡",
-    "category": "nature"
+  "hear_no_evil": {
+    "keywords": ["animal", "monkey", "nature"],
+    "char": "🙉",
+    "category": "animals_and_nature"
   },
-  "shell": {
-    "keywords": ["nature", "sea", "beach"],
-    "char": "🐚",
-    "category": "nature"
+  "speak_no_evil": {
+    "keywords": ["monkey", "animal", "nature", "omg"],
+    "char": "🙊",
+    "category": "animals_and_nature"
   },
-  "snail": {
-    "keywords": ["slow", "animal", "shell"],
-    "char": "🐌",
-    "category": "nature"
+  "monkey": {
+    "keywords": ["animal", "nature", "banana", "circus"],
+    "char": "🐒",
+    "category": "animals_and_nature"
+  },
+  "chicken": {
+    "keywords": ["animal", "cluck", "nature", "bird"],
+    "char": "🐔",
+    "category": "animals_and_nature"
+  },
+  "penguin": {
+    "keywords": ["animal", "nature"],
+    "char": "🐧",
+    "category": "animals_and_nature"
+  },
+  "bird": {
+    "keywords": ["animal", "nature", "fly", "tweet", "spring"],
+    "char": "🐦",
+    "category": "animals_and_nature"
+  },
+  "baby_chick": {
+    "keywords": ["animal", "chicken", "bird"],
+    "char": "🐤",
+    "category": "animals_and_nature"
+  },
+  "hatching_chick": {
+    "keywords": ["animal", "chicken", "egg", "born", "baby", "bird"],
+    "char": "🐣",
+    "category": "animals_and_nature"
+  },
+  "hatched_chick": {
+    "keywords": ["animal", "chicken", "baby", "bird"],
+    "char": "🐥",
+    "category": "animals_and_nature"
+  },
+  "wolf": {
+    "keywords": ["animal", "nature", "wild"],
+    "char": "🐺",
+    "category": "animals_and_nature"
+  },
+  "boar": {
+    "keywords": ["animal", "nature"],
+    "char": "🐗",
+    "category": "animals_and_nature"
+  },
+  "horse": {
+    "keywords": ["animal", "brown", "nature"],
+    "char": "🐴",
+    "category": "animals_and_nature"
+  },
+  "unicorn_face": {
+    "keywords": ["animal", "nature", "mystical"],
+    "char": "🦄",
+    "category": "animals_and_nature"
+  },
+  "bee": {
+    "keywords": ["animal", "insect", "nature", "bug", "spring", "honey"],
+    "char": "🐝",
+    "category": "animals_and_nature"
   },
   "bug": {
     "keywords": ["animal", "insect", "nature", "worm"],
     "char": "🐛",
-    "category": "nature"
+    "category": "animals_and_nature"
+  },
+  "snail": {
+    "keywords": ["slow", "animal", "shell"],
+    "char": "🐌",
+    "category": "animals_and_nature"
+  },
+  "beetle": {
+    "keywords": ["animal", "insect", "nature", "ladybug"],
+    "char": "🐞",
+    "category": "animals_and_nature"
   },
   "ant": {
     "keywords": ["animal", "insect", "nature", "bug"],
     "char": "🐜",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
-  "bee": {
-    "keywords": ["animal", "insect", "nature", "bug", "spring"],
-    "char": "🐝",
-    "category": "nature"
+  "spider": {
+    "keywords": ["animal", "arachnid"],
+    "char": "🕷",
+    "category": "animals_and_nature"
   },
-  "beetle": {
-    "keywords": ["animal", "insect", "nature", "bug"],
-    "char": "🐞",
-    "category": "nature"
+  "scorpion": {
+    "keywords": ["animal", "arachnid"],
+    "char": "🦂",
+    "category": "animals_and_nature"
+  },
+  "crab": {
+    "keywords": ["animal", "crustacean"],
+    "char": "🦀",
+    "category": "animals_and_nature"
+  },
+  "snake": {
+    "keywords": ["animal", "evil", "nature", "hiss", "python"],
+    "char": "🐍",
+    "category": "animals_and_nature"
+  },
+  "turtle": {
+    "keywords": ["animal", "slow", "nature", "tortoise"],
+    "char": "🐢",
+    "category": "animals_and_nature"
+  },
+  "tropical_fish": {
+    "keywords": ["animal", "swim", "ocean", "beach", "nemo"],
+    "char": "🐠",
+    "category": "animals_and_nature"
+  },
+  "fish": {
+    "keywords": ["animal", "food", "nature"],
+    "char": "🐟",
+    "category": "animals_and_nature"
+  },
+  "blowfish": {
+    "keywords": ["animal", "nature", "food", "sea", "ocean"],
+    "char": "🐡",
+    "category": "animals_and_nature"
+  },
+  "dolphin": {
+    "keywords": ["animal", "nature", "fish", "sea", "ocean", "flipper", "fins", "beach"],
+    "char": "🐬",
+    "category": "animals_and_nature"
+  },
+  "whale": {
+    "keywords": ["animal", "nature", "sea", "ocean"],
+    "char": "🐳",
+    "category": "animals_and_nature"
+  },
+  "whale2": {
+    "keywords": ["animal", "nature", "sea", "ocean"],
+    "char": "🐋",
+    "category": "animals_and_nature"
+  },
+  "crocodile": {
+    "keywords": ["animal", "nature", "reptile"],
+    "char": "🐊",
+    "category": "animals_and_nature"
+  },
+  "leopard": {
+    "keywords": ["animal", "nature"],
+    "char": "🐆",
+    "category": "animals_and_nature"
+  },
+  "tiger2": {
+    "keywords": ["animal", "nature", "roar"],
+    "char": "🐅",
+    "category": "animals_and_nature"
+  },
+  "water_buffalo": {
+    "keywords": ["animal", "nature", "ox", "cow"],
+    "char": "🐃",
+    "category": "animals_and_nature"
+  },
+  "ox": {
+    "keywords": ["animal", "cow", "beef"],
+    "char": "🐂",
+    "category": "animals_and_nature"
+  },
+  "cow2": {
+    "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
+    "char": "🐄",
+    "category": "animals_and_nature"
+  },
+  "dromedary_camel": {
+    "keywords": ["animal", "hot", "desert", "hump"],
+    "char": "🐪",
+    "category": "animals_and_nature"
+  },
+  "camel": {
+    "keywords": ["animal", "nature", "hot", "desert", "hump"],
+    "char": "🐫",
+    "category": "animals_and_nature"
+  },
+  "elephant": {
+    "keywords": ["animal", "nature", "nose", "thailand", "circus"],
+    "char": "🐘",
+    "category": "animals_and_nature"
+  },
+  "goat": {
+    "keywords": ["animal", "nature"],
+    "char": "🐐",
+    "category": "animals_and_nature"
+  },
+  "ram": {
+    "keywords": ["animal", "sheep", "nature"],
+    "char": "🐏",
+    "category": "animals_and_nature"
+  },
+  "sheep": {
+    "keywords": ["animal", "nature", "wool", "shipit"],
+    "char": "🐑",
+    "category": "animals_and_nature"
+  },
+  "racehorse": {
+    "keywords": ["animal", "gamble", "luck"],
+    "char": "🐎",
+    "category": "animals_and_nature"
+  },
+  "pig2": {
+    "keywords": ["animal", "nature"],
+    "char": "🐖",
+    "category": "animals_and_nature"
+  },
+  "rat": {
+    "keywords": ["animal", "mouse", "rodent"],
+    "char": "🐀",
+    "category": "animals_and_nature"
+  },
+  "mouse2": {
+    "keywords": ["animal", "nature", "rodent"],
+    "char": "🐁",
+    "category": "animals_and_nature"
+  },
+  "rooster": {
+    "keywords": ["animal", "nature", "chicken"],
+    "char": "🐓",
+    "category": "animals_and_nature"
+  },
+  "turkey": {
+    "keywords": ["animal", "bird"],
+    "char": "🦃",
+    "category": "animals_and_nature"
+  },
+  "dove_of_peace": {
+    "keywords": ["animal", "bird"],
+    "char": "🕊",
+    "category": "animals_and_nature"
+  },
+  "dog2": {
+    "keywords": ["animal", "nature", "friend", "doge", "pet", "faithful"],
+    "char": "🐕",
+    "category": "animals_and_nature"
+  },
+  "poodle": {
+    "keywords": ["dog", "animal", "101", "nature", "pet"],
+    "char": "🐩",
+    "category": "animals_and_nature"
+  },
+  "cat2": {
+    "keywords": ["animal", "meow", "pet", "cats"],
+    "char": "🐈",
+    "category": "animals_and_nature"
+  },
+  "rabbit2": {
+    "keywords": ["animal", "nature", "pet", "magic", "spring"],
+    "char": "🐇",
+    "category": "animals_and_nature"
+  },
+  "chipmunk": {
+    "keywords": ["animal", "nature", "rodent"],
+    "char": "🐿",
+    "category": "animals_and_nature"
   },
   "feet": {
     "keywords": ["animal", "tracking", "footprints", "dog", "cat", "pet", "paw_prints"],
     "char": "🐾",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
-  "zap": {
-    "keywords": ["thunder", "weather", "lightning bolt", "fast"],
-    "char": "⚡",
-    "category": "nature"
+  "dragon": {
+    "keywords": ["animal", "myth", "nature", "chinese", "green"],
+    "char": "🐉",
+    "category": "animals_and_nature"
   },
-  "fire": {
-    "keywords": ["hot", "cook", "flame"],
-    "char": "🔥",
-    "category": "nature"
+  "dragon_face": {
+    "keywords": ["animal", "myth", "nature", "chinese", "green"],
+    "char": "🐲",
+    "category": "animals_and_nature"
   },
-  "crescent_moon": {
-    "keywords": ["night", "sleep", "sky", "evening", "magic"],
-    "char": "🌙",
-    "category": "nature"
+  "cactus": {
+    "keywords": ["vegetable", "plant", "nature"],
+    "char": "🌵",
+    "category": "animals_and_nature"
   },
-  "sunny": {
-    "keywords": ["weather", "nature", "brightness", "summer", "beach", "spring"],
-    "char": "☀️",
-    "category": "nature"
+  "christmas_tree": {
+    "keywords": ["festival", "vacation", "december", "xmas", "celebration"],
+    "char": "🎄",
+    "category": "celebration"
   },
-  "partly_sunny": {
-    "keywords": ["weather", "nature", "cloudy", "morning", "fall", "spring"],
-    "char": "⛅",
-    "category": "nature"
+  "evergreen_tree": {
+    "keywords": ["plant", "nature"],
+    "char": "🌲",
+    "category": "animals_and_nature"
   },
-  "cloud": {
-    "keywords": ["weather", "sky"],
-    "char": "☁️",
-    "category": "nature"
+  "deciduous_tree": {
+    "keywords": ["plant", "nature"],
+    "char": "🌳",
+    "category": "animals_and_nature"
   },
-  "droplet": {
-    "keywords": ["water", "drip", "faucet", "spring"],
-    "char": "💧",
-    "category": "nature"
+  "palm_tree": {
+    "keywords": ["plant", "vegetable", "nature", "summer", "beach"],
+    "char": "🌴",
+    "category": "animals_and_nature"
   },
-  "sweat_drops": {
-    "keywords": ["water", "drip", "oops"],
-    "char": "💦",
-    "category": "nature"
+  "seedling": {
+    "keywords": ["plant", "nature", "grass", "lawn", "spring"],
+    "char": "🌱",
+    "category": "animals_and_nature"
   },
-  "umbrella": {
-    "keywords": ["rainy", "weather", "spring"],
-    "char": "☔",
-    "category": "nature"
+  "herb": {
+    "keywords": ["vegetable", "plant", "medicine", "weed", "grass", "lawn"],
+    "char": "🌿",
+    "category": "animals_and_nature"
   },
-  "dash": {
-    "keywords": ["wind", "air", "fast", "shoo", "fart", "smoke", "puff"],
-    "char": "💨",
-    "category": "nature"
+  "shamrock": {
+    "keywords": ["vegetable", "plant", "nature", "irish"],
+    "char": "☘",
+    "category": "animals_and_nature"
   },
-  "snowflake": {
-    "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas"],
-    "char": "❄️",
-    "category": "nature"
+  "four_leaf_clover": {
+    "keywords": ["vegetable", "plant", "nature", "lucky", "irish"],
+    "char": "🍀",
+    "category": "animals_and_nature"
   },
-  "star2": {
-    "keywords": ["night", "sparkle", "awesome", "good", "magic"],
-    "char": "🌟",
-    "category": "nature"
+  "bamboo": {
+    "keywords": ["plant", "nature", "vegetable", "panda", "pine_decoration"],
+    "char": "🎍",
+    "category": "animals_and_nature"
   },
-  "star": {
-    "keywords": ["night", "yellow"],
-    "char": "⭐",
-    "category": "nature"
+  "tanabata_tree": {
+    "keywords": ["plant", "nature", "branch", "summer"],
+    "char": "🎋",
+    "category": "animals_and_nature"
   },
-  "stars": {
-    "keywords": ["night", "photo"],
-    "char": "🌠",
-    "category": "nature"
+  "leaves": {
+    "keywords": ["nature", "plant", "tree", "vegetable", "grass", "lawn", "spring"],
+    "char": "🍃",
+    "category": "animals_and_nature"
   },
-  "sunrise_over_mountains": {
-    "keywords": ["view", "vacation", "photo"],
-    "char": "🌄",
-    "category": "nature"
+  "fallen_leaf": {
+    "keywords": ["nature", "plant", "vegetable", "leaves"],
+    "char": "🍂",
+    "category": "animals_and_nature"
   },
-  "sunrise": {
-    "keywords": ["morning", "view", "vacation", "photo"],
-    "char": "🌅",
-    "category": "nature"
+  "maple_leaf": {
+    "keywords": ["nature", "plant", "vegetable", "canada", "fall"],
+    "char": "🍁",
+    "category": "animals_and_nature"
   },
-  "rainbow": {
-    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
-    "char": "🌈",
-    "category": "nature"
+  "ear_of_rice": {
+    "keywords": ["nature", "plant"],
+    "char": "🌾",
+    "category": "animals_and_nature"
   },
-  "ocean": {
-    "keywords": ["sea", "water", "wave", "nature", "tsunami", "disaster"],
-    "char": "🌊",
-    "category": "nature"
+  "hibiscus": {
+    "keywords": ["plant", "vegetable", "flowers", "beach"],
+    "char": "🌺",
+    "category": "animals_and_nature"
   },
-  "volcano": {
-    "keywords": ["photo", "nature", "disaster"],
-    "char": "🌋",
-    "category": "nature"
+  "sunflower": {
+    "keywords": ["nature", "plant", "fall"],
+    "char": "🌻",
+    "category": "animals_and_nature"
   },
-  "milky_way": {
-    "keywords": ["photo", "space", "stars"],
-    "char": "🌌",
-    "category": "nature"
+  "rose": {
+    "keywords": ["flowers", "valentines", "love", "spring"],
+    "char": "🌹",
+    "category": "animals_and_nature"
   },
-  "mount_fuji": {
-    "keywords": ["photo", "mountain", "nature", "japanese"],
-    "char": "🗻",
-    "category": "nature"
+  "tulip": {
+    "keywords": ["flowers", "plant", "nature", "summer", "spring"],
+    "char": "🌷",
+    "category": "animals_and_nature"
   },
-  "japan": {
-    "keywords": ["nation", "country", "japanese", "asia"],
-    "char": "🗾",
-    "category": "nature"
+  "blossom": {
+    "keywords": ["nature", "flowers", "yellow"],
+    "char": "🌼",
+    "category": "animals_and_nature"
   },
-  "globe_with_meridians": {
-    "keywords": ["earth", "international", "world", "internet", "interweb", "i18n"],
-    "char": "🌐",
-    "category": "nature"
+  "cherry_blossom": {
+    "keywords": ["nature", "plant", "spring", "flower"],
+    "char": "🌸",
+    "category": "animals_and_nature"
   },
-  "earth_africa": {
-    "keywords": ["globe", "world", "international"],
-    "char": "🌍",
-    "category": "nature"
+  "bouquet": {
+    "keywords": ["flowers", "nature", "spring"],
+    "char": "💐",
+    "category": "animals_and_nature"
+  },
+  "mushroom": {
+    "keywords": ["plant", "vegetable"],
+    "char": "🍄",
+    "category": "animals_and_nature"
+  },
+  "chestnut": {
+    "keywords": ["food", "squirrel"],
+    "char": "🌰",
+    "category": "animals_and_nature"
+  },
+  "jack_o_lantern": {
+    "keywords": ["halloween", "light", "pumpkin", "creepy", "fall"],
+    "char": "🎃",
+    "category": "animals_and_nature"
+  },
+  "shell": {
+    "keywords": ["nature", "sea", "beach"],
+    "char": "🐚",
+    "category": "animals_and_nature"
+  },
+  "spider_web": {
+    "keywords": ["animal", "insect", "arachnid", "silk"],
+    "char": "🕸",
+    "category": "animals_and_nature"
   },
   "earth_americas": {
     "keywords": ["globe", "world", "USA", "international"],
     "char": "🌎",
-    "category": "nature"
+    "category": "animals_and_nature"
+  },
+  "earth_africa": {
+    "keywords": ["globe", "world", "international"],
+    "char": "🌍",
+    "category": "animals_and_nature"
   },
   "earth_asia": {
     "keywords": ["globe", "world", "east", "international"],
     "char": "🌏",
-    "category": "nature"
-  },
-  "new_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
-    "char": "🌑",
-    "category": "nature"
-  },
-  "waxing_crescent_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
-    "char": "🌒",
-    "category": "nature"
-  },
-  "first_quarter_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
-    "char": "🌓",
-    "category": "nature"
-  },
-  "moon": {
-    "keywords": ["nature", "night", "sky", "gray", "twilight", "planet", "space", "evening", "sleep"],
-    "char": "🌔",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "full_moon": {
     "keywords": ["nature", "yellow", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌕",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "waning_gibbous_moon": {
     "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep", "waxing_gibbous_moon"],
     "char": "🌖",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "last_quarter_moon": {
     "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌗",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "waning_crescent_moon": {
     "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌘",
-    "category": "nature"
+    "category": "animals_and_nature"
+  },
+  "new_moon": {
+    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "char": "🌑",
+    "category": "animals_and_nature"
+  },
+  "waxing_crescent_moon": {
+    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "char": "🌒",
+    "category": "animals_and_nature"
+  },
+  "first_quarter_moon": {
+    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "char": "🌓",
+    "category": "animals_and_nature"
+  },
+  "moon": {
+    "keywords": ["nature", "night", "sky", "gray", "twilight", "planet", "space", "evening", "sleep"],
+    "char": "🌔",
+    "category": "animals_and_nature"
   },
   "new_moon_with_face": {
     "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌚",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "full_moon_with_face": {
     "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌝",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "first_quarter_moon_with_face": {
     "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌛",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "last_quarter_moon_with_face": {
     "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌜",
-    "category": "nature"
+    "category": "animals_and_nature"
   },
   "sun_with_face": {
     "keywords": ["nature", "morning", "sky"],
     "char": "🌞",
-    "category": "nature"
+    "category": "animals_and_nature"
+  },
+  "crescent_moon": {
+    "keywords": ["night", "sleep", "sky", "evening", "magic"],
+    "char": "🌙",
+    "category": "animals_and_nature"
+  },
+  "star": {
+    "keywords": ["night", "yellow"],
+    "char": "⭐",
+    "category": "animals_and_nature"
+  },
+  "star2": {
+    "keywords": ["night", "sparkle", "awesome", "good", "magic"],
+    "char": "🌟",
+    "category": "animals_and_nature"
+  },
+  "dizzy": {
+    "keywords": ["star", "sparkle", "shoot", "magic"],
+    "char": "💫",
+    "category": "celebration"
+  },
+  "sparkles": {
+    "keywords": ["stars", "shine", "shiny", "cool", "awesome", "good", "magic"],
+    "char": "✨",
+    "category": "celebration"
+  },
+  "comet": {
+    "keywords": ["space"],
+    "char": "☄",
+    "category": "animals_and_nature"
+  },
+  "sunny": {
+    "keywords": ["weather", "nature", "brightness", "summer", "beach", "spring"],
+    "char": "☀️",
+    "category": "animals_and_nature"
+  },
+  "white_sun_with_small_cloud": {
+    "keywords": ["weather"],
+    "char": "🌤",
+    "category": "animals_and_nature"
+  },
+  "partly_sunny": {
+    "keywords": ["weather", "nature", "cloudy", "morning", "fall", "spring"],
+    "char": "⛅",
+    "category": "animals_and_nature"
+  },
+  "white_sun_behind_cloud": {
+    "keywords": ["weather"],
+    "char": "🌥",
+    "category": "animals_and_nature"
+  },
+  "white_sun_behind_cloud_with_rain": {
+    "keywords": ["weather"],
+    "char": "🌦",
+    "category": "animals_and_nature"
+  },
+  "cloud": {
+    "keywords": ["weather", "sky"],
+    "char": "☁️",
+    "category": "animals_and_nature"
+  },
+  "cloud_with_rain": {
+    "keywords": ["weather"],
+    "char": "🌧",
+    "category": "animals_and_nature"
+  },
+  "thunder_cloud_and_rain": {
+    "keywords": ["weather", "lightning"],
+    "char": "⛈",
+    "category": "animals_and_nature"
+  },
+  "cloud_with_lightning": {
+    "keywords": ["weather", "thunder"],
+    "char": "🌩",
+    "category": "animals_and_nature"
+  },
+  "zap": {
+    "keywords": ["thunder", "weather", "lightning bolt", "fast"],
+    "char": "⚡",
+    "category": "animals_and_nature"
+  },
+  "fire": {
+    "keywords": ["hot", "cook", "flame"],
+    "char": "🔥",
+    "category": "animals_and_nature"
+  },
+  "boom": {
+    "keywords": ["bomb", "explode", "explosion", "collision", "blown"],
+    "char": "💥",
+    "category": "celebration"
+  },
+  "snowflake": {
+    "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas"],
+    "char": "❄️",
+    "category": "animals_and_nature"
+  },
+  "cloud_with_snow": {
+    "keywords": ["weather"],
+    "char": "🌨",
+    "category": "animals_and_nature"
+  },
+  "snowman": {
+    "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "frozen", "without_snow"],
+    "char": "⛄",
+    "category": "activity"
+  },
+  "snowman_with_snow": {
+    "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "frozen"],
+    "char": "☃️",
+    "category": "activity"
+  },
+  "wind_blowing_face": {
+    "keywords": ["gust", "air"],
+    "char": "🌬",
+    "category": "animals_and_nature"
+  },
+  "dash": {
+    "keywords": ["wind", "air", "fast", "shoo", "fart", "smoke", "puff"],
+    "char": "💨",
+    "category": "animals_and_nature"
+  },
+  "cloud_with_tornado": {
+    "keywords": ["weather", "cyclone", "twister"],
+    "char": "🌪",
+    "category": "animals_and_nature"
+  },
+  "fog": {
+    "keywords": ["weather"],
+    "char": "🌫",
+    "category": "animals_and_nature"
+  },
+  "umbrella": {
+    "keywords": ["rainy", "weather", "spring"],
+    "char": "☔",
+    "category": "animals_and_nature"
+  },
+  "umbrella_without_rain": {
+    "keywords": ["weather", "spring"],
+    "char": "☂️",
+    "category": "animals_and_nature"
+  },
+  "droplet": {
+    "keywords": ["water", "drip", "faucet", "spring"],
+    "char": "💧",
+    "category": "animals_and_nature"
+  },
+  "sweat_drops": {
+    "keywords": ["water", "drip", "oops"],
+    "char": "💦",
+    "category": "animals_and_nature"
+  },
+  "ocean": {
+    "keywords": ["sea", "water", "wave", "nature", "tsunami", "disaster"],
+    "char": "🌊",
+    "category": "animals_and_nature"
+  },
+  "thermometer": {
+    "keywords": ["weather", "temperature", "hot", "cold"],
+    "char": "🌡",
+    "category": "animals_and_nature"
+  },
+  "beach_with_umbrella": {
+    "keywords": ["weather", "summer", "sunny", "sand"],
+    "char": "🏖",
+    "category": "travelandplaces"
+  },
+  "stars": {
+    "keywords": ["night", "photo"],
+    "char": "🌠",
+    "category": "travelandplaces"
+  },
+  "sunrise_over_mountains": {
+    "keywords": ["view", "vacation", "photo"],
+    "char": "🌄",
+    "category": "travelandplaces"
+  },
+  "sunrise": {
+    "keywords": ["morning", "view", "vacation", "photo"],
+    "char": "🌅",
+    "category": "travelandplaces"
+  },
+  "rainbow": {
+    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
+    "char": "🌈",
+    "category": "travelandplaces"
+  },
+  "volcano": {
+    "keywords": ["photo", "nature", "disaster"],
+    "char": "🌋",
+    "category": "travelandplaces"
+  },
+  "milky_way": {
+    "keywords": ["photo", "space", "stars"],
+    "char": "🌌",
+    "category": "travelandplaces"
+  },
+  "mount_fuji": {
+    "keywords": ["photo", "mountain", "nature", "japanese"],
+    "char": "🗻",
+    "category": "travelandplaces"
+  },
+  "japan": {
+    "keywords": ["nation", "country", "japanese", "asia"],
+    "char": "🗾",
+    "category": "travelandplaces"
   },
   "tomato": {
     "keywords": ["fruit", "vegetable", "nature", "food"],
@@ -1604,26 +1874,6 @@
     "char": "🎂",
     "category": "celebration"
   },
-  "jack_o_lantern": {
-    "keywords": ["halloween", "light", "pumpkin", "creepy", "fall"],
-    "char": "🎃",
-    "category": "celebration"
-  },
-  "christmas_tree": {
-    "keywords": ["festival", "vacation", "december", "xmas", "celebration"],
-    "char": "🎄",
-    "category": "celebration"
-  },
-  "tanabata_tree": {
-    "keywords": ["plant", "nature", "branch", "summer"],
-    "char": "🎋",
-    "category": "celebration"
-  },
-  "bamboo": {
-    "keywords": ["plant", "nature", "vegetable", "panda"],
-    "char": "🎍",
-    "category": "celebration"
-  },
   "rice_scene": {
     "keywords": ["photo", "japan", "asia", "tsukimi"],
     "char": "🎑",
@@ -1652,21 +1902,6 @@
   "balloon": {
     "keywords": ["party", "celebration", "birthday", "circus"],
     "char": "🎈",
-    "category": "celebration"
-  },
-  "dizzy": {
-    "keywords": ["star", "sparkle", "shoot", "magic"],
-    "char": "💫",
-    "category": "celebration"
-  },
-  "sparkles": {
-    "keywords": ["stars", "shine", "shiny", "cool", "awesome", "good", "magic"],
-    "char": "✨",
-    "category": "celebration"
-  },
-  "boom": {
-    "keywords": ["bomb", "explode", "explosion", "collision", "blown"],
-    "char": "💥",
     "category": "celebration"
   },
   "mortar_board": {
@@ -1827,11 +2062,6 @@
   "ski": {
     "keywords": ["sports", "winter", "cold", "snow"],
     "char": "🎿",
-    "category": "activity"
-  },
-  "snowman": {
-    "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "frozen"],
-    "char": "⛄",
     "category": "activity"
   },
   "bicyclist": {
@@ -2685,7 +2915,7 @@
     "category": "objectsandsymbols"
   },
   "eyeglasses": {
-    "keywords": ["fashion", "accessories", "eyesight", "nerd", "dork", "geek"],
+    "keywords": ["fashion", "accessories", "eyesight", "nerdy", "dork", "geek"],
     "char": "👓",
     "category": "objectsandsymbols"
   },
@@ -3919,6 +4149,16 @@
     "char": "🔜",
     "category": "objectsandsymbols"
   },
+  "globe_with_meridians": {
+    "keywords": ["earth", "international", "world", "internet", "interweb", "i18n"],
+    "char": "🌐",
+    "category": "objectsandsymbols"
+  },
+  "umbrella_on_ground": {
+    "keywords": ["weather", "summer"],
+    "char": "⛱",
+    "category": "objectsandsymbols"
+  },
   "cyclone": {
     "keywords": ["weather", "swirl", "blue", "cloud"],
     "char": "🌀",
@@ -4368,6 +4608,18 @@
     "dizzy_face",
     "no_mouth",
     "mask",
+    "slightly_smiling",
+    "hugging",
+    "thinking",
+    "rolling_eyes",
+    "zipper_mouth",
+    "nerd",
+    "white_frowning",
+    "slightly_sad",
+    "upside_down",
+    "thermometer_face",
+    "bandage_face",
+    "money_mouth",
     "smile_cat",
     "joy_cat",
     "smiley_cat",
@@ -4380,6 +4632,8 @@
     "footprints",
     "bust_in_silhouette",
     "busts_in_silhouette",
+    "speaking_head",
+    "man_levitating",
     "baby",
     "boy",
     "girl",
@@ -4398,6 +4652,8 @@
     "older_woman",
     "cop",
     "construction_worker",
+    "helmet",
+    "sleuth",
     "princess",
     "guardsman",
     "angel",
@@ -4423,6 +4679,7 @@
     "raised_hands",
     "clap",
     "ear",
+    "eye",
     "eyes",
     "nose",
     "lips",
@@ -4445,6 +4702,10 @@
     "muscle",
     "open_hands",
     "pray",
+    "middle_finger",
+    "sign_of_horns",
+    "splayed_fingers",
+    "writing_hand",
     "seedling",
     "evergreen_tree",
     "deciduous_tree",
@@ -4490,6 +4751,26 @@
     "baby_chick",
     "hatching_chick",
     "hatched_chick",
+    "turkey",
+    "dove_of_peace",
+    "crab",
+    "scorpion",
+    "spider",
+    "spider_web",
+    "thermometer",
+    "thunder_cloud_and_rain",
+    "white_sun_with_small_cloud",
+    "white_sun_behind_cloud",
+    "white_sun_behind_cloud_with_rain",
+    "cloud_with_rain",
+    "cloud_with_snow",
+    "cloud_with_lightning",
+    "cloud_with_tornado",
+    "fog",
+    "wind_blowing_face",
+    "comet",
+    "umbrella_on_ground",
+    "beach_with_umbrella",
     "bird",
     "penguin",
     "elephant",
