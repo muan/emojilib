@@ -1,6 +1,6 @@
 {
   "grinning": {
-    "keywords": ["face", "smile", "happy", "joy"],
+    "keywords": ["face", "smile", "happy", "joy", ":D"],
     "char": "😀",
     "category": "people"
   },
@@ -15,12 +15,12 @@
     "category": "people"
   },
   "smiley": {
-    "keywords": ["face", "happy", "joy", "haha"],
+    "keywords": ["face", "happy", "joy", "haha", ":D"],
     "char": "😃",
     "category": "people"
   },
   "smile": {
-    "keywords": ["face", "happy", "joy", "funny", "haha", "laugh", "like"],
+    "keywords": ["face", "happy", "joy", "funny", "haha", "laugh", "like", ":D"],
     "char": "😄",
     "category": "people"
   },
@@ -30,7 +30,7 @@
     "category": "people"
   },
   "laughing": {
-    "keywords": ["happy", "joy", "lol", "satisfied", "haha", "face", "glad"],
+    "keywords": ["happy", "joy", "lol", "satisfied", "haha", "face", "glad", "XD"],
     "char": "😆",
     "category": "people"
   },
@@ -160,12 +160,12 @@
     "category": "people"
   },
   "disappointed": {
-    "keywords": ["face", "sad", "upset", "depressed"],
+    "keywords": ["face", "sad", "upset", "depressed", ":("],
     "char": "😞",
     "category": "people"
   },
   "worried": {
-    "keywords": ["face", "concern", "nervous"],
+    "keywords": ["face", "concern", "nervous", ":("],
     "char": "😟",
     "category": "people"
   },
@@ -180,7 +180,7 @@
     "category": "people"
   },
   "cry": {
-    "keywords": ["face", "tears", "sad", "depressed", "upset"],
+    "keywords": ["face", "tears", "sad", "depressed", "upset", ":'("],
     "char": "😢",
     "category": "people"
   },
