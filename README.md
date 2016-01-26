@@ -16,14 +16,11 @@ bower install emojilib
 npm install emojilib --save
 ```
 
-```javascript
-var emojis = require("emojilib")
-```
-
 ## Usage
 
 ```javascript
-> emojis
+> var emoji = require("emojilib")
+> emoji.lib
 {
   "grinning": {
     "keywords": ["face", "smile", "happy", "joy"],
@@ -38,8 +35,8 @@ var emojis = require("emojilib")
   ...
 }
 
-> emojis.keys
-[ 'grinning', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
+> emoji.ordered
+[ 'grinning', 'grimacing', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
 ```
 
 ## :electric_plug: Powered by emojilib
