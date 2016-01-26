@@ -34,7 +34,7 @@ try {
 //
 console.log("TEST: Correct number of emojis")
 
-var emojiNumber = 910 // update this number when emoji are added
+var emojiNumber = 916 // update this number when emoji are added
 
 if(keys.length !== emojiNumber) {
   console.log("There are " + emojiNumber + " emojis, but emojis.json has " + keys.length + " entries.")
@@ -58,12 +58,13 @@ console.log("TEST: No duplicated entries")
 
 var arr = []
 var dups = []
+var keysFromRawData = rawData.match(/\".+\": {/g)
 
-keys.forEach(function(key) {
+keysFromRawData.forEach(function(key) {
   if(arr.indexOf(key) < 0) {
     arr.push(key)
   } else {
-    dups.push(key)
+    dups.push(key.replace(/\"|\:|\s|\{/g, ""))
   }
 })
 
