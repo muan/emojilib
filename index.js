@@ -1,1 +1,2 @@
-module.exports = require("./emojis.json")
+module.exports.lib = require("./emojis")
+module.exports.ordered = require("./ordered")
