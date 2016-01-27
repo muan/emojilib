@@ -2819,6 +2819,86 @@
     "char": "🏫",
     "category": "travelandplaces"
   },
+  "af": {
+    "keywords": ["afghanistan", "flag", "nation", "country", "banner"],
+    "char": "🇦🇫",
+    "category": "flags"
+  },
+  "ax": {
+    "keywords": ["Åland", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇦🇽",
+    "category": "flags"
+  },
+  "al": {
+    "keywords": ["albania", "flag", "nation", "country", "banner"],
+    "char": "🇦🇱",
+    "category": "flags"
+  },
+  "dz": {
+    "keywords": ["algeria", "flag", "nation", "country", "banner"],
+    "char": "🇩🇿",
+    "category": "flags"
+  },
+  "as": {
+    "keywords": ["american", "samoa", "flag", "nation", "country", "banner"],
+    "char": "🇦🇸",
+    "category": "flags"
+  },
+  "ad": {
+    "keywords": ["andorra", "flag", "nation", "country", "banner"],
+    "char": "🇦🇩",
+    "category": "flags"
+  },
+  "ao": {
+    "keywords": ["angola", "flag", "nation", "country", "banner"],
+    "char": "🇦🇴",
+    "category": "flags"
+  },
+  "ai": {
+    "keywords": ["anguilla", "flag", "nation", "country", "banner"],
+    "char": "🇦🇮",
+    "category": "flags"
+  },
+  "aq": {
+    "keywords": ["antarctica", "flag", "nation", "country", "banner"],
+    "char": "🇦🇶",
+    "category": "flags"
+  },
+  "ag": {
+    "keywords": ["antigua", "barbuda", "flag", "nation", "country", "banner"],
+    "char": "🇦🇬",
+    "category": "flags"
+  },
+  "ar": {
+    "keywords": ["argentina", "flag", "nation", "country", "banner"],
+    "char": "🇦🇷",
+    "category": "flags"
+  },
+  "am": {
+    "keywords": ["armenia", "flag", "nation", "country", "banner"],
+    "char": "🇦🇲",
+    "category": "flags"
+  },
+  "aw": {
+    "keywords": ["aruba", "flag", "nation", "country", "banner"],
+    "char": "🇦🇼",
+    "category": "flags"
+  },
+  "au": {
+    "keywords": ["australia", "flag", "nation", "country", "banner"],
+    "char": "🇦🇺",
+    "category": "flags"
+  },
+  "at": {
+    "keywords": ["austria", "flag", "nation", "country", "banner"],
+    "char": "🇦🇹",
+    "category": "flags"
+  },
+  "az": {
+    "keywords": ["azerbaijan", "flag", "nation", "country", "banner"],
+    "char": "🇦🇿",
+    "category": "flags"
+  },
   "cn": {
     "keywords": ["china", "chinese", "prc", "flag", "country", "nation", "banner"],
     "char": "🇨🇳",
@@ -2869,84 +2949,9 @@
     "char": "🇺🇸",
     "category": "flags"
   },
-  "ad": {
-    "keywords": ["andorra", "flag", "nation", "country", "banner"],
-    "char": "🇦🇩",
-    "category": "flags"
-  },
   "ae": {
     "keywords": ["uae", "flag", "nation", "country", "banner"],
     "char": "🇦🇪",
-    "category": "flags"
-  },
-  "af": {
-    "keywords": ["afghanistan", "flag", "nation", "country", "banner"],
-    "char": "🇦🇫",
-    "category": "flags"
-  },
-  "ag": {
-    "keywords": ["antigua", "barbuda", "flag", "nation", "country", "banner"],
-    "char": "🇦🇬",
-    "category": "flags"
-  },
-  "ai": {
-    "keywords": ["anguilla", "flag", "nation", "country", "banner"],
-    "char": "🇦🇮",
-    "category": "flags"
-  },
-  "al": {
-    "keywords": ["albania", "flag", "nation", "country", "banner"],
-    "char": "🇦🇱",
-    "category": "flags"
-  },
-  "am": {
-    "keywords": ["armenia", "flag", "nation", "country", "banner"],
-    "char": "🇦🇲",
-    "category": "flags"
-  },
-  "ao": {
-    "keywords": ["angola", "flag", "nation", "country", "banner"],
-    "char": "🇦🇴",
-    "category": "flags"
-  },
-  "aq": {
-    "keywords": ["antarctica", "flag", "nation", "country", "banner"],
-    "char": "🇦🇶",
-    "category": "flags"
-  },
-  "ar": {
-    "keywords": ["argentina", "flag", "nation", "country", "banner"],
-    "char": "🇦🇷",
-    "category": "flags"
-  },
-  "as": {
-    "keywords": ["american", "samoa", "flag", "nation", "country", "banner"],
-    "char": "🇦🇸",
-    "category": "flags"
-  },
-  "at": {
-    "keywords": ["austria", "flag", "nation", "country", "banner"],
-    "char": "🇦🇹",
-    "category": "flags"
-  },
-  "au": {
-    "keywords": ["australia", "flag", "nation", "country", "banner"],
-    "char": "🇦🇺",
-    "category": "flags"
-  },
-  "aw": {
-    "keywords": ["aruba", "flag", "nation", "country", "banner"],
-    "char": "🇦🇼",
-    "category": "flags"
-  },
-  "ax": {
-    "keywords": ["Åland", "islands", "flag", "nation", "country", "banner"],
-    "char": "🇦🇽",
-    "category": "flags"
-  },
-  "az": {
-    "keywords": ["azerbaijan", "flag", "nation", "country", "banner"],
-    "char": "🇦🇿",
     "category": "flags"
   },
   "watch": {
