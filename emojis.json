@@ -4024,6 +4024,16 @@
     "char": "🇻🇳",
     "category": "flags"
   },
+  "wf": {
+    "keywords": ["wallis", "futuna", "flag", "nation", "country", "banner"],
+    "char": "🇼🇫",
+    "category": "flags"
+  },
+  "eh": {
+    "keywords": ["western", "sahara", "flag", "nation", "country", "banner"],
+    "char": "🇪🇭",
+    "category": "flags"
+  },
   "watch": {
     "keywords": ["time", "accessories"],
     "char": "⌚",
