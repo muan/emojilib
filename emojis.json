@@ -2164,6 +2164,111 @@
     "char": "💙",
     "category": "symbols"
   },
+  "soccer": {
+    "keywords": ["sports", "football"],
+    "char": "⚽️",
+    "category": "activity"
+  },
+  "basketball": {
+    "keywords": ["sports", "balls", "NBA"],
+    "char": "🏀",
+    "category": "activity"
+  },
+  "football": {
+    "keywords": ["sports", "balls", "NFL"],
+    "char": "🏈",
+    "category": "activity"
+  },
+  "baseball": {
+    "keywords": ["sports", "balls"],
+    "char": "⚾",
+    "category": "activity"
+  },
+  "tennis": {
+    "keywords": ["sports", "balls", "green"],
+    "char": "🎾",
+    "category": "activity"
+  },
+  "volleyball": {
+    "keywords": ["sports", "balls"],
+    "char": "🏐",
+    "category": "activity"
+  },
+  "rugby_football": {
+    "keywords": ["sports", "team"],
+    "char": "🏉",
+    "category": "activity"
+  },
+  "8ball": {
+    "keywords": ["pool", "hobby", "game", "luck", "magic"],
+    "char": "🎱",
+    "category": "activity"
+  },
+  "golf": {
+    "keywords": ["sports", "business", "flag", "hole", "summer"],
+    "char": "⛳",
+    "category": "activity"
+  },
+  "golfer": {
+    "keywords": ["sports", "business"],
+    "char": "🏌",
+    "category": "activity"
+  },
+  "table_tennis": {
+    "keywords": ["sports", "pingpong"],
+    "char": "🏓",
+    "category": "activity"
+  },
+  "badminton": {
+    "keywords": ["sports"],
+    "char": "🏸",
+    "category": "activity"
+  },
+  "ice_hockey": {
+    "keywords": ["sports"],
+    "char": "🏒",
+    "category": "activity"
+  },
+  "field_hockey": {
+    "keywords": ["sports"],
+    "char": "🏑",
+    "category": "activity"
+  },
+  "cricket": {
+    "keywords": ["sports"],
+    "char": "🏏",
+    "category": "activity"
+  },
+  "ski": {
+    "keywords": ["sports", "winter", "cold", "snow"],
+    "char": "🎿",
+    "category": "activity"
+  },
+  "skier": {
+    "keywords": ["sports", "winter", "snow"],
+    "char": "⛷",
+    "category": "activity"
+  },
+  "snowboarder": {
+    "keywords": ["sports", "winter"],
+    "char": "🏂",
+    "category": "activity"
+  },
+  "ice_skate": {
+    "keywords": ["sports"],
+    "char": "⛸",
+    "category": "activity"
+  },
+  "bow_and_arrow": {
+    "keywords": ["sports"],
+    "char": "🏹",
+    "category": "activity"
+  },
+  "fishing_pole_and_fish": {
+    "keywords": ["food", "hobby", "summer"],
+    "char": "🎣",
+    "category": "activity"
+  },
   "rowboat": {
     "keywords": ["sports", "hobby", "water", "ship"],
     "char": "🚣",
@@ -2184,14 +2289,14 @@
     "char": "🛀",
     "category": "activity"
   },
-  "snowboarder": {
-    "keywords": ["sports", "winter"],
-    "char": "🏂",
+  "person_with_ball": {
+    "keywords": ["sports", "human"],
+    "char": "⛹",
     "category": "activity"
   },
-  "ski": {
-    "keywords": ["sports", "winter", "cold", "snow"],
-    "char": "🎿",
+  "weight_lifter": {
+    "keywords": ["sports", "training", "exercise"],
+    "char": "🏋",
     "category": "activity"
   },
   "bicyclist": {
@@ -2209,51 +2314,6 @@
     "char": "🏇",
     "category": "activity"
   },
-  "tent": {
-    "keywords": ["photo", "camp", "outdoors"],
-    "char": "⛺",
-    "category": "activity"
-  },
-  "fishing_pole_and_fish": {
-    "keywords": ["food", "hobby", "summer"],
-    "char": "🎣",
-    "category": "activity"
-  },
-  "soccer": {
-    "keywords": ["sports", "balls", "football", "fifa"],
-    "char": "⚽",
-    "category": "activity"
-  },
-  "basketball": {
-    "keywords": ["sports", "balls", "NBA"],
-    "char": "🏀",
-    "category": "activity"
-  },
-  "football": {
-    "keywords": ["sports", "balls", "NFL"],
-    "char": "🏈",
-    "category": "activity"
-  },
-  "baseball": {
-    "keywords": ["sports", "balls", "MLB"],
-    "char": "⚾️",
-    "category": "activity"
-  },
-  "tennis": {
-    "keywords": ["sports", "balls", "green"],
-    "char": "🎾",
-    "category": "activity"
-  },
-  "rugby_football": {
-    "keywords": ["sports", "team"],
-    "char": "🏉",
-    "category": "activity"
-  },
-  "golf": {
-    "keywords": ["sports", "business", "flag", "hole", "summer"],
-    "char": "⛳",
-    "category": "activity"
-  },
   "man_levitating": {
     "keywords": ["suit", "business", "levitate", "hover", "jump"],
     "char": "🕴",
@@ -2269,24 +2329,69 @@
     "char": "🎽",
     "category": "activity"
   },
-  "checkered_flag": {
-    "keywords": ["contest", "finishline", "rase", "gokart"],
-    "char": "🏁",
+  "sports_medal": {
+    "keywords": ["award", "winning"],
+    "char": "🏅",
+    "category": "activity"
+  },
+  "military_medal": {
+    "keywords": ["award", "winning", "army"],
+    "char": "🎖",
+    "category": "activity"
+  },
+  "reminder_ribbon": {
+    "keywords": ["sports", "cause", "supprt", "awareness"],
+    "char": "🎗",
+    "category": "activity"
+  },
+  "rosette": {
+    "keywords": ["flower", "decoration", "military"],
+    "char": "🏵",
+    "category": "activity"
+  },
+  "ticket": {
+    "keywords": ["event", "concert", "pass"],
+    "char": "🎫",
+    "category": "activity"
+  },
+  "admission_ticket": {
+    "keywords": ["sports", "concert", "entrance"],
+    "char": "🎟",
+    "category": "activity"
+  },
+  "performing_arts": {
+    "keywords": ["acting", "theater", "drama"],
+    "char": "🎭",
+    "category": "activity"
+  },
+  "art": {
+    "keywords": ["design", "paint", "draw", "colors"],
+    "char": "🎨",
+    "category": "activity"
+  },
+  "circus_tent": {
+    "keywords": ["festival", "carnival", "party"],
+    "char": "🎪",
+    "category": "activity"
+  },
+  "microphone": {
+    "keywords": ["sound", "music", "PA"],
+    "char": "🎤",
+    "category": "activity"
+  },
+  "headphones": {
+    "keywords": ["music", "score", "gadgets"],
+    "char": "🎧",
+    "category": "activity"
+  },
+  "musical_score": {
+    "keywords": ["treble", "clef"],
+    "char": "🎼",
     "category": "activity"
   },
   "musical_keyboard": {
     "keywords": ["piano", "instrument"],
     "char": "🎹",
-    "category": "activity"
-  },
-  "guitar": {
-    "keywords": ["music", "instrument"],
-    "char": "🎸",
-    "category": "activity"
-  },
-  "violin": {
-    "keywords": ["music", "instrument", "orchestra", "symphony"],
-    "char": "🎻",
     "category": "activity"
   },
   "saxophone": {
@@ -2299,44 +2404,14 @@
     "char": "🎺",
     "category": "activity"
   },
-  "musical_note": {
-    "keywords": ["score", "tone", "sound"],
-    "char": "🎵",
+  "guitar": {
+    "keywords": ["music", "instrument"],
+    "char": "🎸",
     "category": "activity"
   },
-  "notes": {
-    "keywords": ["music", "score"],
-    "char": "🎶",
-    "category": "activity"
-  },
-  "musical_score": {
-    "keywords": ["treble", "clef"],
-    "char": "🎼",
-    "category": "activity"
-  },
-  "headphones": {
-    "keywords": ["music", "score", "gadgets"],
-    "char": "🎧",
-    "category": "activity"
-  },
-  "microphone": {
-    "keywords": ["sound", "music", "PA"],
-    "char": "🎤",
-    "category": "activity"
-  },
-  "performing_arts": {
-    "keywords": ["acting", "theater", "drama"],
-    "char": "🎭",
-    "category": "activity"
-  },
-  "ticket": {
-    "keywords": ["event", "concert", "pass"],
-    "char": "🎫",
-    "category": "activity"
-  },
-  "circus_tent": {
-    "keywords": ["festival", "carnival", "party"],
-    "char": "🎪",
+  "violin": {
+    "keywords": ["music", "instrument", "orchestra", "symphony"],
+    "char": "🎻",
     "category": "activity"
   },
   "clapper": {
@@ -2344,9 +2419,9 @@
     "char": "🎬",
     "category": "activity"
   },
-  "art": {
-    "keywords": ["design", "paint", "draw", "colors"],
-    "char": "🎨",
+  "video_game": {
+    "keywords": ["play", "console", "PS4", "controller"],
+    "char": "🎮",
     "category": "activity"
   },
   "space_invader": {
@@ -2359,14 +2434,9 @@
     "char": "🎯",
     "category": "activity"
   },
-  "8ball": {
-    "keywords": ["pool", "hobby", "game", "luck", "magic"],
-    "char": "🎱",
-    "category": "activity"
-  },
-  "bowling": {
-    "keywords": ["sports", "fun", "play"],
-    "char": "🎳",
+  "game_die": {
+    "keywords": ["dice", "random", "tabbletop", "play", "luck"],
+    "char": "🎲",
     "category": "activity"
   },
   "slot_machine": {
@@ -2374,44 +2444,9 @@
     "char": "🎰",
     "category": "activity"
   },
-  "game_die": {
-    "keywords": ["dice", "random", "tabbletop", "play", "luck"],
-    "char": "🎲",
-    "category": "activity"
-  },
-  "video_game": {
-    "keywords": ["play", "console", "PS4", "controller"],
-    "char": "🎮",
-    "category": "activity"
-  },
-  "flower_playing_cards": {
-    "keywords": ["game", "sunset", "red"],
-    "char": "🎴",
-    "category": "activity"
-  },
-  "black_joker": {
-    "keywords": ["poker", "cards", "game", "play", "magic"],
-    "char": "🃏",
-    "category": "activity"
-  },
-  "mahjong": {
-    "keywords": ["game", "play", "chinese", "kanji"],
-    "char": "🀄",
-    "category": "activity"
-  },
-  "carousel_horse": {
-    "keywords": ["photo", "carnival"],
-    "char": "🎠",
-    "category": "activity"
-  },
-  "ferris_wheel": {
-    "keywords": ["photo", "carnival", "londoneye"],
-    "char": "🎡",
-    "category": "activity"
-  },
-  "roller_coaster": {
-    "keywords": ["carnival", "playground", "photo", "fun"],
-    "char": "🎢",
+  "bowling": {
+    "keywords": ["sports", "fun", "play"],
+    "char": "🎳",
     "category": "activity"
   },
   "railway_car": {
