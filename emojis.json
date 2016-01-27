@@ -3004,9 +3004,119 @@
     "char": "🇧🇮",
     "category": "flags"
   },
+  "cv": {
+    "keywords": ["cabo", "verde", "flag", "nation", "country", "banner"],
+    "char": "🇨🇻",
+    "category": "flags"
+  },
+  "kh": {
+    "keywords": ["cambodia", "flag", "nation", "country", "banner"],
+    "char": "🇰🇭",
+    "category": "flags"
+  },
+  "cm": {
+    "keywords": ["cameroon", "flag", "nation", "country", "banner"],
+    "char": "🇨🇲",
+    "category": "flags"
+  },
+  "ca": {
+    "keywords": ["canada", "flag", "nation", "country", "banner"],
+    "char": "🇨🇦",
+    "category": "flags"
+  },
+  "ic": {
+    "keywords": ["canary", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇮🇨",
+    "category": "flags"
+  },
+  "ky": {
+    "keywords": ["cayman", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇰🇾",
+    "category": "flags"
+  },
+  "cf": {
+    "keywords": ["central", "african", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇨🇫",
+    "category": "flags"
+  },
+  "td": {
+    "keywords": ["chad", "flag", "nation", "country", "banner"],
+    "char": "🇹🇩",
+    "category": "flags"
+  },
+  "chile": {
+    "keywords": ["flag", "nation", "country", "banner"],
+    "char": "🇨🇱",
+    "category": "flags"
+  },
   "cn": {
     "keywords": ["china", "chinese", "prc", "flag", "country", "nation", "banner"],
     "char": "🇨🇳",
+    "category": "flags"
+  },
+  "cx": {
+    "keywords": ["christmas", "island", "flag", "nation", "country", "banner"],
+    "char": "🇨🇽",
+    "category": "flags"
+  },
+  "cc": {
+    "keywords": ["cocos", "keeling", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇨🇨",
+    "category": "flags"
+  },
+  "co": {
+    "keywords": ["colombia", "flag", "nation", "country", "banner"],
+    "char": "🇨🇴",
+    "category": "flags"
+  },
+  "km": {
+    "keywords": ["comoros", "flag", "nation", "country", "banner"],
+    "char": "🇰🇲",
+    "category": "flags"
+  },
+  "cg": {
+    "keywords": ["congo", "flag", "nation", "country", "banner"],
+    "char": "🇨🇬",
+    "category": "flags"
+  },
+  "cdr": {
+    "keywords": ["congo", "democratic", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇨🇩",
+    "category": "flags"
+  },
+  "ck": {
+    "keywords": ["cook", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇨🇰",
+    "category": "flags"
+  },
+  "cr": {
+    "keywords": ["costa", "rica", "flag", "nation", "country", "banner"],
+    "char": "🇨🇷",
+    "category": "flags"
+  },
+  "hr": {
+    "keywords": ["croatia", "flag", "nation", "country", "banner"],
+    "char": "🇭🇷",
+    "category": "flags"
+  },
+  "cu": {
+    "keywords": ["cuba", "flag", "nation", "country", "banner"],
+    "char": "🇨🇺",
+    "category": "flags"
+  },
+  "cw": {
+    "keywords": ["curaçao", "flag", "nation", "country", "banner"],
+    "char": "🇨🇼",
+    "category": "flags"
+  },
+  "cy": {
+    "keywords": ["cyprus", "flag", "nation", "country", "banner"],
+    "char": "🇨🇾",
+    "category": "flags"
+  },
+  "cz": {
+    "keywords": ["czech_republic", "flag", "nation", "country", "banner"],
+    "char": "🇨🇿",
     "category": "flags"
   },
   "fr": {
