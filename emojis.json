@@ -3139,6 +3139,41 @@
     "char": "🇩🇴",
     "category": "flags"
   },
+  "ec": {
+    "keywords": ["ecuador", "flag", "nation", "country", "banner"],
+    "char": "🇪🇨",
+    "category": "flags"
+  },
+  "eg": {
+    "keywords": ["egypt", "flag", "nation", "country", "banner"],
+    "char": "🇪🇬",
+    "category": "flags"
+  },
+  "sv": {
+    "keywords": ["el", "salvador", "flag", "nation", "country", "banner"],
+    "char": "🇸🇻",
+    "category": "flags"
+  },
+  "gq": {
+    "keywords": ["equatorial", "guinea", "flag", "nation", "country", "banner"],
+    "char": "🇬🇶",
+    "category": "flags"
+  },
+  "er": {
+    "keywords": ["eritrea", "flag", "nation", "country", "banner"],
+    "char": "🇪🇷",
+    "category": "flags"
+  },
+  "ee": {
+    "keywords": ["estonia", "flag", "nation", "country", "banner"],
+    "char": "🇪🇪",
+    "category": "flags"
+  },
+  "et": {
+    "keywords": ["ethiopia", "flag", "nation", "country", "banner"],
+    "char": "🇪🇹",
+    "category": "flags"
+  },
   "fr": {
     "keywords": ["banner", "flag", "nation", "france", "french", "country"],
     "char": "🇫🇷",
