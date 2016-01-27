@@ -1684,485 +1684,340 @@
     "char": "🌊",
     "category": "animals_and_nature"
   },
-  "beach_with_umbrella": {
-    "keywords": ["weather", "summer", "sunny", "sand"],
-    "char": "🏖",
-    "category": "travel_and_places"
-  },
-  "stars": {
-    "keywords": ["night", "photo"],
-    "char": "🌠",
-    "category": "travel_and_places"
-  },
-  "sunrise_over_mountains": {
-    "keywords": ["view", "vacation", "photo"],
-    "char": "🌄",
-    "category": "travel_and_places"
-  },
-  "sunrise": {
-    "keywords": ["morning", "view", "vacation", "photo"],
-    "char": "🌅",
-    "category": "travel_and_places"
-  },
-  "rainbow": {
-    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
-    "char": "🌈",
-    "category": "travel_and_places"
-  },
-  "volcano": {
-    "keywords": ["photo", "nature", "disaster"],
-    "char": "🌋",
-    "category": "travel_and_places"
-  },
-  "milky_way": {
-    "keywords": ["photo", "space", "stars"],
-    "char": "🌌",
-    "category": "travel_and_places"
-  },
-  "mount_fuji": {
-    "keywords": ["photo", "mountain", "nature", "japanese"],
-    "char": "🗻",
-    "category": "travel_and_places"
-  },
-  "japan": {
-    "keywords": ["nation", "country", "japanese", "asia"],
-    "char": "🗾",
-    "category": "travel_and_places"
-  },
-  "tomato": {
-    "keywords": ["fruit", "vegetable", "nature", "food"],
-    "char": "🍅",
-    "category": "food_and_drink"
-  },
-  "eggplant": {
-    "keywords": ["vegetable", "nature", "food", "aubergine"],
-    "char": "🍆",
-    "category": "food_and_drink"
-  },
-  "corn": {
-    "keywords": ["food", "vegetable", "plant"],
-    "char": "🌽",
-    "category": "food_and_drink"
-  },
-  "sweet_potato": {
-    "keywords": ["food", "nature"],
-    "char": "🍠",
-    "category": "food_and_drink"
-  },
-  "grapes": {
-    "keywords": ["fruit", "food", "wine"],
-    "char": "🍇",
-    "category": "food_and_drink"
-  },
-  "melon": {
-    "keywords": ["fruit", "nature", "food"],
-    "char": "🍈",
-    "category": "food_and_drink"
-  },
-  "watermelon": {
-    "keywords": ["fruit", "food", "picnic", "summer"],
-    "char": "🍉",
-    "category": "food_and_drink"
-  },
-  "tangerine": {
-    "keywords": ["food", "fruit", "nature"],
-    "char": "🍊",
-    "category": "food_and_drink"
-  },
-  "lemon": {
-    "keywords": ["fruit", "nature"],
-    "char": "🍋",
-    "category": "food_and_drink"
-  },
-  "banana": {
-    "keywords": ["fruit", "food", "monkey"],
-    "char": "🍌",
-    "category": "food_and_drink"
-  },
-  "pineapple": {
-    "keywords": ["fruit", "nature", "food"],
-    "char": "🍍",
-    "category": "food_and_drink"
-  },
-  "apple": {
-    "keywords": ["fruit", "mac", "school"],
-    "char": "🍎",
-    "category": "food_and_drink"
-  },
-  "green_apple": {
+  "green_apple":  {
     "keywords": ["fruit", "nature"],
     "char": "🍏",
     "category": "food_and_drink"
   },
-  "pear": {
+  "apple":  {
+    "keywords": ["fruit", "mac", "school"],
+    "char": "🍎",
+    "category": "food_and_drink"
+  },
+  "pear":  {
     "keywords": ["fruit", "nature", "food"],
     "char": "🍐",
     "category": "food_and_drink"
   },
-  "peach": {
-    "keywords": ["fruit", "nature", "food"],
-    "char": "🍑",
+  "tangerine":  {
+    "keywords": ["food", "fruit", "nature"],
+    "char": "🍊",
     "category": "food_and_drink"
   },
-  "cherries": {
-    "keywords": ["food", "fruit"],
-    "char": "🍒",
+  "lemon":  {
+    "keywords": ["fruit", "nature"],
+    "char": "🍋",
     "category": "food_and_drink"
   },
-  "strawberry": {
+  "banana":  {
+    "keywords": ["fruit", "food", "monkey"],
+    "char": "🍌",
+    "category": "food_and_drink"
+  },
+  "watermelon":  {
+    "keywords": ["fruit", "food", "picnic", "summer"],
+    "char": "🍉",
+    "category": "food_and_drink"
+  },
+  "grapes":  {
+    "keywords": ["fruit", "food", "wine"],
+    "char": "🍇",
+    "category": "food_and_drink"
+  },
+  "strawberry":  {
     "keywords": ["fruit", "food", "nature"],
     "char": "🍓",
     "category": "food_and_drink"
   },
-  "hamburger": {
-    "keywords": ["meat", "fast food", "beef", "cheeseburger", "mcdonalds", "burger king"],
-    "char": "🍔",
+  "melon":  {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍈",
     "category": "food_and_drink"
   },
-  "pizza": {
-    "keywords": ["food", "party"],
-    "char": "🍕",
+  "cherries":  {
+    "keywords": ["food", "fruit"],
+    "char": "🍒",
     "category": "food_and_drink"
   },
-  "meat_on_bone": {
-    "keywords": ["good", "food", "drumstick"],
-    "char": "🍖",
+  "peach":  {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍑",
     "category": "food_and_drink"
   },
-  "poultry_leg": {
-    "keywords": ["food", "meat", "drumstick", "bird", "chicken", "turkey"],
-    "char": "🍗",
+  "pineapple":  {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍍",
     "category": "food_and_drink"
   },
-  "rice_cracker": {
-    "keywords": ["food", "japanese"],
-    "char": "🍘",
+  "tomato":  {
+    "keywords": ["fruit", "vegetable", "nature", "food"],
+    "char": "🍅",
     "category": "food_and_drink"
   },
-  "rice_ball": {
-    "keywords": ["food", "japanese"],
-    "char": "🍙",
+  "eggplant":  {
+    "keywords": ["vegetable", "nature", "food", "aubergine"],
+    "char": "🍆",
     "category": "food_and_drink"
   },
-  "rice": {
-    "keywords": ["food", "china", "asian"],
-    "char": "🍚",
+  "hot_pepper": {
+    "keywords": ["food", "spicy"],
+    "char": "🌶",
     "category": "food_and_drink"
   },
-  "curry": {
-    "keywords": ["food", "spicy", "hot", "indian"],
-    "char": "🍛",
+  "corn":  {
+    "keywords": ["food", "vegetable", "plant"],
+    "char": "🌽",
     "category": "food_and_drink"
   },
-  "ramen": {
-    "keywords": ["food", "japanese", "noodle", "chipsticks"],
-    "char": "🍜",
+  "sweet_potato":  {
+    "keywords": ["food", "nature"],
+    "char": "🍠",
     "category": "food_and_drink"
   },
-  "spaghetti": {
-    "keywords": ["food", "italian", "noodle"],
-    "char": "🍝",
-    "category": "food_and_drink"
-  },
-  "bread": {
-    "keywords": ["food", "wheat", "breakfast", "toast"],
-    "char": "🍞",
-    "category": "food_and_drink"
-  },
-  "fries": {
-    "keywords": ["chips", "snack", "fast food"],
-    "char": "🍟",
-    "category": "food_and_drink"
-  },
-  "dango": {
-    "keywords": ["food", "barbecue", "meat"],
-    "char": "🍡",
-    "category": "food_and_drink"
-  },
-  "oden": {
-    "keywords": ["food", "japanese"],
-    "char": "🍢",
-    "category": "food_and_drink"
-  },
-  "sushi": {
-    "keywords": ["food", "fish", "japanese", "rice"],
-    "char": "🍣",
-    "category": "food_and_drink"
-  },
-  "fried_shrimp": {
-    "keywords": ["food", "animal", "appetizer", "summer"],
-    "char": "🍤",
-    "category": "food_and_drink"
-  },
-  "fish_cake": {
-    "keywords": ["food", "japan", "sea", "beach"],
-    "char": "🍥",
-    "category": "food_and_drink"
-  },
-  "icecream": {
-    "keywords": ["food", "hot", "dessert", "summer"],
-    "char": "🍦",
-    "category": "food_and_drink"
-  },
-  "shaved_ice": {
-    "keywords": ["hot", "dessert", "summer"],
-    "char": "🍧",
-    "category": "food_and_drink"
-  },
-  "ice_cream": {
-    "keywords": ["food", "hot", "dessert"],
-    "char": "🍨",
-    "category": "food_and_drink"
-  },
-  "doughnut": {
-    "keywords": ["food", "dessert", "snack", "sweet", "donut"],
-    "char": "🍩",
-    "category": "food_and_drink"
-  },
-  "cookie": {
-    "keywords": ["food", "snack", "oreo", "chocolate", "sweet", "dessert"],
-    "char": "🍪",
-    "category": "food_and_drink"
-  },
-  "chocolate_bar": {
-    "keywords": ["food", "snack", "dessert", "sweet"],
-    "char": "🍫",
-    "category": "food_and_drink"
-  },
-  "candy": {
-    "keywords": ["snack", "dessert", "sweet"],
-    "char": "🍬",
-    "category": "food_and_drink"
-  },
-  "lollipop": {
-    "keywords": ["food", "snack", "candy", "sweet"],
-    "char": "🍭",
-    "category": "food_and_drink"
-  },
-  "custard": {
-    "keywords": ["dessert", "food"],
-    "char": "🍮",
-    "category": "food_and_drink"
-  },
-  "honey_pot": {
+  "honey_pot":  {
     "keywords": ["bees", "sweet", "kitchen"],
     "char": "🍯",
     "category": "food_and_drink"
   },
-  "cake": {
-    "keywords": ["food", "dessert"],
-    "char": "🍰",
+  "bread":  {
+    "keywords": ["food", "wheat", "breakfast", "toast"],
+    "char": "🍞",
     "category": "food_and_drink"
   },
-  "bento": {
-    "keywords": ["food", "japanese", "box"],
-    "char": "🍱",
+  "cheese_wedge": {
+    "keywords": ["food", "chadder"],
+    "char": "🧀",
     "category": "food_and_drink"
   },
-  "stew": {
-    "keywords": ["food", "meat", "soup"],
-    "char": "🍲",
+  "poultry_leg":  {
+    "keywords": ["food", "meat", "drumstick", "bird", "chicken", "turkey"],
+    "char": "🍗",
     "category": "food_and_drink"
   },
-  "egg": {
+  "meat_on_bone":  {
+    "keywords": ["good", "food", "drumstick"],
+    "char": "🍖",
+    "category": "food_and_drink"
+  },
+  "fried_shrimp":  {
+    "keywords": ["food", "animal", "appetizer", "summer"],
+    "char": "🍤",
+    "category": "food_and_drink"
+  },
+  "egg":  {
     "keywords": ["food", "breakfast", "kitchen"],
     "char": "🍳",
     "category": "food_and_drink"
   },
-  "fork_and_knife": {
-    "keywords": ["cutlery", "kitchen"],
-    "char": "🍴",
+  "hamburger":  {
+    "keywords": ["meat", "fast food", "beef", "cheeseburger", "mcdonalds", "burger king"],
+    "char": "🍔",
     "category": "food_and_drink"
   },
-  "tea": {
+  "fries":  {
+    "keywords": ["chips", "snack", "fast food"],
+    "char": "🍟",
+    "category": "food_and_drink"
+  },
+  "hot_dog": {
+    "keywords": ["food", "frankfurter", "hotdog"],
+    "char": "🌭",
+    "category": "food_and_drink"
+  },
+  "pizza":  {
+    "keywords": ["food", "party"],
+    "char": "🍕",
+    "category": "food_and_drink"
+  },
+  "spaghetti":  {
+    "keywords": ["food", "italian", "noodle"],
+    "char": "🍝",
+    "category": "food_and_drink"
+  },
+  "taco": {
+    "keywords": ["food", "mexican"],
+    "char": "🌮",
+    "category": "food_and_drink"
+  },
+  "burrito": {
+    "keywords": ["food", "mexican"],
+    "char": "🌯",
+    "category": "food_and_drink"
+  },
+  "ramen":  {
+    "keywords": ["food", "japanese", "noodle", "chipsticks"],
+    "char": "🍜",
+    "category": "food_and_drink"
+  },
+  "stew":  {
+    "keywords": ["food", "meat", "soup"],
+    "char": "🍲",
+    "category": "food_and_drink"
+  },
+  "fish_cake":  {
+    "keywords": ["food", "japan", "sea", "beach"],
+    "char": "🍥",
+    "category": "food_and_drink"
+  },
+  "sushi":  {
+    "keywords": ["food", "fish", "japanese", "rice"],
+    "char": "🍣",
+    "category": "food_and_drink"
+  },
+  "bento":  {
+    "keywords": ["food", "japanese", "box"],
+    "char": "🍱",
+    "category": "food_and_drink"
+  },
+  "curry":  {
+    "keywords": ["food", "spicy", "hot", "indian"],
+    "char": "🍛",
+    "category": "food_and_drink"
+  },
+  "rice_ball":  {
+    "keywords": ["food", "japanese"],
+    "char": "🍙",
+    "category": "food_and_drink"
+  },
+  "rice":  {
+    "keywords": ["food", "china", "asian"],
+    "char": "🍚",
+    "category": "food_and_drink"
+  },
+  "rice_cracker":  {
+    "keywords": ["food", "japanese"],
+    "char": "🍘",
+    "category": "food_and_drink"
+  },
+  "oden":  {
+    "keywords": ["food", "japanese"],
+    "char": "🍢",
+    "category": "food_and_drink"
+  },
+  "dango":  {
+    "keywords": ["food", "barbecue", "meat"],
+    "char": "🍡",
+    "category": "food_and_drink"
+  },
+  "shaved_ice":  {
+    "keywords": ["hot", "dessert", "summer"],
+    "char": "🍧",
+    "category": "food_and_drink"
+  },
+  "ice_cream":  {
+    "keywords": ["food", "hot", "dessert"],
+    "char": "🍨",
+    "category": "food_and_drink"
+  },
+  "icecream":  {
+    "keywords": ["food", "hot", "dessert", "summer"],
+    "char": "🍦",
+    "category": "food_and_drink"
+  },
+  "cake":  {
+    "keywords": ["food", "dessert"],
+    "char": "🍰",
+    "category": "food_and_drink"
+  },
+  "birthday_cake": {
+    "keywords": ["food", "dessert"],
+    "char": "🎂",
+    "category": "food_and_drink"
+  },
+  "custard":  {
+    "keywords": ["dessert", "food"],
+    "char": "🍮",
+    "category": "food_and_drink"
+  },
+  "candy":  {
+    "keywords": ["snack", "dessert", "sweet"],
+    "char": "🍬",
+    "category": "food_and_drink"
+  },
+  "lollipop":  {
+    "keywords": ["food", "snack", "candy", "sweet"],
+    "char": "🍭",
+    "category": "food_and_drink"
+  },
+  "chocolate_bar":  {
+    "keywords": ["food", "snack", "dessert", "sweet"],
+    "char": "🍫",
+    "category": "food_and_drink"
+  },
+  "popcorn": {
+    "keywords": ["food", "movie theater", "films", "snack"],
+    "char": "🍿",
+    "category": "food_and_drink"
+  },
+  "doughnut":  {
+    "keywords": ["food", "dessert", "snack", "sweet", "donut"],
+    "char": "🍩",
+    "category": "food_and_drink"
+  },
+  "cookie":  {
+    "keywords": ["food", "snack", "oreo", "chocolate", "sweet", "dessert"],
+    "char": "🍪",
+    "category": "food_and_drink"
+  },
+  "beer":  {
+    "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
+    "char": "🍺",
+    "category": "food_and_drink"
+  },
+  "beers":  {
+    "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
+    "char": "🍻",
+    "category": "food_and_drink"
+  },
+  "wine_glass":  {
+    "keywords": ["drink", "beverage", "drunk", "alcohol", "booze"],
+    "char": "🍷",
+    "category": "food_and_drink"
+  },
+  "cocktail":  {
+    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze"],
+    "char": "🍸",
+    "category": "food_and_drink"
+  },
+  "tropical_drink":  {
+    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze"],
+    "char": "🍹",
+    "category": "food_and_drink"
+  },
+  "bottle": {
+    "keywords": ["food", "wine", "champagne"],
+    "char": "🍾",
+    "category": "food_and_drink"
+  },
+  "sake":  {
+    "keywords": ["wine", "drink", "drunk", "beverage", "japanese", "alcohol", "booze"],
+    "char": "🍶",
+    "category": "food_and_drink"
+  },
+  "tea":  {
     "keywords": ["drink", "bowl", "breakfast", "green", "british"],
     "char": "🍵",
     "category": "food_and_drink"
   },
   "coffee": {
-    "keywords": ["drink", "beverage", "cafe", "espresso"],
-    "char": "☕",
+    "keywords": ["beverage", "caffeine", "latte", "espresso"],
+    "char": "☕️",
     "category": "food_and_drink"
   },
-  "sake": {
-    "keywords": ["wine", "drink", "drunk", "beverage", "japanese", "alcohol", "booze"],
-    "char": "🍶",
-    "category": "food_and_drink"
-  },
-  "wine_glass": {
-    "keywords": ["drink", "beverage", "drunk", "alcohol", "booze"],
-    "char": "🍷",
-    "category": "food_and_drink"
-  },
-  "cocktail": {
-    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze"],
-    "char": "🍸",
-    "category": "food_and_drink"
-  },
-  "tropical_drink": {
-    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze"],
-    "char": "🍹",
-    "category": "food_and_drink"
-  },
-  "beer": {
-    "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
-    "char": "🍺",
-    "category": "food_and_drink"
-  },
-  "beers": {
-    "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
-    "char": "🍻",
-    "category": "food_and_drink"
-  },
-  "baby_bottle": {
+  "baby_bottle":  {
     "keywords": ["food", "container", "milk"],
     "char": "🍼",
     "category": "food_and_drink"
   },
-  "ribbon": {
-    "keywords": ["decoration", "pink", "girl", "bowtie"],
-    "char": "🎀",
-    "category": "symbols"
+  "fork_and_knife":  {
+    "keywords": ["cutlery", "kitchen"],
+    "char": "🍴",
+    "category": "food_and_drink"
   },
-  "gift": {
-    "keywords": ["present", "birthday", "christmas", "xmas"],
-    "char": "🎁",
-    "category": "symbols"
-  },
-  "birthday": {
-    "keywords": ["party", "cake", "celebration"],
-    "char": "🎂",
-    "category": "symbols"
-  },
-  "rice_scene": {
-    "keywords": ["photo", "japan", "asia", "tsukimi"],
-    "char": "🎑",
-    "category": "symbols"
-  },
-  "fireworks": {
-    "keywords": ["photo", "festival", "carnival", "congratulations"],
-    "char": "🎆",
-    "category": "symbols"
-  },
-  "sparkler": {
-    "keywords": ["stars", "night", "shine"],
-    "char": "🎇",
-    "category": "symbols"
-  },
-  "tada": {
-    "keywords": ["party", "contulations", "birthday", "magic", "circus"],
-    "char": "🎉",
-    "category": "symbols"
-  },
-  "confetti_ball": {
-    "keywords": ["festival", "party", "birthday", "circus"],
-    "char": "🎊",
-    "category": "symbols"
-  },
-  "balloon": {
-    "keywords": ["party", "celebration", "birthday", "circus"],
-    "char": "🎈",
-    "category": "symbols"
-  },
-  "dolls": {
-    "keywords": ["japanese", "toy", "kimono"],
-    "char": "🎎",
-    "category": "symbols"
-  },
-  "flags": {
-    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
-    "char": "🎏",
-    "category": "symbols"
-  },
-  "wind_chime": {
-    "keywords": ["nature", "ding", "spring", "bell"],
-    "char": "🎐",
-    "category": "symbols"
-  },
-  "crossed_flags": {
-    "keywords": ["japanese", "nation", "country", "border"],
-    "char": "🎌",
-    "category": "symbols"
-  },
-  "izakaya_lantern": {
-    "keywords": ["light", "paper", "halloween", "spooky"],
-    "char": "🏮",
-    "category": "symbols"
-  },
-  "heart": {
-    "keywords": ["love", "like", "valentines"],
-    "char": "❤️",
-    "category": "symbols"
-  },
-  "broken_heart": {
-    "keywords": ["sad", "sorry", "break"],
-    "char": "💔",
-    "category": "symbols"
-  },
-  "love_letter": {
-    "keywords": ["email", "like", "affection", "envelope", "valentines"],
-    "char": "💌",
-    "category": "symbols"
-  },
-  "two_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💕",
-    "category": "symbols"
-  },
-  "revolving_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💞",
-    "category": "symbols"
-  },
-  "heartbeat": {
-    "keywords": ["love", "like", "affection", "valentines", "pink"],
-    "char": "💓",
-    "category": "symbols"
-  },
-  "heartpulse": {
-    "keywords": ["like", "love", "affection", "valentines", "pink"],
-    "char": "💗",
-    "category": "symbols"
-  },
-  "sparkling_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💖",
-    "category": "symbols"
-  },
-  "cupid": {
-    "keywords": ["love", "like", "heart", "affection", "valentines"],
-    "char": "💘",
-    "category": "symbols"
-  },
-  "gift_heart": {
-    "keywords": ["love", "valentines"],
-    "char": "💝",
-    "category": "symbols"
-  },
-  "heart_decoration": {
-    "keywords": ["purple-square", "love", "like"],
-    "char": "💟",
-    "category": "symbols"
-  },
-  "purple_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💜",
-    "category": "symbols"
-  },
-  "yellow_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💛",
-    "category": "symbols"
-  },
-  "green_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💚",
-    "category": "symbols"
-  },
-  "blue_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💙",
-    "category": "symbols"
+  "fork_and_knife_with_plate": {
+    "keywords": ["food", "eat", "meal", "lunch", "dinner", "restaurant"],
+    "char": "🍽",
+    "category": "food_and_drink"
   },
   "soccer": {
     "keywords": ["sports", "football"],
@@ -2448,6 +2303,196 @@
     "keywords": ["sports", "fun", "play"],
     "char": "🎳",
     "category": "activity"
+  },
+  "beach_with_umbrella": {
+    "keywords": ["weather", "summer", "sunny", "sand"],
+    "char": "🏖",
+    "category": "travel_and_places"
+  },
+  "stars": {
+    "keywords": ["night", "photo"],
+    "char": "🌠",
+    "category": "travel_and_places"
+  },
+  "sunrise_over_mountains": {
+    "keywords": ["view", "vacation", "photo"],
+    "char": "🌄",
+    "category": "travel_and_places"
+  },
+  "sunrise": {
+    "keywords": ["morning", "view", "vacation", "photo"],
+    "char": "🌅",
+    "category": "travel_and_places"
+  },
+  "rainbow": {
+    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
+    "char": "🌈",
+    "category": "travel_and_places"
+  },
+  "volcano": {
+    "keywords": ["photo", "nature", "disaster"],
+    "char": "🌋",
+    "category": "travel_and_places"
+  },
+  "milky_way": {
+    "keywords": ["photo", "space", "stars"],
+    "char": "🌌",
+    "category": "travel_and_places"
+  },
+  "mount_fuji": {
+    "keywords": ["photo", "mountain", "nature", "japanese"],
+    "char": "🗻",
+    "category": "travel_and_places"
+  },
+  "japan": {
+    "keywords": ["nation", "country", "japanese", "asia"],
+    "char": "🗾",
+    "category": "travel_and_places"
+  },
+  "ribbon": {
+    "keywords": ["decoration", "pink", "girl", "bowtie"],
+    "char": "🎀",
+    "category": "symbols"
+  },
+  "gift": {
+    "keywords": ["present", "birthday", "christmas", "xmas"],
+    "char": "🎁",
+    "category": "symbols"
+  },
+  "birthday": {
+    "keywords": ["party", "cake", "celebration"],
+    "char": "🎂",
+    "category": "symbols"
+  },
+  "rice_scene": {
+    "keywords": ["photo", "japan", "asia", "tsukimi"],
+    "char": "🎑",
+    "category": "symbols"
+  },
+  "fireworks": {
+    "keywords": ["photo", "festival", "carnival", "congratulations"],
+    "char": "🎆",
+    "category": "symbols"
+  },
+  "sparkler": {
+    "keywords": ["stars", "night", "shine"],
+    "char": "🎇",
+    "category": "symbols"
+  },
+  "tada": {
+    "keywords": ["party", "contulations", "birthday", "magic", "circus"],
+    "char": "🎉",
+    "category": "symbols"
+  },
+  "confetti_ball": {
+    "keywords": ["festival", "party", "birthday", "circus"],
+    "char": "🎊",
+    "category": "symbols"
+  },
+  "balloon": {
+    "keywords": ["party", "celebration", "birthday", "circus"],
+    "char": "🎈",
+    "category": "symbols"
+  },
+  "dolls": {
+    "keywords": ["japanese", "toy", "kimono"],
+    "char": "🎎",
+    "category": "symbols"
+  },
+  "flags": {
+    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
+    "char": "🎏",
+    "category": "symbols"
+  },
+  "wind_chime": {
+    "keywords": ["nature", "ding", "spring", "bell"],
+    "char": "🎐",
+    "category": "symbols"
+  },
+  "crossed_flags": {
+    "keywords": ["japanese", "nation", "country", "border"],
+    "char": "🎌",
+    "category": "symbols"
+  },
+  "izakaya_lantern": {
+    "keywords": ["light", "paper", "halloween", "spooky"],
+    "char": "🏮",
+    "category": "symbols"
+  },
+  "heart": {
+    "keywords": ["love", "like", "valentines"],
+    "char": "❤️",
+    "category": "symbols"
+  },
+  "broken_heart": {
+    "keywords": ["sad", "sorry", "break"],
+    "char": "💔",
+    "category": "symbols"
+  },
+  "love_letter": {
+    "keywords": ["email", "like", "affection", "envelope", "valentines"],
+    "char": "💌",
+    "category": "symbols"
+  },
+  "two_hearts": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💕",
+    "category": "symbols"
+  },
+  "revolving_hearts": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💞",
+    "category": "symbols"
+  },
+  "heartbeat": {
+    "keywords": ["love", "like", "affection", "valentines", "pink"],
+    "char": "💓",
+    "category": "symbols"
+  },
+  "heartpulse": {
+    "keywords": ["like", "love", "affection", "valentines", "pink"],
+    "char": "💗",
+    "category": "symbols"
+  },
+  "sparkling_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💖",
+    "category": "symbols"
+  },
+  "cupid": {
+    "keywords": ["love", "like", "heart", "affection", "valentines"],
+    "char": "💘",
+    "category": "symbols"
+  },
+  "gift_heart": {
+    "keywords": ["love", "valentines"],
+    "char": "💝",
+    "category": "symbols"
+  },
+  "heart_decoration": {
+    "keywords": ["purple-square", "love", "like"],
+    "char": "💟",
+    "category": "symbols"
+  },
+  "purple_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💜",
+    "category": "symbols"
+  },
+  "yellow_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💛",
+    "category": "symbols"
+  },
+  "green_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💚",
+    "category": "symbols"
+  },
+  "blue_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💙",
+    "category": "symbols"
   },
   "railway_car": {
     "keywords": ["transportation", "vehicle"],
