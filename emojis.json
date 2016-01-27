@@ -3644,6 +3644,11 @@
     "char": "🇳🇴",
     "category": "flags"
   },
+  "om": {
+    "keywords": ["oman", "flag", "nation", "country", "banner"],
+    "char": "🇴🇲",
+    "category": "flags"
+  },
   "kr": {
     "keywords": ["korea", "nation", "flag", "country", "banner"],
     "char": "🇰🇷",
