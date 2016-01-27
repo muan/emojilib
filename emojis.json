@@ -3734,14 +3734,164 @@
     "char": "🇷🇼",
     "category": "flags"
   },
+  "bl": {
+    "keywords": ["saint", "barthélemy", "flag", "nation", "country", "banner"],
+    "char": "🇧🇱",
+    "category": "flags"
+  },
+  "sh": {
+    "keywords": ["saint", "helena", "ascension", "tristan", "cunha", "flag", "nation", "country", "banner"],
+    "char": "🇸🇭",
+    "category": "flags"
+  },
+  "kn": {
+    "keywords": ["saint", "kitts", "nevis", "flag", "nation", "country", "banner"],
+    "char": "🇰🇳",
+    "category": "flags"
+  },
+  "lc": {
+    "keywords": ["saint", "lucia", "flag", "nation", "country", "banner"],
+    "char": "🇱🇨",
+    "category": "flags"
+  },
+  "pm": {
+    "keywords": ["saint", "pierre", "miquelon", "flag", "nation", "country", "banner"],
+    "char": "🇵🇲",
+    "category": "flags"
+  },
+  "vc": {
+    "keywords": ["saint", "vincent", "grenadines", "flag", "nation", "country", "banner"],
+    "char": "🇻🇨",
+    "category": "flags"
+  },
+  "ws": {
+    "keywords": ["samoa", "flag", "nation", "country", "banner"],
+    "char": "🇼🇸",
+    "category": "flags"
+  },
+  "sm": {
+    "keywords": ["san", "marino", "flag", "nation", "country", "banner"],
+    "char": "🇸🇲",
+    "category": "flags"
+  },
+  "st": {
+    "keywords": ["sao", "tome", "principe", "flag", "nation", "country", "banner"],
+    "char": "🇸🇹",
+    "category": "flags"
+  },
+  "saudi_arabia": {
+    "keywords": ["flag", "nation", "country", "banner"],
+    "char": "🇸🇦",
+    "category": "flags"
+  },
+  "sn": {
+    "keywords": ["senegal", "flag", "nation", "country", "banner"],
+    "char": "🇸🇳",
+    "category": "flags"
+  },
+  "rs": {
+    "keywords": ["serbia", "flag", "nation", "country", "banner"],
+    "char": "🇷🇸",
+    "category": "flags"
+  },
+  "sc": {
+    "keywords": ["seychelles", "flag", "nation", "country", "banner"],
+    "char": "🇸🇨",
+    "category": "flags"
+  },
+  "sl": {
+    "keywords": ["sierra", "leone", "flag", "nation", "country", "banner"],
+    "char": "🇸🇱",
+    "category": "flags"
+  },
+  "sg": {
+    "keywords": ["singapore", "flag", "nation", "country", "banner"],
+    "char": "🇸🇬",
+    "category": "flags"
+  },
+  "sx": {
+    "keywords": ["sint", "maarten", "dutch", "flag", "nation", "country", "banner"],
+    "char": "🇸🇽",
+    "category": "flags"
+  },
+  "sk": {
+    "keywords": ["slovakia", "flag", "nation", "country", "banner"],
+    "char": "🇸🇰",
+    "category": "flags"
+  },
+  "si": {
+    "keywords": ["slovenia", "flag", "nation", "country", "banner"],
+    "char": "🇸🇮",
+    "category": "flags"
+  },
+  "sb": {
+    "keywords": ["solomon", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇸🇧",
+    "category": "flags"
+  },
+  "so": {
+    "keywords": ["somalia", "flag", "nation", "country", "banner"],
+    "char": "🇸🇴",
+    "category": "flags"
+  },
+  "za": {
+    "keywords": ["south", "africa", "flag", "nation", "country", "banner"],
+    "char": "🇿🇦",
+    "category": "flags"
+  },
+  "gs": {
+    "keywords": ["south", "georgia", "sandwich", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇬🇸",
+    "category": "flags"
+  },
   "kr": {
-    "keywords": ["korea", "nation", "flag", "country", "banner"],
+    "keywords": ["south", "korea", "nation", "flag", "country", "banner"],
     "char": "🇰🇷",
+    "category": "flags"
+  },
+  "ss": {
+    "keywords": ["south", "sudan", "flag", "nation", "country", "banner"],
+    "char": "🇸🇸",
     "category": "flags"
   },
   "es": {
     "keywords": ["spain", "flag", "nation", "country", "banner"],
     "char": "🇪🇸",
+    "category": "flags"
+  },
+  "lk": {
+    "keywords": ["sri", "lanka", "flag", "nation", "country", "banner"],
+    "char": "🇱🇰",
+    "category": "flags"
+  },
+  "sd": {
+    "keywords": ["sudan", "flag", "nation", "country", "banner"],
+    "char": "🇸🇩",
+    "category": "flags"
+  },
+  "sr": {
+    "keywords": ["suriname", "flag", "nation", "country", "banner"],
+    "char": "🇸🇷",
+    "category": "flags"
+  },
+  "sz": {
+    "keywords": ["swaziland", "flag", "nation", "country", "banner"],
+    "char": "🇸🇿",
+    "category": "flags"
+  },
+  "se": {
+    "keywords": ["sweden", "flag", "nation", "country", "banner"],
+    "char": "🇸🇪",
+    "category": "flags"
+  },
+  "ch": {
+    "keywords": ["switzerland", "flag", "nation", "country", "banner"],
+    "char": "🇨🇭",
+    "category": "flags"
+  },
+  "sy": {
+    "keywords": ["syrian", "arab", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇸🇾",
     "category": "flags"
   },
   "gb": {
