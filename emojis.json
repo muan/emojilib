@@ -1732,292 +1732,292 @@
   "tomato": {
     "keywords": ["fruit", "vegetable", "nature", "food"],
     "char": "🍅",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "eggplant": {
     "keywords": ["vegetable", "nature", "food", "aubergine"],
     "char": "🍆",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "corn": {
     "keywords": ["food", "vegetable", "plant"],
     "char": "🌽",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "sweet_potato": {
     "keywords": ["food", "nature"],
     "char": "🍠",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "grapes": {
     "keywords": ["fruit", "food", "wine"],
     "char": "🍇",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "melon": {
     "keywords": ["fruit", "nature", "food"],
     "char": "🍈",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "watermelon": {
     "keywords": ["fruit", "food", "picnic", "summer"],
     "char": "🍉",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "tangerine": {
     "keywords": ["food", "fruit", "nature"],
     "char": "🍊",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "lemon": {
     "keywords": ["fruit", "nature"],
     "char": "🍋",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "banana": {
     "keywords": ["fruit", "food", "monkey"],
     "char": "🍌",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "pineapple": {
     "keywords": ["fruit", "nature", "food"],
     "char": "🍍",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "apple": {
     "keywords": ["fruit", "mac", "school"],
     "char": "🍎",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "green_apple": {
     "keywords": ["fruit", "nature"],
     "char": "🍏",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "pear": {
     "keywords": ["fruit", "nature", "food"],
     "char": "🍐",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "peach": {
     "keywords": ["fruit", "nature", "food"],
     "char": "🍑",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "cherries": {
     "keywords": ["food", "fruit"],
     "char": "🍒",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "strawberry": {
     "keywords": ["fruit", "food", "nature"],
     "char": "🍓",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "hamburger": {
     "keywords": ["meat", "fast food", "beef", "cheeseburger", "mcdonalds", "burger king"],
     "char": "🍔",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "pizza": {
     "keywords": ["food", "party"],
     "char": "🍕",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "meat_on_bone": {
     "keywords": ["good", "food", "drumstick"],
     "char": "🍖",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "poultry_leg": {
     "keywords": ["food", "meat", "drumstick", "bird", "chicken", "turkey"],
     "char": "🍗",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "rice_cracker": {
     "keywords": ["food", "japanese"],
     "char": "🍘",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "rice_ball": {
     "keywords": ["food", "japanese"],
     "char": "🍙",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "rice": {
     "keywords": ["food", "china", "asian"],
     "char": "🍚",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "curry": {
     "keywords": ["food", "spicy", "hot", "indian"],
     "char": "🍛",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "ramen": {
     "keywords": ["food", "japanese", "noodle", "chipsticks"],
     "char": "🍜",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "spaghetti": {
     "keywords": ["food", "italian", "noodle"],
     "char": "🍝",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "bread": {
     "keywords": ["food", "wheat", "breakfast", "toast"],
     "char": "🍞",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "fries": {
     "keywords": ["chips", "snack", "fast food"],
     "char": "🍟",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "dango": {
     "keywords": ["food", "barbecue", "meat"],
     "char": "🍡",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "oden": {
     "keywords": ["food", "japanese"],
     "char": "🍢",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "sushi": {
     "keywords": ["food", "fish", "japanese", "rice"],
     "char": "🍣",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "fried_shrimp": {
     "keywords": ["food", "animal", "appetizer", "summer"],
     "char": "🍤",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "fish_cake": {
     "keywords": ["food", "japan", "sea", "beach"],
     "char": "🍥",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "icecream": {
     "keywords": ["food", "hot", "dessert", "summer"],
     "char": "🍦",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "shaved_ice": {
     "keywords": ["hot", "dessert", "summer"],
     "char": "🍧",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "ice_cream": {
     "keywords": ["food", "hot", "dessert"],
     "char": "🍨",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "doughnut": {
     "keywords": ["food", "dessert", "snack", "sweet", "donut"],
     "char": "🍩",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "cookie": {
     "keywords": ["food", "snack", "oreo", "chocolate", "sweet", "dessert"],
     "char": "🍪",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "chocolate_bar": {
     "keywords": ["food", "snack", "dessert", "sweet"],
     "char": "🍫",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "candy": {
     "keywords": ["snack", "dessert", "sweet"],
     "char": "🍬",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "lollipop": {
     "keywords": ["food", "snack", "candy", "sweet"],
     "char": "🍭",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "custard": {
     "keywords": ["dessert", "food"],
     "char": "🍮",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "honey_pot": {
     "keywords": ["bees", "sweet", "kitchen"],
     "char": "🍯",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "cake": {
     "keywords": ["food", "dessert"],
     "char": "🍰",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "bento": {
     "keywords": ["food", "japanese", "box"],
     "char": "🍱",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "stew": {
     "keywords": ["food", "meat", "soup"],
     "char": "🍲",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "egg": {
     "keywords": ["food", "breakfast", "kitchen"],
     "char": "🍳",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "fork_and_knife": {
     "keywords": ["cutlery", "kitchen"],
     "char": "🍴",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "tea": {
     "keywords": ["drink", "bowl", "breakfast", "green", "british"],
     "char": "🍵",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "coffee": {
     "keywords": ["drink", "beverage", "cafe", "espresso"],
     "char": "☕",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "sake": {
     "keywords": ["wine", "drink", "drunk", "beverage", "japanese", "alcohol", "booze"],
     "char": "🍶",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "wine_glass": {
     "keywords": ["drink", "beverage", "drunk", "alcohol", "booze"],
     "char": "🍷",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "cocktail": {
     "keywords": ["drink", "drunk", "alcohol", "beverage", "booze"],
     "char": "🍸",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "tropical_drink": {
     "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze"],
     "char": "🍹",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "beer": {
     "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
     "char": "🍺",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "beers": {
     "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
     "char": "🍻",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "baby_bottle": {
     "keywords": ["food", "container", "milk"],
     "char": "🍼",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
   "ribbon": {
     "keywords": ["decoration", "pink", "girl", "bowtie"],
