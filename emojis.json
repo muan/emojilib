@@ -3459,6 +3459,121 @@
     "char": "🇱🇺",
     "category": "flags"
   },
+  "mo": {
+    "keywords": ["macao", "flag", "nation", "country", "banner"],
+    "char": "🇲🇴",
+    "category": "flags"
+  },
+  "mk": {
+    "keywords": ["macedonia,", "flag", "nation", "country", "banner"],
+    "char": "🇲🇰",
+    "category": "flags"
+  },
+  "mg": {
+    "keywords": ["madagascar", "flag", "nation", "country", "banner"],
+    "char": "🇲🇬",
+    "category": "flags"
+  },
+  "mw": {
+    "keywords": ["malawi", "flag", "nation", "country", "banner"],
+    "char": "🇲🇼",
+    "category": "flags"
+  },
+  "my": {
+    "keywords": ["malaysia", "flag", "nation", "country", "banner"],
+    "char": "🇲🇾",
+    "category": "flags"
+  },
+  "mv": {
+    "keywords": ["maldives", "flag", "nation", "country", "banner"],
+    "char": "🇲🇻",
+    "category": "flags"
+  },
+  "ml": {
+    "keywords": ["mali", "flag", "nation", "country", "banner"],
+    "char": "🇲🇱",
+    "category": "flags"
+  },
+  "mt": {
+    "keywords": ["malta", "flag", "nation", "country", "banner"],
+    "char": "🇲🇹",
+    "category": "flags"
+  },
+  "mh": {
+    "keywords": ["marshall", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇲🇭",
+    "category": "flags"
+  },
+  "mq": {
+    "keywords": ["martinique", "flag", "nation", "country", "banner"],
+    "char": "🇲🇶",
+    "category": "flags"
+  },
+  "mr": {
+    "keywords": ["mauritania", "flag", "nation", "country", "banner"],
+    "char": "🇲🇷",
+    "category": "flags"
+  },
+  "mu": {
+    "keywords": ["mauritius", "flag", "nation", "country", "banner"],
+    "char": "🇲🇺",
+    "category": "flags"
+  },
+  "yt": {
+    "keywords": ["mayotte", "flag", "nation", "country", "banner"],
+    "char": "🇾🇹",
+    "category": "flags"
+  },
+  "mx": {
+    "keywords": ["mexico", "flag", "nation", "country", "banner"],
+    "char": "🇲🇽",
+    "category": "flags"
+  },
+  "fm": {
+    "keywords": ["micronesia,", "federated", "states", "flag", "nation", "country", "banner"],
+    "char": "🇫🇲",
+    "category": "flags"
+  },
+  "md": {
+    "keywords": ["moldova,", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇲🇩",
+    "category": "flags"
+  },
+  "mc": {
+    "keywords": ["monaco", "flag", "nation", "country", "banner"],
+    "char": "🇲🇨",
+    "category": "flags"
+  },
+  "mn": {
+    "keywords": ["mongolia", "flag", "nation", "country", "banner"],
+    "char": "🇲🇳",
+    "category": "flags"
+  },
+  "me": {
+    "keywords": ["montenegro", "flag", "nation", "country", "banner"],
+    "char": "🇲🇪",
+    "category": "flags"
+  },
+  "ms": {
+    "keywords": ["montserrat", "flag", "nation", "country", "banner"],
+    "char": "🇲🇸",
+    "category": "flags"
+  },
+  "ma": {
+    "keywords": ["morocco", "flag", "nation", "country", "banner"],
+    "char": "🇲🇦",
+    "category": "flags"
+  },
+  "mz": {
+    "keywords": ["mozambique", "flag", "nation", "country", "banner"],
+    "char": "🇲🇿",
+    "category": "flags"
+  },
+  "mm": {
+    "keywords": ["myanmar", "flag", "nation", "country", "banner"],
+    "char": "🇲🇲",
+    "category": "flags"
+  },
   "kr": {
     "keywords": ["korea", "nation", "flag", "country", "banner"],
     "char": "🇰🇷",
