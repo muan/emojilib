@@ -2899,6 +2899,111 @@
     "char": "🇦🇿",
     "category": "flags"
   },
+  "bs": {
+    "keywords": ["bahamas", "flag", "nation", "country", "banner"],
+    "char": "🇧🇸",
+    "category": "flags"
+  },
+  "bh": {
+    "keywords": ["bahrain", "flag", "nation", "country", "banner"],
+    "char": "🇧🇭",
+    "category": "flags"
+  },
+  "bd": {
+    "keywords": ["bangladesh", "flag", "nation", "country", "banner"],
+    "char": "🇧🇩",
+    "category": "flags"
+  },
+  "bb": {
+    "keywords": ["barbados", "flag", "nation", "country", "banner"],
+    "char": "🇧🇧",
+    "category": "flags"
+  },
+  "by": {
+    "keywords": ["belarus", "flag", "nation", "country", "banner"],
+    "char": "🇧🇾",
+    "category": "flags"
+  },
+  "be": {
+    "keywords": ["belgium", "flag", "nation", "country", "banner"],
+    "char": "🇧🇪",
+    "category": "flags"
+  },
+  "bz": {
+    "keywords": ["belize", "flag", "nation", "country", "banner"],
+    "char": "🇧🇿",
+    "category": "flags"
+  },
+  "bj": {
+    "keywords": ["benin", "flag", "nation", "country", "banner"],
+    "char": "🇧🇯",
+    "category": "flags"
+  },
+  "bm": {
+    "keywords": ["bermuda", "flag", "nation", "country", "banner"],
+    "char": "🇧🇲",
+    "category": "flags"
+  },
+  "bt": {
+    "keywords": ["bhutan", "flag", "nation", "country", "banner"],
+    "char": "🇧🇹",
+    "category": "flags"
+  },
+  "bo": {
+    "keywords": ["bolivia", "flag", "nation", "country", "banner"],
+    "char": "🇧🇴",
+    "category": "flags"
+  },
+  "bq": {
+    "keywords": ["bonaire", "flag", "nation", "country", "banner"],
+    "char": "🇧🇶",
+    "category": "flags"
+  },
+  "ba": {
+    "keywords": ["bosnia", "herzegovina", "flag", "nation", "country", "banner"],
+    "char": "🇧🇦",
+    "category": "flags"
+  },
+  "bw": {
+    "keywords": ["botswana", "flag", "nation", "country", "banner"],
+    "char": "🇧🇼",
+    "category": "flags"
+  },
+  "br": {
+    "keywords": ["brazil", "flag", "nation", "country", "banner"],
+    "char": "🇧🇷",
+    "category": "flags"
+  },
+  "io": {
+    "keywords": ["british", "indian", "ocean", "territory", "flag", "nation", "country", "banner"],
+    "char": "🇮🇴",
+    "category": "flags"
+  },
+  "vg": {
+    "keywords": ["british", "virgin", "islands", "bvi", "flag", "nation", "country", "banner"],
+    "char": "🇻🇬",
+    "category": "flags"
+  },
+  "bn": {
+    "keywords": ["brunei", "darussalam", "flag", "nation", "country", "banner"],
+    "char": "🇧🇳",
+    "category": "flags"
+  },
+  "bg": {
+    "keywords": ["bulgaria", "flag", "nation", "country", "banner"],
+    "char": "🇧🇬",
+    "category": "flags"
+  },
+  "bf": {
+    "keywords": ["burkina", "faso", "flag", "nation", "country", "banner"],
+    "char": "🇧🇫",
+    "category": "flags"
+  },
+  "bi": {
+    "keywords": ["burundi", "flag", "nation", "country", "banner"],
+    "char": "🇧🇮",
+    "category": "flags"
+  },
   "cn": {
     "keywords": ["china", "chinese", "prc", "flag", "country", "nation", "banner"],
     "char": "🇨🇳",
