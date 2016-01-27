@@ -3894,6 +3894,76 @@
     "char": "🇸🇾",
     "category": "flags"
   },
+  "tw": {
+    "keywords": ["taiwan", "flag", "nation", "country", "banner"],
+    "char": "🇹🇼",
+    "category": "flags"
+  },
+  "tj": {
+    "keywords": ["tajikistan", "flag", "nation", "country", "banner"],
+    "char": "🇹🇯",
+    "category": "flags"
+  },
+  "tz": {
+    "keywords": ["tanzania,", "united", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇹🇿",
+    "category": "flags"
+  },
+  "th": {
+    "keywords": ["thailand", "flag", "nation", "country", "banner"],
+    "char": "🇹🇭",
+    "category": "flags"
+  },
+  "tl": {
+    "keywords": ["timor", "leste", "flag", "nation", "country", "banner"],
+    "char": "🇹🇱",
+    "category": "flags"
+  },
+  "tg": {
+    "keywords": ["togo", "flag", "nation", "country", "banner"],
+    "char": "🇹🇬",
+    "category": "flags"
+  },
+  "tk": {
+    "keywords": ["tokelau", "flag", "nation", "country", "banner"],
+    "char": "🇹🇰",
+    "category": "flags"
+  },
+  "to": {
+    "keywords": ["tonga", "flag", "nation", "country", "banner"],
+    "char": "🇹🇴",
+    "category": "flags"
+  },
+  "tt": {
+    "keywords": ["trinidad", "tobago", "flag", "nation", "country", "banner"],
+    "char": "🇹🇹",
+    "category": "flags"
+  },
+  "tn": {
+    "keywords": ["tunisia", "flag", "nation", "country", "banner"],
+    "char": "🇹🇳",
+    "category": "flags"
+  },
+  "tr": {
+    "keywords": ["turkey", "flag", "nation", "country", "banner"],
+    "char": "🇹🇷",
+    "category": "flags"
+  },
+  "turkmenistan": {
+    "keywords": ["flag", "nation", "country", "banner"],
+    "char": "🇹🇲",
+    "category": "flags"
+  },
+  "tc": {
+    "keywords": ["turks", "caicos", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇹🇨",
+    "category": "flags"
+  },
+  "tuvalu": {
+    "keywords": ["flag", "nation", "country", "banner"],
+    "char": "🇹🇻",
+    "category": "flags"
+  },
   "gb": {
     "keywords": ["banner", "nation", "flag", "british", "UK", "country", "english", "england", "union jack"],
     "char": "🇬🇧",
