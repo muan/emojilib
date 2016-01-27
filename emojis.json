@@ -4004,6 +4004,26 @@
     "char": "🇺🇿",
     "category": "flags"
   },
+  "vu": {
+    "keywords": ["vanuatu", "flag", "nation", "country", "banner"],
+    "char": "🇻🇺",
+    "category": "flags"
+  },
+  "va": {
+    "keywords": ["vatican", "city", "flag", "nation", "country", "banner"],
+    "char": "🇻🇦",
+    "category": "flags"
+  },
+  "ve": {
+    "keywords": ["venezuela", "bolivarian", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇻🇪",
+    "category": "flags"
+  },
+  "vn": {
+    "keywords": ["viet", "nam", "flag", "nation", "country", "banner"],
+    "char": "🇻🇳",
+    "category": "flags"
+  },
   "watch": {
     "keywords": ["time", "accessories"],
     "char": "⌚",
