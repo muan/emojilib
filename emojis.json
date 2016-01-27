@@ -2022,147 +2022,147 @@
   "ribbon": {
     "keywords": ["decoration", "pink", "girl", "bowtie"],
     "char": "🎀",
-    "category": "celebration"
+    "category": "symbols"
   },
   "gift": {
     "keywords": ["present", "birthday", "christmas", "xmas"],
     "char": "🎁",
-    "category": "celebration"
+    "category": "symbols"
   },
   "birthday": {
     "keywords": ["party", "cake", "celebration"],
     "char": "🎂",
-    "category": "celebration"
+    "category": "symbols"
   },
   "rice_scene": {
     "keywords": ["photo", "japan", "asia", "tsukimi"],
     "char": "🎑",
-    "category": "celebration"
+    "category": "symbols"
   },
   "fireworks": {
     "keywords": ["photo", "festival", "carnival", "congratulations"],
     "char": "🎆",
-    "category": "celebration"
+    "category": "symbols"
   },
   "sparkler": {
     "keywords": ["stars", "night", "shine"],
     "char": "🎇",
-    "category": "celebration"
+    "category": "symbols"
   },
   "tada": {
     "keywords": ["party", "contulations", "birthday", "magic", "circus"],
     "char": "🎉",
-    "category": "celebration"
+    "category": "symbols"
   },
   "confetti_ball": {
     "keywords": ["festival", "party", "birthday", "circus"],
     "char": "🎊",
-    "category": "celebration"
+    "category": "symbols"
   },
   "balloon": {
     "keywords": ["party", "celebration", "birthday", "circus"],
     "char": "🎈",
-    "category": "celebration"
+    "category": "symbols"
   },
   "dolls": {
     "keywords": ["japanese", "toy", "kimono"],
     "char": "🎎",
-    "category": "celebration"
+    "category": "symbols"
   },
   "flags": {
     "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
     "char": "🎏",
-    "category": "celebration"
+    "category": "symbols"
   },
   "wind_chime": {
     "keywords": ["nature", "ding", "spring", "bell"],
     "char": "🎐",
-    "category": "celebration"
+    "category": "symbols"
   },
   "crossed_flags": {
     "keywords": ["japanese", "nation", "country", "border"],
     "char": "🎌",
-    "category": "celebration"
+    "category": "symbols"
   },
   "izakaya_lantern": {
     "keywords": ["light", "paper", "halloween", "spooky"],
     "char": "🏮",
-    "category": "celebration"
+    "category": "symbols"
   },
   "heart": {
     "keywords": ["love", "like", "valentines"],
     "char": "❤️",
-    "category": "celebration"
+    "category": "symbols"
   },
   "broken_heart": {
     "keywords": ["sad", "sorry", "break"],
     "char": "💔",
-    "category": "celebration"
+    "category": "symbols"
   },
   "love_letter": {
     "keywords": ["email", "like", "affection", "envelope", "valentines"],
     "char": "💌",
-    "category": "celebration"
+    "category": "symbols"
   },
   "two_hearts": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💕",
-    "category": "celebration"
+    "category": "symbols"
   },
   "revolving_hearts": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💞",
-    "category": "celebration"
+    "category": "symbols"
   },
   "heartbeat": {
     "keywords": ["love", "like", "affection", "valentines", "pink"],
     "char": "💓",
-    "category": "celebration"
+    "category": "symbols"
   },
   "heartpulse": {
     "keywords": ["like", "love", "affection", "valentines", "pink"],
     "char": "💗",
-    "category": "celebration"
+    "category": "symbols"
   },
   "sparkling_heart": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💖",
-    "category": "celebration"
+    "category": "symbols"
   },
   "cupid": {
     "keywords": ["love", "like", "heart", "affection", "valentines"],
     "char": "💘",
-    "category": "celebration"
+    "category": "symbols"
   },
   "gift_heart": {
     "keywords": ["love", "valentines"],
     "char": "💝",
-    "category": "celebration"
+    "category": "symbols"
   },
   "heart_decoration": {
     "keywords": ["purple-square", "love", "like"],
     "char": "💟",
-    "category": "celebration"
+    "category": "symbols"
   },
   "purple_heart": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💜",
-    "category": "celebration"
+    "category": "symbols"
   },
   "yellow_heart": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💛",
-    "category": "celebration"
+    "category": "symbols"
   },
   "green_heart": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💚",
-    "category": "celebration"
+    "category": "symbols"
   },
   "blue_heart": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💙",
-    "category": "celebration"
+    "category": "symbols"
   },
   "rowboat": {
     "keywords": ["sports", "hobby", "water", "ship"],
