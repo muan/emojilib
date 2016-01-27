@@ -3714,14 +3714,29 @@
     "char": "🇶🇦",
     "category": "flags"
   },
-  "kr": {
-    "keywords": ["korea", "nation", "flag", "country", "banner"],
-    "char": "🇰🇷",
+  "re": {
+    "keywords": ["réunion", "flag", "nation", "country", "banner"],
+    "char": "🇷🇪",
+    "category": "flags"
+  },
+  "ro": {
+    "keywords": ["romania", "flag", "nation", "country", "banner"],
+    "char": "🇷🇴",
     "category": "flags"
   },
   "ru": {
-    "keywords": ["russian", "nation", "flag", "country", "banner"],
+    "keywords": ["russian", "federation", "flag", "nation", "country", "banner"],
     "char": "🇷🇺",
+    "category": "flags"
+  },
+  "rw": {
+    "keywords": ["rwanda", "flag", "nation", "country", "banner"],
+    "char": "🇷🇼",
+    "category": "flags"
+  },
+  "kr": {
+    "keywords": ["korea", "nation", "flag", "country", "banner"],
+    "char": "🇰🇷",
     "category": "flags"
   },
   "es": {
