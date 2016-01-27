@@ -3709,6 +3709,11 @@
     "char": "🇵🇷",
     "category": "flags"
   },
+  "qa": {
+    "keywords": ["qatar", "flag", "nation", "country", "banner"],
+    "char": "🇶🇦",
+    "category": "flags"
+  },
   "kr": {
     "keywords": ["korea", "nation", "flag", "country", "banner"],
     "char": "🇰🇷",
