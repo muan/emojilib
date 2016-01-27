@@ -3174,9 +3174,44 @@
     "char": "🇪🇹",
     "category": "flags"
   },
+  "fk": {
+    "keywords": ["falkland", "islands", "malvinas", "flag", "nation", "country", "banner"],
+    "char": "🇫🇰",
+    "category": "flags"
+  },
+  "fo": {
+    "keywords": ["faroe", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇫🇴",
+    "category": "flags"
+  },
+  "fj": {
+    "keywords": ["fiji", "flag", "nation", "country", "banner"],
+    "char": "🇫🇯",
+    "category": "flags"
+  },
+  "fi": {
+    "keywords": ["finland", "flag", "nation", "country", "banner"],
+    "char": "🇫🇮",
+    "category": "flags"
+  },
   "fr": {
     "keywords": ["banner", "flag", "nation", "france", "french", "country"],
     "char": "🇫🇷",
+    "category": "flags"
+  },
+  "gf": {
+    "keywords": ["french", "guiana", "flag", "nation", "country", "banner"],
+    "char": "🇬🇫",
+    "category": "flags"
+  },
+  "pf": {
+    "keywords": ["french", "polynesia", "flag", "nation", "country", "banner"],
+    "char": "🇵🇫",
+    "category": "flags"
+  },
+  "tf": {
+    "keywords": ["french", "southern", "territories", "flag", "nation", "country", "banner"],
+    "char": "🇹🇫",
     "category": "flags"
   },
   "de": {
