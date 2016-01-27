@@ -3364,9 +3364,24 @@
     "char": "🇨🇮",
     "category": "flags"
   },
+  "jm": {
+    "keywords": ["jamaica", "flag", "nation", "country", "banner"],
+    "char": "🇯🇲",
+    "category": "flags"
+  },
   "jp": {
     "keywords": ["japanese", "nation", "flag", "country", "banner"],
     "char": "🇯🇵",
+    "category": "flags"
+  },
+  "je": {
+    "keywords": ["jersey", "flag", "nation", "country", "banner"],
+    "char": "🇯🇪",
+    "category": "flags"
+  },
+  "jo": {
+    "keywords": ["jordan", "flag", "nation", "country", "banner"],
+    "char": "🇯🇴",
     "category": "flags"
   },
   "kr": {
