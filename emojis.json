@@ -3214,9 +3214,84 @@
     "char": "🇹🇫",
     "category": "flags"
   },
+  "ga": {
+    "keywords": ["gabon", "flag", "nation", "country", "banner"],
+    "char": "🇬🇦",
+    "category": "flags"
+  },
+  "gm": {
+    "keywords": ["gambia", "flag", "nation", "country", "banner"],
+    "char": "🇬🇲",
+    "category": "flags"
+  },
+  "ge": {
+    "keywords": ["georgia", "flag", "nation", "country", "banner"],
+    "char": "🇬🇪",
+    "category": "flags"
+  },
   "de": {
     "keywords": ["german", "nation", "flag", "country", "banner"],
     "char": "🇩🇪",
+    "category": "flags"
+  },
+  "gh": {
+    "keywords": ["ghana", "flag", "nation", "country", "banner"],
+    "char": "🇬🇭",
+    "category": "flags"
+  },
+  "gi": {
+    "keywords": ["gibraltar", "flag", "nation", "country", "banner"],
+    "char": "🇬🇮",
+    "category": "flags"
+  },
+  "gr": {
+    "keywords": ["greece", "flag", "nation", "country", "banner"],
+    "char": "🇬🇷",
+    "category": "flags"
+  },
+  "gl": {
+    "keywords": ["greenland", "flag", "nation", "country", "banner"],
+    "char": "🇬🇱",
+    "category": "flags"
+  },
+  "gd": {
+    "keywords": ["grenada", "flag", "nation", "country", "banner"],
+    "char": "🇬🇩",
+    "category": "flags"
+  },
+  "gp": {
+    "keywords": ["guadeloupe", "flag", "nation", "country", "banner"],
+    "char": "🇬🇵",
+    "category": "flags"
+  },
+  "gu": {
+    "keywords": ["guam", "flag", "nation", "country", "banner"],
+    "char": "🇬🇺",
+    "category": "flags"
+  },
+  "gt": {
+    "keywords": ["guatemala", "flag", "nation", "country", "banner"],
+    "char": "🇬🇹",
+    "category": "flags"
+  },
+  "gg": {
+    "keywords": ["guernsey", "flag", "nation", "country", "banner"],
+    "char": "🇬🇬",
+    "category": "flags"
+  },
+  "gn": {
+    "keywords": ["guinea", "flag", "nation", "country", "banner"],
+    "char": "🇬🇳",
+    "category": "flags"
+  },
+  "gw": {
+    "keywords": ["guinea", "bissau", "flag", "nation", "country", "banner"],
+    "char": "🇬🇼",
+    "category": "flags"
+  },
+  "gy": {
+    "keywords": ["guyana", "flag", "nation", "country", "banner"],
+    "char": "🇬🇾",
     "category": "flags"
   },
   "it": {
