@@ -3294,6 +3294,26 @@
     "char": "🇬🇾",
     "category": "flags"
   },
+  "ht": {
+    "keywords": ["haiti", "flag", "nation", "country", "banner"],
+    "char": "🇭🇹",
+    "category": "flags"
+  },
+  "hn": {
+    "keywords": ["honduras", "flag", "nation", "country", "banner"],
+    "char": "🇭🇳",
+    "category": "flags"
+  },
+  "hk": {
+    "keywords": ["hong", "kong", "flag", "nation", "country", "banner"],
+    "char": "🇭🇰",
+    "category": "flags"
+  },
+  "hu": {
+    "keywords": ["hungary", "flag", "nation", "country", "banner"],
+    "char": "🇭🇺",
+    "category": "flags"
+  },
   "it": {
     "keywords": ["italy", "flag", "nation", "country", "banner"],
     "char": "🇮🇹",
