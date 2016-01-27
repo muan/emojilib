@@ -3119,6 +3119,26 @@
     "char": "🇨🇿",
     "category": "flags"
   },
+  "dk": {
+    "keywords": ["denmark", "flag", "nation", "country", "banner"],
+    "char": "🇩🇰",
+    "category": "flags"
+  },
+  "dj": {
+    "keywords": ["djibouti", "flag", "nation", "country", "banner"],
+    "char": "🇩🇯",
+    "category": "flags"
+  },
+  "dm": {
+    "keywords": ["dominica", "flag", "nation", "country", "banner"],
+    "char": "🇩🇲",
+    "category": "flags"
+  },
+  "do": {
+    "keywords": ["dominican", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇩🇴",
+    "category": "flags"
+  },
   "fr": {
     "keywords": ["banner", "flag", "nation", "france", "french", "country"],
     "char": "🇫🇷",
