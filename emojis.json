@@ -3314,9 +3314,54 @@
     "char": "🇭🇺",
     "category": "flags"
   },
+  "is": {
+    "keywords": ["iceland", "flag", "nation", "country", "banner"],
+    "char": "🇮🇸",
+    "category": "flags"
+  },
+  "in": {
+    "keywords": ["india", "flag", "nation", "country", "banner"],
+    "char": "🇮🇳",
+    "category": "flags"
+  },
+  "indonesia": {
+    "keywords": ["flag", "nation", "country", "banner"],
+    "char": "🇮🇩",
+    "category": "flags"
+  },
+  "ir": {
+    "keywords": ["iran,", "islamic", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇮🇷",
+    "category": "flags"
+  },
+  "iq": {
+    "keywords": ["iraq", "flag", "nation", "country", "banner"],
+    "char": "🇮🇶",
+    "category": "flags"
+  },
+  "ie": {
+    "keywords": ["ireland", "flag", "nation", "country", "banner"],
+    "char": "🇮🇪",
+    "category": "flags"
+  },
+  "im": {
+    "keywords": ["isle", "man", "flag", "nation", "country", "banner"],
+    "char": "🇮🇲",
+    "category": "flags"
+  },
+  "il": {
+    "keywords": ["israel", "flag", "nation", "country", "banner"],
+    "char": "🇮🇱",
+    "category": "flags"
+  },
   "it": {
     "keywords": ["italy", "flag", "nation", "country", "banner"],
     "char": "🇮🇹",
+    "category": "flags"
+  },
+  "ci": {
+    "keywords": ["ivory", "coast", "flag", "nation", "country", "banner"],
+    "char": "🇨🇮",
     "category": "flags"
   },
   "jp": {
