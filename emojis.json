@@ -4034,6 +4034,11 @@
     "char": "🇪🇭",
     "category": "flags"
   },
+  "ye": {
+    "keywords": ["yemen", "flag", "nation", "country", "banner"],
+    "char": "🇾🇪",
+    "category": "flags"
+  },
   "watch": {
     "keywords": ["time", "accessories"],
     "char": "⌚",
