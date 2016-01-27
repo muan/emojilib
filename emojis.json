@@ -1322,7 +1322,7 @@
   "christmas_tree": {
     "keywords": ["festival", "vacation", "december", "xmas", "celebration"],
     "char": "🎄",
-    "category": "celebration"
+    "category": "animals_and_nature"
   },
   "evergreen_tree": {
     "keywords": ["plant", "nature"],
@@ -1659,14 +1659,14 @@
     "char": "🌫",
     "category": "animals_and_nature"
   },
-  "umbrella": {
-    "keywords": ["rainy", "weather", "spring"],
-    "char": "☔",
-    "category": "animals_and_nature"
-  },
   "umbrella_without_rain": {
     "keywords": ["weather", "spring"],
     "char": "☂️",
+    "category": "animals_and_nature"
+  },
+  "umbrella": {
+    "keywords": ["rainy", "weather", "spring"],
+    "char": "☔",
     "category": "animals_and_nature"
   },
   "droplet": {
@@ -1682,11 +1682,6 @@
   "ocean": {
     "keywords": ["sea", "water", "wave", "nature", "tsunami", "disaster"],
     "char": "🌊",
-    "category": "animals_and_nature"
-  },
-  "thermometer": {
-    "keywords": ["weather", "temperature", "hot", "cold"],
-    "char": "🌡",
     "category": "animals_and_nature"
   },
   "beach_with_umbrella": {
@@ -3044,14 +3039,19 @@
     "char": "💈",
     "category": "objectsandsymbols"
   },
+  "pill": {
+    "keywords": ["health", "medicine", "doctor", "pharmacy", "drug"],
+    "char": "💊",
+    "category": "objectsandsymbols"
+  },
   "syringe": {
     "keywords": ["health", "hospital", "drugs", "blood", "medicine", "needle", "doctor", "nurse"],
     "char": "💉",
     "category": "objectsandsymbols"
   },
-  "pill": {
-    "keywords": ["health", "medicine", "doctor", "pharmacy", "drug"],
-    "char": "💊",
+  "thermometer": {
+    "keywords": ["weather", "temperature", "hot", "cold"],
+    "char": "🌡",
     "category": "objectsandsymbols"
   },
   "microscope": {
