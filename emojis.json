@@ -3414,6 +3414,51 @@
     "char": "🇰🇬",
     "category": "flags"
   },
+  "la": {
+    "keywords": ["lao", "democratic", "republic", "flag", "nation", "country", "banner"],
+    "char": "🇱🇦",
+    "category": "flags"
+  },
+  "lv": {
+    "keywords": ["latvia", "flag", "nation", "country", "banner"],
+    "char": "🇱🇻",
+    "category": "flags"
+  },
+  "lb": {
+    "keywords": ["lebanon", "flag", "nation", "country", "banner"],
+    "char": "🇱🇧",
+    "category": "flags"
+  },
+  "ls": {
+    "keywords": ["lesotho", "flag", "nation", "country", "banner"],
+    "char": "🇱🇸",
+    "category": "flags"
+  },
+  "lr": {
+    "keywords": ["liberia", "flag", "nation", "country", "banner"],
+    "char": "🇱🇷",
+    "category": "flags"
+  },
+  "ly": {
+    "keywords": ["libya", "flag", "nation", "country", "banner"],
+    "char": "🇱🇾",
+    "category": "flags"
+  },
+  "li": {
+    "keywords": ["liechtenstein", "flag", "nation", "country", "banner"],
+    "char": "🇱🇮",
+    "category": "flags"
+  },
+  "lt": {
+    "keywords": ["lithuania", "flag", "nation", "country", "banner"],
+    "char": "🇱🇹",
+    "category": "flags"
+  },
+  "lu": {
+    "keywords": ["luxembourg", "flag", "nation", "country", "banner"],
+    "char": "🇱🇺",
+    "category": "flags"
+  },
   "kr": {
     "keywords": ["korea", "nation", "flag", "country", "banner"],
     "char": "🇰🇷",
