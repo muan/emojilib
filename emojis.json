@@ -4039,6 +4039,16 @@
     "char": "🇾🇪",
     "category": "flags"
   },
+  "zm": {
+    "keywords": ["zambia", "flag", "nation", "country", "banner"],
+    "char": "🇿🇲",
+    "category": "flags"
+  },
+  "zw": {
+    "keywords": ["zimbabwe", "flag", "nation", "country", "banner"],
+    "char": "🇿🇼",
+    "category": "flags"
+  },
   "watch": {
     "keywords": ["time", "accessories"],
     "char": "⌚",
