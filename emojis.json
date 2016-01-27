@@ -3649,6 +3649,66 @@
     "char": "🇴🇲",
     "category": "flags"
   },
+  "pk": {
+    "keywords": ["pakistan", "flag", "nation", "country", "banner"],
+    "char": "🇵🇰",
+    "category": "flags"
+  },
+  "pw": {
+    "keywords": ["palau", "flag", "nation", "country", "banner"],
+    "char": "🇵🇼",
+    "category": "flags"
+  },
+  "ps": {
+    "keywords": ["palestine", "palestinian", "territories", "flag", "nation", "country", "banner"],
+    "char": "🇵🇸",
+    "category": "flags"
+  },
+  "pa": {
+    "keywords": ["panama", "flag", "nation", "country", "banner"],
+    "char": "🇵🇦",
+    "category": "flags"
+  },
+  "pg": {
+    "keywords": ["papua", "new", "guinea", "flag", "nation", "country", "banner"],
+    "char": "🇵🇬",
+    "category": "flags"
+  },
+  "py": {
+    "keywords": ["paraguay", "flag", "nation", "country", "banner"],
+    "char": "🇵🇾",
+    "category": "flags"
+  },
+  "pe": {
+    "keywords": ["peru", "flag", "nation", "country", "banner"],
+    "char": "🇵🇪",
+    "category": "flags"
+  },
+  "ph": {
+    "keywords": ["philippines", "flag", "nation", "country", "banner"],
+    "char": "🇵🇭",
+    "category": "flags"
+  },
+  "pn": {
+    "keywords": ["pitcairn", "flag", "nation", "country", "banner"],
+    "char": "🇵🇳",
+    "category": "flags"
+  },
+  "pl": {
+    "keywords": ["poland", "flag", "nation", "country", "banner"],
+    "char": "🇵🇱",
+    "category": "flags"
+  },
+  "pt": {
+    "keywords": ["portugal", "flag", "nation", "country", "banner"],
+    "char": "🇵🇹",
+    "category": "flags"
+  },
+  "pr": {
+    "keywords": ["puerto", "rico", "flag", "nation", "country", "banner"],
+    "char": "🇵🇷",
+    "category": "flags"
+  },
   "kr": {
     "keywords": ["korea", "nation", "flag", "country", "banner"],
     "char": "🇰🇷",
