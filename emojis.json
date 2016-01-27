@@ -3574,6 +3574,76 @@
     "char": "🇲🇲",
     "category": "flags"
   },
+  "na": {
+    "keywords": ["namibia", "flag", "nation", "country", "banner"],
+    "char": "🇳🇦",
+    "category": "flags"
+  },
+  "nr": {
+    "keywords": ["nauru", "flag", "nation", "country", "banner"],
+    "char": "🇳🇷",
+    "category": "flags"
+  },
+  "np": {
+    "keywords": ["nepal", "flag", "nation", "country", "banner"],
+    "char": "🇳🇵",
+    "category": "flags"
+  },
+  "nl": {
+    "keywords": ["netherlands", "flag", "nation", "country", "banner"],
+    "char": "🇳🇱",
+    "category": "flags"
+  },
+  "nc": {
+    "keywords": ["new", "caledonia", "flag", "nation", "country", "banner"],
+    "char": "🇳🇨",
+    "category": "flags"
+  },
+  "nz": {
+    "keywords": ["new", "zealand", "flag", "nation", "country", "banner"],
+    "char": "🇳🇿",
+    "category": "flags"
+  },
+  "ni": {
+    "keywords": ["nicaragua", "flag", "nation", "country", "banner"],
+    "char": "🇳🇮",
+    "category": "flags"
+  },
+  "ne": {
+    "keywords": ["niger", "flag", "nation", "country", "banner"],
+    "char": "🇳🇪",
+    "category": "flags"
+  },
+  "nigeria": {
+    "keywords": ["flag", "nation", "country", "banner"],
+    "char": "🇳🇬",
+    "category": "flags"
+  },
+  "nu": {
+    "keywords": ["niue", "flag", "nation", "country", "banner"],
+    "char": "🇳🇺",
+    "category": "flags"
+  },
+  "nf": {
+    "keywords": ["norfolk", "island", "flag", "nation", "country", "banner"],
+    "char": "🇳🇫",
+    "category": "flags"
+  },
+  "mp": {
+    "keywords": ["northern", "mariana", "islands", "flag", "nation", "country", "banner"],
+    "char": "🇲🇵",
+    "category": "flags"
+  },
+  "kp": {
+    "keywords": ["north", "korea", "nation", "country", "banner"],
+    "char": "🇰🇵",
+    "category": "flags"
+  },
+  "no": {
+    "keywords": ["norway", "flag", "nation", "country", "banner"],
+    "char": "🇳🇴",
+    "category": "flags"
+  },
   "kr": {
     "keywords": ["korea", "nation", "flag", "country", "banner"],
     "char": "🇰🇷",
