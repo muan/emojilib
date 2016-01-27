@@ -3964,19 +3964,44 @@
     "char": "🇹🇻",
     "category": "flags"
   },
+  "ug": {
+    "keywords": ["uganda", "flag", "nation", "country", "banner"],
+    "char": "🇺🇬",
+    "category": "flags"
+  },
+  "ua": {
+    "keywords": ["ukraine", "flag", "nation", "country", "banner"],
+    "char": "🇺🇦",
+    "category": "flags"
+  },
+  "ae": {
+    "keywords": ["united", "arab", "emirates", "flag", "nation", "country", "banner"],
+    "char": "🇦🇪",
+    "category": "flags"
+  },
   "gb": {
-    "keywords": ["banner", "nation", "flag", "british", "UK", "country", "english", "england", "union jack"],
+    "keywords": ["united", "kingdom", "great", "britain", "northern", "ireland", "flag", "nation", "country", "banner", "british", "UK", "english", "england", "union jack"],
     "char": "🇬🇧",
     "category": "flags"
   },
   "us": {
-    "keywords": ["nation", "flag", "american", "country", "banner"],
+    "keywords": ["united", "states", "america", "flag", "nation", "country", "banner"],
     "char": "🇺🇸",
     "category": "flags"
   },
-  "ae": {
-    "keywords": ["uae", "flag", "nation", "country", "banner"],
-    "char": "🇦🇪",
+  "vi": {
+    "keywords": ["virgin", "islands", "us", "flag", "nation", "country", "banner"],
+    "char": "🇻🇮",
+    "category": "flags"
+  },
+  "uy": {
+    "keywords": ["uruguay", "flag", "nation", "country", "banner"],
+    "char": "🇺🇾",
+    "category": "flags"
+  },
+  "uz": {
+    "keywords": ["uzbekistan", "flag", "nation", "country", "banner"],
+    "char": "🇺🇿",
     "category": "flags"
   },
   "watch": {
