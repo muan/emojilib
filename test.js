@@ -34,7 +34,7 @@ try {
 //
 console.log("TEST: Correct number of emojis")
 
-var emojiNumber = 1152 // update this number when emoji are added
+var emojiNumber = 1301 // 1284(from all categories) + 17(custom)
 
 if(keys.length !== emojiNumber) {
   console.log("There are " + emojiNumber + " emojis, but emojis.json has " + keys.length + " entries.")
@@ -48,6 +48,43 @@ console.log("TEST: Ordered keys are up to date")
 
 if(orderd_keys.length !== emojiNumber) {
   console.log("There are " + emojiNumber + " emojis, but keys contains " + orderd_keys.length + " emojis.")
+  failed()
+} else {
+  passed()
+}
+
+//
+console.log("TEST: Correct number of emojis in each category")
+
+var categories = {
+  people: 204,
+  animals_and_nature: 147,
+  food_and_drink: 67,
+  activity: 57,
+  travel_and_places: 115,
+  objects: 178,
+  symbols: 269,
+  flags: 247
+}
+
+var counter = []
+
+Object.keys(categories).forEach(function (category) {
+  var count = keys.map(function (key) {
+    return data[key]["category"]
+  }).filter(function (mojicategory) {
+    return mojicategory === category
+  }).length
+
+  if (count !== categories[category]) {
+    counter.push([category, count])
+  }
+})
+
+if(counter.length > 0) {
+  counter.forEach(function (result) {
+    console.log("There are " + result[1] + " emojis in \"" + result[0] + "\", but the expected number is " + categories[result[0]])
+  })
   failed()
 } else {
   passed()

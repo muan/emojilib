@@ -490,7 +490,7 @@
     "category": "people"
   },
   "muscle": {
-    "keywords": ["arm", "flex", "hand", "summer", "strong"],
+    "keywords": ["arm", "flex", "hand", "summer", "strong", "biceps"],
     "char": "💪",
     "category": "people"
   },
@@ -1322,7 +1322,7 @@
   "christmas_tree": {
     "keywords": ["festival", "vacation", "december", "xmas", "celebration"],
     "char": "🎄",
-    "category": "celebration"
+    "category": "animals_and_nature"
   },
   "evergreen_tree": {
     "keywords": ["plant", "nature"],
@@ -1547,12 +1547,12 @@
   "dizzy": {
     "keywords": ["star", "sparkle", "shoot", "magic"],
     "char": "💫",
-    "category": "celebration"
+    "category": "animals_and_nature"
   },
   "sparkles": {
     "keywords": ["stars", "shine", "shiny", "cool", "awesome", "good", "magic"],
     "char": "✨",
-    "category": "celebration"
+    "category": "animals_and_nature"
   },
   "comet": {
     "keywords": ["space"],
@@ -1617,7 +1617,7 @@
   "boom": {
     "keywords": ["bomb", "explode", "explosion", "collision", "blown"],
     "char": "💥",
-    "category": "celebration"
+    "category": "animals_and_nature"
   },
   "snowflake": {
     "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas"],
@@ -1632,12 +1632,12 @@
   "snowman": {
     "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "frozen", "without_snow"],
     "char": "⛄",
-    "category": "activity"
+    "category": "animals_and_nature"
   },
   "snowman_with_snow": {
     "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "frozen"],
     "char": "☃️",
-    "category": "activity"
+    "category": "animals_and_nature"
   },
   "wind_blowing_face": {
     "keywords": ["gust", "air"],
@@ -1659,14 +1659,14 @@
     "char": "🌫",
     "category": "animals_and_nature"
   },
-  "umbrella": {
-    "keywords": ["rainy", "weather", "spring"],
-    "char": "☔",
-    "category": "animals_and_nature"
-  },
   "umbrella_without_rain": {
     "keywords": ["weather", "spring"],
     "char": "☂️",
+    "category": "animals_and_nature"
+  },
+  "umbrella": {
+    "keywords": ["rainy", "weather", "spring"],
+    "char": "☔",
     "category": "animals_and_nature"
   },
   "droplet": {
@@ -1684,490 +1684,445 @@
     "char": "🌊",
     "category": "animals_and_nature"
   },
-  "thermometer": {
-    "keywords": ["weather", "temperature", "hot", "cold"],
-    "char": "🌡",
-    "category": "animals_and_nature"
-  },
-  "beach_with_umbrella": {
-    "keywords": ["weather", "summer", "sunny", "sand"],
-    "char": "🏖",
-    "category": "travelandplaces"
-  },
-  "stars": {
-    "keywords": ["night", "photo"],
-    "char": "🌠",
-    "category": "travelandplaces"
-  },
-  "sunrise_over_mountains": {
-    "keywords": ["view", "vacation", "photo"],
-    "char": "🌄",
-    "category": "travelandplaces"
-  },
-  "sunrise": {
-    "keywords": ["morning", "view", "vacation", "photo"],
-    "char": "🌅",
-    "category": "travelandplaces"
-  },
-  "rainbow": {
-    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
-    "char": "🌈",
-    "category": "travelandplaces"
-  },
-  "volcano": {
-    "keywords": ["photo", "nature", "disaster"],
-    "char": "🌋",
-    "category": "travelandplaces"
-  },
-  "milky_way": {
-    "keywords": ["photo", "space", "stars"],
-    "char": "🌌",
-    "category": "travelandplaces"
-  },
-  "mount_fuji": {
-    "keywords": ["photo", "mountain", "nature", "japanese"],
-    "char": "🗻",
-    "category": "travelandplaces"
-  },
-  "japan": {
-    "keywords": ["nation", "country", "japanese", "asia"],
-    "char": "🗾",
-    "category": "travelandplaces"
-  },
-  "tomato": {
-    "keywords": ["fruit", "vegetable", "nature", "food"],
-    "char": "🍅",
-    "category": "foodanddrink"
-  },
-  "eggplant": {
-    "keywords": ["vegetable", "nature", "food", "aubergine"],
-    "char": "🍆",
-    "category": "foodanddrink"
-  },
-  "corn": {
-    "keywords": ["food", "vegetable", "plant"],
-    "char": "🌽",
-    "category": "foodanddrink"
-  },
-  "sweet_potato": {
-    "keywords": ["food", "nature"],
-    "char": "🍠",
-    "category": "foodanddrink"
-  },
-  "grapes": {
-    "keywords": ["fruit", "food", "wine"],
-    "char": "🍇",
-    "category": "foodanddrink"
-  },
-  "melon": {
-    "keywords": ["fruit", "nature", "food"],
-    "char": "🍈",
-    "category": "foodanddrink"
-  },
-  "watermelon": {
-    "keywords": ["fruit", "food", "picnic", "summer"],
-    "char": "🍉",
-    "category": "foodanddrink"
-  },
-  "tangerine": {
-    "keywords": ["food", "fruit", "nature"],
-    "char": "🍊",
-    "category": "foodanddrink"
-  },
-  "lemon": {
-    "keywords": ["fruit", "nature"],
-    "char": "🍋",
-    "category": "foodanddrink"
-  },
-  "banana": {
-    "keywords": ["fruit", "food", "monkey"],
-    "char": "🍌",
-    "category": "foodanddrink"
-  },
-  "pineapple": {
-    "keywords": ["fruit", "nature", "food"],
-    "char": "🍍",
-    "category": "foodanddrink"
-  },
-  "apple": {
-    "keywords": ["fruit", "mac", "school"],
-    "char": "🍎",
-    "category": "foodanddrink"
-  },
-  "green_apple": {
+  "green_apple":  {
     "keywords": ["fruit", "nature"],
     "char": "🍏",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "pear": {
+  "apple":  {
+    "keywords": ["fruit", "mac", "school"],
+    "char": "🍎",
+    "category": "food_and_drink"
+  },
+  "pear":  {
     "keywords": ["fruit", "nature", "food"],
     "char": "🍐",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "peach": {
-    "keywords": ["fruit", "nature", "food"],
-    "char": "🍑",
-    "category": "foodanddrink"
+  "tangerine":  {
+    "keywords": ["food", "fruit", "nature"],
+    "char": "🍊",
+    "category": "food_and_drink"
   },
-  "cherries": {
-    "keywords": ["food", "fruit"],
-    "char": "🍒",
-    "category": "foodanddrink"
+  "lemon":  {
+    "keywords": ["fruit", "nature"],
+    "char": "🍋",
+    "category": "food_and_drink"
   },
-  "strawberry": {
+  "banana":  {
+    "keywords": ["fruit", "food", "monkey"],
+    "char": "🍌",
+    "category": "food_and_drink"
+  },
+  "watermelon":  {
+    "keywords": ["fruit", "food", "picnic", "summer"],
+    "char": "🍉",
+    "category": "food_and_drink"
+  },
+  "grapes":  {
+    "keywords": ["fruit", "food", "wine"],
+    "char": "🍇",
+    "category": "food_and_drink"
+  },
+  "strawberry":  {
     "keywords": ["fruit", "food", "nature"],
     "char": "🍓",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "hamburger": {
-    "keywords": ["meat", "fast food", "beef", "cheeseburger", "mcdonalds", "burger king"],
-    "char": "🍔",
-    "category": "foodanddrink"
+  "melon":  {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍈",
+    "category": "food_and_drink"
   },
-  "pizza": {
-    "keywords": ["food", "party"],
-    "char": "🍕",
-    "category": "foodanddrink"
+  "cherries":  {
+    "keywords": ["food", "fruit"],
+    "char": "🍒",
+    "category": "food_and_drink"
   },
-  "meat_on_bone": {
-    "keywords": ["good", "food", "drumstick"],
-    "char": "🍖",
-    "category": "foodanddrink"
+  "peach":  {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍑",
+    "category": "food_and_drink"
   },
-  "poultry_leg": {
-    "keywords": ["food", "meat", "drumstick", "bird", "chicken", "turkey"],
-    "char": "🍗",
-    "category": "foodanddrink"
+  "pineapple":  {
+    "keywords": ["fruit", "nature", "food"],
+    "char": "🍍",
+    "category": "food_and_drink"
   },
-  "rice_cracker": {
-    "keywords": ["food", "japanese"],
-    "char": "🍘",
-    "category": "foodanddrink"
+  "tomato":  {
+    "keywords": ["fruit", "vegetable", "nature", "food"],
+    "char": "🍅",
+    "category": "food_and_drink"
   },
-  "rice_ball": {
-    "keywords": ["food", "japanese"],
-    "char": "🍙",
-    "category": "foodanddrink"
+  "eggplant":  {
+    "keywords": ["vegetable", "nature", "food", "aubergine"],
+    "char": "🍆",
+    "category": "food_and_drink"
   },
-  "rice": {
-    "keywords": ["food", "china", "asian"],
-    "char": "🍚",
-    "category": "foodanddrink"
+  "hot_pepper": {
+    "keywords": ["food", "spicy"],
+    "char": "🌶",
+    "category": "food_and_drink"
   },
-  "curry": {
-    "keywords": ["food", "spicy", "hot", "indian"],
-    "char": "🍛",
-    "category": "foodanddrink"
+  "corn":  {
+    "keywords": ["food", "vegetable", "plant"],
+    "char": "🌽",
+    "category": "food_and_drink"
   },
-  "ramen": {
-    "keywords": ["food", "japanese", "noodle", "chipsticks"],
-    "char": "🍜",
-    "category": "foodanddrink"
+  "sweet_potato":  {
+    "keywords": ["food", "nature"],
+    "char": "🍠",
+    "category": "food_and_drink"
   },
-  "spaghetti": {
-    "keywords": ["food", "italian", "noodle"],
-    "char": "🍝",
-    "category": "foodanddrink"
-  },
-  "bread": {
-    "keywords": ["food", "wheat", "breakfast", "toast"],
-    "char": "🍞",
-    "category": "foodanddrink"
-  },
-  "fries": {
-    "keywords": ["chips", "snack", "fast food"],
-    "char": "🍟",
-    "category": "foodanddrink"
-  },
-  "dango": {
-    "keywords": ["food", "barbecue", "meat"],
-    "char": "🍡",
-    "category": "foodanddrink"
-  },
-  "oden": {
-    "keywords": ["food", "japanese"],
-    "char": "🍢",
-    "category": "foodanddrink"
-  },
-  "sushi": {
-    "keywords": ["food", "fish", "japanese", "rice"],
-    "char": "🍣",
-    "category": "foodanddrink"
-  },
-  "fried_shrimp": {
-    "keywords": ["food", "animal", "appetizer", "summer"],
-    "char": "🍤",
-    "category": "foodanddrink"
-  },
-  "fish_cake": {
-    "keywords": ["food", "japan", "sea", "beach"],
-    "char": "🍥",
-    "category": "foodanddrink"
-  },
-  "icecream": {
-    "keywords": ["food", "hot", "dessert", "summer"],
-    "char": "🍦",
-    "category": "foodanddrink"
-  },
-  "shaved_ice": {
-    "keywords": ["hot", "dessert", "summer"],
-    "char": "🍧",
-    "category": "foodanddrink"
-  },
-  "ice_cream": {
-    "keywords": ["food", "hot", "dessert"],
-    "char": "🍨",
-    "category": "foodanddrink"
-  },
-  "doughnut": {
-    "keywords": ["food", "dessert", "snack", "sweet", "donut"],
-    "char": "🍩",
-    "category": "foodanddrink"
-  },
-  "cookie": {
-    "keywords": ["food", "snack", "oreo", "chocolate", "sweet", "dessert"],
-    "char": "🍪",
-    "category": "foodanddrink"
-  },
-  "chocolate_bar": {
-    "keywords": ["food", "snack", "dessert", "sweet"],
-    "char": "🍫",
-    "category": "foodanddrink"
-  },
-  "candy": {
-    "keywords": ["snack", "dessert", "sweet"],
-    "char": "🍬",
-    "category": "foodanddrink"
-  },
-  "lollipop": {
-    "keywords": ["food", "snack", "candy", "sweet"],
-    "char": "🍭",
-    "category": "foodanddrink"
-  },
-  "custard": {
-    "keywords": ["dessert", "food"],
-    "char": "🍮",
-    "category": "foodanddrink"
-  },
-  "honey_pot": {
+  "honey_pot":  {
     "keywords": ["bees", "sweet", "kitchen"],
     "char": "🍯",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "cake": {
-    "keywords": ["food", "dessert"],
-    "char": "🍰",
-    "category": "foodanddrink"
+  "bread":  {
+    "keywords": ["food", "wheat", "breakfast", "toast"],
+    "char": "🍞",
+    "category": "food_and_drink"
   },
-  "bento": {
-    "keywords": ["food", "japanese", "box"],
-    "char": "🍱",
-    "category": "foodanddrink"
+  "cheese_wedge": {
+    "keywords": ["food", "chadder"],
+    "char": "🧀",
+    "category": "food_and_drink"
   },
-  "stew": {
-    "keywords": ["food", "meat", "soup"],
-    "char": "🍲",
-    "category": "foodanddrink"
+  "poultry_leg":  {
+    "keywords": ["food", "meat", "drumstick", "bird", "chicken", "turkey"],
+    "char": "🍗",
+    "category": "food_and_drink"
   },
-  "egg": {
+  "meat_on_bone":  {
+    "keywords": ["good", "food", "drumstick"],
+    "char": "🍖",
+    "category": "food_and_drink"
+  },
+  "fried_shrimp":  {
+    "keywords": ["food", "animal", "appetizer", "summer"],
+    "char": "🍤",
+    "category": "food_and_drink"
+  },
+  "egg":  {
     "keywords": ["food", "breakfast", "kitchen"],
     "char": "🍳",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "fork_and_knife": {
-    "keywords": ["cutlery", "kitchen"],
-    "char": "🍴",
-    "category": "foodanddrink"
+  "hamburger":  {
+    "keywords": ["meat", "fast food", "beef", "cheeseburger", "mcdonalds", "burger king"],
+    "char": "🍔",
+    "category": "food_and_drink"
   },
-  "tea": {
-    "keywords": ["drink", "bowl", "breakfast", "green", "british"],
-    "char": "🍵",
-    "category": "foodanddrink"
+  "fries":  {
+    "keywords": ["chips", "snack", "fast food"],
+    "char": "🍟",
+    "category": "food_and_drink"
   },
-  "coffee": {
-    "keywords": ["drink", "beverage", "cafe", "espresso"],
-    "char": "☕",
-    "category": "foodanddrink"
+  "hot_dog": {
+    "keywords": ["food", "frankfurter", "hotdog"],
+    "char": "🌭",
+    "category": "food_and_drink"
   },
-  "sake": {
-    "keywords": ["wine", "drink", "drunk", "beverage", "japanese", "alcohol", "booze"],
-    "char": "🍶",
-    "category": "foodanddrink"
+  "pizza":  {
+    "keywords": ["food", "party"],
+    "char": "🍕",
+    "category": "food_and_drink"
   },
-  "wine_glass": {
-    "keywords": ["drink", "beverage", "drunk", "alcohol", "booze"],
-    "char": "🍷",
-    "category": "foodanddrink"
+  "spaghetti":  {
+    "keywords": ["food", "italian", "noodle"],
+    "char": "🍝",
+    "category": "food_and_drink"
   },
-  "cocktail": {
-    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze"],
-    "char": "🍸",
-    "category": "foodanddrink"
+  "taco": {
+    "keywords": ["food", "mexican"],
+    "char": "🌮",
+    "category": "food_and_drink"
   },
-  "tropical_drink": {
-    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze"],
-    "char": "🍹",
-    "category": "foodanddrink"
+  "burrito": {
+    "keywords": ["food", "mexican"],
+    "char": "🌯",
+    "category": "food_and_drink"
   },
-  "beer": {
+  "ramen":  {
+    "keywords": ["food", "japanese", "noodle", "chipsticks"],
+    "char": "🍜",
+    "category": "food_and_drink"
+  },
+  "stew":  {
+    "keywords": ["food", "meat", "soup"],
+    "char": "🍲",
+    "category": "food_and_drink"
+  },
+  "fish_cake":  {
+    "keywords": ["food", "japan", "sea", "beach"],
+    "char": "🍥",
+    "category": "food_and_drink"
+  },
+  "sushi":  {
+    "keywords": ["food", "fish", "japanese", "rice"],
+    "char": "🍣",
+    "category": "food_and_drink"
+  },
+  "bento":  {
+    "keywords": ["food", "japanese", "box"],
+    "char": "🍱",
+    "category": "food_and_drink"
+  },
+  "curry":  {
+    "keywords": ["food", "spicy", "hot", "indian"],
+    "char": "🍛",
+    "category": "food_and_drink"
+  },
+  "rice_ball":  {
+    "keywords": ["food", "japanese"],
+    "char": "🍙",
+    "category": "food_and_drink"
+  },
+  "rice":  {
+    "keywords": ["food", "china", "asian"],
+    "char": "🍚",
+    "category": "food_and_drink"
+  },
+  "rice_cracker":  {
+    "keywords": ["food", "japanese"],
+    "char": "🍘",
+    "category": "food_and_drink"
+  },
+  "oden":  {
+    "keywords": ["food", "japanese"],
+    "char": "🍢",
+    "category": "food_and_drink"
+  },
+  "dango":  {
+    "keywords": ["food", "barbecue", "meat"],
+    "char": "🍡",
+    "category": "food_and_drink"
+  },
+  "shaved_ice":  {
+    "keywords": ["hot", "dessert", "summer"],
+    "char": "🍧",
+    "category": "food_and_drink"
+  },
+  "ice_cream":  {
+    "keywords": ["food", "hot", "dessert"],
+    "char": "🍨",
+    "category": "food_and_drink"
+  },
+  "icecream":  {
+    "keywords": ["food", "hot", "dessert", "summer"],
+    "char": "🍦",
+    "category": "food_and_drink"
+  },
+  "cake":  {
+    "keywords": ["food", "dessert"],
+    "char": "🍰",
+    "category": "food_and_drink"
+  },
+  "birthday_cake": {
+    "keywords": ["food", "dessert"],
+    "char": "🎂",
+    "category": "food_and_drink"
+  },
+  "custard":  {
+    "keywords": ["dessert", "food"],
+    "char": "🍮",
+    "category": "food_and_drink"
+  },
+  "candy":  {
+    "keywords": ["snack", "dessert", "sweet"],
+    "char": "🍬",
+    "category": "food_and_drink"
+  },
+  "lollipop":  {
+    "keywords": ["food", "snack", "candy", "sweet"],
+    "char": "🍭",
+    "category": "food_and_drink"
+  },
+  "chocolate_bar":  {
+    "keywords": ["food", "snack", "dessert", "sweet"],
+    "char": "🍫",
+    "category": "food_and_drink"
+  },
+  "popcorn": {
+    "keywords": ["food", "movie theater", "films", "snack"],
+    "char": "🍿",
+    "category": "food_and_drink"
+  },
+  "doughnut":  {
+    "keywords": ["food", "dessert", "snack", "sweet", "donut"],
+    "char": "🍩",
+    "category": "food_and_drink"
+  },
+  "cookie":  {
+    "keywords": ["food", "snack", "oreo", "chocolate", "sweet", "dessert"],
+    "char": "🍪",
+    "category": "food_and_drink"
+  },
+  "beer":  {
     "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
     "char": "🍺",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "beers": {
+  "beers":  {
     "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
     "char": "🍻",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "baby_bottle": {
+  "wine_glass":  {
+    "keywords": ["drink", "beverage", "drunk", "alcohol", "booze"],
+    "char": "🍷",
+    "category": "food_and_drink"
+  },
+  "cocktail":  {
+    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze"],
+    "char": "🍸",
+    "category": "food_and_drink"
+  },
+  "tropical_drink":  {
+    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze"],
+    "char": "🍹",
+    "category": "food_and_drink"
+  },
+  "bottle": {
+    "keywords": ["food", "wine", "champagne"],
+    "char": "🍾",
+    "category": "food_and_drink"
+  },
+  "sake":  {
+    "keywords": ["wine", "drink", "drunk", "beverage", "japanese", "alcohol", "booze"],
+    "char": "🍶",
+    "category": "food_and_drink"
+  },
+  "tea":  {
+    "keywords": ["drink", "bowl", "breakfast", "green", "british"],
+    "char": "🍵",
+    "category": "food_and_drink"
+  },
+  "coffee": {
+    "keywords": ["beverage", "caffeine", "latte", "espresso"],
+    "char": "☕️",
+    "category": "food_and_drink"
+  },
+  "baby_bottle":  {
     "keywords": ["food", "container", "milk"],
     "char": "🍼",
-    "category": "foodanddrink"
+    "category": "food_and_drink"
   },
-  "ribbon": {
-    "keywords": ["decoration", "pink", "girl", "bowtie"],
-    "char": "🎀",
-    "category": "celebration"
+  "fork_and_knife":  {
+    "keywords": ["cutlery", "kitchen"],
+    "char": "🍴",
+    "category": "food_and_drink"
   },
-  "gift": {
-    "keywords": ["present", "birthday", "christmas", "xmas"],
-    "char": "🎁",
-    "category": "celebration"
+  "fork_and_knife_with_plate": {
+    "keywords": ["food", "eat", "meal", "lunch", "dinner", "restaurant"],
+    "char": "🍽",
+    "category": "food_and_drink"
   },
-  "birthday": {
-    "keywords": ["party", "cake", "celebration"],
-    "char": "🎂",
-    "category": "celebration"
+  "soccer": {
+    "keywords": ["sports", "football"],
+    "char": "⚽️",
+    "category": "activity"
   },
-  "rice_scene": {
-    "keywords": ["photo", "japan", "asia", "tsukimi"],
-    "char": "🎑",
-    "category": "celebration"
+  "basketball": {
+    "keywords": ["sports", "balls", "NBA"],
+    "char": "🏀",
+    "category": "activity"
   },
-  "fireworks": {
-    "keywords": ["photo", "festival", "carnival", "congratulations"],
-    "char": "🎆",
-    "category": "celebration"
+  "football": {
+    "keywords": ["sports", "balls", "NFL"],
+    "char": "🏈",
+    "category": "activity"
   },
-  "sparkler": {
-    "keywords": ["stars", "night", "shine"],
-    "char": "🎇",
-    "category": "celebration"
+  "baseball": {
+    "keywords": ["sports", "balls"],
+    "char": "⚾",
+    "category": "activity"
   },
-  "tada": {
-    "keywords": ["party", "contulations", "birthday", "magic", "circus"],
-    "char": "🎉",
-    "category": "celebration"
+  "tennis": {
+    "keywords": ["sports", "balls", "green"],
+    "char": "🎾",
+    "category": "activity"
   },
-  "confetti_ball": {
-    "keywords": ["festival", "party", "birthday", "circus"],
-    "char": "🎊",
-    "category": "celebration"
+  "volleyball": {
+    "keywords": ["sports", "balls"],
+    "char": "🏐",
+    "category": "activity"
   },
-  "balloon": {
-    "keywords": ["party", "celebration", "birthday", "circus"],
-    "char": "🎈",
-    "category": "celebration"
+  "rugby_football": {
+    "keywords": ["sports", "team"],
+    "char": "🏉",
+    "category": "activity"
   },
-  "dolls": {
-    "keywords": ["japanese", "toy", "kimono"],
-    "char": "🎎",
-    "category": "celebration"
+  "8ball": {
+    "keywords": ["pool", "hobby", "game", "luck", "magic"],
+    "char": "🎱",
+    "category": "activity"
   },
-  "flags": {
-    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
-    "char": "🎏",
-    "category": "celebration"
+  "golf": {
+    "keywords": ["sports", "business", "flag", "hole", "summer"],
+    "char": "⛳",
+    "category": "activity"
   },
-  "wind_chime": {
-    "keywords": ["nature", "ding", "spring", "bell"],
-    "char": "🎐",
-    "category": "celebration"
+  "golfer": {
+    "keywords": ["sports", "business"],
+    "char": "🏌",
+    "category": "activity"
   },
-  "crossed_flags": {
-    "keywords": ["japanese", "nation", "country", "border"],
-    "char": "🎌",
-    "category": "celebration"
+  "table_tennis": {
+    "keywords": ["sports", "pingpong"],
+    "char": "🏓",
+    "category": "activity"
   },
-  "izakaya_lantern": {
-    "keywords": ["light", "paper", "halloween", "spooky"],
-    "char": "🏮",
-    "category": "celebration"
+  "badminton": {
+    "keywords": ["sports"],
+    "char": "🏸",
+    "category": "activity"
   },
-  "heart": {
-    "keywords": ["love", "like", "valentines"],
-    "char": "❤️",
-    "category": "celebration"
+  "ice_hockey": {
+    "keywords": ["sports"],
+    "char": "🏒",
+    "category": "activity"
   },
-  "broken_heart": {
-    "keywords": ["sad", "sorry", "break"],
-    "char": "💔",
-    "category": "celebration"
+  "field_hockey": {
+    "keywords": ["sports"],
+    "char": "🏑",
+    "category": "activity"
   },
-  "love_letter": {
-    "keywords": ["email", "like", "affection", "envelope", "valentines"],
-    "char": "💌",
-    "category": "celebration"
+  "cricket": {
+    "keywords": ["sports"],
+    "char": "🏏",
+    "category": "activity"
   },
-  "two_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💕",
-    "category": "celebration"
+  "ski": {
+    "keywords": ["sports", "winter", "cold", "snow"],
+    "char": "🎿",
+    "category": "activity"
   },
-  "revolving_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💞",
-    "category": "celebration"
+  "skier": {
+    "keywords": ["sports", "winter", "snow"],
+    "char": "⛷",
+    "category": "activity"
   },
-  "heartbeat": {
-    "keywords": ["love", "like", "affection", "valentines", "pink"],
-    "char": "💓",
-    "category": "celebration"
+  "snowboarder": {
+    "keywords": ["sports", "winter"],
+    "char": "🏂",
+    "category": "activity"
   },
-  "heartpulse": {
-    "keywords": ["like", "love", "affection", "valentines", "pink"],
-    "char": "💗",
-    "category": "celebration"
+  "ice_skate": {
+    "keywords": ["sports"],
+    "char": "⛸",
+    "category": "activity"
   },
-  "sparkling_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💖",
-    "category": "celebration"
+  "bow_and_arrow": {
+    "keywords": ["sports"],
+    "char": "🏹",
+    "category": "activity"
   },
-  "cupid": {
-    "keywords": ["love", "like", "heart", "affection", "valentines"],
-    "char": "💘",
-    "category": "celebration"
-  },
-  "gift_heart": {
-    "keywords": ["love", "valentines"],
-    "char": "💝",
-    "category": "celebration"
-  },
-  "heart_decoration": {
-    "keywords": ["purple-square", "love", "like"],
-    "char": "💟",
-    "category": "celebration"
-  },
-  "purple_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💜",
-    "category": "celebration"
-  },
-  "yellow_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💛",
-    "category": "celebration"
-  },
-  "green_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💚",
-    "category": "celebration"
-  },
-  "blue_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💙",
-    "category": "celebration"
+  "fishing_pole_and_fish": {
+    "keywords": ["food", "hobby", "summer"],
+    "char": "🎣",
+    "category": "activity"
   },
   "rowboat": {
     "keywords": ["sports", "hobby", "water", "ship"],
@@ -2189,14 +2144,14 @@
     "char": "🛀",
     "category": "activity"
   },
-  "snowboarder": {
-    "keywords": ["sports", "winter"],
-    "char": "🏂",
+  "person_with_ball": {
+    "keywords": ["sports", "human"],
+    "char": "⛹",
     "category": "activity"
   },
-  "ski": {
-    "keywords": ["sports", "winter", "cold", "snow"],
-    "char": "🎿",
+  "weight_lifter": {
+    "keywords": ["sports", "training", "exercise"],
+    "char": "🏋",
     "category": "activity"
   },
   "bicyclist": {
@@ -2214,51 +2169,6 @@
     "char": "🏇",
     "category": "activity"
   },
-  "tent": {
-    "keywords": ["photo", "camp", "outdoors"],
-    "char": "⛺",
-    "category": "activity"
-  },
-  "fishing_pole_and_fish": {
-    "keywords": ["food", "hobby", "summer"],
-    "char": "🎣",
-    "category": "activity"
-  },
-  "soccer": {
-    "keywords": ["sports", "balls", "football", "fifa"],
-    "char": "⚽",
-    "category": "activity"
-  },
-  "basketball": {
-    "keywords": ["sports", "balls", "NBA"],
-    "char": "🏀",
-    "category": "activity"
-  },
-  "football": {
-    "keywords": ["sports", "balls", "NFL"],
-    "char": "🏈",
-    "category": "activity"
-  },
-  "baseball": {
-    "keywords": ["sports", "balls", "MLB"],
-    "char": "⚾️",
-    "category": "activity"
-  },
-  "tennis": {
-    "keywords": ["sports", "balls", "green"],
-    "char": "🎾",
-    "category": "activity"
-  },
-  "rugby_football": {
-    "keywords": ["sports", "team"],
-    "char": "🏉",
-    "category": "activity"
-  },
-  "golf": {
-    "keywords": ["sports", "business", "flag", "hole", "summer"],
-    "char": "⛳",
-    "category": "activity"
-  },
   "man_levitating": {
     "keywords": ["suit", "business", "levitate", "hover", "jump"],
     "char": "🕴",
@@ -2274,24 +2184,69 @@
     "char": "🎽",
     "category": "activity"
   },
-  "checkered_flag": {
-    "keywords": ["contest", "finishline", "rase", "gokart"],
-    "char": "🏁",
+  "sports_medal": {
+    "keywords": ["award", "winning"],
+    "char": "🏅",
+    "category": "activity"
+  },
+  "military_medal": {
+    "keywords": ["award", "winning", "army"],
+    "char": "🎖",
+    "category": "activity"
+  },
+  "reminder_ribbon": {
+    "keywords": ["sports", "cause", "supprt", "awareness"],
+    "char": "🎗",
+    "category": "activity"
+  },
+  "rosette": {
+    "keywords": ["flower", "decoration", "military"],
+    "char": "🏵",
+    "category": "activity"
+  },
+  "ticket": {
+    "keywords": ["event", "concert", "pass"],
+    "char": "🎫",
+    "category": "activity"
+  },
+  "admission_ticket": {
+    "keywords": ["sports", "concert", "entrance"],
+    "char": "🎟",
+    "category": "activity"
+  },
+  "performing_arts": {
+    "keywords": ["acting", "theater", "drama"],
+    "char": "🎭",
+    "category": "activity"
+  },
+  "art": {
+    "keywords": ["design", "paint", "draw", "colors"],
+    "char": "🎨",
+    "category": "activity"
+  },
+  "circus_tent": {
+    "keywords": ["festival", "carnival", "party"],
+    "char": "🎪",
+    "category": "activity"
+  },
+  "microphone": {
+    "keywords": ["sound", "music", "PA"],
+    "char": "🎤",
+    "category": "activity"
+  },
+  "headphones": {
+    "keywords": ["music", "score", "gadgets"],
+    "char": "🎧",
+    "category": "activity"
+  },
+  "musical_score": {
+    "keywords": ["treble", "clef"],
+    "char": "🎼",
     "category": "activity"
   },
   "musical_keyboard": {
     "keywords": ["piano", "instrument"],
     "char": "🎹",
-    "category": "activity"
-  },
-  "guitar": {
-    "keywords": ["music", "instrument"],
-    "char": "🎸",
-    "category": "activity"
-  },
-  "violin": {
-    "keywords": ["music", "instrument", "orchestra", "symphony"],
-    "char": "🎻",
     "category": "activity"
   },
   "saxophone": {
@@ -2304,44 +2259,14 @@
     "char": "🎺",
     "category": "activity"
   },
-  "musical_note": {
-    "keywords": ["score", "tone", "sound"],
-    "char": "🎵",
+  "guitar": {
+    "keywords": ["music", "instrument"],
+    "char": "🎸",
     "category": "activity"
   },
-  "notes": {
-    "keywords": ["music", "score"],
-    "char": "🎶",
-    "category": "activity"
-  },
-  "musical_score": {
-    "keywords": ["treble", "clef"],
-    "char": "🎼",
-    "category": "activity"
-  },
-  "headphones": {
-    "keywords": ["music", "score", "gadgets"],
-    "char": "🎧",
-    "category": "activity"
-  },
-  "microphone": {
-    "keywords": ["sound", "music", "PA"],
-    "char": "🎤",
-    "category": "activity"
-  },
-  "performing_arts": {
-    "keywords": ["acting", "theater", "drama"],
-    "char": "🎭",
-    "category": "activity"
-  },
-  "ticket": {
-    "keywords": ["event", "concert", "pass"],
-    "char": "🎫",
-    "category": "activity"
-  },
-  "circus_tent": {
-    "keywords": ["festival", "carnival", "party"],
-    "char": "🎪",
+  "violin": {
+    "keywords": ["music", "instrument", "orchestra", "symphony"],
+    "char": "🎻",
     "category": "activity"
   },
   "clapper": {
@@ -2349,9 +2274,9 @@
     "char": "🎬",
     "category": "activity"
   },
-  "art": {
-    "keywords": ["design", "paint", "draw", "colors"],
-    "char": "🎨",
+  "video_game": {
+    "keywords": ["play", "console", "PS4", "controller"],
+    "char": "🎮",
     "category": "activity"
   },
   "space_invader": {
@@ -2364,14 +2289,9 @@
     "char": "🎯",
     "category": "activity"
   },
-  "8ball": {
-    "keywords": ["pool", "hobby", "game", "luck", "magic"],
-    "char": "🎱",
-    "category": "activity"
-  },
-  "bowling": {
-    "keywords": ["sports", "fun", "play"],
-    "char": "🎳",
+  "game_die": {
+    "keywords": ["dice", "random", "tabbletop", "play", "luck"],
+    "char": "🎲",
     "category": "activity"
   },
   "slot_machine": {
@@ -2379,445 +2299,600 @@
     "char": "🎰",
     "category": "activity"
   },
-  "game_die": {
-    "keywords": ["dice", "random", "tabbletop", "play", "luck"],
-    "char": "🎲",
+  "bowling": {
+    "keywords": ["sports", "fun", "play"],
+    "char": "🎳",
     "category": "activity"
   },
-  "video_game": {
-    "keywords": ["play", "console", "PS4", "controller"],
-    "char": "🎮",
-    "category": "activity"
+  "beach_with_umbrella": {
+    "keywords": ["weather", "summer", "sunny", "sand"],
+    "char": "🏖",
+    "category": "travel_and_places"
   },
-  "flower_playing_cards": {
-    "keywords": ["game", "sunset", "red"],
-    "char": "🎴",
-    "category": "activity"
+  "stars": {
+    "keywords": ["night", "photo"],
+    "char": "🌠",
+    "category": "travel_and_places"
   },
-  "black_joker": {
-    "keywords": ["poker", "cards", "game", "play", "magic"],
-    "char": "🃏",
-    "category": "activity"
+  "sunrise_over_mountains": {
+    "keywords": ["view", "vacation", "photo"],
+    "char": "🌄",
+    "category": "travel_and_places"
   },
-  "mahjong": {
-    "keywords": ["game", "play", "chinese", "kanji"],
-    "char": "🀄",
-    "category": "activity"
+  "sunrise": {
+    "keywords": ["morning", "view", "vacation", "photo"],
+    "char": "🌅",
+    "category": "travel_and_places"
   },
-  "carousel_horse": {
-    "keywords": ["photo", "carnival"],
-    "char": "🎠",
-    "category": "activity"
+  "rainbow": {
+    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
+    "char": "🌈",
+    "category": "travel_and_places"
   },
-  "ferris_wheel": {
-    "keywords": ["photo", "carnival", "londoneye"],
-    "char": "🎡",
-    "category": "activity"
+  "volcano": {
+    "keywords": ["photo", "nature", "disaster"],
+    "char": "🌋",
+    "category": "travel_and_places"
   },
-  "roller_coaster": {
-    "keywords": ["carnival", "playground", "photo", "fun"],
-    "char": "🎢",
-    "category": "activity"
+  "milky_way": {
+    "keywords": ["photo", "space", "stars"],
+    "char": "🌌",
+    "category": "travel_and_places"
+  },
+  "mount_fuji": {
+    "keywords": ["photo", "mountain", "nature", "japanese"],
+    "char": "🗻",
+    "category": "travel_and_places"
+  },
+  "japan": {
+    "keywords": ["nation", "country", "japanese", "asia"],
+    "char": "🗾",
+    "category": "travel_and_places"
+  },
+  "ribbon": {
+    "keywords": ["decoration", "pink", "girl", "bowtie"],
+    "char": "🎀",
+    "category": "symbols"
+  },
+  "gift": {
+    "keywords": ["present", "birthday", "christmas", "xmas"],
+    "char": "🎁",
+    "category": "symbols"
+  },
+  "birthday": {
+    "keywords": ["party", "cake", "celebration"],
+    "char": "🎂",
+    "category": "symbols"
+  },
+  "rice_scene": {
+    "keywords": ["photo", "japan", "asia", "tsukimi"],
+    "char": "🎑",
+    "category": "symbols"
+  },
+  "fireworks": {
+    "keywords": ["photo", "festival", "carnival", "congratulations"],
+    "char": "🎆",
+    "category": "symbols"
+  },
+  "sparkler": {
+    "keywords": ["stars", "night", "shine"],
+    "char": "🎇",
+    "category": "symbols"
+  },
+  "tada": {
+    "keywords": ["party", "contulations", "birthday", "magic", "circus"],
+    "char": "🎉",
+    "category": "symbols"
+  },
+  "confetti_ball": {
+    "keywords": ["festival", "party", "birthday", "circus"],
+    "char": "🎊",
+    "category": "symbols"
+  },
+  "balloon": {
+    "keywords": ["party", "celebration", "birthday", "circus"],
+    "char": "🎈",
+    "category": "symbols"
+  },
+  "dolls": {
+    "keywords": ["japanese", "toy", "kimono"],
+    "char": "🎎",
+    "category": "symbols"
+  },
+  "flags": {
+    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
+    "char": "🎏",
+    "category": "symbols"
+  },
+  "wind_chime": {
+    "keywords": ["nature", "ding", "spring", "bell"],
+    "char": "🎐",
+    "category": "symbols"
+  },
+  "crossed_flags": {
+    "keywords": ["japanese", "nation", "country", "border"],
+    "char": "🎌",
+    "category": "symbols"
+  },
+  "izakaya_lantern": {
+    "keywords": ["light", "paper", "halloween", "spooky"],
+    "char": "🏮",
+    "category": "symbols"
+  },
+  "heart": {
+    "keywords": ["love", "like", "valentines"],
+    "char": "❤️",
+    "category": "symbols"
+  },
+  "broken_heart": {
+    "keywords": ["sad", "sorry", "break"],
+    "char": "💔",
+    "category": "symbols"
+  },
+  "love_letter": {
+    "keywords": ["email", "like", "affection", "envelope", "valentines"],
+    "char": "💌",
+    "category": "symbols"
+  },
+  "two_hearts": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💕",
+    "category": "symbols"
+  },
+  "revolving_hearts": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💞",
+    "category": "symbols"
+  },
+  "heartbeat": {
+    "keywords": ["love", "like", "affection", "valentines", "pink"],
+    "char": "💓",
+    "category": "symbols"
+  },
+  "heartpulse": {
+    "keywords": ["like", "love", "affection", "valentines", "pink"],
+    "char": "💗",
+    "category": "symbols"
+  },
+  "sparkling_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💖",
+    "category": "symbols"
+  },
+  "cupid": {
+    "keywords": ["love", "like", "heart", "affection", "valentines"],
+    "char": "💘",
+    "category": "symbols"
+  },
+  "gift_heart": {
+    "keywords": ["love", "valentines"],
+    "char": "💝",
+    "category": "symbols"
+  },
+  "heart_decoration": {
+    "keywords": ["purple-square", "love", "like"],
+    "char": "💟",
+    "category": "symbols"
+  },
+  "purple_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💜",
+    "category": "symbols"
+  },
+  "yellow_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💛",
+    "category": "symbols"
+  },
+  "green_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💚",
+    "category": "symbols"
+  },
+  "blue_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💙",
+    "category": "symbols"
   },
   "railway_car": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚃",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "mountain_railway": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚞",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "steam_locomotive": {
     "keywords": ["transportation", "vehicle", "train"],
     "char": "🚂",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "train": {
     "keywords": ["transportation", "vehicle", "carriage", "public", "travel"],
     "char": "🚋",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "monorail": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚝",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "bullettrain_side": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚄",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "bullettrain_front": {
     "keywords": ["transportation", "vehicle", "speed", "fast", "public", "travel"],
     "char": "🚅",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "train2": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚆",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "metro": {
     "keywords": ["transportation", "blue-square", "mrt", "underground", "tube"],
     "char": "🚇",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "light_rail": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚈",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "station": {
     "keywords": ["transportation", "vehicle", "public"],
     "char": "🚉",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "tram": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚊",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "bus": {
     "keywords": ["car", "vehicle", "transportation"],
     "char": "🚌",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "oncoming_bus": {
     "keywords": ["vehicle", "transportation"],
     "char": "🚍",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "trolleybus": {
     "keywords": ["bart", "transportation", "vehicle"],
     "char": "🚎",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "minibus": {
     "keywords": ["vehicle", "car", "transportation"],
     "char": "🚐",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "ambulance": {
     "keywords": ["health", "911", "hospital"],
     "char": "🚑",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "fire_engine": {
     "keywords": ["transportation", "cars", "vehicle"],
     "char": "🚒",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "police_car": {
     "keywords": ["vehicle", "cars", "transportation", "law", "legal", "enforcement"],
     "char": "🚓",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "oncoming_police_car": {
     "keywords": ["vehicle", "law", "legal", "enforcement", "911"],
     "char": "🚔",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "rotating_light": {
     "keywords": ["police", "ambulance", "911", "emergency", "alert", "error", "pinged", "law", "legal"],
     "char": "🚨",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "taxi": {
     "keywords": ["uber", "vehicle", "cars", "transportation"],
     "char": "🚕",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "oncoming_taxi": {
     "keywords": ["vehicle", "cars", "uber"],
     "char": "🚖",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "car": {
     "keywords": ["red", "transportation", "vehicle"],
     "char": "🚗",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "oncoming_automobile": {
     "keywords": ["car", "vehicle", "transportation"],
     "char": "🚘",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "blue_car": {
     "keywords": ["transportation", "vehicle"],
     "char": "🚙",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "truck": {
     "keywords": ["cars", "transportation"],
     "char": "🚚",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "articulated_lorry": {
     "keywords": ["vehicle", "cars", "transportation", "express"],
     "char": "🚛",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "tractor": {
     "keywords": ["vehicle", "car", "farming", "agriculture"],
     "char": "🚜",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "bike": {
     "keywords": ["sports", "bicycle", "exercise", "hipster"],
     "char": "🚲",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "busstop": {
     "keywords": ["transportation", "wait"],
     "char": "🚏",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "fuelpump": {
     "keywords": ["gas station", "petroleum"],
     "char": "⛽",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "construction": {
     "keywords": ["wip", "progress", "caution", "warning"],
     "char": "🚧",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "vertical_traffic_light": {
     "keywords": ["transportation", "driving"],
     "char": "🚦",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "traffic_light": {
     "keywords": ["transportation", "signal"],
     "char": "🚥",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "rocket": {
     "keywords": ["launch", "ship", "staffmode", "NASA", "outer space", "outer_space", "fly"],
     "char": "🚀",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "helicopter": {
     "keywords": ["transportation", "vehicle", "fly"],
     "char": "🚁",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "airplane": {
     "keywords": ["vehicle", "transportation", "flight", "fly"],
     "char": "✈️",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "seat": {
     "keywords": ["sit", "airplane", "transport", "bus", "flight", "fly"],
     "char": "💺",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "anchor": {
     "keywords": ["ship", "ferry", "sea", "boat"],
     "char": "⚓",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "ship": {
     "keywords": ["transportation", "titanic", "deploy"],
     "char": "🚢",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "speedboat": {
     "keywords": ["ship", "transportation", "vehicle", "summer"],
     "char": "🚤",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "boat": {
     "keywords": ["ship", "summer", "transportation", "water", "sailing", "sailboat"],
     "char": "⛵",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "aerial_tramway": {
     "keywords": ["transportation", "vehicle", "ski"],
     "char": "🚡",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "mountain_cableway": {
     "keywords": ["transportation", "vehicle", "ski"],
     "char": "🚠",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "suspension_railway": {
     "keywords": ["vehicle", "transportation"],
     "char": "🚟",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "passport_control": {
     "keywords": ["custom", "blue-square"],
     "char": "🛂",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "customs": {
     "keywords": ["passport", "border", "blue-square"],
     "char": "🛃",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "baggage_claim": {
     "keywords": ["blue-square", "airport", "transport"],
     "char": "🛄",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "left_luggage": {
     "keywords": ["blue-square", "travel"],
     "char": "🛅",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "yen": {
     "keywords": ["money", "sales", "japanese", "dollar", "currency"],
     "char": "💴",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "euro": {
     "keywords": ["money", "sales", "dollar", "currency"],
     "char": "💶",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "pound": {
     "keywords": ["british", "sterling", "money", "sales", "bills", "uk", "england", "currency"],
     "char": "💷",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "dollar": {
     "keywords": ["money", "sales", "bill", "currency"],
     "char": "💵",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "statue_of_liberty": {
     "keywords": ["american", "newyork"],
     "char": "🗽",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "moyai": {
     "keywords": ["stone", "easter island", "beach", "statue"],
     "char": "🗿",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "foggy": {
     "keywords": ["photo", "mountain"],
     "char": "🌁",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "tokyo_tower": {
     "keywords": ["photo", "japanese"],
     "char": "🗼",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "fountain": {
     "keywords": ["photo", "summer", "water", "fresh"],
     "char": "⛲",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "european_castle": {
     "keywords": ["building", "royalty", "history"],
     "char": "🏰",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "japanese_castle": {
     "keywords": ["photo", "building"],
     "char": "🏯",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "city_sunrise": {
     "keywords": ["photo", "good morning", "dawn"],
     "char": "🌇",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "city_sunset": {
     "keywords": ["photo", "evening", "sky", "buildings"],
     "char": "🌆",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "night_with_stars": {
     "keywords": ["evening", "city", "downtown"],
     "char": "🌃",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "bridge_at_night": {
     "keywords": ["photo", "sanfrancisco"],
     "char": "🌉",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "house": {
     "keywords": ["building", "home"],
     "char": "🏠",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "house_with_garden": {
     "keywords": ["home", "plant", "nature"],
     "char": "🏡",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "office": {
     "keywords": ["building", "bureau", "work"],
     "char": "🏢",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "department_store": {
     "keywords": ["building", "shopping", "mall"],
     "char": "🏬",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "factory": {
     "keywords": ["building", "industry", "pollution", "smoke"],
     "char": "🏭",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "post_office": {
     "keywords": ["building", "email", "communication"],
     "char": "🏣",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "european_post_office": {
     "keywords": ["building", "email"],
     "char": "🏤",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "hospital": {
     "keywords": ["building", "health", "surgery", "doctor"],
     "char": "🏥",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "bank": {
     "keywords": ["building", "money", "sales", "cash", "business", "enterprise"],
     "char": "🏦",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "hotel": {
     "keywords": ["building", "whotel", "accomodation", "checkin"],
     "char": "🏨",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "love_hotel": {
     "keywords": ["like", "affection", "dating"],
     "char": "🏩",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "wedding": {
     "keywords": ["love", "like", "affection", "couple", "marriage", "bride", "groom"],
     "char": "💒",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "church": {
     "keywords": ["building", "religion", "christ"],
     "char": "⛪",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "convenience_store": {
     "keywords": ["building", "shopping", "groceries"],
     "char": "🏪",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "school": {
     "keywords": ["building", "student", "education", "learn", "teach"],
     "char": "🏫",
-    "category": "travelandplaces"
+    "category": "travel_and_places"
   },
   "af": {
     "keywords": ["afghanistan", "flag", "nation", "country", "banner"],
@@ -4052,1627 +4127,1632 @@
   "watch": {
     "keywords": ["time", "accessories"],
     "char": "⌚",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "iphone": {
     "keywords": ["technology", "apple", "gadgets", "dial"],
     "char": "📱",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "calling": {
     "keywords": ["iphone", "incoming"],
     "char": "📲",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "computer": {
     "keywords": ["tech", "laptop", "screen", "display", "monitor"],
     "char": "💻",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "alarm_clock": {
     "keywords": ["time", "wake"],
     "char": "⏰",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "hourglass_flowing_sand": {
     "keywords": ["oldschool", "time", "countdown"],
     "char": "⏳",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "hourglass": {
     "keywords": ["time", "clock", "oldschool", "limit", "exam", "quiz", "test"],
     "char": "⌛",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "camera": {
     "keywords": ["gadgets", "photo"],
     "char": "📷",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "video_camera": {
     "keywords": ["film", "record"],
     "char": "📹",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "movie_camera": {
     "keywords": ["film", "record"],
     "char": "🎥",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "tv": {
     "keywords": ["technology", "program", "oldschool", "show", "television"],
     "char": "📺",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "radio": {
     "keywords": ["communication", "music", "podcast", "program"],
     "char": "📻",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "pager": {
     "keywords": ["bbcall", "oldschool", "90s"],
     "char": "📟",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "telephone_receiver": {
     "keywords": ["technology", "communication", "dial"],
     "char": "📞",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "phone": {
     "keywords": ["technology", "communication", "dial", "telephone"],
     "char": "☎️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "fax": {
     "keywords": ["communication", "technology"],
     "char": "📠",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "minidisc": {
     "keywords": ["technology", "record", "data", "disk", "90s"],
     "char": "💽",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "floppy_disk": {
     "keywords": ["oldschool", "technology", "save", "90s", "80s"],
     "char": "💾",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "cd": {
     "keywords": ["technology", "dvd", "disk", "disc", "90s"],
     "char": "💿",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "dvd": {
     "keywords": ["cd", "disk", "disc"],
     "char": "📀",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "vhs": {
     "keywords": ["record", "video", "oldschool", "90s", "80s"],
     "char": "📼",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "battery": {
     "keywords": ["power", "energy", "sustain"],
     "char": "🔋",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "electric_plug": {
     "keywords": ["charger", "power"],
     "char": "🔌",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bulb": {
     "keywords": ["light", "electricity", "idea"],
     "char": "💡",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "flashlight": {
     "keywords": ["dark", "camping", "sight", "night"],
     "char": "🔦",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "satellite": {
     "keywords": ["communication", "future", "radio", "space"],
     "char": "📡",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "credit_card": {
     "keywords": ["money", "sales", "dollar", "bill", "payment", "shopping"],
     "char": "💳",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "money_with_wings": {
     "keywords": ["dollar", "bills", "payment", "sale"],
     "char": "💸",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "moneybag": {
     "keywords": ["dollar", "payment", "coins", "sale"],
     "char": "💰",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "gem": {
     "keywords": ["blue", "ruby", "diamond", "jewelry"],
     "char": "💎",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "door": {
     "keywords": ["house", "entry", "exit"],
     "char": "🚪",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "shower": {
     "keywords": ["clean", "water", "bathroom"],
     "char": "🚿",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bathtub": {
     "keywords": ["clean", "shower", "bathroom"],
     "char": "🛁",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "toilet": {
     "keywords": ["restroom", "wc", "washroom", "bathroom", "potty"],
     "char": "🚽",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "barber": {
     "keywords": ["hair", "salon", "style"],
     "char": "💈",
-    "category": "objectsandsymbols"
-  },
-  "syringe": {
-    "keywords": ["health", "hospital", "drugs", "blood", "medicine", "needle", "doctor", "nurse"],
-    "char": "💉",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "pill": {
     "keywords": ["health", "medicine", "doctor", "pharmacy", "drug"],
     "char": "💊",
-    "category": "objectsandsymbols"
+    "category": "objects"
+  },
+  "syringe": {
+    "keywords": ["health", "hospital", "drugs", "blood", "medicine", "needle", "doctor", "nurse"],
+    "char": "💉",
+    "category": "objects"
+  },
+  "thermometer": {
+    "keywords": ["weather", "temperature", "hot", "cold"],
+    "char": "🌡",
+    "category": "objects"
   },
   "microscope": {
     "keywords": ["laboratory", "experiment", "zoomin", "science", "study"],
     "char": "🔬",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "telescope": {
     "keywords": ["stars", "space", "zoom"],
     "char": "🔭",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "crystal_ball": {
     "keywords": ["disco", "party", "magic", "circus", "fortune_teller"],
     "char": "🔮",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "wrench": {
     "keywords": ["tools", "diy", "ikea", "fix", "maintainer"],
     "char": "🔧",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "hocho": {
     "keywords": ["knife", "blade", "cutlery", "kitchen", "weapon"],
     "char": "🔪",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "nut_and_bolt": {
     "keywords": ["handy", "tools", "fix"],
     "char": "🔩",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "hammer": {
     "keywords": ["tools", "verdict", "judge", "done", "law", "legal", "ruling", "gavel"],
     "char": "🔨",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bomb": {
     "keywords": ["boom", "explode", "explosion", "terrorism"],
     "char": "💣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "smoking": {
     "keywords": ["kills", "tobacco", "cigarette", "joint"],
     "char": "🚬",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "gun": {
     "keywords": ["violence", "weapon", "pistol", "revolver"],
     "char": "🔫",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bookmark": {
     "keywords": ["favorite", "label", "save"],
     "char": "🔖",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "newspaper": {
     "keywords": ["press", "headline"],
     "char": "📰",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "key": {
     "keywords": ["lock", "door", "password"],
     "char": "🔑",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "email": {
     "keywords": ["envelope", "letter", "postal", "inbox", "communication"],
     "char": "✉️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "envelope_with_arrow": {
     "keywords": ["email", "communication"],
     "char": "📩",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "incoming_envelope": {
     "keywords": ["email", "inbox"],
     "char": "📨",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "e-mail": {
     "keywords": ["communication", "inbox", "email"],
     "char": "📧",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "inbox_tray": {
     "keywords": ["email", "documents"],
     "char": "📥",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "outbox_tray": {
     "keywords": ["inbox", "email"],
     "char": "📤",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "package": {
     "keywords": ["mail", "gift", "cardboard", "box", "moving"],
     "char": "📦",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "postal_horn": {
     "keywords": ["instrument", "music"],
     "char": "📯",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "postbox": {
     "keywords": ["email", "letter", "envelope"],
     "char": "📮",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mailbox_closed": {
     "keywords": ["email", "communication", "inbox"],
     "char": "📪",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mailbox": {
     "keywords": ["email", "inbox", "communication"],
     "char": "📫",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mailbox_with_mail": {
     "keywords": ["email", "inbox", "communication"],
     "char": "📬",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mailbox_with_no_mail": {
     "keywords": ["email", "inbox"],
     "char": "📭",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "page_facing_up": {
     "keywords": ["documents", "office", "paper", "information"],
     "char": "📄",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "page_with_curl": {
     "keywords": ["documents", "office", "paper"],
     "char": "📃",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bookmark_tabs": {
     "keywords": ["favorite", "save", "order", "tidy"],
     "char": "📑",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "chart_with_upwards_trend": {
     "keywords": ["graph", "presentation", "stats", "recovery", "business", "economics", "money", "sales", "good", "success"],
     "char": "📈",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "chart_with_downwards_trend": {
     "keywords": ["graph", "presentation", "stats", "recession", "business", "economics", "money", "sales", "bad", "failure"],
     "char": "📉",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bar_chart": {
     "keywords": ["graph", "presentation", "stats"],
     "char": "📊",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "date": {
     "keywords": ["calendar", "schedule"],
     "char": "📅",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "calendar": {
     "keywords": ["schedule", "date", "planning"],
     "char": "📆",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "low_brightness": {
     "keywords": ["sun", "afternoon", "warm", "summer"],
     "char": "🔅",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "high_brightness": {
     "keywords": ["sun", "light"],
     "char": "🔆",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "scroll": {
     "keywords": ["documents", "ancient", "history", "paper"],
     "char": "📜",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clipboard": {
     "keywords": ["stationery", "documents"],
     "char": "📋",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "book": {
     "keywords": ["open_book", "read", "library", "knowledge", "literature", "learn", "study"],
     "char": "📖",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "notebook": {
     "keywords": ["stationery", "record", "notes", "paper", "study"],
     "char": "📓",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "notebook_with_decorative_cover": {
     "keywords": ["classroom", "notes", "record", "paper", "study"],
     "char": "📔",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "ledger": {
     "keywords": ["notes", "paper"],
     "char": "📒",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "closed_book": {
     "keywords": ["read", "library", "knowledge", "textbook", "learn"],
     "char": "📕",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "green_book": {
     "keywords": ["read", "library", "knowledge", "study"],
     "char": "📗",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "blue_book": {
     "keywords": ["read", "library", "knowledge", "learn", "study"],
     "char": "📘",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "orange_book": {
     "keywords": ["read", "library", "knowledge", "textbook", "study"],
     "char": "📙",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "books": {
     "keywords": ["literature", "library", "study"],
     "char": "📚",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "card_index": {
     "keywords": ["business", "stationery"],
     "char": "📇",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "link": {
     "keywords": ["rings", "url"],
     "char": "🔗",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "paperclip": {
     "keywords": ["documents", "stationery"],
     "char": "📎",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "pushpin": {
     "keywords": ["stationery", "mark", "here"],
     "char": "📌",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "scissors": {
     "keywords": ["stationery", "cut"],
     "char": "✂️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "triangular_ruler": {
     "keywords": ["stationery", "math", "architect", "sketch"],
     "char": "📐",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "round_pushpin": {
     "keywords": ["stationery", "location", "map", "here"],
     "char": "📍",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "straight_ruler": {
     "keywords": ["stationery", "calculate", "length", "math", "school", "drawing", "architect", "sketch"],
     "char": "📏",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "triangular_flag_on_post": {
     "keywords": ["mark", "milestone", "place"],
     "char": "🚩",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "file_folder": {
     "keywords": ["documents", "business", "office"],
     "char": "📁",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "open_file_folder": {
     "keywords": ["documents", "load"],
     "char": "📂",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "black_nib": {
     "keywords": ["pen", "stationery", "writing", "write"],
     "char": "✒️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "pencil2": {
     "keywords": ["stationery", "write", "paper", "writing", "school", "study"],
     "char": "✏️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "memo": {
     "keywords": ["write", "documents", "stationery", "pencil", "paper", "writing", "legal", "exam", "quiz", "test", "study"],
     "char": "📝",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "lock_with_ink_pen": {
     "keywords": ["security", "secret"],
     "char": "🔏",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "closed_lock_with_key": {
     "keywords": ["security", "privacy"],
     "char": "🔐",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "lock": {
     "keywords": ["security", "password", "padlock"],
     "char": "🔒",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "unlock": {
     "keywords": ["privacy", "security"],
     "char": "🔓",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mega": {
     "keywords": ["sound", "speaker", "volume"],
     "char": "📣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "loudspeaker": {
     "keywords": ["volume", "sound"],
     "char": "📢",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "speaker": {
     "keywords": ["sound", "volume", "silence", "broadcast"],
     "char": "🔈",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "sound": {
     "keywords": ["volume", "speaker", "broadcast"],
     "char": "🔉",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "loud_sound": {
     "keywords": ["volume", "noise", "noisy", "speaker", "broadcast"],
     "char": "🔊",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mute": {
     "keywords": ["sound", "volume", "silence", "quiet"],
     "char": "🔇",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bell": {
     "keywords": ["sound", "notification", "christmas", "xmas", "chime"],
     "char": "🔔",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "no_bell": {
     "keywords": ["sound", "volume", "mute", "quiet", "silent"],
     "char": "🔕",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "thought_balloon": {
     "keywords": ["bubble", "cloud", "speech", "thinking"],
     "char": "💭",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "speech_balloon": {
     "keywords": ["bubble", "words", "message", "talk", "chatting"],
     "char": "💬",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "children_crossing": {
     "keywords": ["school", "warning", "danger", "sign", "driving", "yellow-diamond"],
     "char": "🚸",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mag": {
     "keywords": ["search", "zoom", "find", "detective"],
     "char": "🔍",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mag_right": {
     "keywords": ["search", "zoom", "find", "detective"],
     "char": "🔎",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "no_entry_sign": {
     "keywords": ["forbid", "stop", "limit", "denied", "disallow", "circle"],
     "char": "🚫",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "no_entry": {
     "keywords": ["limit", "security", "privacy", "bad", "denied", "stop", "circle"],
     "char": "⛔",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "name_badge": {
     "keywords": ["fire", "forbid"],
     "char": "📛",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "no_pedestrians": {
     "keywords": ["rules", "crossing", "walking", "circle"],
     "char": "🚷",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "do_not_litter": {
     "keywords": ["trash", "bin", "garbage", "circle"],
     "char": "🚯",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "no_bicycles": {
     "keywords": ["cyclist", "prohibited", "circle"],
     "char": "🚳",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "non-potable_water": {
     "keywords": ["drink", "faucet", "tap", "circle"],
     "char": "🚱",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "no_mobile_phones": {
     "keywords": ["iphone", "mute", "circle"],
     "char": "📵",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "underage": {
     "keywords": ["18", "drink", "pub", "night", "minor", "circle"],
     "char": "🔞",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "accept": {
     "keywords": ["ok", "good", "chinese", "kanji", "agree", "yes", "orange-circle"],
     "char": "🉑",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "ideograph_advantage": {
     "keywords": ["chinese", "kanji", "obtain", "get", "circle"],
     "char": "🉐",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_flower": {
     "keywords": ["japanese", "spring"],
     "char": "💮",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "secret": {
     "keywords": ["privacy", "chinese", "sshh", "kanji", "red-circle"],
     "char": "㊙️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "congratulations": {
     "keywords": ["chinese", "kanji", "japanese", "red-circle"],
     "char": "㊗️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u5408": {
     "keywords": ["japanese", "chinese", "join", "kanji", "red-square"],
     "char": "🈴",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u6e80": {
     "keywords": ["full", "chinese", "japanese", "red-square", "kanji"],
     "char": "🈵",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u7981": {
     "keywords": ["kanji", "japanese", "chinese", "forbidden", "limit", "restricted", "red-square"],
     "char": "🈲",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u6709": {
     "keywords": ["orange-square", "chinese", "have", "kanji"],
     "char": "🈶",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u7121": {
     "keywords": ["nothing", "chinese", "kanji", "japanese", "orange-square"],
     "char": "🈚",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u7533": {
     "keywords": ["chinese", "japanese", "kanji", "orange-square"],
     "char": "🈸",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u55b6": {
     "keywords": ["japanese", "opening hours", "orange-square"],
     "char": "🈺",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u6708": {
     "keywords": ["chinese", "month", "moon", "japanese", "orange-square", "kanji"],
     "char": "🈷️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u5272": {
     "keywords": ["cut", "divide", "chinese", "kanji", "pink-square"],
     "char": "🈹",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u7a7a": {
     "keywords": ["kanji", "japanese", "chinese", "empty", "sky", "blue-square"],
     "char": "🈳",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "sa": {
     "keywords": ["japanese", "blue-square", "katakana"],
     "char": "🈂️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "koko": {
     "keywords": ["blue-square", "here", "katakana", "japanese", "destination"],
     "char": "🈁",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "u6307": {
     "keywords": ["chinese", "point", "green-square", "kanji"],
     "char": "🈯",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "chart": {
     "keywords": ["green-square", "graph", "presentation", "stats"],
     "char": "💹",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "sparkle": {
     "keywords": ["stars", "green-square", "awesome", "good", "fireworks"],
     "char": "❇️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "eight_spoked_asterisk": {
     "keywords": ["star", "sparkle", "green-square"],
     "char": "✳️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "negative_squared_cross_mark": {
     "keywords": ["x", "green-square", "no", "deny"],
     "char": "❎",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_check_mark": {
     "keywords": ["green-square", "ok", "agree", "vote", "election", "answer"],
     "char": "✅",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "eight_pointed_black_star": {
     "keywords": ["orange-square", "shape", "polygon"],
     "char": "✴️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "vibration_mode": {
     "keywords": ["orange-square", "phone"],
     "char": "📳",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mobile_phone_off": {
     "keywords": ["mute", "orange-square", "silence", "quiet"],
     "char": "📴",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "vs": {
     "keywords": ["words", "orange-square"],
     "char": "🆚",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "a": {
     "keywords": ["red-square", "alphabet", "letter"],
     "char": "🅰️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "b": {
     "keywords": ["red-square", "alphabet", "letter"],
     "char": "🅱️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "ab": {
     "keywords": ["red-square", "alphabet"],
     "char": "🆎",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "cl": {
     "keywords": ["alphabet", "words", "red-square"],
     "char": "🆑",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "o2": {
     "keywords": ["alphabet", "red-square", "letter"],
     "char": "🅾️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "sos": {
     "keywords": ["help", "red-square", "words", "emergency", "911"],
     "char": "🆘",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "id": {
     "keywords": ["purple-square", "words"],
     "char": "🆔",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "parking": {
     "keywords": ["cars", "blue-square", "alphabet", "letter"],
     "char": "🅿️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "wc": {
     "keywords": ["toilet", "restroom", "blue-square"],
     "char": "🚾",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "cool": {
     "keywords": ["words", "blue-square"],
     "char": "🆒",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "free": {
     "keywords": ["blue-square", "words"],
     "char": "🆓",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "new": {
     "keywords": ["blue-square", "words", "start"],
     "char": "🆕",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "ng": {
     "keywords": ["blue-square", "words", "shape", "icon"],
     "char": "🆖",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "ok": {
     "keywords": ["good", "agree", "yes", "blue-square"],
     "char": "🆗",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "up": {
     "keywords": ["blue-square", "above", "high"],
     "char": "🆙",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "atm": {
     "keywords": ["money", "sales", "cash", "blue-square", "payment", "bank"],
     "char": "🏧",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "aries": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♈",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "taurus": {
     "keywords": ["purple-square", "sign", "zodiac", "astrology"],
     "char": "♉",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "gemini": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♊",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "cancer": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♋",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "leo": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♌",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "virgo": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♍",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "libra": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♎",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "scorpius": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology", "scorpio"],
     "char": "♏",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "sagittarius": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♐",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "capricorn": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♑",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "aquarius": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♒",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "pisces": {
     "keywords": ["purple-square", "sign", "zodiac", "astrology"],
     "char": "♓",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "restroom": {
     "keywords": ["blue-square", "toilet", "refresh", "wc", "gender"],
     "char": "🚻",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "mens": {
     "keywords": ["toilet", "restroom", "wc", "blue-square", "gender", "male"],
     "char": "🚹",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "womens": {
     "keywords": ["purple-square", "woman", "female", "toilet", "loo", "restroom", "gender"],
     "char": "🚺",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "baby_symbol": {
     "keywords": ["orange-square", "child"],
     "char": "🚼",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "wheelchair": {
     "keywords": ["blue-square", "disabled", "a11y", "accessibility"],
     "char": "♿",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "potable_water": {
     "keywords": ["blue-square", "liquid", "restroom", "cleaning", "faucet"],
     "char": "🚰",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "no_smoking": {
     "keywords": ["cigarette", "blue-square", "smell", "smoke"],
     "char": "🚭",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "put_litter_in_its_place": {
     "keywords": ["blue-square", "sign", "human", "info"],
     "char": "🚮",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_forward": {
     "keywords": ["blue-square", "right", "direction", "play"],
     "char": "▶️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_backward": {
     "keywords": ["blue-square", "left", "direction"],
     "char": "◀️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_up_small": {
     "keywords": ["blue-square", "triangle", "direction", "point", "forward", "top"],
     "char": "🔼",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_down_small": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "🔽",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "fast_forward": {
     "keywords": ["blue-square", "play", "speed", "continue"],
     "char": "⏩",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "rewind": {
     "keywords": ["play", "blue-square"],
     "char": "⏪",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_double_up": {
     "keywords": ["blue-square", "direction", "top"],
     "char": "⏫",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_double_down": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "⏬",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_right": {
     "keywords": ["blue-square", "next"],
     "char": "➡️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_left": {
     "keywords": ["blue-square", "previous", "back"],
     "char": "⬅️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_up": {
     "keywords": ["blue-square", "continue", "top", "direction"],
     "char": "⬆️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_down": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "⬇️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_upper_right": {
     "keywords": ["blue-square", "point", "direction", "diagonal", "northeast"],
     "char": "↗️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_lower_right": {
     "keywords": ["blue-square", "direction", "diagonal", "southeast"],
     "char": "↘️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_lower_left": {
     "keywords": ["blue-square", "direction", "diagonal", "southwest"],
     "char": "↙️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_upper_left": {
     "keywords": ["blue-square", "point", "direction", "diagonal", "northwest"],
     "char": "↖️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_up_down": {
     "keywords": ["blue-square", "direction", "way", "vertical"],
     "char": "↕️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "left_right_arrow": {
     "keywords": ["shape", "direction", "horizontal", "sideways"],
     "char": "↔️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrows_counterclockwise": {
     "keywords": ["blue-square", "sync", "cycle"],
     "char": "🔄",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_right_hook": {
     "keywords": ["blue-square", "return", "rotade", "direction"],
     "char": "↪️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "leftwards_arrow_with_hook": {
     "keywords": ["back", "return", "blue-square", "undo", "enter"],
     "char": "↩️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_heading_up": {
     "keywords": ["blue-square", "direction", "top"],
     "char": "⤴️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrow_heading_down": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "⤵️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "twisted_rightwards_arrows": {
     "keywords": ["blue-square", "shuffle", "music", "random"],
     "char": "🔀",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "repeat": {
     "keywords": ["loop", "record"],
     "char": "🔁",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "repeat_one": {
     "keywords": ["blue-square", "loop"],
     "char": "🔂",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "hash": {
     "keywords": ["symbol", "blue-square", "twitter"],
     "char": "#️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "zero": {
     "keywords": ["0", "numbers", "blue-square", "null"],
     "char": "0️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "one": {
     "keywords": ["blue-square", "numbers", "1"],
     "char": "1️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "two": {
     "keywords": ["numbers", "2", "prime", "blue-square"],
     "char": "2️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "three": {
     "keywords": ["3", "numbers", "prime", "blue-square"],
     "char": "3️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "four": {
     "keywords": ["4", "numbers", "blue-square"],
     "char": "4️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "five": {
     "keywords": ["5", "numbers", "blue-square", "prime"],
     "char": "5️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "six": {
     "keywords": ["6", "numbers", "blue-square"],
     "char": "6️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "seven": {
     "keywords": ["7", "numbers", "blue-square", "prime"],
     "char": "7️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "eight": {
     "keywords": ["8", "blue-square", "numbers"],
     "char": "8️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "nine": {
     "keywords": ["blue-square", "numbers", "9"],
     "char": "9️⃣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "keycap_ten": {
     "keywords": ["numbers", "10", "blue-square"],
     "char": "🔟",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "1234": {
     "keywords": ["numbers", "blue-square"],
     "char": "🔢",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "abc": {
     "keywords": ["blue-square", "alphabet"],
     "char": "🔤",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "abcd": {
     "keywords": ["blue-square", "alphabet"],
     "char": "🔡",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "capital_abcd": {
     "keywords": ["alphabet", "words", "blue-square"],
     "char": "🔠",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "information_source": {
     "keywords": ["blue-square", "alphabet", "letter"],
     "char": "ℹ️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "signal_strength": {
     "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth", "bars"],
     "char": "📶",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "cinema": {
     "keywords": ["blue-square", "record", "film", "movie", "curtain", "stage", "theater"],
     "char": "🎦",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "symbols": {
     "keywords": ["blue-square", "music", "note", "ampersand", "percent", "glyphs", "characters"],
     "char": "🔣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "heavy_plus_sign": {
     "keywords": ["math", "calculation", "addition", "more", "increase"],
     "char": "➕",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "heavy_minus_sign": {
     "keywords": ["math", "calculation", "subtract", "less"],
     "char": "➖",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "wavy_dash": {
     "keywords": ["draw", "line", "moustache", "mustache", "squiggle", "scribble"],
     "char": "〰️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "heavy_division_sign": {
     "keywords": ["divide", "math", "calculation"],
     "char": "➗",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "heavy_multiplication_x": {
     "keywords": ["math", "calculation"],
     "char": "✖️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "heavy_check_mark": {
     "keywords": ["ok", "nike", "answer", "yes", "tick"],
     "char": "✔️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "arrows_clockwise": {
     "keywords": ["sync", "cycle", "round", "repeat"],
     "char": "🔃",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "tm": {
     "keywords": ["trademark", "brand", "law", "legal"],
     "char": "™️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "copyright": {
     "keywords": ["ip", "license", "circle", "law", "legal"],
     "char": "©️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "registered": {
     "keywords": ["alphabet", "circle"],
     "char": "®️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "currency_exchange": {
     "keywords": ["money", "sales", "dollar", "travel"],
     "char": "💱",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "heavy_dollar_sign": {
     "keywords": ["money", "sales", "payment", "currency", "buck"],
     "char": "💲",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "curly_loop": {
     "keywords": ["scribble", "draw", "shape", "squiggle"],
     "char": "➰",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "loop": {
     "keywords": ["tape", "cassette"],
     "char": "➿",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "part_alternation_mark": {
     "keywords": ["graph", "presentation", "stats", "business", "economics", "bad"],
     "char": "〽️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "exclamation": {
     "keywords": ["heavy_exclamation_mark", "danger", "surprise", "punctuation", "wow", "warning"],
     "char": "❗",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "question": {
     "keywords": ["doubt", "confused"],
     "char": "❓",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "grey_exclamation": {
     "keywords": ["surprise", "punctuation", "gray", "wow", "warning"],
     "char": "❕",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "grey_question": {
     "keywords": ["doubts", "gray", "huh", "confused"],
     "char": "❔",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "bangbang": {
     "keywords": ["exclamation", "surprise"],
     "char": "‼️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "interrobang": {
     "keywords": ["wat", "punctuation", "surprise"],
     "char": "⁉️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "x": {
     "keywords": ["no", "delete", "remove", "cancel"],
     "char": "❌",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "o": {
     "keywords": ["circle", "round"],
     "char": "⭕",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "100": {
     "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass", "hundred"],
     "char": "💯",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "end": {
     "keywords": ["words", "arrow"],
     "char": "🔚",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "back": {
     "keywords": ["arrow", "words", "return"],
     "char": "🔙",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "on": {
     "keywords": ["arrow", "words"],
     "char": "🔛",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "top": {
     "keywords": ["words", "blue-square"],
     "char": "🔝",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "soon": {
     "keywords": ["arrow", "words"],
     "char": "🔜",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "globe_with_meridians": {
     "keywords": ["earth", "international", "world", "internet", "interweb", "i18n"],
     "char": "🌐",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "umbrella_on_ground": {
     "keywords": ["weather", "summer"],
     "char": "⛱",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "cyclone": {
     "keywords": ["weather", "swirl", "blue", "cloud"],
     "char": "🌀",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "m": {
     "keywords": ["alphabet", "blue-circle", "letter"],
     "char": "Ⓜ️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "ophiuchus": {
     "keywords": ["sign", "purple-square", "constellation", "astrology"],
     "char": "⛎",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "six_pointed_star": {
     "keywords": ["purple-square", "religion", "jewish", "hexagram"],
     "char": "🔯",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "beginner": {
     "keywords": ["badge", "shield"],
     "char": "🔰",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "trident": {
     "keywords": ["weapon", "spear"],
     "char": "🔱",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "warning": {
     "keywords": ["exclamation", "wip", "alert", "error", "problem", "issue"],
     "char": "⚠️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "hotsprings": {
     "keywords": ["bath", "warm", "relax"],
     "char": "♨️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "recycle": {
     "keywords": ["arrow", "environment", "garbage", "trash"],
     "char": "♻️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "anger": {
     "keywords": ["angry", "mad"],
     "char": "💢",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "diamond_shape_with_a_dot_inside": {
     "keywords": ["jewel", "blue", "gem", "crystal", "fancy"],
     "char": "💠",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "spades": {
     "keywords": ["poker", "cards", "suits", "magic"],
     "char": "♠️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "hearts": {
     "keywords": ["poker", "cards", "magic", "suits"],
     "char": "♥️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clubs": {
     "keywords": ["poker", "cards", "magic", "suits"],
     "char": "♣️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "diamonds": {
     "keywords": ["poker", "cards", "magic", "suits"],
     "char": "♦️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "ballot_box_with_check": {
     "keywords": ["ok", "agree", "confirm", "black-square", "vote", "election", "yes"],
     "char": "☑️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_circle": {
     "keywords": ["shape", "round"],
     "char": "⚪",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "black_circle": {
     "keywords": ["shape", "button", "round"],
     "char": "⚫",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "radio_button": {
     "keywords": ["input", "old", "music", "circle"],
     "char": "🔘",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "red_circle": {
     "keywords": ["shape", "error", "danger"],
     "char": "🔴",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "large_blue_circle": {
     "keywords": ["shape", "icon", "button"],
     "char": "🔵",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "small_red_triangle": {
     "keywords": ["shape", "direction", "up", "top"],
     "char": "🔺",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "small_red_triangle_down": {
     "keywords": ["shape", "direction", "bottom"],
     "char": "🔻",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "small_orange_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔸",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "small_blue_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔹",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "large_orange_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔶",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "large_blue_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔷",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "black_small_square": {
     "keywords": ["shape", "icon"],
     "char": "▪️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_small_square": {
     "keywords": ["shape", "icon"],
     "char": "▫️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "black_large_square": {
     "keywords": ["shape", "icon", "button"],
     "char": "⬛",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_large_square": {
     "keywords": ["shape", "icon", "stone", "button"],
     "char": "⬜",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "black_medium_square": {
     "keywords": ["shape", "button", "icon"],
     "char": "◼️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_medium_square": {
     "keywords": ["shape", "stone", "icon"],
     "char": "◻️",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "black_medium_small_square": {
     "keywords": ["icon", "shape", "button"],
     "char": "◾",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_medium_small_square": {
     "keywords": ["shape", "stone", "icon", "button"],
     "char": "◽",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "black_square_button": {
     "keywords": ["shape", "input", "frame"],
     "char": "🔲",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "white_square_button": {
     "keywords": ["shape", "input"],
     "char": "🔳",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock1": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕐",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock130": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕜",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock2": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕑",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock230": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕝",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock3": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕒",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock330": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕞",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock4": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕓",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock430": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕟",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock5": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕔",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock530": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕠",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock6": {
     "keywords": ["time", "late", "early", "schedule", "dawn", "dusk"],
     "char": "🕕",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock630": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕡",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock7": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕖",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock730": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕢",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock8": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕗",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock830": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕣",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock9": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕘",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock930": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕤",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock10": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕙",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock1030": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕥",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock11": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕚",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock1130": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕦",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock12": {
     "keywords": ["time", "noon", "midnight", "midday", "late", "early", "schedule"],
     "char": "🕛",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "clock1230": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕧",
-    "category": "objectsandsymbols"
+    "category": "objects"
   },
   "octocat": {
     "keywords": ["animal", "octopus", "github", "custom_"],
