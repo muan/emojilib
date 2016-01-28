@@ -2374,39 +2374,339 @@
     "char": "🎳",
     "category": "activity"
   },
-  "beach_with_umbrella": {
-    "keywords": ["weather", "summer", "sunny", "sand"],
-    "char": "🏖",
+    "car": {
+    "keywords": ["red", "transportation", "vehicle"],
+    "char": "🚗",
     "category": "travel_and_places"
   },
-  "stars": {
-    "keywords": ["night", "photo"],
-    "char": "🌠",
+  "taxi": {
+    "keywords": ["uber", "vehicle", "cars", "transportation"],
+    "char": "🚕",
     "category": "travel_and_places"
   },
-  "sunrise_over_mountains": {
-    "keywords": ["view", "vacation", "photo"],
-    "char": "🌄",
+  "blue_car": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚙",
     "category": "travel_and_places"
   },
-  "sunrise": {
-    "keywords": ["morning", "view", "vacation", "photo"],
-    "char": "🌅",
+  "bus": {
+    "keywords": ["car", "vehicle", "transportation"],
+    "char": "🚌",
     "category": "travel_and_places"
   },
-  "rainbow": {
-    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
-    "char": "🌈",
+  "trolleybus": {
+    "keywords": ["bart", "transportation", "vehicle"],
+    "char": "🚎",
     "category": "travel_and_places"
   },
-  "volcano": {
-    "keywords": ["photo", "nature", "disaster"],
-    "char": "🌋",
+  "racing_car": {
+    "keywords": ["sports", "race", "fast", "formula", "f1"],
+    "char": "🏎",
     "category": "travel_and_places"
   },
-  "milky_way": {
-    "keywords": ["photo", "space", "stars"],
-    "char": "🌌",
+  "police_car": {
+    "keywords": ["vehicle", "cars", "transportation", "law", "legal", "enforcement"],
+    "char": "🚓",
+    "category": "travel_and_places"
+  },
+  "ambulance": {
+    "keywords": ["health", "911", "hospital"],
+    "char": "🚑",
+    "category": "travel_and_places"
+  },
+  "fire_engine": {
+    "keywords": ["transportation", "cars", "vehicle"],
+    "char": "🚒",
+    "category": "travel_and_places"
+  },
+  "minibus": {
+    "keywords": ["vehicle", "car", "transportation"],
+    "char": "🚐",
+    "category": "travel_and_places"
+  },
+  "truck": {
+    "keywords": ["cars", "transportation"],
+    "char": "🚚",
+    "category": "travel_and_places"
+  },
+  "articulated_lorry": {
+    "keywords": ["vehicle", "cars", "transportation", "express"],
+    "char": "🚛",
+    "category": "travel_and_places"
+  },
+  "tractor": {
+    "keywords": ["vehicle", "car", "farming", "agriculture"],
+    "char": "🚜",
+    "category": "travel_and_places"
+  },
+  "racing_motorcycle": {
+    "keywords": ["race", "sports", "fast"],
+    "char": "🏍",
+    "category": "travel_and_places"
+  },
+  "bike": {
+    "keywords": ["sports", "bicycle", "exercise", "hipster"],
+    "char": "🚲",
+    "category": "travel_and_places"
+  },
+  "rotating_light": {
+    "keywords": ["police", "ambulance", "911", "emergency", "alert", "error", "pinged", "law", "legal"],
+    "char": "🚨",
+    "category": "travel_and_places"
+  },
+  "oncoming_police_car": {
+    "keywords": ["vehicle", "law", "legal", "enforcement", "911"],
+    "char": "🚔",
+    "category": "travel_and_places"
+  },
+  "oncoming_bus": {
+    "keywords": ["vehicle", "transportation"],
+    "char": "🚍",
+    "category": "travel_and_places"
+  },
+  "oncoming_automobile": {
+    "keywords": ["car", "vehicle", "transportation"],
+    "char": "🚘",
+    "category": "travel_and_places"
+  },
+  "oncoming_taxi": {
+    "keywords": ["vehicle", "cars", "uber"],
+    "char": "🚖",
+    "category": "travel_and_places"
+  },
+  "aerial_tramway": {
+    "keywords": ["transportation", "vehicle", "ski"],
+    "char": "🚡",
+    "category": "travel_and_places"
+  },
+  "mountain_cableway": {
+    "keywords": ["transportation", "vehicle", "ski"],
+    "char": "🚠",
+    "category": "travel_and_places"
+  },
+  "suspension_railway": {
+    "keywords": ["vehicle", "transportation"],
+    "char": "🚟",
+    "category": "travel_and_places"
+  },
+  "railway_car": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚃",
+    "category": "travel_and_places"
+  },
+  "train": {
+    "keywords": ["transportation", "vehicle", "carriage", "public", "travel"],
+    "char": "🚋",
+    "category": "travel_and_places"
+  },
+  "monorail": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚝",
+    "category": "travel_and_places"
+  },
+  "bullettrain_side": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚄",
+    "category": "travel_and_places"
+  },
+  "bullettrain_front": {
+    "keywords": ["transportation", "vehicle", "speed", "fast", "public", "travel"],
+    "char": "🚅",
+    "category": "travel_and_places"
+  },
+  "light_rail": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚈",
+    "category": "travel_and_places"
+  },
+  "mountain_railway": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚞",
+    "category": "travel_and_places"
+  },
+  "steam_locomotive": {
+    "keywords": ["transportation", "vehicle", "train"],
+    "char": "🚂",
+    "category": "travel_and_places"
+  },
+  "train2": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚆",
+    "category": "travel_and_places"
+  },
+  "metro": {
+    "keywords": ["transportation", "blue-square", "mrt", "underground", "tube"],
+    "char": "🚇",
+    "category": "travel_and_places"
+  },
+  "tram": {
+    "keywords": ["transportation", "vehicle"],
+    "char": "🚊",
+    "category": "travel_and_places"
+  },
+  "station": {
+    "keywords": ["transportation", "vehicle", "public"],
+    "char": "🚉",
+    "category": "travel_and_places"
+  },
+  "helicopter": {
+    "keywords": ["transportation", "vehicle", "fly"],
+    "char": "🚁",
+    "category": "travel_and_places"
+  },
+  "small_airplane": {
+    "keywords": ["flight", "transportation", "fly", "vehicle"],
+    "char": "🛩",
+    "category": "travel_and_places"
+  },
+  "airplane": {
+    "keywords": ["vehicle", "transportation", "flight", "fly"],
+    "char": "✈️",
+    "category": "travel_and_places"
+  },
+  "airplane_departure": {
+    "keywords": ["airport", "flight", "landing"],
+    "char": "🛫",
+    "category": "travel_and_places"
+  },
+  "airplane_arrival": {
+    "keywords": ["airport", "flight", "boarding"],
+    "char": "🛬",
+    "category": "travel_and_places"
+  },
+  "boat": {
+    "keywords": ["ship", "summer", "transportation", "water", "sailing", "sailboat"],
+    "char": "⛵",
+    "category": "travel_and_places"
+  },
+  "motor_boat": {
+    "keywords": ["ship"],
+    "char": "🛥",
+    "category": "travel_and_places"
+  },
+  "speedboat": {
+    "keywords": ["ship", "transportation", "vehicle", "summer"],
+    "char": "🚤",
+    "category": "travel_and_places"
+  },
+  "ferry": {
+    "keywords": ["boat", "ship", "yacht"],
+    "char": "⛴",
+    "category": "travel_and_places"
+  },
+  "passenger_ship": {
+    "keywords": ["yacht", "cruise", "ferry"],
+    "char": "🛳",
+    "category": "travel_and_places"
+  },
+  "rocket": {
+    "keywords": ["launch", "ship", "staffmode", "NASA", "outer space", "outer_space", "fly"],
+    "char": "🚀",
+    "category": "travel_and_places"
+  },
+  "artificial_satellite": {
+    "keywords": ["communication", "gps", "orbit", "spaceflight", "NASA", "ISS"],
+    "char": "🛰",
+    "category": "travel_and_places"
+  },
+  "seat": {
+    "keywords": ["sit", "airplane", "transport", "bus", "flight", "fly"],
+    "char": "💺",
+    "category": "travel_and_places"
+  },
+  "anchor": {
+    "keywords": ["ship", "ferry", "sea", "boat"],
+    "char": "⚓",
+    "category": "travel_and_places"
+  },
+  "construction": {
+    "keywords": ["wip", "progress", "caution", "warning"],
+    "char": "🚧",
+    "category": "travel_and_places"
+  },
+  "fuelpump": {
+    "keywords": ["gas station", "petroleum"],
+    "char": "⛽",
+    "category": "travel_and_places"
+  },
+  "busstop": {
+    "keywords": ["transportation", "wait"],
+    "char": "🚏",
+    "category": "travel_and_places"
+  },
+  "vertical_traffic_light": {
+    "keywords": ["transportation", "driving"],
+    "char": "🚦",
+    "category": "travel_and_places"
+  },
+  "traffic_light": {
+    "keywords": ["transportation", "signal"],
+    "char": "🚥",
+    "category": "travel_and_places"
+  },
+  "checkered_flag": {
+    "keywords": ["contest", "finishline", "rase", "gokart"],
+    "char": "🏁",
+    "category": "travel_and_places"
+  },
+  "ship": {
+    "keywords": ["transportation", "titanic", "deploy"],
+    "char": "🚢",
+    "category": "travel_and_places"
+  },
+  "ferris_wheel": {
+    "keywords": ["photo", "carnival", "londoneye"],
+    "char": "🎡",
+    "category": "travel_and_places"
+  },
+  "roller_coaster": {
+    "keywords": ["carnival", "playground", "photo", "fun"],
+    "char": "🎢",
+    "category": "travel_and_places"
+  },
+  "carousel_horse": {
+    "keywords": ["photo", "carnival"],
+    "char": "🎠",
+    "category": "travel_and_places"
+  },
+  "building_construction": {
+    "keywords": ["wip", "working", "progress"],
+    "char": "🏗",
+    "category": "travel_and_places"
+  },
+  "foggy": {
+    "keywords": ["photo", "mountain"],
+    "char": "🌁",
+    "category": "travel_and_places"
+  },
+  "tokyo_tower": {
+    "keywords": ["photo", "japanese"],
+    "char": "🗼",
+    "category": "travel_and_places"
+  },
+  "factory": {
+    "keywords": ["building", "industry", "pollution", "smoke"],
+    "char": "🏭",
+    "category": "travel_and_places"
+  },
+  "fountain": {
+    "keywords": ["photo", "summer", "water", "fresh"],
+    "char": "⛲",
+    "category": "travel_and_places"
+  },
+  "rice_scene": {
+    "keywords": ["photo", "japan", "asia", "tsukimi"],
+    "char": "🎑",
+    "category": "travel_and_places"
+  },
+  "mountain": {
+    "keywords": ["photo", "nature", "environment"],
+    "char": "⛰",
+    "category": "travel_and_places"
+  },
+  "snow_capped_mountain": {
+    "keywords": ["photo", "nature", "environment", "winter", "cold"],
+    "char": "🏔",
     "category": "travel_and_places"
   },
   "mount_fuji": {
@@ -2414,9 +2714,239 @@
     "char": "🗻",
     "category": "travel_and_places"
   },
+  "volcano": {
+    "keywords": ["photo", "nature", "disaster"],
+    "char": "🌋",
+    "category": "travel_and_places"
+  },
   "japan": {
     "keywords": ["nation", "country", "japanese", "asia"],
     "char": "🗾",
+    "category": "travel_and_places"
+  },
+  "camping": {
+    "keywords": ["photo", "outdoors", "tent"],
+    "char": "🏕",
+    "category": "travel_and_places"
+  },
+  "tent": {
+    "keywords": ["photo", "camping", "outdoors"],
+    "char": "⛺",
+    "category": "travel_and_places"
+  },
+  "national_park": {
+    "keywords": ["photo", "environment", "nature"],
+    "char": "🏞",
+    "category": "travel_and_places"
+  },
+  "motorway": {
+    "keywords": ["road", "cupertino", "interstate", "highway"],
+    "char": "🛣",
+    "category": "travel_and_places"
+  },
+  "railway_track": {
+    "keywords": ["train", "transportation"],
+    "char": "🛤",
+    "category": "travel_and_places"
+  },
+  "sunrise": {
+    "keywords": ["morning", "view", "vacation", "photo"],
+    "char": "🌅",
+    "category": "travel_and_places"
+  },
+  "sunrise_over_mountains": {
+    "keywords": ["view", "vacation", "photo"],
+    "char": "🌄",
+    "category": "travel_and_places"
+  },
+  "desert": {
+    "keywords": ["photo", "warm", "saharah"],
+    "char": "🏜",
+    "category": "travel_and_places"
+  },
+  "beach_with_umbrella": {
+    "keywords": ["weather", "summer", "sunny", "sand"],
+    "char": "🏖",
+    "category": "travel_and_places"
+  },
+  "desert_island": {
+    "keywords": ["photo", "tropical"],
+    "char": "🏝",
+    "category": "travel_and_places"
+  },
+  "city_sunrise": {
+    "keywords": ["photo", "good morning", "dawn"],
+    "char": "🌇",
+    "category": "travel_and_places"
+  },
+  "city_sunset": {
+    "keywords": ["photo", "evening", "sky", "buildings"],
+    "char": "🌆",
+    "category": "travel_and_places"
+  },
+  "cityscape": {
+    "keywords": ["photo", "night life", "urban"],
+    "char": "🏙",
+    "category": "travel_and_places"
+  },
+  "night_with_stars": {
+    "keywords": ["evening", "city", "downtown"],
+    "char": "🌃",
+    "category": "travel_and_places"
+  },
+  "bridge_at_night": {
+    "keywords": ["photo", "sanfrancisco"],
+    "char": "🌉",
+    "category": "travel_and_places"
+  },
+  "milky_way": {
+    "keywords": ["photo", "space", "stars"],
+    "char": "🌌",
+    "category": "travel_and_places"
+  },
+  "stars": {
+    "keywords": ["night", "photo"],
+    "char": "🌠",
+    "category": "travel_and_places"
+  },
+  "sparkler": {
+    "keywords": ["stars", "night", "shine"],
+    "char": "🎇",
+    "category": "travel_and_places"
+  },
+  "fireworks": {
+    "keywords": ["photo", "festival", "carnival", "congratulations"],
+    "char": "🎆",
+    "category": "travel_and_places"
+  },
+  "rainbow": {
+    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
+    "char": "🌈",
+    "category": "travel_and_places"
+  },
+  "buildings": {
+    "keywords": ["houses", "photo"],
+    "char": "🏘",
+    "category": "travel_and_places"
+  },
+  "european_castle": {
+    "keywords": ["building", "royalty", "history"],
+    "char": "🏰",
+    "category": "travel_and_places"
+  },
+  "japanese_castle": {
+    "keywords": ["photo", "building"],
+    "char": "🏯",
+    "category": "travel_and_places"
+  },
+  "stadium": {
+    "keywords": ["photo", "place", "sports", "concert", "venue"],
+    "char": "🏟",
+    "category": "travel_and_places"
+  },
+  "statue_of_liberty": {
+    "keywords": ["american", "newyork"],
+    "char": "🗽",
+    "category": "travel_and_places"
+  },
+  "house": {
+    "keywords": ["building", "home"],
+    "char": "🏠",
+    "category": "travel_and_places"
+  },
+  "house_with_garden": {
+    "keywords": ["home", "plant", "nature"],
+    "char": "🏡",
+    "category": "travel_and_places"
+  },
+  "derelict_house": {
+    "keywords": ["abandon", "evict", "broken", "building"],
+    "char": "🏚",
+    "category": "travel_and_places"
+  },
+  "office": {
+    "keywords": ["building", "bureau", "work"],
+    "char": "🏢",
+    "category": "travel_and_places"
+  },
+  "department_store": {
+    "keywords": ["building", "shopping", "mall"],
+    "char": "🏬",
+    "category": "travel_and_places"
+  },
+  "post_office": {
+    "keywords": ["building", "email", "communication"],
+    "char": "🏣",
+    "category": "travel_and_places"
+  },
+  "european_post_office": {
+    "keywords": ["building", "email"],
+    "char": "🏤",
+    "category": "travel_and_places"
+  },
+  "hospital": {
+    "keywords": ["building", "health", "surgery", "doctor"],
+    "char": "🏥",
+    "category": "travel_and_places"
+  },
+  "bank": {
+    "keywords": ["building", "money", "sales", "cash", "business", "enterprise"],
+    "char": "🏦",
+    "category": "travel_and_places"
+  },
+  "hotel": {
+    "keywords": ["building", "whotel", "accomodation", "checkin"],
+    "char": "🏨",
+    "category": "travel_and_places"
+  },
+  "convenience_store": {
+    "keywords": ["building", "shopping", "groceries"],
+    "char": "🏪",
+    "category": "travel_and_places"
+  },
+  "school": {
+    "keywords": ["building", "student", "education", "learn", "teach"],
+    "char": "🏫",
+    "category": "travel_and_places"
+  },
+  "love_hotel": {
+    "keywords": ["like", "affection", "dating"],
+    "char": "🏩",
+    "category": "travel_and_places"
+  },
+  "wedding": {
+    "keywords": ["love", "like", "affection", "couple", "marriage", "bride", "groom"],
+    "char": "💒",
+    "category": "travel_and_places"
+  },
+  "museum": {
+    "keywords": ["art", "culture", "history"],
+    "char": "🏛",
+    "category": "travel_and_places"
+  },
+  "church": {
+    "keywords": ["building", "religion", "christ"],
+    "char": "⛪",
+    "category": "travel_and_places"
+  },
+  "mosque": {
+    "keywords": ["islam", "worship", "minaret"],
+    "char": "🕌",
+    "category": "travel_and_places"
+  },
+  "synagogue": {
+    "keywords": ["judaism", "worship", "temple", "jewish"],
+    "char": "🕍",
+    "category": "travel_and_places"
+  },
+  "kaaba": {
+    "keywords": ["mecca", "mosque", "islam"],
+    "char": "🕋",
+    "category": "travel_and_places"
+  },
+  "shinto_shrine": {
+    "keywords": ["temple", "japan", "kyoto"],
+    "char": "⛩",
     "category": "travel_and_places"
   },
   "ribbon": {
@@ -2432,21 +2962,6 @@
   "birthday": {
     "keywords": ["party", "cake", "celebration"],
     "char": "🎂",
-    "category": "symbols"
-  },
-  "rice_scene": {
-    "keywords": ["photo", "japan", "asia", "tsukimi"],
-    "char": "🎑",
-    "category": "symbols"
-  },
-  "fireworks": {
-    "keywords": ["photo", "festival", "carnival", "congratulations"],
-    "char": "🎆",
-    "category": "symbols"
-  },
-  "sparkler": {
-    "keywords": ["stars", "night", "shine"],
-    "char": "🎇",
     "category": "symbols"
   },
   "tada": {
@@ -2563,406 +3078,6 @@
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💙",
     "category": "symbols"
-  },
-  "railway_car": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚃",
-    "category": "travel_and_places"
-  },
-  "mountain_railway": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚞",
-    "category": "travel_and_places"
-  },
-  "steam_locomotive": {
-    "keywords": ["transportation", "vehicle", "train"],
-    "char": "🚂",
-    "category": "travel_and_places"
-  },
-  "train": {
-    "keywords": ["transportation", "vehicle", "carriage", "public", "travel"],
-    "char": "🚋",
-    "category": "travel_and_places"
-  },
-  "monorail": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚝",
-    "category": "travel_and_places"
-  },
-  "bullettrain_side": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚄",
-    "category": "travel_and_places"
-  },
-  "bullettrain_front": {
-    "keywords": ["transportation", "vehicle", "speed", "fast", "public", "travel"],
-    "char": "🚅",
-    "category": "travel_and_places"
-  },
-  "train2": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚆",
-    "category": "travel_and_places"
-  },
-  "metro": {
-    "keywords": ["transportation", "blue-square", "mrt", "underground", "tube"],
-    "char": "🚇",
-    "category": "travel_and_places"
-  },
-  "light_rail": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚈",
-    "category": "travel_and_places"
-  },
-  "station": {
-    "keywords": ["transportation", "vehicle", "public"],
-    "char": "🚉",
-    "category": "travel_and_places"
-  },
-  "tram": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚊",
-    "category": "travel_and_places"
-  },
-  "bus": {
-    "keywords": ["car", "vehicle", "transportation"],
-    "char": "🚌",
-    "category": "travel_and_places"
-  },
-  "oncoming_bus": {
-    "keywords": ["vehicle", "transportation"],
-    "char": "🚍",
-    "category": "travel_and_places"
-  },
-  "trolleybus": {
-    "keywords": ["bart", "transportation", "vehicle"],
-    "char": "🚎",
-    "category": "travel_and_places"
-  },
-  "minibus": {
-    "keywords": ["vehicle", "car", "transportation"],
-    "char": "🚐",
-    "category": "travel_and_places"
-  },
-  "ambulance": {
-    "keywords": ["health", "911", "hospital"],
-    "char": "🚑",
-    "category": "travel_and_places"
-  },
-  "fire_engine": {
-    "keywords": ["transportation", "cars", "vehicle"],
-    "char": "🚒",
-    "category": "travel_and_places"
-  },
-  "police_car": {
-    "keywords": ["vehicle", "cars", "transportation", "law", "legal", "enforcement"],
-    "char": "🚓",
-    "category": "travel_and_places"
-  },
-  "oncoming_police_car": {
-    "keywords": ["vehicle", "law", "legal", "enforcement", "911"],
-    "char": "🚔",
-    "category": "travel_and_places"
-  },
-  "rotating_light": {
-    "keywords": ["police", "ambulance", "911", "emergency", "alert", "error", "pinged", "law", "legal"],
-    "char": "🚨",
-    "category": "travel_and_places"
-  },
-  "taxi": {
-    "keywords": ["uber", "vehicle", "cars", "transportation"],
-    "char": "🚕",
-    "category": "travel_and_places"
-  },
-  "oncoming_taxi": {
-    "keywords": ["vehicle", "cars", "uber"],
-    "char": "🚖",
-    "category": "travel_and_places"
-  },
-  "car": {
-    "keywords": ["red", "transportation", "vehicle"],
-    "char": "🚗",
-    "category": "travel_and_places"
-  },
-  "oncoming_automobile": {
-    "keywords": ["car", "vehicle", "transportation"],
-    "char": "🚘",
-    "category": "travel_and_places"
-  },
-  "blue_car": {
-    "keywords": ["transportation", "vehicle"],
-    "char": "🚙",
-    "category": "travel_and_places"
-  },
-  "truck": {
-    "keywords": ["cars", "transportation"],
-    "char": "🚚",
-    "category": "travel_and_places"
-  },
-  "articulated_lorry": {
-    "keywords": ["vehicle", "cars", "transportation", "express"],
-    "char": "🚛",
-    "category": "travel_and_places"
-  },
-  "tractor": {
-    "keywords": ["vehicle", "car", "farming", "agriculture"],
-    "char": "🚜",
-    "category": "travel_and_places"
-  },
-  "bike": {
-    "keywords": ["sports", "bicycle", "exercise", "hipster"],
-    "char": "🚲",
-    "category": "travel_and_places"
-  },
-  "busstop": {
-    "keywords": ["transportation", "wait"],
-    "char": "🚏",
-    "category": "travel_and_places"
-  },
-  "fuelpump": {
-    "keywords": ["gas station", "petroleum"],
-    "char": "⛽",
-    "category": "travel_and_places"
-  },
-  "construction": {
-    "keywords": ["wip", "progress", "caution", "warning"],
-    "char": "🚧",
-    "category": "travel_and_places"
-  },
-  "vertical_traffic_light": {
-    "keywords": ["transportation", "driving"],
-    "char": "🚦",
-    "category": "travel_and_places"
-  },
-  "traffic_light": {
-    "keywords": ["transportation", "signal"],
-    "char": "🚥",
-    "category": "travel_and_places"
-  },
-  "rocket": {
-    "keywords": ["launch", "ship", "staffmode", "NASA", "outer space", "outer_space", "fly"],
-    "char": "🚀",
-    "category": "travel_and_places"
-  },
-  "helicopter": {
-    "keywords": ["transportation", "vehicle", "fly"],
-    "char": "🚁",
-    "category": "travel_and_places"
-  },
-  "airplane": {
-    "keywords": ["vehicle", "transportation", "flight", "fly"],
-    "char": "✈️",
-    "category": "travel_and_places"
-  },
-  "seat": {
-    "keywords": ["sit", "airplane", "transport", "bus", "flight", "fly"],
-    "char": "💺",
-    "category": "travel_and_places"
-  },
-  "anchor": {
-    "keywords": ["ship", "ferry", "sea", "boat"],
-    "char": "⚓",
-    "category": "travel_and_places"
-  },
-  "ship": {
-    "keywords": ["transportation", "titanic", "deploy"],
-    "char": "🚢",
-    "category": "travel_and_places"
-  },
-  "speedboat": {
-    "keywords": ["ship", "transportation", "vehicle", "summer"],
-    "char": "🚤",
-    "category": "travel_and_places"
-  },
-  "boat": {
-    "keywords": ["ship", "summer", "transportation", "water", "sailing", "sailboat"],
-    "char": "⛵",
-    "category": "travel_and_places"
-  },
-  "aerial_tramway": {
-    "keywords": ["transportation", "vehicle", "ski"],
-    "char": "🚡",
-    "category": "travel_and_places"
-  },
-  "mountain_cableway": {
-    "keywords": ["transportation", "vehicle", "ski"],
-    "char": "🚠",
-    "category": "travel_and_places"
-  },
-  "suspension_railway": {
-    "keywords": ["vehicle", "transportation"],
-    "char": "🚟",
-    "category": "travel_and_places"
-  },
-  "passport_control": {
-    "keywords": ["custom", "blue-square"],
-    "char": "🛂",
-    "category": "travel_and_places"
-  },
-  "customs": {
-    "keywords": ["passport", "border", "blue-square"],
-    "char": "🛃",
-    "category": "travel_and_places"
-  },
-  "baggage_claim": {
-    "keywords": ["blue-square", "airport", "transport"],
-    "char": "🛄",
-    "category": "travel_and_places"
-  },
-  "left_luggage": {
-    "keywords": ["blue-square", "travel"],
-    "char": "🛅",
-    "category": "travel_and_places"
-  },
-  "yen": {
-    "keywords": ["money", "sales", "japanese", "dollar", "currency"],
-    "char": "💴",
-    "category": "travel_and_places"
-  },
-  "euro": {
-    "keywords": ["money", "sales", "dollar", "currency"],
-    "char": "💶",
-    "category": "travel_and_places"
-  },
-  "pound": {
-    "keywords": ["british", "sterling", "money", "sales", "bills", "uk", "england", "currency"],
-    "char": "💷",
-    "category": "travel_and_places"
-  },
-  "dollar": {
-    "keywords": ["money", "sales", "bill", "currency"],
-    "char": "💵",
-    "category": "travel_and_places"
-  },
-  "statue_of_liberty": {
-    "keywords": ["american", "newyork"],
-    "char": "🗽",
-    "category": "travel_and_places"
-  },
-  "moyai": {
-    "keywords": ["stone", "easter island", "beach", "statue"],
-    "char": "🗿",
-    "category": "travel_and_places"
-  },
-  "foggy": {
-    "keywords": ["photo", "mountain"],
-    "char": "🌁",
-    "category": "travel_and_places"
-  },
-  "tokyo_tower": {
-    "keywords": ["photo", "japanese"],
-    "char": "🗼",
-    "category": "travel_and_places"
-  },
-  "fountain": {
-    "keywords": ["photo", "summer", "water", "fresh"],
-    "char": "⛲",
-    "category": "travel_and_places"
-  },
-  "european_castle": {
-    "keywords": ["building", "royalty", "history"],
-    "char": "🏰",
-    "category": "travel_and_places"
-  },
-  "japanese_castle": {
-    "keywords": ["photo", "building"],
-    "char": "🏯",
-    "category": "travel_and_places"
-  },
-  "city_sunrise": {
-    "keywords": ["photo", "good morning", "dawn"],
-    "char": "🌇",
-    "category": "travel_and_places"
-  },
-  "city_sunset": {
-    "keywords": ["photo", "evening", "sky", "buildings"],
-    "char": "🌆",
-    "category": "travel_and_places"
-  },
-  "night_with_stars": {
-    "keywords": ["evening", "city", "downtown"],
-    "char": "🌃",
-    "category": "travel_and_places"
-  },
-  "bridge_at_night": {
-    "keywords": ["photo", "sanfrancisco"],
-    "char": "🌉",
-    "category": "travel_and_places"
-  },
-  "house": {
-    "keywords": ["building", "home"],
-    "char": "🏠",
-    "category": "travel_and_places"
-  },
-  "house_with_garden": {
-    "keywords": ["home", "plant", "nature"],
-    "char": "🏡",
-    "category": "travel_and_places"
-  },
-  "office": {
-    "keywords": ["building", "bureau", "work"],
-    "char": "🏢",
-    "category": "travel_and_places"
-  },
-  "department_store": {
-    "keywords": ["building", "shopping", "mall"],
-    "char": "🏬",
-    "category": "travel_and_places"
-  },
-  "factory": {
-    "keywords": ["building", "industry", "pollution", "smoke"],
-    "char": "🏭",
-    "category": "travel_and_places"
-  },
-  "post_office": {
-    "keywords": ["building", "email", "communication"],
-    "char": "🏣",
-    "category": "travel_and_places"
-  },
-  "european_post_office": {
-    "keywords": ["building", "email"],
-    "char": "🏤",
-    "category": "travel_and_places"
-  },
-  "hospital": {
-    "keywords": ["building", "health", "surgery", "doctor"],
-    "char": "🏥",
-    "category": "travel_and_places"
-  },
-  "bank": {
-    "keywords": ["building", "money", "sales", "cash", "business", "enterprise"],
-    "char": "🏦",
-    "category": "travel_and_places"
-  },
-  "hotel": {
-    "keywords": ["building", "whotel", "accomodation", "checkin"],
-    "char": "🏨",
-    "category": "travel_and_places"
-  },
-  "love_hotel": {
-    "keywords": ["like", "affection", "dating"],
-    "char": "🏩",
-    "category": "travel_and_places"
-  },
-  "wedding": {
-    "keywords": ["love", "like", "affection", "couple", "marriage", "bride", "groom"],
-    "char": "💒",
-    "category": "travel_and_places"
-  },
-  "church": {
-    "keywords": ["building", "religion", "christ"],
-    "char": "⛪",
-    "category": "travel_and_places"
-  },
-  "convenience_store": {
-    "keywords": ["building", "shopping", "groceries"],
-    "char": "🏪",
-    "category": "travel_and_places"
-  },
-  "school": {
-    "keywords": ["building", "student", "education", "learn", "teach"],
-    "char": "🏫",
-    "category": "travel_and_places"
   },
   "cn": {
     "keywords": ["china", "chinese", "prc", "flag", "country", "nation", "banner"],
