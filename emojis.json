@@ -2949,136 +2949,6 @@
     "char": "⛩",
     "category": "travel_and_places"
   },
-  "ribbon": {
-    "keywords": ["decoration", "pink", "girl", "bowtie"],
-    "char": "🎀",
-    "category": "symbols"
-  },
-  "gift": {
-    "keywords": ["present", "birthday", "christmas", "xmas"],
-    "char": "🎁",
-    "category": "symbols"
-  },
-  "birthday": {
-    "keywords": ["party", "cake", "celebration"],
-    "char": "🎂",
-    "category": "symbols"
-  },
-  "tada": {
-    "keywords": ["party", "contulations", "birthday", "magic", "circus"],
-    "char": "🎉",
-    "category": "symbols"
-  },
-  "confetti_ball": {
-    "keywords": ["festival", "party", "birthday", "circus"],
-    "char": "🎊",
-    "category": "symbols"
-  },
-  "balloon": {
-    "keywords": ["party", "celebration", "birthday", "circus"],
-    "char": "🎈",
-    "category": "symbols"
-  },
-  "dolls": {
-    "keywords": ["japanese", "toy", "kimono"],
-    "char": "🎎",
-    "category": "symbols"
-  },
-  "flags": {
-    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
-    "char": "🎏",
-    "category": "symbols"
-  },
-  "wind_chime": {
-    "keywords": ["nature", "ding", "spring", "bell"],
-    "char": "🎐",
-    "category": "symbols"
-  },
-  "crossed_flags": {
-    "keywords": ["japanese", "nation", "country", "border"],
-    "char": "🎌",
-    "category": "symbols"
-  },
-  "izakaya_lantern": {
-    "keywords": ["light", "paper", "halloween", "spooky"],
-    "char": "🏮",
-    "category": "symbols"
-  },
-  "heart": {
-    "keywords": ["love", "like", "valentines"],
-    "char": "❤️",
-    "category": "symbols"
-  },
-  "broken_heart": {
-    "keywords": ["sad", "sorry", "break"],
-    "char": "💔",
-    "category": "symbols"
-  },
-  "love_letter": {
-    "keywords": ["email", "like", "affection", "envelope", "valentines"],
-    "char": "💌",
-    "category": "symbols"
-  },
-  "two_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💕",
-    "category": "symbols"
-  },
-  "revolving_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💞",
-    "category": "symbols"
-  },
-  "heartbeat": {
-    "keywords": ["love", "like", "affection", "valentines", "pink"],
-    "char": "💓",
-    "category": "symbols"
-  },
-  "heartpulse": {
-    "keywords": ["like", "love", "affection", "valentines", "pink"],
-    "char": "💗",
-    "category": "symbols"
-  },
-  "sparkling_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💖",
-    "category": "symbols"
-  },
-  "cupid": {
-    "keywords": ["love", "like", "heart", "affection", "valentines"],
-    "char": "💘",
-    "category": "symbols"
-  },
-  "gift_heart": {
-    "keywords": ["love", "valentines"],
-    "char": "💝",
-    "category": "symbols"
-  },
-  "heart_decoration": {
-    "keywords": ["purple-square", "love", "like"],
-    "char": "💟",
-    "category": "symbols"
-  },
-  "purple_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💜",
-    "category": "symbols"
-  },
-  "yellow_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💛",
-    "category": "symbols"
-  },
-  "green_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💚",
-    "category": "symbols"
-  },
-  "blue_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💙",
-    "category": "symbols"
-  },
   "watch": {
     "keywords": ["time", "accessories"],
     "char": "⌚",
@@ -3332,6 +3202,61 @@
   "key": {
     "keywords": ["lock", "door", "password"],
     "char": "🔑",
+    "category": "objects"
+  },
+  "ribbon": {
+    "keywords": ["decoration", "pink", "girl", "bowtie"],
+    "char": "🎀",
+    "category": "objects"
+  },
+  "gift": {
+    "keywords": ["present", "birthday", "christmas", "xmas"],
+    "char": "🎁",
+    "category": "objects"
+  },
+  "birthday": {
+    "keywords": ["party", "cake", "celebration"],
+    "char": "🎂",
+    "category": "objects"
+  },
+  "tada": {
+    "keywords": ["party", "contulations", "birthday", "magic", "circus"],
+    "char": "🎉",
+    "category": "objects"
+  },
+  "confetti_ball": {
+    "keywords": ["festival", "party", "birthday", "circus"],
+    "char": "🎊",
+    "category": "objects"
+  },
+  "balloon": {
+    "keywords": ["party", "celebration", "birthday", "circus"],
+    "char": "🎈",
+    "category": "objects"
+  },
+  "dolls": {
+    "keywords": ["japanese", "toy", "kimono"],
+    "char": "🎎",
+    "category": "objects"
+  },
+  "flags": {
+    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
+    "char": "🎏",
+    "category": "objects"
+  },
+  "wind_chime": {
+    "keywords": ["nature", "ding", "spring", "bell"],
+    "char": "🎐",
+    "category": "objects"
+  },
+  "crossed_flags": {
+    "keywords": ["japanese", "nation", "country", "border"],
+    "char": "🎌",
+    "category": "objects"
+  },
+  "izakaya_lantern": {
+    "keywords": ["light", "paper", "halloween", "spooky"],
+    "char": "🏮",
     "category": "objects"
   },
   "email": {
@@ -3658,6 +3583,81 @@
     "keywords": ["search", "zoom", "find", "detective"],
     "char": "🔎",
     "category": "objects"
+  },
+  "heart": {
+    "keywords": ["love", "like", "valentines"],
+    "char": "❤️",
+    "category": "symbols"
+  },
+  "broken_heart": {
+    "keywords": ["sad", "sorry", "break"],
+    "char": "💔",
+    "category": "symbols"
+  },
+  "love_letter": {
+    "keywords": ["email", "like", "affection", "envelope", "valentines"],
+    "char": "💌",
+    "category": "symbols"
+  },
+  "two_hearts": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💕",
+    "category": "symbols"
+  },
+  "revolving_hearts": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💞",
+    "category": "symbols"
+  },
+  "heartbeat": {
+    "keywords": ["love", "like", "affection", "valentines", "pink"],
+    "char": "💓",
+    "category": "symbols"
+  },
+  "heartpulse": {
+    "keywords": ["like", "love", "affection", "valentines", "pink"],
+    "char": "💗",
+    "category": "symbols"
+  },
+  "sparkling_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💖",
+    "category": "symbols"
+  },
+  "cupid": {
+    "keywords": ["love", "like", "heart", "affection", "valentines"],
+    "char": "💘",
+    "category": "symbols"
+  },
+  "gift_heart": {
+    "keywords": ["love", "valentines"],
+    "char": "💝",
+    "category": "symbols"
+  },
+  "heart_decoration": {
+    "keywords": ["purple-square", "love", "like"],
+    "char": "💟",
+    "category": "symbols"
+  },
+  "purple_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💜",
+    "category": "symbols"
+  },
+  "yellow_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💛",
+    "category": "symbols"
+  },
+  "green_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💚",
+    "category": "symbols"
+  },
+  "blue_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💙",
+    "category": "symbols"
   },
   "no_entry_sign": {
     "keywords": ["forbid", "stop", "limit", "denied", "disallow", "circle"],
