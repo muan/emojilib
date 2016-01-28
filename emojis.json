@@ -1989,7 +1989,7 @@
     "char": "🍰",
     "category": "food_and_drink"
   },
-  "birthday_cake": {
+  "birthday": {
     "keywords": ["food", "dessert"],
     "char": "🎂",
     "category": "food_and_drink"
@@ -2374,7 +2374,7 @@
     "char": "🎳",
     "category": "activity"
   },
-    "car": {
+  "car": {
     "keywords": ["red", "transportation", "vehicle"],
     "char": "🚗",
     "category": "travel_and_places"
@@ -3514,8 +3514,8 @@
     "char": "📨",
     "category": "objects"
   },
-  "e-mail": {
-    "keywords": ["communication", "inbox", "email"],
+  "email": {
+    "keywords": ["communication", "inbox"],
     "char": "📧",
     "category": "objects"
   },
