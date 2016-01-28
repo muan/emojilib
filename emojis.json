@@ -804,6 +804,76 @@
     "char": "👪",
     "category": "people"
   },
+  "family_man_woman_girl": {
+    "keywords": ["home", "parents", "people", "human", "child"],
+    "char": "👨‍👩‍👧",
+    "category": "people"
+  },
+  "family_man_woman_girl_boy": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👩‍👧‍👦",
+    "category": "people"
+  },
+  "family_man_woman_boys": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👩‍👦‍👦",
+    "category": "people"
+  },
+  "family_man_woman_girls": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👩‍👧‍👧",
+    "category": "people"
+  },
+  "family_women_boy": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👩‍👩‍👦",
+    "category": "people"
+  },
+  "family_women_girl": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👩‍👩‍👧",
+    "category": "people"
+  },
+  "family_women_girl_boy": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👩‍👩‍👧‍👦",
+    "category": "people"
+  },
+  "family_women_boys": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👩‍👩‍👦‍👦",
+    "category": "people"
+  },
+  "family_women_girls": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👩‍👩‍👧‍👧",
+    "category": "people"
+  },
+  "family_men_boy": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👨‍👦",
+    "category": "people"
+  },
+  "family_men_girl": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👨‍👧",
+    "category": "people"
+  },
+  "family_men_girl_boy": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👨‍👧‍👦",
+    "category": "people"
+  },
+  "family_men_boys": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👨‍👦‍👦",
+    "category": "people"
+  },
+  "family_men_girls": {
+    "keywords": ["home", "parents", "people", "human", "children"],
+    "char": "👨‍👨‍👧‍👧",
+    "category": "people"
+  },
   "womans_clothes": {
     "keywords": ["fashion", "shopping", "female"],
     "char": "👚",
