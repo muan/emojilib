@@ -3249,6 +3249,11 @@
     "char": "🇪🇹",
     "category": "flags"
   },
+  "eu": {
+    "keywords": ["european", "union", "flag", "banner"],
+    "char": "🇪🇺",
+    "category": "flags"
+  },
   "fk": {
     "keywords": ["falkland", "islands", "malvinas", "flag", "nation", "country", "banner"],
     "char": "🇫🇰",
