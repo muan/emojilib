@@ -2965,68 +2965,43 @@
     "category": "objects"
   },
   "computer": {
-    "keywords": ["tech", "laptop", "screen", "display", "monitor"],
+    "keywords": ["technology", "laptop", "screen", "display", "monitor"],
     "char": "💻",
     "category": "objects"
   },
-  "alarm_clock": {
-    "keywords": ["time", "wake"],
-    "char": "⏰",
+  "keyboard": {
+    "keywords": ["technology", "computer", "type", "input", "text"],
+    "char": "⌨",
     "category": "objects"
   },
-  "hourglass_flowing_sand": {
-    "keywords": ["oldschool", "time", "countdown"],
-    "char": "⏳",
+  "desktop_computer": {
+    "keywords": ["technology", "computing", "screen"],
+    "char": "🖥",
     "category": "objects"
   },
-  "hourglass": {
-    "keywords": ["time", "clock", "oldschool", "limit", "exam", "quiz", "test"],
-    "char": "⌛",
+  "printer": {
+    "keywords": ["paper", "ink"],
+    "char": "🖨",
     "category": "objects"
   },
-  "camera": {
-    "keywords": ["gadgets", "photo"],
-    "char": "📷",
+  "three_button_mouse": {
+    "keywords": ["click"],
+    "char": "🖱",
     "category": "objects"
   },
-  "video_camera": {
-    "keywords": ["film", "record"],
-    "char": "📹",
+  "trackball": {
+    "keywords": ["technology", "trackpad"],
+    "char": "🖲",
     "category": "objects"
   },
-  "movie_camera": {
-    "keywords": ["film", "record"],
-    "char": "🎥",
+  "joystick": {
+    "keywords": ["game", "play"],
+    "char": "🕹",
     "category": "objects"
   },
-  "tv": {
-    "keywords": ["technology", "program", "oldschool", "show", "television"],
-    "char": "📺",
-    "category": "objects"
-  },
-  "radio": {
-    "keywords": ["communication", "music", "podcast", "program"],
-    "char": "📻",
-    "category": "objects"
-  },
-  "pager": {
-    "keywords": ["bbcall", "oldschool", "90s"],
-    "char": "📟",
-    "category": "objects"
-  },
-  "telephone_receiver": {
-    "keywords": ["technology", "communication", "dial"],
-    "char": "📞",
-    "category": "objects"
-  },
-  "phone": {
-    "keywords": ["technology", "communication", "dial", "telephone"],
-    "char": "☎️",
-    "category": "objects"
-  },
-  "fax": {
-    "keywords": ["communication", "technology"],
-    "char": "📠",
+  "compression": {
+    "keywords": ["tool"],
+    "char": "🗜",
     "category": "objects"
   },
   "minidisc": {
@@ -3054,6 +3029,116 @@
     "char": "📼",
     "category": "objects"
   },
+  "camera": {
+    "keywords": ["gadgets", "photography"],
+    "char": "📷",
+    "category": "objects"
+  },
+  "camera_with_flash": {
+    "keywords": ["photography", "gadgets"],
+    "char": "📸",
+    "category": "objects"
+  },
+  "video_camera": {
+    "keywords": ["film", "record"],
+    "char": "📹",
+    "category": "objects"
+  },
+  "movie_camera": {
+    "keywords": ["film", "record"],
+    "char": "🎥",
+    "category": "objects"
+  },
+  "film_projector": {
+    "keywords": ["video", "tape", "record", "movie"],
+    "char": "📽",
+    "category": "objects"
+  },
+  "film_frames": {
+    "keywords": ["movie"],
+    "char": "🎞",
+    "category": "objects"
+  },
+  "telephone_receiver": {
+    "keywords": ["technology", "communication", "dial"],
+    "char": "📞",
+    "category": "objects"
+  },
+  "phone": {
+    "keywords": ["technology", "communication", "dial", "telephone"],
+    "char": "☎️",
+    "category": "objects"
+  },
+  "pager": {
+    "keywords": ["bbcall", "oldschool", "90s"],
+    "char": "📟",
+    "category": "objects"
+  },
+  "fax": {
+    "keywords": ["communication", "technology"],
+    "char": "📠",
+    "category": "objects"
+  },
+  "tv": {
+    "keywords": ["technology", "program", "oldschool", "show", "television"],
+    "char": "📺",
+    "category": "objects"
+  },
+  "radio": {
+    "keywords": ["communication", "music", "podcast", "program"],
+    "char": "📻",
+    "category": "objects"
+  },
+  "studio_microphone": {
+    "keywords": ["singer", "recording", "artist"],
+    "char": "🎙",
+    "category": "objects"
+  },
+  "level_slider": {
+    "keywords": ["scale"],
+    "char": "🎚",
+    "category": "objects"
+  },
+  "control_knobs": {
+    "keywords": ["dial"],
+    "char": "🎛",
+    "category": "objects"
+  },
+  "stopwatch": {
+    "keywords": ["time", "deadline"],
+    "char": "⏱",
+    "category": "objects"
+  },
+  "timer_clock": {
+    "keywords": ["alarm"],
+    "char": "⏲",
+    "category": "objects"
+  },
+  "alarm_clock": {
+    "keywords": ["time", "wake"],
+    "char": "⏰",
+    "category": "objects"
+  },
+  "mantelpiece_clock": {
+    "keywords": ["time"],
+    "char": "🕰",
+    "category": "objects"
+  },
+  "hourglass_flowing_sand": {
+    "keywords": ["oldschool", "time", "countdown"],
+    "char": "⏳",
+    "category": "objects"
+  },
+  "hourglass": {
+    "keywords": ["time", "clock", "oldschool", "limit", "exam", "quiz", "test"],
+    "char": "⌛",
+    "category": "objects"
+  },
+  "satellite": {
+    "keywords": ["communication", "future", "radio", "space"],
+    "char": "📡",
+    "category": "objects"
+  },
   "battery": {
     "keywords": ["power", "energy", "sustain"],
     "char": "🔋",
@@ -3074,14 +3159,19 @@
     "char": "🔦",
     "category": "objects"
   },
-  "satellite": {
-    "keywords": ["communication", "future", "radio", "space"],
-    "char": "📡",
+  "candle": {
+    "keywords": ["fire", "wax"],
+    "char": "🕯",
     "category": "objects"
   },
-  "credit_card": {
-    "keywords": ["money", "sales", "dollar", "bill", "payment", "shopping"],
-    "char": "💳",
+  "wastebasket": {
+    "keywords": ["bin", "trash", "rubbish", "garbage", "toss"],
+    "char": "🗑",
+    "category": "objects"
+  },
+  "oil_drum": {
+    "keywords": ["barrell"],
+    "char": "🛢",
     "category": "objects"
   },
   "money_with_wings": {
@@ -3089,9 +3179,34 @@
     "char": "💸",
     "category": "objects"
   },
+  "dollar": {
+    "keywords": ["money", "sales", "bill", "currency"],
+    "char": "💵",
+    "category": "objects"
+  },
+  "yen": {
+    "keywords": ["money", "sales", "japanese", "dollar", "currency"],
+    "char": "💴",
+    "category": "objects"
+  },
+  "euro": {
+    "keywords": ["money", "sales", "dollar", "currency"],
+    "char": "💶",
+    "category": "objects"
+  },
+  "pound": {
+    "keywords": ["british", "sterling", "money", "sales", "bills", "uk", "england", "currency"],
+    "char": "💷",
+    "category": "objects"
+  },
   "moneybag": {
     "keywords": ["dollar", "payment", "coins", "sale"],
     "char": "💰",
+    "category": "objects"
+  },
+  "credit_card": {
+    "keywords": ["money", "sales", "dollar", "bill", "payment", "shopping"],
+    "char": "💳",
     "category": "objects"
   },
   "gem": {
@@ -3099,29 +3214,139 @@
     "char": "💎",
     "category": "objects"
   },
-  "door": {
-    "keywords": ["house", "entry", "exit"],
-    "char": "🚪",
+  "scales": {
+    "keywords": ["law", "fairness", "weight"],
+    "char": "⚖",
     "category": "objects"
   },
-  "shower": {
-    "keywords": ["clean", "water", "bathroom"],
-    "char": "🚿",
+  "wrench": {
+    "keywords": ["tools", "diy", "ikea", "fix", "maintainer"],
+    "char": "🔧",
     "category": "objects"
   },
-  "bathtub": {
-    "keywords": ["clean", "shower", "bathroom"],
-    "char": "🛁",
+  "hammer": {
+    "keywords": ["tools", "build", "create"],
+    "char": "🔨",
     "category": "objects"
   },
-  "toilet": {
-    "keywords": ["restroom", "wc", "washroom", "bathroom", "potty"],
-    "char": "🚽",
+  "hammer_and_pick": {
+    "keywords": ["tools", "build", "create"],
+    "char": "⚒",
+    "category": "objects"
+  },
+  "hammer_and_wrench": {
+    "keywords": ["tools", "build", "create"],
+    "char": "🛠",
+    "category": "objects"
+  },
+  "pick": {
+    "keywords": ["tools", "dig"],
+    "char": "⛏",
+    "category": "objects"
+  },
+  "nut_and_bolt": {
+    "keywords": ["handy", "tools", "fix"],
+    "char": "🔩",
+    "category": "objects"
+  },
+  "gear": {
+    "keywords": ["cog"],
+    "char": "⚙",
+    "category": "objects"
+  },
+  "chains": {
+    "keywords": ["lock", "arrest"],
+    "char": "⛓",
+    "category": "objects"
+  },
+  "gun": {
+    "keywords": ["violence", "weapon", "pistol", "revolver"],
+    "char": "🔫",
+    "category": "objects"
+  },
+  "bomb": {
+    "keywords": ["boom", "explode", "explosion", "terrorism"],
+    "char": "💣",
+    "category": "objects"
+  },
+  "hocho": {
+    "keywords": ["knife", "blade", "cutlery", "kitchen", "weapon"],
+    "char": "🔪",
+    "category": "objects"
+  },
+  "dagger_knife": {
+    "keywords": ["weapon"],
+    "char": "🗡",
+    "category": "objects"
+  },
+  "crossed_swords": {
+    "keywords": ["weapon"],
+    "char": "⚔",
+    "category": "objects"
+  },
+  "shield": {
+    "keywords": ["protection", "security"],
+    "char": "🛡",
+    "category": "objects"
+  },
+  "smoking": {
+    "keywords": ["kills", "tobacco", "cigarette", "joint"],
+    "char": "🚬",
+    "category": "objects"
+  },
+  "skull_and_crossbones": {
+    "keywords": ["poison", "danger", "deadly", "scary"],
+    "char": "☠",
+    "category": "objects"
+  },
+  "coffin": {
+    "keywords": ["vampire", "dead", "die", "death", "rip"],
+    "char": "⚰",
+    "category": "objects"
+  },
+  "funeral_urn": {
+    "keywords": ["dead", "die", "death", "rip", "ashes"],
+    "char": "⚱",
+    "category": "objects"
+  },
+  "amphora": {
+    "keywords": ["vase", "jar"],
+    "char": "🏺",
+    "category": "objects"
+  },
+  "crystal_ball": {
+    "keywords": ["disco", "party", "magic", "circus", "fortune_teller"],
+    "char": "🔮",
+    "category": "objects"
+  },
+  "prayer_beads": {
+    "keywords": ["dhikr", "religious"],
+    "char": "📿",
     "category": "objects"
   },
   "barber": {
     "keywords": ["hair", "salon", "style"],
     "char": "💈",
+    "category": "objects"
+  },
+  "alembic": {
+    "keywords": ["distilling", "science", "experiment"],
+    "char": "⚗",
+    "category": "objects"
+  },
+  "telescope": {
+    "keywords": ["stars", "space", "zoom"],
+    "char": "🔭",
+    "category": "objects"
+  },
+  "microscope": {
+    "keywords": ["laboratory", "experiment", "zoomin", "science", "study"],
+    "char": "🔬",
+    "category": "objects"
+  },
+  "hole": {
+    "keywords": ["embarrassing"],
+    "char": "🕳",
     "category": "objects"
   },
   "pill": {
@@ -3139,54 +3364,9 @@
     "char": "🌡",
     "category": "objects"
   },
-  "microscope": {
-    "keywords": ["laboratory", "experiment", "zoomin", "science", "study"],
-    "char": "🔬",
-    "category": "objects"
-  },
-  "telescope": {
-    "keywords": ["stars", "space", "zoom"],
-    "char": "🔭",
-    "category": "objects"
-  },
-  "crystal_ball": {
-    "keywords": ["disco", "party", "magic", "circus", "fortune_teller"],
-    "char": "🔮",
-    "category": "objects"
-  },
-  "wrench": {
-    "keywords": ["tools", "diy", "ikea", "fix", "maintainer"],
-    "char": "🔧",
-    "category": "objects"
-  },
-  "hocho": {
-    "keywords": ["knife", "blade", "cutlery", "kitchen", "weapon"],
-    "char": "🔪",
-    "category": "objects"
-  },
-  "nut_and_bolt": {
-    "keywords": ["handy", "tools", "fix"],
-    "char": "🔩",
-    "category": "objects"
-  },
-  "hammer": {
-    "keywords": ["tools", "verdict", "judge", "done", "law", "legal", "ruling", "gavel"],
-    "char": "🔨",
-    "category": "objects"
-  },
-  "bomb": {
-    "keywords": ["boom", "explode", "explosion", "terrorism"],
-    "char": "💣",
-    "category": "objects"
-  },
-  "smoking": {
-    "keywords": ["kills", "tobacco", "cigarette", "joint"],
-    "char": "🚬",
-    "category": "objects"
-  },
-  "gun": {
-    "keywords": ["violence", "weapon", "pistol", "revolver"],
-    "char": "🔫",
+  "label": {
+    "keywords": ["sale", "tag"],
+    "char": "🏷",
     "category": "objects"
   },
   "bookmark": {
@@ -3194,14 +3374,89 @@
     "char": "🔖",
     "category": "objects"
   },
-  "newspaper": {
-    "keywords": ["press", "headline"],
-    "char": "📰",
+  "toilet": {
+    "keywords": ["restroom", "wc", "washroom", "bathroom", "potty"],
+    "char": "🚽",
+    "category": "objects"
+  },
+  "shower": {
+    "keywords": ["clean", "water", "bathroom"],
+    "char": "🚿",
+    "category": "objects"
+  },
+  "bathtub": {
+    "keywords": ["clean", "shower", "bathroom"],
+    "char": "🛁",
     "category": "objects"
   },
   "key": {
     "keywords": ["lock", "door", "password"],
     "char": "🔑",
+    "category": "objects"
+  },
+  "old_key": {
+    "keywords": ["lock", "door", "password"],
+    "char": "🗝",
+    "category": "objects"
+  },
+  "couch_and_lamp": {
+    "keywords": ["read", "chill"],
+    "char": "🛋",
+    "category": "objects"
+  },
+  "sleeping_accommodation": {
+    "keywords": ["bed", "rest"],
+    "char": "🛌",
+    "category": "objects"
+  },
+  "bed": {
+    "keywords": ["sleep", "rest"],
+    "char": "🛏",
+    "category": "objects"
+  },
+  "door": {
+    "keywords": ["house", "entry", "exit"],
+    "char": "🚪",
+    "category": "objects"
+  },
+  "bellhop_bell": {
+    "keywords": ["service"],
+    "char": "🛎",
+    "category": "objects"
+  },
+  "frame_with_picture": {
+    "keywords": ["photography"],
+    "char": "🖼",
+    "category": "objects"
+  },
+  "world_map": {
+    "keywords": ["location", "direction"],
+    "char": "🗺",
+    "category": "objects"
+  },
+  "umbrella_on_ground": {
+    "keywords": ["weather", "summer"],
+    "char": "⛱",
+    "category": "objects"
+  },
+  "moyai": {
+    "keywords": ["rock", "easter island", "moai"],
+    "char": "🗿",
+    "category": "objects"
+  },
+  "shopping_bags": {
+    "keywords": ["mall", "buy", "purchase"],
+    "char": "🛍",
+    "category": "objects"
+  },
+  "balloon": {
+    "keywords": ["party", "celebration", "birthday", "circus"],
+    "char": "🎈",
+    "category": "objects"
+  },
+  "flags": {
+    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
+    "char": "🎏",
     "category": "objects"
   },
   "ribbon": {
@@ -3214,9 +3469,9 @@
     "char": "🎁",
     "category": "objects"
   },
-  "birthday": {
-    "keywords": ["party", "cake", "celebration"],
-    "char": "🎂",
+  "confetti_ball": {
+    "keywords": ["festival", "party", "birthday", "circus"],
+    "char": "🎊",
     "category": "objects"
   },
   "tada": {
@@ -3224,24 +3479,9 @@
     "char": "🎉",
     "category": "objects"
   },
-  "confetti_ball": {
-    "keywords": ["festival", "party", "birthday", "circus"],
-    "char": "🎊",
-    "category": "objects"
-  },
-  "balloon": {
-    "keywords": ["party", "celebration", "birthday", "circus"],
-    "char": "🎈",
-    "category": "objects"
-  },
   "dolls": {
     "keywords": ["japanese", "toy", "kimono"],
     "char": "🎎",
-    "category": "objects"
-  },
-  "flags": {
-    "keywords": ["fish", "japanese", "koinobori", "carp", "banner"],
-    "char": "🎏",
     "category": "objects"
   },
   "wind_chime": {
@@ -3259,8 +3499,8 @@
     "char": "🏮",
     "category": "objects"
   },
-  "email": {
-    "keywords": ["envelope", "letter", "postal", "inbox", "communication"],
+  "envelope": {
+    "keywords": ["letter", "postal", "inbox", "communication"],
     "char": "✉️",
     "category": "objects"
   },
@@ -3279,24 +3519,9 @@
     "char": "📧",
     "category": "objects"
   },
-  "inbox_tray": {
-    "keywords": ["email", "documents"],
-    "char": "📥",
-    "category": "objects"
-  },
-  "outbox_tray": {
-    "keywords": ["inbox", "email"],
-    "char": "📤",
-    "category": "objects"
-  },
-  "package": {
-    "keywords": ["mail", "gift", "cardboard", "box", "moving"],
-    "char": "📦",
-    "category": "objects"
-  },
-  "postal_horn": {
-    "keywords": ["instrument", "music"],
-    "char": "📯",
+  "love_letter": {
+    "keywords": ["email", "like", "affection", "envelope", "valentines"],
+    "char": "💌",
     "category": "objects"
   },
   "postbox": {
@@ -3324,9 +3549,29 @@
     "char": "📭",
     "category": "objects"
   },
-  "page_facing_up": {
-    "keywords": ["documents", "office", "paper", "information"],
-    "char": "📄",
+  "package": {
+    "keywords": ["mail", "gift", "cardboard", "box", "moving"],
+    "char": "📦",
+    "category": "objects"
+  },
+  "postal_horn": {
+    "keywords": ["instrument", "music"],
+    "char": "📯",
+    "category": "objects"
+  },
+  "inbox_tray": {
+    "keywords": ["email", "documents"],
+    "char": "📥",
+    "category": "objects"
+  },
+  "outbox_tray": {
+    "keywords": ["inbox", "email"],
+    "char": "📤",
+    "category": "objects"
+  },
+  "scroll": {
+    "keywords": ["documents", "ancient", "history", "paper"],
+    "char": "📜",
     "category": "objects"
   },
   "page_with_curl": {
@@ -3339,6 +3584,11 @@
     "char": "📑",
     "category": "objects"
   },
+  "bar_chart": {
+    "keywords": ["graph", "presentation", "stats"],
+    "char": "📊",
+    "category": "objects"
+  },
   "chart_with_upwards_trend": {
     "keywords": ["graph", "presentation", "stats", "recovery", "business", "economics", "money", "sales", "good", "success"],
     "char": "📈",
@@ -3349,9 +3599,9 @@
     "char": "📉",
     "category": "objects"
   },
-  "bar_chart": {
-    "keywords": ["graph", "presentation", "stats"],
-    "char": "📊",
+  "page_facing_up": {
+    "keywords": ["documents", "office", "paper", "information"],
+    "char": "📄",
     "category": "objects"
   },
   "date": {
@@ -3364,19 +3614,29 @@
     "char": "📆",
     "category": "objects"
   },
-  "low_brightness": {
-    "keywords": ["sun", "afternoon", "warm", "summer"],
-    "char": "🔅",
+  "spiral_calendar_pad": {
+    "keywords": ["date", "schedule", "planning"],
+    "char": "🗓",
     "category": "objects"
   },
-  "high_brightness": {
-    "keywords": ["sun", "light"],
-    "char": "🔆",
+  "card_index": {
+    "keywords": ["business", "stationery"],
+    "char": "📇",
     "category": "objects"
   },
-  "scroll": {
-    "keywords": ["documents", "ancient", "history", "paper"],
-    "char": "📜",
+  "card_file_box": {
+    "keywords": ["business", "stationery"],
+    "char": "🗃",
+    "category": "objects"
+  },
+  "ballot_box_with_ballot": {
+    "keywords": ["election", "vote"],
+    "char": "🗳",
+    "category": "objects"
+  },
+  "file_cabinet": {
+    "keywords": ["filing", "organizing"],
+    "char": "🗄",
     "category": "objects"
   },
   "clipboard": {
@@ -3384,24 +3644,39 @@
     "char": "📋",
     "category": "objects"
   },
-  "book": {
-    "keywords": ["open_book", "read", "library", "knowledge", "literature", "learn", "study"],
-    "char": "📖",
+  "spiral_note_pad": {
+    "keywords": ["memo", "stationery"],
+    "char": "🗒",
+    "category": "objects"
+  },
+  "file_folder": {
+    "keywords": ["documents", "business", "office"],
+    "char": "📁",
+    "category": "objects"
+  },
+  "open_file_folder": {
+    "keywords": ["documents", "load"],
+    "char": "📂",
+    "category": "objects"
+  },
+  "card_index_dividers": {
+    "keywords": ["organizing", "business", "stationery"],
+    "char": "🗂",
+    "category": "objects"
+  },
+  "rolled_up_newspaper": {
+    "keywords": ["press", "headline"],
+    "char": "🗞",
+    "category": "objects"
+  },
+  "newspaper": {
+    "keywords": ["press", "headline"],
+    "char": "📰",
     "category": "objects"
   },
   "notebook": {
     "keywords": ["stationery", "record", "notes", "paper", "study"],
     "char": "📓",
-    "category": "objects"
-  },
-  "notebook_with_decorative_cover": {
-    "keywords": ["classroom", "notes", "record", "paper", "study"],
-    "char": "📔",
-    "category": "objects"
-  },
-  "ledger": {
-    "keywords": ["notes", "paper"],
-    "char": "📒",
     "category": "objects"
   },
   "closed_book": {
@@ -3424,14 +3699,24 @@
     "char": "📙",
     "category": "objects"
   },
+  "notebook_with_decorative_cover": {
+    "keywords": ["classroom", "notes", "record", "paper", "study"],
+    "char": "📔",
+    "category": "objects"
+  },
+  "ledger": {
+    "keywords": ["notes", "paper"],
+    "char": "📒",
+    "category": "objects"
+  },
   "books": {
     "keywords": ["literature", "library", "study"],
     "char": "📚",
     "category": "objects"
   },
-  "card_index": {
-    "keywords": ["business", "stationery"],
-    "char": "📇",
+  "book": {
+    "keywords": ["open_book", "read", "library", "knowledge", "literature", "learn", "study"],
+    "char": "📖",
     "category": "objects"
   },
   "link": {
@@ -3444,9 +3729,9 @@
     "char": "📎",
     "category": "objects"
   },
-  "pushpin": {
-    "keywords": ["stationery", "mark", "here"],
-    "char": "📌",
+  "linked_paperclips": {
+    "keywords": ["documents", "stationery"],
+    "char": "🖇",
     "category": "objects"
   },
   "scissors": {
@@ -3459,14 +3744,19 @@
     "char": "📐",
     "category": "objects"
   },
-  "round_pushpin": {
-    "keywords": ["stationery", "location", "map", "here"],
-    "char": "📍",
-    "category": "objects"
-  },
   "straight_ruler": {
     "keywords": ["stationery", "calculate", "length", "math", "school", "drawing", "architect", "sketch"],
     "char": "📏",
+    "category": "objects"
+  },
+  "pushpin": {
+    "keywords": ["stationery", "mark", "here"],
+    "char": "📌",
+    "category": "objects"
+  },
+  "round_pushpin": {
+    "keywords": ["stationery", "location", "map", "here"],
+    "char": "📍",
     "category": "objects"
   },
   "triangular_flag_on_post": {
@@ -3474,34 +3764,14 @@
     "char": "🚩",
     "category": "objects"
   },
-  "file_folder": {
-    "keywords": ["documents", "business", "office"],
-    "char": "📁",
+  "waving_white_flag": {
+    "keywords": ["losing", "loser", "lost", "surrender", "give up", "fail"],
+    "char": "🏳",
     "category": "objects"
   },
-  "open_file_folder": {
-    "keywords": ["documents", "load"],
-    "char": "📂",
-    "category": "objects"
-  },
-  "black_nib": {
-    "keywords": ["pen", "stationery", "writing", "write"],
-    "char": "✒️",
-    "category": "objects"
-  },
-  "pencil2": {
-    "keywords": ["stationery", "write", "paper", "writing", "school", "study"],
-    "char": "✏️",
-    "category": "objects"
-  },
-  "memo": {
-    "keywords": ["write", "documents", "stationery", "pencil", "paper", "writing", "legal", "exam", "quiz", "test", "study"],
-    "char": "📝",
-    "category": "objects"
-  },
-  "lock_with_ink_pen": {
-    "keywords": ["security", "secret"],
-    "char": "🔏",
+  "waving_black_flag": {
+    "keywords": ["pirate"],
+    "char": "🏴",
     "category": "objects"
   },
   "closed_lock_with_key": {
@@ -3519,59 +3789,44 @@
     "char": "🔓",
     "category": "objects"
   },
-  "mega": {
-    "keywords": ["sound", "speaker", "volume"],
-    "char": "📣",
+  "lock_with_ink_pen": {
+    "keywords": ["security", "secret"],
+    "char": "🔏",
     "category": "objects"
   },
-  "loudspeaker": {
-    "keywords": ["volume", "sound"],
-    "char": "📢",
+  "lower_left_ballpoint_pen": {
+    "keywords": ["stationery", "writing", "write"],
+    "char": "🖊",
     "category": "objects"
   },
-  "speaker": {
-    "keywords": ["sound", "volume", "silence", "broadcast"],
-    "char": "🔈",
+  "lower_left_fountain_pen": {
+    "keywords": ["stationery", "writing", "write"],
+    "char": "🖋",
     "category": "objects"
   },
-  "sound": {
-    "keywords": ["volume", "speaker", "broadcast"],
-    "char": "🔉",
+  "black_nib": {
+    "keywords": ["pen", "stationery", "writing", "write"],
+    "char": "✒️",
     "category": "objects"
   },
-  "loud_sound": {
-    "keywords": ["volume", "noise", "noisy", "speaker", "broadcast"],
-    "char": "🔊",
+  "memo": {
+    "keywords": ["write", "documents", "stationery", "pencil", "paper", "writing", "legal", "exam", "quiz", "test", "study"],
+    "char": "📝",
     "category": "objects"
   },
-  "mute": {
-    "keywords": ["sound", "volume", "silence", "quiet"],
-    "char": "🔇",
+  "pencil2": {
+    "keywords": ["stationery", "write", "paper", "writing", "school", "study"],
+    "char": "✏️",
     "category": "objects"
   },
-  "bell": {
-    "keywords": ["sound", "notification", "christmas", "xmas", "chime"],
-    "char": "🔔",
+  "lower_left_crayon": {
+    "keywords": ["drawing", "creativity"],
+    "char": "🖍",
     "category": "objects"
   },
-  "no_bell": {
-    "keywords": ["sound", "volume", "mute", "quiet", "silent"],
-    "char": "🔕",
-    "category": "objects"
-  },
-  "thought_balloon": {
-    "keywords": ["bubble", "cloud", "speech", "thinking"],
-    "char": "💭",
-    "category": "objects"
-  },
-  "speech_balloon": {
-    "keywords": ["bubble", "words", "message", "talk", "chatting"],
-    "char": "💬",
-    "category": "objects"
-  },
-  "children_crossing": {
-    "keywords": ["school", "warning", "danger", "sign", "driving", "yellow-diamond"],
-    "char": "🚸",
+  "lower_left_paintbrush": {
+    "keywords": ["drawing", "creativity", "art"],
+    "char": "🖌",
     "category": "objects"
   },
   "mag": {
@@ -3592,11 +3847,6 @@
   "broken_heart": {
     "keywords": ["sad", "sorry", "break"],
     "char": "💔",
-    "category": "symbols"
-  },
-  "love_letter": {
-    "keywords": ["email", "like", "affection", "envelope", "valentines"],
-    "char": "💌",
     "category": "symbols"
   },
   "two_hearts": {
@@ -3662,1052 +3912,1047 @@
   "no_entry_sign": {
     "keywords": ["forbid", "stop", "limit", "denied", "disallow", "circle"],
     "char": "🚫",
-    "category": "objects"
+    "category": "symbols"
   },
   "no_entry": {
     "keywords": ["limit", "security", "privacy", "bad", "denied", "stop", "circle"],
     "char": "⛔",
-    "category": "objects"
+    "category": "symbols"
   },
   "name_badge": {
     "keywords": ["fire", "forbid"],
     "char": "📛",
-    "category": "objects"
+    "category": "symbols"
   },
   "no_pedestrians": {
     "keywords": ["rules", "crossing", "walking", "circle"],
     "char": "🚷",
-    "category": "objects"
+    "category": "symbols"
   },
   "do_not_litter": {
     "keywords": ["trash", "bin", "garbage", "circle"],
     "char": "🚯",
-    "category": "objects"
+    "category": "symbols"
   },
   "no_bicycles": {
     "keywords": ["cyclist", "prohibited", "circle"],
     "char": "🚳",
-    "category": "objects"
+    "category": "symbols"
   },
   "non-potable_water": {
     "keywords": ["drink", "faucet", "tap", "circle"],
     "char": "🚱",
-    "category": "objects"
+    "category": "symbols"
   },
   "no_mobile_phones": {
     "keywords": ["iphone", "mute", "circle"],
     "char": "📵",
-    "category": "objects"
+    "category": "symbols"
   },
   "underage": {
     "keywords": ["18", "drink", "pub", "night", "minor", "circle"],
     "char": "🔞",
-    "category": "objects"
+    "category": "symbols"
   },
   "accept": {
     "keywords": ["ok", "good", "chinese", "kanji", "agree", "yes", "orange-circle"],
     "char": "🉑",
-    "category": "objects"
+    "category": "symbols"
   },
   "ideograph_advantage": {
     "keywords": ["chinese", "kanji", "obtain", "get", "circle"],
     "char": "🉐",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_flower": {
     "keywords": ["japanese", "spring"],
     "char": "💮",
-    "category": "objects"
+    "category": "symbols"
   },
   "secret": {
     "keywords": ["privacy", "chinese", "sshh", "kanji", "red-circle"],
     "char": "㊙️",
-    "category": "objects"
+    "category": "symbols"
   },
   "congratulations": {
     "keywords": ["chinese", "kanji", "japanese", "red-circle"],
     "char": "㊗️",
-    "category": "objects"
+    "category": "symbols"
   },
   "u5408": {
     "keywords": ["japanese", "chinese", "join", "kanji", "red-square"],
     "char": "🈴",
-    "category": "objects"
+    "category": "symbols"
   },
   "u6e80": {
     "keywords": ["full", "chinese", "japanese", "red-square", "kanji"],
     "char": "🈵",
-    "category": "objects"
+    "category": "symbols"
   },
   "u7981": {
     "keywords": ["kanji", "japanese", "chinese", "forbidden", "limit", "restricted", "red-square"],
     "char": "🈲",
-    "category": "objects"
+    "category": "symbols"
   },
   "u6709": {
     "keywords": ["orange-square", "chinese", "have", "kanji"],
     "char": "🈶",
-    "category": "objects"
+    "category": "symbols"
   },
   "u7121": {
     "keywords": ["nothing", "chinese", "kanji", "japanese", "orange-square"],
     "char": "🈚",
-    "category": "objects"
+    "category": "symbols"
   },
   "u7533": {
     "keywords": ["chinese", "japanese", "kanji", "orange-square"],
     "char": "🈸",
-    "category": "objects"
+    "category": "symbols"
   },
   "u55b6": {
     "keywords": ["japanese", "opening hours", "orange-square"],
     "char": "🈺",
-    "category": "objects"
+    "category": "symbols"
   },
   "u6708": {
     "keywords": ["chinese", "month", "moon", "japanese", "orange-square", "kanji"],
     "char": "🈷️",
-    "category": "objects"
+    "category": "symbols"
   },
   "u5272": {
     "keywords": ["cut", "divide", "chinese", "kanji", "pink-square"],
     "char": "🈹",
-    "category": "objects"
+    "category": "symbols"
   },
   "u7a7a": {
     "keywords": ["kanji", "japanese", "chinese", "empty", "sky", "blue-square"],
     "char": "🈳",
-    "category": "objects"
+    "category": "symbols"
   },
   "sa": {
     "keywords": ["japanese", "blue-square", "katakana"],
     "char": "🈂️",
-    "category": "objects"
+    "category": "symbols"
   },
   "koko": {
     "keywords": ["blue-square", "here", "katakana", "japanese", "destination"],
     "char": "🈁",
-    "category": "objects"
+    "category": "symbols"
   },
   "u6307": {
     "keywords": ["chinese", "point", "green-square", "kanji"],
     "char": "🈯",
-    "category": "objects"
+    "category": "symbols"
   },
   "chart": {
     "keywords": ["green-square", "graph", "presentation", "stats"],
     "char": "💹",
-    "category": "objects"
+    "category": "symbols"
   },
   "sparkle": {
     "keywords": ["stars", "green-square", "awesome", "good", "fireworks"],
     "char": "❇️",
-    "category": "objects"
+    "category": "symbols"
   },
   "eight_spoked_asterisk": {
     "keywords": ["star", "sparkle", "green-square"],
     "char": "✳️",
-    "category": "objects"
+    "category": "symbols"
   },
   "negative_squared_cross_mark": {
     "keywords": ["x", "green-square", "no", "deny"],
     "char": "❎",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_check_mark": {
     "keywords": ["green-square", "ok", "agree", "vote", "election", "answer"],
     "char": "✅",
-    "category": "objects"
+    "category": "symbols"
   },
   "eight_pointed_black_star": {
     "keywords": ["orange-square", "shape", "polygon"],
     "char": "✴️",
-    "category": "objects"
+    "category": "symbols"
   },
   "vibration_mode": {
     "keywords": ["orange-square", "phone"],
     "char": "📳",
-    "category": "objects"
+    "category": "symbols"
   },
   "mobile_phone_off": {
     "keywords": ["mute", "orange-square", "silence", "quiet"],
     "char": "📴",
-    "category": "objects"
+    "category": "symbols"
   },
   "vs": {
     "keywords": ["words", "orange-square"],
     "char": "🆚",
-    "category": "objects"
+    "category": "symbols"
   },
   "a": {
     "keywords": ["red-square", "alphabet", "letter"],
     "char": "🅰️",
-    "category": "objects"
+    "category": "symbols"
   },
   "b": {
     "keywords": ["red-square", "alphabet", "letter"],
     "char": "🅱️",
-    "category": "objects"
+    "category": "symbols"
   },
   "ab": {
     "keywords": ["red-square", "alphabet"],
     "char": "🆎",
-    "category": "objects"
+    "category": "symbols"
   },
   "cl": {
     "keywords": ["alphabet", "words", "red-square"],
     "char": "🆑",
-    "category": "objects"
+    "category": "symbols"
   },
   "o2": {
     "keywords": ["alphabet", "red-square", "letter"],
     "char": "🅾️",
-    "category": "objects"
+    "category": "symbols"
   },
   "sos": {
     "keywords": ["help", "red-square", "words", "emergency", "911"],
     "char": "🆘",
-    "category": "objects"
+    "category": "symbols"
   },
   "id": {
     "keywords": ["purple-square", "words"],
     "char": "🆔",
-    "category": "objects"
+    "category": "symbols"
   },
   "parking": {
     "keywords": ["cars", "blue-square", "alphabet", "letter"],
     "char": "🅿️",
-    "category": "objects"
+    "category": "symbols"
   },
   "wc": {
     "keywords": ["toilet", "restroom", "blue-square"],
     "char": "🚾",
-    "category": "objects"
+    "category": "symbols"
   },
   "cool": {
     "keywords": ["words", "blue-square"],
     "char": "🆒",
-    "category": "objects"
+    "category": "symbols"
   },
   "free": {
     "keywords": ["blue-square", "words"],
     "char": "🆓",
-    "category": "objects"
+    "category": "symbols"
   },
   "new": {
     "keywords": ["blue-square", "words", "start"],
     "char": "🆕",
-    "category": "objects"
+    "category": "symbols"
   },
   "ng": {
     "keywords": ["blue-square", "words", "shape", "icon"],
     "char": "🆖",
-    "category": "objects"
+    "category": "symbols"
   },
   "ok": {
     "keywords": ["good", "agree", "yes", "blue-square"],
     "char": "🆗",
-    "category": "objects"
+    "category": "symbols"
   },
   "up": {
     "keywords": ["blue-square", "above", "high"],
     "char": "🆙",
-    "category": "objects"
+    "category": "symbols"
   },
   "atm": {
     "keywords": ["money", "sales", "cash", "blue-square", "payment", "bank"],
     "char": "🏧",
-    "category": "objects"
+    "category": "symbols"
   },
   "aries": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♈",
-    "category": "objects"
+    "category": "symbols"
   },
   "taurus": {
     "keywords": ["purple-square", "sign", "zodiac", "astrology"],
     "char": "♉",
-    "category": "objects"
+    "category": "symbols"
   },
   "gemini": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♊",
-    "category": "objects"
+    "category": "symbols"
   },
   "cancer": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♋",
-    "category": "objects"
+    "category": "symbols"
   },
   "leo": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♌",
-    "category": "objects"
+    "category": "symbols"
   },
   "virgo": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♍",
-    "category": "objects"
+    "category": "symbols"
   },
   "libra": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♎",
-    "category": "objects"
+    "category": "symbols"
   },
   "scorpius": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology", "scorpio"],
     "char": "♏",
-    "category": "objects"
+    "category": "symbols"
   },
   "sagittarius": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♐",
-    "category": "objects"
+    "category": "symbols"
   },
   "capricorn": {
     "keywords": ["sign", "zodiac", "purple-square", "astrology"],
     "char": "♑",
-    "category": "objects"
+    "category": "symbols"
   },
   "aquarius": {
     "keywords": ["sign", "purple-square", "zodiac", "astrology"],
     "char": "♒",
-    "category": "objects"
+    "category": "symbols"
   },
   "pisces": {
     "keywords": ["purple-square", "sign", "zodiac", "astrology"],
     "char": "♓",
-    "category": "objects"
+    "category": "symbols"
   },
   "restroom": {
     "keywords": ["blue-square", "toilet", "refresh", "wc", "gender"],
     "char": "🚻",
-    "category": "objects"
+    "category": "symbols"
   },
   "mens": {
     "keywords": ["toilet", "restroom", "wc", "blue-square", "gender", "male"],
     "char": "🚹",
-    "category": "objects"
+    "category": "symbols"
   },
   "womens": {
     "keywords": ["purple-square", "woman", "female", "toilet", "loo", "restroom", "gender"],
     "char": "🚺",
-    "category": "objects"
+    "category": "symbols"
   },
   "baby_symbol": {
     "keywords": ["orange-square", "child"],
     "char": "🚼",
-    "category": "objects"
+    "category": "symbols"
   },
   "wheelchair": {
     "keywords": ["blue-square", "disabled", "a11y", "accessibility"],
     "char": "♿",
-    "category": "objects"
+    "category": "symbols"
   },
   "potable_water": {
     "keywords": ["blue-square", "liquid", "restroom", "cleaning", "faucet"],
     "char": "🚰",
-    "category": "objects"
+    "category": "symbols"
   },
   "no_smoking": {
     "keywords": ["cigarette", "blue-square", "smell", "smoke"],
     "char": "🚭",
-    "category": "objects"
+    "category": "symbols"
   },
   "put_litter_in_its_place": {
     "keywords": ["blue-square", "sign", "human", "info"],
     "char": "🚮",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_forward": {
     "keywords": ["blue-square", "right", "direction", "play"],
     "char": "▶️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_backward": {
     "keywords": ["blue-square", "left", "direction"],
     "char": "◀️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_up_small": {
     "keywords": ["blue-square", "triangle", "direction", "point", "forward", "top"],
     "char": "🔼",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_down_small": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "🔽",
-    "category": "objects"
+    "category": "symbols"
   },
   "fast_forward": {
     "keywords": ["blue-square", "play", "speed", "continue"],
     "char": "⏩",
-    "category": "objects"
+    "category": "symbols"
   },
   "rewind": {
     "keywords": ["play", "blue-square"],
     "char": "⏪",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_double_up": {
     "keywords": ["blue-square", "direction", "top"],
     "char": "⏫",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_double_down": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "⏬",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_right": {
     "keywords": ["blue-square", "next"],
     "char": "➡️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_left": {
     "keywords": ["blue-square", "previous", "back"],
     "char": "⬅️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_up": {
     "keywords": ["blue-square", "continue", "top", "direction"],
     "char": "⬆️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_down": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "⬇️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_upper_right": {
     "keywords": ["blue-square", "point", "direction", "diagonal", "northeast"],
     "char": "↗️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_lower_right": {
     "keywords": ["blue-square", "direction", "diagonal", "southeast"],
     "char": "↘️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_lower_left": {
     "keywords": ["blue-square", "direction", "diagonal", "southwest"],
     "char": "↙️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_upper_left": {
     "keywords": ["blue-square", "point", "direction", "diagonal", "northwest"],
     "char": "↖️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_up_down": {
     "keywords": ["blue-square", "direction", "way", "vertical"],
     "char": "↕️",
-    "category": "objects"
+    "category": "symbols"
   },
   "left_right_arrow": {
     "keywords": ["shape", "direction", "horizontal", "sideways"],
     "char": "↔️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrows_counterclockwise": {
     "keywords": ["blue-square", "sync", "cycle"],
     "char": "🔄",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_right_hook": {
     "keywords": ["blue-square", "return", "rotade", "direction"],
     "char": "↪️",
-    "category": "objects"
+    "category": "symbols"
   },
   "leftwards_arrow_with_hook": {
     "keywords": ["back", "return", "blue-square", "undo", "enter"],
     "char": "↩️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_heading_up": {
     "keywords": ["blue-square", "direction", "top"],
     "char": "⤴️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrow_heading_down": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "⤵️",
-    "category": "objects"
+    "category": "symbols"
   },
   "twisted_rightwards_arrows": {
     "keywords": ["blue-square", "shuffle", "music", "random"],
     "char": "🔀",
-    "category": "objects"
+    "category": "symbols"
   },
   "repeat": {
     "keywords": ["loop", "record"],
     "char": "🔁",
-    "category": "objects"
+    "category": "symbols"
   },
   "repeat_one": {
     "keywords": ["blue-square", "loop"],
     "char": "🔂",
-    "category": "objects"
+    "category": "symbols"
   },
   "hash": {
     "keywords": ["symbol", "blue-square", "twitter"],
     "char": "#️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "zero": {
     "keywords": ["0", "numbers", "blue-square", "null"],
     "char": "0️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "one": {
     "keywords": ["blue-square", "numbers", "1"],
     "char": "1️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "two": {
     "keywords": ["numbers", "2", "prime", "blue-square"],
     "char": "2️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "three": {
     "keywords": ["3", "numbers", "prime", "blue-square"],
     "char": "3️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "four": {
     "keywords": ["4", "numbers", "blue-square"],
     "char": "4️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "five": {
     "keywords": ["5", "numbers", "blue-square", "prime"],
     "char": "5️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "six": {
     "keywords": ["6", "numbers", "blue-square"],
     "char": "6️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "seven": {
     "keywords": ["7", "numbers", "blue-square", "prime"],
     "char": "7️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "eight": {
     "keywords": ["8", "blue-square", "numbers"],
     "char": "8️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "nine": {
     "keywords": ["blue-square", "numbers", "9"],
     "char": "9️⃣",
-    "category": "objects"
+    "category": "symbols"
   },
   "keycap_ten": {
     "keywords": ["numbers", "10", "blue-square"],
     "char": "🔟",
-    "category": "objects"
+    "category": "symbols"
   },
   "1234": {
     "keywords": ["numbers", "blue-square"],
     "char": "🔢",
-    "category": "objects"
+    "category": "symbols"
   },
   "abc": {
     "keywords": ["blue-square", "alphabet"],
     "char": "🔤",
-    "category": "objects"
+    "category": "symbols"
   },
   "abcd": {
     "keywords": ["blue-square", "alphabet"],
     "char": "🔡",
-    "category": "objects"
+    "category": "symbols"
   },
   "capital_abcd": {
     "keywords": ["alphabet", "words", "blue-square"],
     "char": "🔠",
-    "category": "objects"
+    "category": "symbols"
   },
   "information_source": {
     "keywords": ["blue-square", "alphabet", "letter"],
     "char": "ℹ️",
-    "category": "objects"
+    "category": "symbols"
   },
   "signal_strength": {
     "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth", "bars"],
     "char": "📶",
-    "category": "objects"
+    "category": "symbols"
   },
   "cinema": {
     "keywords": ["blue-square", "record", "film", "movie", "curtain", "stage", "theater"],
     "char": "🎦",
-    "category": "objects"
+    "category": "symbols"
   },
   "symbols": {
     "keywords": ["blue-square", "music", "note", "ampersand", "percent", "glyphs", "characters"],
     "char": "🔣",
-    "category": "objects"
+    "category": "symbols"
   },
   "heavy_plus_sign": {
     "keywords": ["math", "calculation", "addition", "more", "increase"],
     "char": "➕",
-    "category": "objects"
+    "category": "symbols"
   },
   "heavy_minus_sign": {
     "keywords": ["math", "calculation", "subtract", "less"],
     "char": "➖",
-    "category": "objects"
+    "category": "symbols"
   },
   "wavy_dash": {
     "keywords": ["draw", "line", "moustache", "mustache", "squiggle", "scribble"],
     "char": "〰️",
-    "category": "objects"
+    "category": "symbols"
   },
   "heavy_division_sign": {
     "keywords": ["divide", "math", "calculation"],
     "char": "➗",
-    "category": "objects"
+    "category": "symbols"
   },
   "heavy_multiplication_x": {
     "keywords": ["math", "calculation"],
     "char": "✖️",
-    "category": "objects"
+    "category": "symbols"
   },
   "heavy_check_mark": {
     "keywords": ["ok", "nike", "answer", "yes", "tick"],
     "char": "✔️",
-    "category": "objects"
+    "category": "symbols"
   },
   "arrows_clockwise": {
     "keywords": ["sync", "cycle", "round", "repeat"],
     "char": "🔃",
-    "category": "objects"
+    "category": "symbols"
   },
   "tm": {
     "keywords": ["trademark", "brand", "law", "legal"],
     "char": "™️",
-    "category": "objects"
+    "category": "symbols"
   },
   "copyright": {
     "keywords": ["ip", "license", "circle", "law", "legal"],
     "char": "©️",
-    "category": "objects"
+    "category": "symbols"
   },
   "registered": {
     "keywords": ["alphabet", "circle"],
     "char": "®️",
-    "category": "objects"
+    "category": "symbols"
   },
   "currency_exchange": {
     "keywords": ["money", "sales", "dollar", "travel"],
     "char": "💱",
-    "category": "objects"
+    "category": "symbols"
   },
   "heavy_dollar_sign": {
     "keywords": ["money", "sales", "payment", "currency", "buck"],
     "char": "💲",
-    "category": "objects"
+    "category": "symbols"
   },
   "curly_loop": {
     "keywords": ["scribble", "draw", "shape", "squiggle"],
     "char": "➰",
-    "category": "objects"
+    "category": "symbols"
   },
   "loop": {
     "keywords": ["tape", "cassette"],
     "char": "➿",
-    "category": "objects"
+    "category": "symbols"
   },
   "part_alternation_mark": {
     "keywords": ["graph", "presentation", "stats", "business", "economics", "bad"],
     "char": "〽️",
-    "category": "objects"
+    "category": "symbols"
   },
   "exclamation": {
     "keywords": ["heavy_exclamation_mark", "danger", "surprise", "punctuation", "wow", "warning"],
     "char": "❗",
-    "category": "objects"
+    "category": "symbols"
   },
   "question": {
     "keywords": ["doubt", "confused"],
     "char": "❓",
-    "category": "objects"
+    "category": "symbols"
   },
   "grey_exclamation": {
     "keywords": ["surprise", "punctuation", "gray", "wow", "warning"],
     "char": "❕",
-    "category": "objects"
+    "category": "symbols"
   },
   "grey_question": {
     "keywords": ["doubts", "gray", "huh", "confused"],
     "char": "❔",
-    "category": "objects"
+    "category": "symbols"
   },
   "bangbang": {
     "keywords": ["exclamation", "surprise"],
     "char": "‼️",
-    "category": "objects"
+    "category": "symbols"
   },
   "interrobang": {
     "keywords": ["wat", "punctuation", "surprise"],
     "char": "⁉️",
-    "category": "objects"
+    "category": "symbols"
   },
   "x": {
     "keywords": ["no", "delete", "remove", "cancel"],
     "char": "❌",
-    "category": "objects"
+    "category": "symbols"
   },
   "o": {
     "keywords": ["circle", "round"],
     "char": "⭕",
-    "category": "objects"
+    "category": "symbols"
   },
   "100": {
     "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass", "hundred"],
     "char": "💯",
-    "category": "objects"
+    "category": "symbols"
   },
   "end": {
     "keywords": ["words", "arrow"],
     "char": "🔚",
-    "category": "objects"
+    "category": "symbols"
   },
   "back": {
     "keywords": ["arrow", "words", "return"],
     "char": "🔙",
-    "category": "objects"
+    "category": "symbols"
   },
   "on": {
     "keywords": ["arrow", "words"],
     "char": "🔛",
-    "category": "objects"
+    "category": "symbols"
   },
   "top": {
     "keywords": ["words", "blue-square"],
     "char": "🔝",
-    "category": "objects"
+    "category": "symbols"
   },
   "soon": {
     "keywords": ["arrow", "words"],
     "char": "🔜",
-    "category": "objects"
+    "category": "symbols"
   },
   "globe_with_meridians": {
     "keywords": ["earth", "international", "world", "internet", "interweb", "i18n"],
     "char": "🌐",
-    "category": "objects"
-  },
-  "umbrella_on_ground": {
-    "keywords": ["weather", "summer"],
-    "char": "⛱",
-    "category": "objects"
+    "category": "symbols"
   },
   "cyclone": {
     "keywords": ["weather", "swirl", "blue", "cloud"],
     "char": "🌀",
-    "category": "objects"
+    "category": "symbols"
   },
   "m": {
     "keywords": ["alphabet", "blue-circle", "letter"],
     "char": "Ⓜ️",
-    "category": "objects"
+    "category": "symbols"
   },
   "ophiuchus": {
     "keywords": ["sign", "purple-square", "constellation", "astrology"],
     "char": "⛎",
-    "category": "objects"
+    "category": "symbols"
   },
   "six_pointed_star": {
     "keywords": ["purple-square", "religion", "jewish", "hexagram"],
     "char": "🔯",
-    "category": "objects"
+    "category": "symbols"
   },
   "beginner": {
     "keywords": ["badge", "shield"],
     "char": "🔰",
-    "category": "objects"
+    "category": "symbols"
   },
   "trident": {
     "keywords": ["weapon", "spear"],
     "char": "🔱",
-    "category": "objects"
+    "category": "symbols"
   },
   "warning": {
     "keywords": ["exclamation", "wip", "alert", "error", "problem", "issue"],
     "char": "⚠️",
-    "category": "objects"
+    "category": "symbols"
   },
   "hotsprings": {
     "keywords": ["bath", "warm", "relax"],
     "char": "♨️",
-    "category": "objects"
+    "category": "symbols"
   },
   "recycle": {
     "keywords": ["arrow", "environment", "garbage", "trash"],
     "char": "♻️",
-    "category": "objects"
+    "category": "symbols"
   },
   "anger": {
     "keywords": ["angry", "mad"],
     "char": "💢",
-    "category": "objects"
+    "category": "symbols"
   },
   "diamond_shape_with_a_dot_inside": {
     "keywords": ["jewel", "blue", "gem", "crystal", "fancy"],
     "char": "💠",
-    "category": "objects"
+    "category": "symbols"
   },
   "spades": {
     "keywords": ["poker", "cards", "suits", "magic"],
     "char": "♠️",
-    "category": "objects"
+    "category": "symbols"
   },
   "hearts": {
     "keywords": ["poker", "cards", "magic", "suits"],
     "char": "♥️",
-    "category": "objects"
+    "category": "symbols"
   },
   "clubs": {
     "keywords": ["poker", "cards", "magic", "suits"],
     "char": "♣️",
-    "category": "objects"
+    "category": "symbols"
   },
   "diamonds": {
     "keywords": ["poker", "cards", "magic", "suits"],
     "char": "♦️",
-    "category": "objects"
+    "category": "symbols"
   },
   "ballot_box_with_check": {
     "keywords": ["ok", "agree", "confirm", "black-square", "vote", "election", "yes"],
     "char": "☑️",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_circle": {
     "keywords": ["shape", "round"],
     "char": "⚪",
-    "category": "objects"
+    "category": "symbols"
   },
   "black_circle": {
     "keywords": ["shape", "button", "round"],
     "char": "⚫",
-    "category": "objects"
+    "category": "symbols"
   },
   "radio_button": {
     "keywords": ["input", "old", "music", "circle"],
     "char": "🔘",
-    "category": "objects"
+    "category": "symbols"
   },
   "red_circle": {
     "keywords": ["shape", "error", "danger"],
     "char": "🔴",
-    "category": "objects"
+    "category": "symbols"
   },
   "large_blue_circle": {
     "keywords": ["shape", "icon", "button"],
     "char": "🔵",
-    "category": "objects"
+    "category": "symbols"
   },
   "small_red_triangle": {
     "keywords": ["shape", "direction", "up", "top"],
     "char": "🔺",
-    "category": "objects"
+    "category": "symbols"
   },
   "small_red_triangle_down": {
     "keywords": ["shape", "direction", "bottom"],
     "char": "🔻",
-    "category": "objects"
+    "category": "symbols"
   },
   "small_orange_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔸",
-    "category": "objects"
+    "category": "symbols"
   },
   "small_blue_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔹",
-    "category": "objects"
+    "category": "symbols"
   },
   "large_orange_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔶",
-    "category": "objects"
+    "category": "symbols"
   },
   "large_blue_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔷",
-    "category": "objects"
+    "category": "symbols"
   },
   "black_small_square": {
     "keywords": ["shape", "icon"],
     "char": "▪️",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_small_square": {
     "keywords": ["shape", "icon"],
     "char": "▫️",
-    "category": "objects"
+    "category": "symbols"
   },
   "black_large_square": {
     "keywords": ["shape", "icon", "button"],
     "char": "⬛",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_large_square": {
     "keywords": ["shape", "icon", "stone", "button"],
     "char": "⬜",
-    "category": "objects"
+    "category": "symbols"
   },
   "black_medium_square": {
     "keywords": ["shape", "button", "icon"],
     "char": "◼️",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_medium_square": {
     "keywords": ["shape", "stone", "icon"],
     "char": "◻️",
-    "category": "objects"
+    "category": "symbols"
   },
   "black_medium_small_square": {
     "keywords": ["icon", "shape", "button"],
     "char": "◾",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_medium_small_square": {
     "keywords": ["shape", "stone", "icon", "button"],
     "char": "◽",
-    "category": "objects"
+    "category": "symbols"
   },
   "black_square_button": {
     "keywords": ["shape", "input", "frame"],
     "char": "🔲",
-    "category": "objects"
+    "category": "symbols"
   },
   "white_square_button": {
     "keywords": ["shape", "input"],
     "char": "🔳",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock1": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕐",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock130": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕜",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock2": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕑",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock230": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕝",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock3": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕒",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock330": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕞",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock4": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕓",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock430": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕟",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock5": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕔",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock530": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕠",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock6": {
     "keywords": ["time", "late", "early", "schedule", "dawn", "dusk"],
     "char": "🕕",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock630": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕡",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock7": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕖",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock730": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕢",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock8": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕗",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock830": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕣",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock9": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕘",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock930": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕤",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock10": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕙",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock1030": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕥",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock11": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕚",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock1130": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕦",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock12": {
     "keywords": ["time", "noon", "midnight", "midday", "late", "early", "schedule"],
     "char": "🕛",
-    "category": "objects"
+    "category": "symbols"
   },
   "clock1230": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕧",
-    "category": "objects"
+    "category": "symbols"
   },
   "af": {
     "keywords": ["afghanistan", "flag", "nation", "country", "banner"],
