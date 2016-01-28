@@ -1706,7 +1706,7 @@
   },
   "snowman_with_snow": {
     "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "frozen"],
-    "char": "☃️",
+    "char": "☃",
     "category": "animals_and_nature"
   },
   "wind_blowing_face": {
@@ -1731,7 +1731,7 @@
   },
   "umbrella_without_rain": {
     "keywords": ["weather", "spring"],
-    "char": "☂️",
+    "char": "☂",
     "category": "animals_and_nature"
   },
   "umbrella": {
@@ -2071,7 +2071,7 @@
   },
   "coffee": {
     "keywords": ["beverage", "caffeine", "latte", "espresso"],
-    "char": "☕️",
+    "char": "☕",
     "category": "food_and_drink"
   },
   "baby_bottle":  {
@@ -2091,7 +2091,7 @@
   },
   "soccer": {
     "keywords": ["sports", "football"],
-    "char": "⚽️",
+    "char": "⚽",
     "category": "activity"
   },
   "basketball": {
