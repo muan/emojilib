@@ -3844,9 +3844,34 @@
     "char": "❤️",
     "category": "symbols"
   },
+  "yellow_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💛",
+    "category": "symbols"
+  },
+  "green_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💚",
+    "category": "symbols"
+  },
+  "blue_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💙",
+    "category": "symbols"
+  },
+  "purple_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "💜",
+    "category": "symbols"
+  },
   "broken_heart": {
     "keywords": ["sad", "sorry", "break"],
     "char": "💔",
+    "category": "symbols"
+  },
+  "heavy_heart_exclamation_mark_ornament": {
+    "keywords": ["decoration", "love"],
+    "char": "❣",
     "category": "symbols"
   },
   "two_hearts": {
@@ -3889,284 +3914,64 @@
     "char": "💟",
     "category": "symbols"
   },
-  "purple_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💜",
+  "peace_symbol": {
+    "keywords": ["hippie"],
+    "char": "☮",
     "category": "symbols"
   },
-  "yellow_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💛",
+  "latin_cross": {
+    "keywords": ["christianity"],
+    "char": "✝",
     "category": "symbols"
   },
-  "green_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💚",
+  "star_and_crescent": {
+    "keywords": ["islam"],
+    "char": "☪",
     "category": "symbols"
   },
-  "blue_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
-    "char": "💙",
+  "om_symbol": {
+    "keywords": ["hinduism", "buddhism", "sikhism", "jainism"],
+    "char": "🕉",
     "category": "symbols"
   },
-  "no_entry_sign": {
-    "keywords": ["forbid", "stop", "limit", "denied", "disallow", "circle"],
-    "char": "🚫",
+  "wheel_of_dharma": {
+    "keywords": ["hinduism", "buddhism", "sikhism", "jainism"],
+    "char": "☸",
     "category": "symbols"
   },
-  "no_entry": {
-    "keywords": ["limit", "security", "privacy", "bad", "denied", "stop", "circle"],
-    "char": "⛔",
+  "star_of_david": {
+    "keywords": ["judaism"],
+    "char": "✡",
     "category": "symbols"
   },
-  "name_badge": {
-    "keywords": ["fire", "forbid"],
-    "char": "📛",
+  "six_pointed_star": {
+    "keywords": ["purple-square", "religion", "jewish", "hexagram"],
+    "char": "🔯",
     "category": "symbols"
   },
-  "no_pedestrians": {
-    "keywords": ["rules", "crossing", "walking", "circle"],
-    "char": "🚷",
+  "menorah_with_nine_branches": {
+    "keywords": ["hanukkah", "candles", "jewish"],
+    "char": "🕎",
     "category": "symbols"
   },
-  "do_not_litter": {
-    "keywords": ["trash", "bin", "garbage", "circle"],
-    "char": "🚯",
+  "yin_yang": {
+    "keywords": ["balance"],
+    "char": "☯",
     "category": "symbols"
   },
-  "no_bicycles": {
-    "keywords": ["cyclist", "prohibited", "circle"],
-    "char": "🚳",
+  "orthodox_cross": {
+    "keywords": ["suppedaneum", "religion"],
+    "char": "☦",
     "category": "symbols"
   },
-  "non-potable_water": {
-    "keywords": ["drink", "faucet", "tap", "circle"],
-    "char": "🚱",
+  "place_of_worship": {
+    "keywords": ["religion", "church", "temple", "prayer"],
+    "char": "🛐",
     "category": "symbols"
   },
-  "no_mobile_phones": {
-    "keywords": ["iphone", "mute", "circle"],
-    "char": "📵",
-    "category": "symbols"
-  },
-  "underage": {
-    "keywords": ["18", "drink", "pub", "night", "minor", "circle"],
-    "char": "🔞",
-    "category": "symbols"
-  },
-  "accept": {
-    "keywords": ["ok", "good", "chinese", "kanji", "agree", "yes", "orange-circle"],
-    "char": "🉑",
-    "category": "symbols"
-  },
-  "ideograph_advantage": {
-    "keywords": ["chinese", "kanji", "obtain", "get", "circle"],
-    "char": "🉐",
-    "category": "symbols"
-  },
-  "white_flower": {
-    "keywords": ["japanese", "spring"],
-    "char": "💮",
-    "category": "symbols"
-  },
-  "secret": {
-    "keywords": ["privacy", "chinese", "sshh", "kanji", "red-circle"],
-    "char": "㊙️",
-    "category": "symbols"
-  },
-  "congratulations": {
-    "keywords": ["chinese", "kanji", "japanese", "red-circle"],
-    "char": "㊗️",
-    "category": "symbols"
-  },
-  "u5408": {
-    "keywords": ["japanese", "chinese", "join", "kanji", "red-square"],
-    "char": "🈴",
-    "category": "symbols"
-  },
-  "u6e80": {
-    "keywords": ["full", "chinese", "japanese", "red-square", "kanji"],
-    "char": "🈵",
-    "category": "symbols"
-  },
-  "u7981": {
-    "keywords": ["kanji", "japanese", "chinese", "forbidden", "limit", "restricted", "red-square"],
-    "char": "🈲",
-    "category": "symbols"
-  },
-  "u6709": {
-    "keywords": ["orange-square", "chinese", "have", "kanji"],
-    "char": "🈶",
-    "category": "symbols"
-  },
-  "u7121": {
-    "keywords": ["nothing", "chinese", "kanji", "japanese", "orange-square"],
-    "char": "🈚",
-    "category": "symbols"
-  },
-  "u7533": {
-    "keywords": ["chinese", "japanese", "kanji", "orange-square"],
-    "char": "🈸",
-    "category": "symbols"
-  },
-  "u55b6": {
-    "keywords": ["japanese", "opening hours", "orange-square"],
-    "char": "🈺",
-    "category": "symbols"
-  },
-  "u6708": {
-    "keywords": ["chinese", "month", "moon", "japanese", "orange-square", "kanji"],
-    "char": "🈷️",
-    "category": "symbols"
-  },
-  "u5272": {
-    "keywords": ["cut", "divide", "chinese", "kanji", "pink-square"],
-    "char": "🈹",
-    "category": "symbols"
-  },
-  "u7a7a": {
-    "keywords": ["kanji", "japanese", "chinese", "empty", "sky", "blue-square"],
-    "char": "🈳",
-    "category": "symbols"
-  },
-  "sa": {
-    "keywords": ["japanese", "blue-square", "katakana"],
-    "char": "🈂️",
-    "category": "symbols"
-  },
-  "koko": {
-    "keywords": ["blue-square", "here", "katakana", "japanese", "destination"],
-    "char": "🈁",
-    "category": "symbols"
-  },
-  "u6307": {
-    "keywords": ["chinese", "point", "green-square", "kanji"],
-    "char": "🈯",
-    "category": "symbols"
-  },
-  "chart": {
-    "keywords": ["green-square", "graph", "presentation", "stats"],
-    "char": "💹",
-    "category": "symbols"
-  },
-  "sparkle": {
-    "keywords": ["stars", "green-square", "awesome", "good", "fireworks"],
-    "char": "❇️",
-    "category": "symbols"
-  },
-  "eight_spoked_asterisk": {
-    "keywords": ["star", "sparkle", "green-square"],
-    "char": "✳️",
-    "category": "symbols"
-  },
-  "negative_squared_cross_mark": {
-    "keywords": ["x", "green-square", "no", "deny"],
-    "char": "❎",
-    "category": "symbols"
-  },
-  "white_check_mark": {
-    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer"],
-    "char": "✅",
-    "category": "symbols"
-  },
-  "eight_pointed_black_star": {
-    "keywords": ["orange-square", "shape", "polygon"],
-    "char": "✴️",
-    "category": "symbols"
-  },
-  "vibration_mode": {
-    "keywords": ["orange-square", "phone"],
-    "char": "📳",
-    "category": "symbols"
-  },
-  "mobile_phone_off": {
-    "keywords": ["mute", "orange-square", "silence", "quiet"],
-    "char": "📴",
-    "category": "symbols"
-  },
-  "vs": {
-    "keywords": ["words", "orange-square"],
-    "char": "🆚",
-    "category": "symbols"
-  },
-  "a": {
-    "keywords": ["red-square", "alphabet", "letter"],
-    "char": "🅰️",
-    "category": "symbols"
-  },
-  "b": {
-    "keywords": ["red-square", "alphabet", "letter"],
-    "char": "🅱️",
-    "category": "symbols"
-  },
-  "ab": {
-    "keywords": ["red-square", "alphabet"],
-    "char": "🆎",
-    "category": "symbols"
-  },
-  "cl": {
-    "keywords": ["alphabet", "words", "red-square"],
-    "char": "🆑",
-    "category": "symbols"
-  },
-  "o2": {
-    "keywords": ["alphabet", "red-square", "letter"],
-    "char": "🅾️",
-    "category": "symbols"
-  },
-  "sos": {
-    "keywords": ["help", "red-square", "words", "emergency", "911"],
-    "char": "🆘",
-    "category": "symbols"
-  },
-  "id": {
-    "keywords": ["purple-square", "words"],
-    "char": "🆔",
-    "category": "symbols"
-  },
-  "parking": {
-    "keywords": ["cars", "blue-square", "alphabet", "letter"],
-    "char": "🅿️",
-    "category": "symbols"
-  },
-  "wc": {
-    "keywords": ["toilet", "restroom", "blue-square"],
-    "char": "🚾",
-    "category": "symbols"
-  },
-  "cool": {
-    "keywords": ["words", "blue-square"],
-    "char": "🆒",
-    "category": "symbols"
-  },
-  "free": {
-    "keywords": ["blue-square", "words"],
-    "char": "🆓",
-    "category": "symbols"
-  },
-  "new": {
-    "keywords": ["blue-square", "words", "start"],
-    "char": "🆕",
-    "category": "symbols"
-  },
-  "ng": {
-    "keywords": ["blue-square", "words", "shape", "icon"],
-    "char": "🆖",
-    "category": "symbols"
-  },
-  "ok": {
-    "keywords": ["good", "agree", "yes", "blue-square"],
-    "char": "🆗",
-    "category": "symbols"
-  },
-  "up": {
-    "keywords": ["blue-square", "above", "high"],
-    "char": "🆙",
-    "category": "symbols"
-  },
-  "atm": {
-    "keywords": ["money", "sales", "cash", "blue-square", "payment", "bank"],
-    "char": "🏧",
+  "ophiuchus": {
+    "keywords": ["sign", "purple-square", "constellation", "astrology"],
+    "char": "⛎",
     "category": "symbols"
   },
   "aries": {
@@ -4229,9 +4034,404 @@
     "char": "♓",
     "category": "symbols"
   },
-  "restroom": {
-    "keywords": ["blue-square", "toilet", "refresh", "wc", "gender"],
-    "char": "🚻",
+  "id": {
+    "keywords": ["purple-square", "words"],
+    "char": "🆔",
+    "category": "symbols"
+  },
+  "atom_symbol": {
+    "keywords": ["science"],
+    "char": "⚛",
+    "category": "symbols"
+  },
+  "u7a7a": {
+    "keywords": ["kanji", "japanese", "chinese", "empty", "sky", "blue-square"],
+    "char": "🈳",
+    "category": "symbols"
+  },
+  "u5272": {
+    "keywords": ["cut", "divide", "chinese", "kanji", "pink-square"],
+    "char": "🈹",
+    "category": "symbols"
+  },
+  "radioactive_sign": {
+    "keywords": ["nuclear", "danger"],
+    "char": "☢",
+    "category": "symbols"
+  },
+  "biohazard_sign": {
+    "keywords": ["danger"],
+    "char": "☣",
+    "category": "symbols"
+  },
+  "mobile_phone_off": {
+    "keywords": ["mute", "orange-square", "silence", "quiet"],
+    "char": "📴",
+    "category": "symbols"
+  },
+  "vibration_mode": {
+    "keywords": ["orange-square", "phone"],
+    "char": "📳",
+    "category": "symbols"
+  },
+  "u6709": {
+    "keywords": ["orange-square", "chinese", "have", "kanji"],
+    "char": "🈶",
+    "category": "symbols"
+  },
+  "u7121": {
+    "keywords": ["nothing", "chinese", "kanji", "japanese", "orange-square"],
+    "char": "🈚",
+    "category": "symbols"
+  },
+  "u7533": {
+    "keywords": ["chinese", "japanese", "kanji", "orange-square"],
+    "char": "🈸",
+    "category": "symbols"
+  },
+  "u55b6": {
+    "keywords": ["japanese", "opening hours", "orange-square"],
+    "char": "🈺",
+    "category": "symbols"
+  },
+  "u6708": {
+    "keywords": ["chinese", "month", "moon", "japanese", "orange-square", "kanji"],
+    "char": "🈷️",
+    "category": "symbols"
+  },
+  "eight_pointed_black_star": {
+    "keywords": ["orange-square", "shape", "polygon"],
+    "char": "✴️",
+    "category": "symbols"
+  },
+  "vs": {
+    "keywords": ["words", "orange-square"],
+    "char": "🆚",
+    "category": "symbols"
+  },
+  "accept": {
+    "keywords": ["ok", "good", "chinese", "kanji", "agree", "yes", "orange-circle"],
+    "char": "🉑",
+    "category": "symbols"
+  },
+  "white_flower": {
+    "keywords": ["japanese", "spring"],
+    "char": "💮",
+    "category": "symbols"
+  },
+  "ideograph_advantage": {
+    "keywords": ["chinese", "kanji", "obtain", "get", "circle"],
+    "char": "🉐",
+    "category": "symbols"
+  },
+  "secret": {
+    "keywords": ["privacy", "chinese", "sshh", "kanji", "red-circle"],
+    "char": "㊙️",
+    "category": "symbols"
+  },
+  "congratulations": {
+    "keywords": ["chinese", "kanji", "japanese", "red-circle"],
+    "char": "㊗️",
+    "category": "symbols"
+  },
+  "u5408": {
+    "keywords": ["japanese", "chinese", "join", "kanji", "red-square"],
+    "char": "🈴",
+    "category": "symbols"
+  },
+  "u6e80": {
+    "keywords": ["full", "chinese", "japanese", "red-square", "kanji"],
+    "char": "🈵",
+    "category": "symbols"
+  },
+  "u7981": {
+    "keywords": ["kanji", "japanese", "chinese", "forbidden", "limit", "restricted", "red-square"],
+    "char": "🈲",
+    "category": "symbols"
+  },
+  "a": {
+    "keywords": ["red-square", "alphabet", "letter"],
+    "char": "🅰️",
+    "category": "symbols"
+  },
+  "b": {
+    "keywords": ["red-square", "alphabet", "letter"],
+    "char": "🅱️",
+    "category": "symbols"
+  },
+  "ab": {
+    "keywords": ["red-square", "alphabet"],
+    "char": "🆎",
+    "category": "symbols"
+  },
+  "cl": {
+    "keywords": ["alphabet", "words", "red-square"],
+    "char": "🆑",
+    "category": "symbols"
+  },
+  "o2": {
+    "keywords": ["alphabet", "red-square", "letter"],
+    "char": "🅾️",
+    "category": "symbols"
+  },
+  "sos": {
+    "keywords": ["help", "red-square", "words", "emergency", "911"],
+    "char": "🆘",
+    "category": "symbols"
+  },
+  "no_entry": {
+    "keywords": ["limit", "security", "privacy", "bad", "denied", "stop", "circle"],
+    "char": "⛔",
+    "category": "symbols"
+  },
+  "name_badge": {
+    "keywords": ["fire", "forbid"],
+    "char": "📛",
+    "category": "symbols"
+  },
+  "no_entry_sign": {
+    "keywords": ["forbid", "stop", "limit", "denied", "disallow", "circle"],
+    "char": "🚫",
+    "category": "symbols"
+  },
+  "x": {
+    "keywords": ["no", "delete", "remove", "cancel"],
+    "char": "❌",
+    "category": "symbols"
+  },
+  "o": {
+    "keywords": ["circle", "round"],
+    "char": "⭕",
+    "category": "symbols"
+  },
+  "anger": {
+    "keywords": ["angry", "mad"],
+    "char": "💢",
+    "category": "symbols"
+  },
+  "hotsprings": {
+    "keywords": ["bath", "warm", "relax"],
+    "char": "♨️",
+    "category": "symbols"
+  },
+  "no_pedestrians": {
+    "keywords": ["rules", "crossing", "walking", "circle"],
+    "char": "🚷",
+    "category": "symbols"
+  },
+  "do_not_litter": {
+    "keywords": ["trash", "bin", "garbage", "circle"],
+    "char": "🚯",
+    "category": "symbols"
+  },
+  "no_bicycles": {
+    "keywords": ["cyclist", "prohibited", "circle"],
+    "char": "🚳",
+    "category": "symbols"
+  },
+  "non-potable_water": {
+    "keywords": ["drink", "faucet", "tap", "circle"],
+    "char": "🚱",
+    "category": "symbols"
+  },
+  "underage": {
+    "keywords": ["18", "drink", "pub", "night", "minor", "circle"],
+    "char": "🔞",
+    "category": "symbols"
+  },
+  "no_mobile_phones": {
+    "keywords": ["iphone", "mute", "circle"],
+    "char": "📵",
+    "category": "symbols"
+  },
+  "exclamation": {
+    "keywords": ["heavy_exclamation_mark", "danger", "surprise", "punctuation", "wow", "warning"],
+    "char": "❗",
+    "category": "symbols"
+  },
+  "grey_exclamation": {
+    "keywords": ["surprise", "punctuation", "gray", "wow", "warning"],
+    "char": "❕",
+    "category": "symbols"
+  },
+  "question": {
+    "keywords": ["doubt", "confused"],
+    "char": "❓",
+    "category": "symbols"
+  },
+  "grey_question": {
+    "keywords": ["doubts", "gray", "huh", "confused"],
+    "char": "❔",
+    "category": "symbols"
+  },
+  "bangbang": {
+    "keywords": ["exclamation", "surprise"],
+    "char": "‼️",
+    "category": "symbols"
+  },
+  "interrobang": {
+    "keywords": ["wat", "punctuation", "surprise"],
+    "char": "⁉️",
+    "category": "symbols"
+  },
+   "100": {
+    "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass", "hundred"],
+    "char": "💯",
+    "category": "symbols"
+  },
+  "low_brightness": {
+    "keywords": ["sun", "afternoon", "warm", "summer"],
+    "char": "🔅",
+    "category": "symbols"
+  },
+  "high_brightness": {
+    "keywords": ["sun", "light"],
+    "char": "🔆",
+    "category": "symbols"
+  },
+  "trident": {
+    "keywords": ["weapon", "spear"],
+    "char": "🔱",
+    "category": "symbols"
+  },
+  "fleur_de_lis": {
+    "keywords": ["decorative", "scout"],
+    "char": "⚜",
+    "category": "symbols"
+  },
+  "part_alternation_mark": {
+    "keywords": ["graph", "presentation", "stats", "business", "economics", "bad"],
+    "char": "〽️",
+    "category": "symbols"
+  },
+  "warning": {
+    "keywords": ["exclamation", "wip", "alert", "error", "problem", "issue"],
+    "char": "⚠️",
+    "category": "symbols"
+  },
+  "children_crossing": {
+    "keywords": ["school", "warning", "danger", "sign", "driving", "yellow-diamond"],
+    "char": "🚸",
+    "category": "symbols"
+  },
+  "beginner": {
+    "keywords": ["badge", "shield"],
+    "char": "🔰",
+    "category": "symbols"
+  },
+  "recycle": {
+    "keywords": ["arrow", "environment", "garbage", "trash"],
+    "char": "♻️",
+    "category": "symbols"
+  },
+  "u6307": {
+    "keywords": ["chinese", "point", "green-square", "kanji"],
+    "char": "🈯",
+    "category": "symbols"
+  },
+  "chart": {
+    "keywords": ["green-square", "graph", "presentation", "stats"],
+    "char": "💹",
+    "category": "symbols"
+  },
+  "sparkle": {
+    "keywords": ["stars", "green-square", "awesome", "good", "fireworks"],
+    "char": "❇️",
+    "category": "symbols"
+  },
+  "eight_spoked_asterisk": {
+    "keywords": ["star", "sparkle", "green-square"],
+    "char": "✳️",
+    "category": "symbols"
+  },
+  "negative_squared_cross_mark": {
+    "keywords": ["x", "green-square", "no", "deny"],
+    "char": "❎",
+    "category": "symbols"
+  },
+  "white_check_mark": {
+    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer"],
+    "char": "✅",
+    "category": "symbols"
+  },
+  "diamond_shape_with_a_dot_inside": {
+    "keywords": ["jewel", "blue", "gem", "crystal", "fancy"],
+    "char": "💠",
+    "category": "symbols"
+  },
+  "cyclone": {
+    "keywords": ["weather", "swirl", "blue", "cloud"],
+    "char": "🌀",
+    "category": "symbols"
+  },
+  "loop": {
+    "keywords": ["tape", "cassette"],
+    "char": "➿",
+    "category": "symbols"
+  },
+  "globe_with_meridians": {
+    "keywords": ["earth", "international", "world", "internet", "interweb", "i18n"],
+    "char": "🌐",
+    "category": "symbols"
+  },
+  "m": {
+    "keywords": ["alphabet", "blue-circle", "letter"],
+    "char": "Ⓜ️",
+    "category": "symbols"
+  },
+  "atm": {
+    "keywords": ["money", "sales", "cash", "blue-square", "payment", "bank"],
+    "char": "🏧",
+    "category": "symbols"
+  },
+  "sa": {
+    "keywords": ["japanese", "blue-square", "katakana"],
+    "char": "🈂️",
+    "category": "symbols"
+  },
+  "passport_control": {
+    "keywords": ["custom", "blue-square"],
+    "char": "🛂",
+    "category": "symbols"
+  },
+  "customs": {
+    "keywords": ["passport", "border", "blue-square"],
+    "char": "🛃",
+    "category": "symbols"
+  },
+  "baggage_claim": {
+    "keywords": ["blue-square", "airport", "transport"],
+    "char": "🛄",
+    "category": "symbols"
+  },
+  "left_luggage": {
+    "keywords": ["blue-square", "travel"],
+    "char": "🛅",
+    "category": "symbols"
+  },
+  "wheelchair": {
+    "keywords": ["blue-square", "disabled", "a11y", "accessibility"],
+    "char": "♿",
+    "category": "symbols"
+  },
+  "no_smoking": {
+    "keywords": ["cigarette", "blue-square", "smell", "smoke"],
+    "char": "🚭",
+    "category": "symbols"
+  },
+  "wc": {
+    "keywords": ["toilet", "restroom", "blue-square"],
+    "char": "🚾",
+    "category": "symbols"
+  },
+  "parking": {
+    "keywords": ["cars", "blue-square", "alphabet", "letter"],
+    "char": "🅿️",
+    "category": "symbols"
+  },
+  "potable_water": {
+    "keywords": ["blue-square", "liquid", "restroom", "cleaning", "faucet"],
+    "char": "🚰",
     "category": "symbols"
   },
   "mens": {
@@ -4249,19 +4449,9 @@
     "char": "🚼",
     "category": "symbols"
   },
-  "wheelchair": {
-    "keywords": ["blue-square", "disabled", "a11y", "accessibility"],
-    "char": "♿",
-    "category": "symbols"
-  },
-  "potable_water": {
-    "keywords": ["blue-square", "liquid", "restroom", "cleaning", "faucet"],
-    "char": "🚰",
-    "category": "symbols"
-  },
-  "no_smoking": {
-    "keywords": ["cigarette", "blue-square", "smell", "smoke"],
-    "char": "🚭",
+  "restroom": {
+    "keywords": ["blue-square", "toilet", "refresh", "wc", "gender"],
+    "char": "🚻",
     "category": "symbols"
   },
   "put_litter_in_its_place": {
@@ -4269,9 +4459,174 @@
     "char": "🚮",
     "category": "symbols"
   },
+  "cinema": {
+    "keywords": ["blue-square", "record", "film", "movie", "curtain", "stage", "theater"],
+    "char": "🎦",
+    "category": "symbols"
+  },
+  "signal_strength": {
+    "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth", "bars"],
+    "char": "📶",
+    "category": "symbols"
+  },
+  "koko": {
+    "keywords": ["blue-square", "here", "katakana", "japanese", "destination"],
+    "char": "🈁",
+    "category": "symbols"
+  },
+  "ng": {
+    "keywords": ["blue-square", "words", "shape", "icon"],
+    "char": "🆖",
+    "category": "symbols"
+  },
+  "ok": {
+    "keywords": ["good", "agree", "yes", "blue-square"],
+    "char": "🆗",
+    "category": "symbols"
+  },
+  "up": {
+    "keywords": ["blue-square", "above", "high"],
+    "char": "🆙",
+    "category": "symbols"
+  },
+  "cool": {
+    "keywords": ["words", "blue-square"],
+    "char": "🆒",
+    "category": "symbols"
+  },
+  "new": {
+    "keywords": ["blue-square", "words", "start"],
+    "char": "🆕",
+    "category": "symbols"
+  },
+  "free": {
+    "keywords": ["blue-square", "words"],
+    "char": "🆓",
+    "category": "symbols"
+  },
+  "zero": {
+    "keywords": ["0", "numbers", "blue-square", "null"],
+    "char": "0️⃣",
+    "category": "symbols"
+  },
+  "one": {
+    "keywords": ["blue-square", "numbers", "1"],
+    "char": "1️⃣",
+    "category": "symbols"
+  },
+  "two": {
+    "keywords": ["numbers", "2", "prime", "blue-square"],
+    "char": "2️⃣",
+    "category": "symbols"
+  },
+  "three": {
+    "keywords": ["3", "numbers", "prime", "blue-square"],
+    "char": "3️⃣",
+    "category": "symbols"
+  },
+  "four": {
+    "keywords": ["4", "numbers", "blue-square"],
+    "char": "4️⃣",
+    "category": "symbols"
+  },
+  "five": {
+    "keywords": ["5", "numbers", "blue-square", "prime"],
+    "char": "5️⃣",
+    "category": "symbols"
+  },
+  "six": {
+    "keywords": ["6", "numbers", "blue-square"],
+    "char": "6️⃣",
+    "category": "symbols"
+  },
+  "seven": {
+    "keywords": ["7", "numbers", "blue-square", "prime"],
+    "char": "7️⃣",
+    "category": "symbols"
+  },
+  "eight": {
+    "keywords": ["8", "blue-square", "numbers"],
+    "char": "8️⃣",
+    "category": "symbols"
+  },
+  "nine": {
+    "keywords": ["blue-square", "numbers", "9"],
+    "char": "9️⃣",
+    "category": "symbols"
+  },
+  "keycap_ten": {
+    "keywords": ["numbers", "10", "blue-square"],
+    "char": "🔟",
+    "category": "symbols"
+  },
+  "keycap_star": {
+    "keywords": ["asterisk"],
+    "char": "*⃣",
+    "category": "symbols"
+  },
+  "1234": {
+    "keywords": ["numbers", "blue-square"],
+    "char": "🔢",
+    "category": "symbols"
+  },
   "arrow_forward": {
     "keywords": ["blue-square", "right", "direction", "play"],
     "char": "▶️",
+    "category": "symbols"
+  },
+  "double_vertical_bar": {
+    "keywords": ["pause", "blue-square"],
+    "char": "⏸",
+    "category": "symbols"
+  },
+  "black_right_pointing_triangle_with_double_vertical_bar": {
+    "keywords": ["forward", "next", "blue-square"],
+    "char": "⏭",
+    "category": "symbols"
+  },
+  "black_square_for_stop": {
+    "keywords": ["blue-square"],
+    "char": "⏹",
+    "category": "symbols"
+  },
+  "black_circle_for_record": {
+    "keywords": ["blue-square"],
+    "char": "⏺",
+    "category": "symbols"
+  },
+  "black_right_pointing_double_triangle_with_vertical_bar": {
+    "keywords": ["blue-square", "play", "pause"],
+    "char": "⏯",
+    "category": "symbols"
+  },
+  "black_left_pointing_double_triangle_with_vertical_bar": {
+    "keywords": ["backward"],
+    "char": "⏮",
+    "category": "symbols"
+  },
+  "fast_forward": {
+    "keywords": ["blue-square", "play", "speed", "continue"],
+    "char": "⏩",
+    "category": "symbols"
+  },
+  "rewind": {
+    "keywords": ["play", "blue-square"],
+    "char": "⏪",
+    "category": "symbols"
+  },
+  "twisted_rightwards_arrows": {
+    "keywords": ["blue-square", "shuffle", "music", "random"],
+    "char": "🔀",
+    "category": "symbols"
+  },
+  "repeat": {
+    "keywords": ["loop", "record"],
+    "char": "🔁",
+    "category": "symbols"
+  },
+  "repeat_one": {
+    "keywords": ["blue-square", "loop"],
+    "char": "🔂",
     "category": "symbols"
   },
   "arrow_backward": {
@@ -4287,16 +4642,6 @@
   "arrow_down_small": {
     "keywords": ["blue-square", "direction", "bottom"],
     "char": "🔽",
-    "category": "symbols"
-  },
-  "fast_forward": {
-    "keywords": ["blue-square", "play", "speed", "continue"],
-    "char": "⏩",
-    "category": "symbols"
-  },
-  "rewind": {
-    "keywords": ["play", "blue-square"],
-    "char": "⏪",
     "category": "symbols"
   },
   "arrow_double_up": {
@@ -4384,84 +4729,14 @@
     "char": "⤵️",
     "category": "symbols"
   },
-  "twisted_rightwards_arrows": {
-    "keywords": ["blue-square", "shuffle", "music", "random"],
-    "char": "🔀",
-    "category": "symbols"
-  },
-  "repeat": {
-    "keywords": ["loop", "record"],
-    "char": "🔁",
-    "category": "symbols"
-  },
-  "repeat_one": {
-    "keywords": ["blue-square", "loop"],
-    "char": "🔂",
-    "category": "symbols"
-  },
   "hash": {
     "keywords": ["symbol", "blue-square", "twitter"],
     "char": "#️⃣",
     "category": "symbols"
   },
-  "zero": {
-    "keywords": ["0", "numbers", "blue-square", "null"],
-    "char": "0️⃣",
-    "category": "symbols"
-  },
-  "one": {
-    "keywords": ["blue-square", "numbers", "1"],
-    "char": "1️⃣",
-    "category": "symbols"
-  },
-  "two": {
-    "keywords": ["numbers", "2", "prime", "blue-square"],
-    "char": "2️⃣",
-    "category": "symbols"
-  },
-  "three": {
-    "keywords": ["3", "numbers", "prime", "blue-square"],
-    "char": "3️⃣",
-    "category": "symbols"
-  },
-  "four": {
-    "keywords": ["4", "numbers", "blue-square"],
-    "char": "4️⃣",
-    "category": "symbols"
-  },
-  "five": {
-    "keywords": ["5", "numbers", "blue-square", "prime"],
-    "char": "5️⃣",
-    "category": "symbols"
-  },
-  "six": {
-    "keywords": ["6", "numbers", "blue-square"],
-    "char": "6️⃣",
-    "category": "symbols"
-  },
-  "seven": {
-    "keywords": ["7", "numbers", "blue-square", "prime"],
-    "char": "7️⃣",
-    "category": "symbols"
-  },
-  "eight": {
-    "keywords": ["8", "blue-square", "numbers"],
-    "char": "8️⃣",
-    "category": "symbols"
-  },
-  "nine": {
-    "keywords": ["blue-square", "numbers", "9"],
-    "char": "9️⃣",
-    "category": "symbols"
-  },
-  "keycap_ten": {
-    "keywords": ["numbers", "10", "blue-square"],
-    "char": "🔟",
-    "category": "symbols"
-  },
-  "1234": {
-    "keywords": ["numbers", "blue-square"],
-    "char": "🔢",
+  "information_source": {
+    "keywords": ["blue-square", "alphabet", "letter"],
+    "char": "ℹ️",
     "category": "symbols"
   },
   "abc": {
@@ -4479,34 +4754,19 @@
     "char": "🔠",
     "category": "symbols"
   },
-  "information_source": {
-    "keywords": ["blue-square", "alphabet", "letter"],
-    "char": "ℹ️",
-    "category": "symbols"
-  },
-  "signal_strength": {
-    "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth", "bars"],
-    "char": "📶",
-    "category": "symbols"
-  },
-  "cinema": {
-    "keywords": ["blue-square", "record", "film", "movie", "curtain", "stage", "theater"],
-    "char": "🎦",
-    "category": "symbols"
-  },
   "symbols": {
     "keywords": ["blue-square", "music", "note", "ampersand", "percent", "glyphs", "characters"],
     "char": "🔣",
     "category": "symbols"
   },
-  "heavy_plus_sign": {
-    "keywords": ["math", "calculation", "addition", "more", "increase"],
-    "char": "➕",
+  "musical_note": {
+    "keywords": ["score", "tone", "sound"],
+    "char": "🎵",
     "category": "symbols"
   },
-  "heavy_minus_sign": {
-    "keywords": ["math", "calculation", "subtract", "less"],
-    "char": "➖",
+  "notes": {
+    "keywords": ["music", "score"],
+    "char": "🎶",
     "category": "symbols"
   },
   "wavy_dash": {
@@ -4514,14 +4774,9 @@
     "char": "〰️",
     "category": "symbols"
   },
-  "heavy_division_sign": {
-    "keywords": ["divide", "math", "calculation"],
-    "char": "➗",
-    "category": "symbols"
-  },
-  "heavy_multiplication_x": {
-    "keywords": ["math", "calculation"],
-    "char": "✖️",
+  "curly_loop": {
+    "keywords": ["scribble", "draw", "shape", "squiggle"],
+    "char": "➰",
     "category": "symbols"
   },
   "heavy_check_mark": {
@@ -4534,9 +4789,34 @@
     "char": "🔃",
     "category": "symbols"
   },
-  "tm": {
-    "keywords": ["trademark", "brand", "law", "legal"],
-    "char": "™️",
+  "heavy_plus_sign": {
+    "keywords": ["math", "calculation", "addition", "more", "increase"],
+    "char": "➕",
+    "category": "symbols"
+  },
+  "heavy_minus_sign": {
+    "keywords": ["math", "calculation", "subtract", "less"],
+    "char": "➖",
+    "category": "symbols"
+  },
+  "heavy_division_sign": {
+    "keywords": ["divide", "math", "calculation"],
+    "char": "➗",
+    "category": "symbols"
+  },
+  "heavy_multiplication_x": {
+    "keywords": ["math", "calculation"],
+    "char": "✖️",
+    "category": "symbols"
+  },
+  "heavy_dollar_sign": {
+    "keywords": ["money", "sales", "payment", "currency", "buck"],
+    "char": "💲",
+    "category": "symbols"
+  },
+  "currency_exchange": {
+    "keywords": ["money", "sales", "dollar", "travel"],
+    "char": "💱",
     "category": "symbols"
   },
   "copyright": {
@@ -4549,74 +4829,9 @@
     "char": "®️",
     "category": "symbols"
   },
-  "currency_exchange": {
-    "keywords": ["money", "sales", "dollar", "travel"],
-    "char": "💱",
-    "category": "symbols"
-  },
-  "heavy_dollar_sign": {
-    "keywords": ["money", "sales", "payment", "currency", "buck"],
-    "char": "💲",
-    "category": "symbols"
-  },
-  "curly_loop": {
-    "keywords": ["scribble", "draw", "shape", "squiggle"],
-    "char": "➰",
-    "category": "symbols"
-  },
-  "loop": {
-    "keywords": ["tape", "cassette"],
-    "char": "➿",
-    "category": "symbols"
-  },
-  "part_alternation_mark": {
-    "keywords": ["graph", "presentation", "stats", "business", "economics", "bad"],
-    "char": "〽️",
-    "category": "symbols"
-  },
-  "exclamation": {
-    "keywords": ["heavy_exclamation_mark", "danger", "surprise", "punctuation", "wow", "warning"],
-    "char": "❗",
-    "category": "symbols"
-  },
-  "question": {
-    "keywords": ["doubt", "confused"],
-    "char": "❓",
-    "category": "symbols"
-  },
-  "grey_exclamation": {
-    "keywords": ["surprise", "punctuation", "gray", "wow", "warning"],
-    "char": "❕",
-    "category": "symbols"
-  },
-  "grey_question": {
-    "keywords": ["doubts", "gray", "huh", "confused"],
-    "char": "❔",
-    "category": "symbols"
-  },
-  "bangbang": {
-    "keywords": ["exclamation", "surprise"],
-    "char": "‼️",
-    "category": "symbols"
-  },
-  "interrobang": {
-    "keywords": ["wat", "punctuation", "surprise"],
-    "char": "⁉️",
-    "category": "symbols"
-  },
-  "x": {
-    "keywords": ["no", "delete", "remove", "cancel"],
-    "char": "❌",
-    "category": "symbols"
-  },
-  "o": {
-    "keywords": ["circle", "round"],
-    "char": "⭕",
-    "category": "symbols"
-  },
-  "100": {
-    "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass", "hundred"],
-    "char": "💯",
+  "tm": {
+    "keywords": ["trademark", "brand", "law", "legal"],
+    "char": "™️",
     "category": "symbols"
   },
   "end": {
@@ -4644,89 +4859,14 @@
     "char": "🔜",
     "category": "symbols"
   },
-  "globe_with_meridians": {
-    "keywords": ["earth", "international", "world", "internet", "interweb", "i18n"],
-    "char": "🌐",
-    "category": "symbols"
-  },
-  "cyclone": {
-    "keywords": ["weather", "swirl", "blue", "cloud"],
-    "char": "🌀",
-    "category": "symbols"
-  },
-  "m": {
-    "keywords": ["alphabet", "blue-circle", "letter"],
-    "char": "Ⓜ️",
-    "category": "symbols"
-  },
-  "ophiuchus": {
-    "keywords": ["sign", "purple-square", "constellation", "astrology"],
-    "char": "⛎",
-    "category": "symbols"
-  },
-  "six_pointed_star": {
-    "keywords": ["purple-square", "religion", "jewish", "hexagram"],
-    "char": "🔯",
-    "category": "symbols"
-  },
-  "beginner": {
-    "keywords": ["badge", "shield"],
-    "char": "🔰",
-    "category": "symbols"
-  },
-  "trident": {
-    "keywords": ["weapon", "spear"],
-    "char": "🔱",
-    "category": "symbols"
-  },
-  "warning": {
-    "keywords": ["exclamation", "wip", "alert", "error", "problem", "issue"],
-    "char": "⚠️",
-    "category": "symbols"
-  },
-  "hotsprings": {
-    "keywords": ["bath", "warm", "relax"],
-    "char": "♨️",
-    "category": "symbols"
-  },
-  "recycle": {
-    "keywords": ["arrow", "environment", "garbage", "trash"],
-    "char": "♻️",
-    "category": "symbols"
-  },
-  "anger": {
-    "keywords": ["angry", "mad"],
-    "char": "💢",
-    "category": "symbols"
-  },
-  "diamond_shape_with_a_dot_inside": {
-    "keywords": ["jewel", "blue", "gem", "crystal", "fancy"],
-    "char": "💠",
-    "category": "symbols"
-  },
-  "spades": {
-    "keywords": ["poker", "cards", "suits", "magic"],
-    "char": "♠️",
-    "category": "symbols"
-  },
-  "hearts": {
-    "keywords": ["poker", "cards", "magic", "suits"],
-    "char": "♥️",
-    "category": "symbols"
-  },
-  "clubs": {
-    "keywords": ["poker", "cards", "magic", "suits"],
-    "char": "♣️",
-    "category": "symbols"
-  },
-  "diamonds": {
-    "keywords": ["poker", "cards", "magic", "suits"],
-    "char": "♦️",
-    "category": "symbols"
-  },
   "ballot_box_with_check": {
     "keywords": ["ok", "agree", "confirm", "black-square", "vote", "election", "yes"],
     "char": "☑️",
+    "category": "symbols"
+  },
+  "radio_button": {
+    "keywords": ["input", "old", "music", "circle"],
+    "char": "🔘",
     "category": "symbols"
   },
   "white_circle": {
@@ -4739,11 +4879,6 @@
     "char": "⚫",
     "category": "symbols"
   },
-  "radio_button": {
-    "keywords": ["input", "old", "music", "circle"],
-    "char": "🔘",
-    "category": "symbols"
-  },
   "red_circle": {
     "keywords": ["shape", "error", "danger"],
     "char": "🔴",
@@ -4752,16 +4887,6 @@
   "large_blue_circle": {
     "keywords": ["shape", "icon", "button"],
     "char": "🔵",
-    "category": "symbols"
-  },
-  "small_red_triangle": {
-    "keywords": ["shape", "direction", "up", "top"],
-    "char": "🔺",
-    "category": "symbols"
-  },
-  "small_red_triangle_down": {
-    "keywords": ["shape", "direction", "bottom"],
-    "char": "🔻",
     "category": "symbols"
   },
   "small_orange_diamond": {
@@ -4784,6 +4909,11 @@
     "char": "🔷",
     "category": "symbols"
   },
+  "small_red_triangle": {
+    "keywords": ["shape", "direction", "up", "top"],
+    "char": "🔺",
+    "category": "symbols"
+  },
   "black_small_square": {
     "keywords": ["shape", "icon"],
     "char": "▪️",
@@ -4802,6 +4932,11 @@
   "white_large_square": {
     "keywords": ["shape", "icon", "stone", "button"],
     "char": "⬜",
+    "category": "symbols"
+  },
+  "small_red_triangle_down": {
+    "keywords": ["shape", "direction", "bottom"],
+    "char": "🔻",
     "category": "symbols"
   },
   "black_medium_square": {
@@ -4834,14 +4969,104 @@
     "char": "🔳",
     "category": "symbols"
   },
+  "speaker": {
+    "keywords": ["sound", "volume", "silence", "broadcast"],
+    "char": "🔈",
+    "category": "symbols"
+  },
+  "sound": {
+    "keywords": ["volume", "speaker", "broadcast"],
+    "char": "🔉",
+    "category": "symbols"
+  },
+  "loud_sound": {
+    "keywords": ["volume", "noise", "noisy", "speaker", "broadcast"],
+    "char": "🔊",
+    "category": "symbols"
+  },
+  "mute": {
+    "keywords": ["sound", "volume", "silence", "quiet"],
+    "char": "🔇",
+    "category": "symbols"
+  },
+  "mega": {
+    "keywords": ["sound", "speaker", "volume"],
+    "char": "📣",
+    "category": "symbols"
+  },
+  "loudspeaker": {
+    "keywords": ["volume", "sound"],
+    "char": "📢",
+    "category": "symbols"
+  },
+  "bell": {
+    "keywords": ["sound", "notification", "christmas", "xmas", "chime"],
+    "char": "🔔",
+    "category": "symbols"
+  },
+  "no_bell": {
+    "keywords": ["sound", "volume", "mute", "quiet", "silent"],
+    "char": "🔕",
+    "category": "symbols"
+  },
+  "black_joker": {
+    "keywords": ["poker", "cards", "game", "play", "magic"],
+    "char": "🃏",
+    "category": "symbols"
+  },
+  "mahjong": {
+    "keywords": ["game", "play", "chinese", "kanji"],
+    "char": "🀄",
+    "category": "symbols"
+  },
+  "spades": {
+    "keywords": ["poker", "cards", "suits", "magic"],
+    "char": "♠️",
+    "category": "symbols"
+  },
+  "clubs": {
+    "keywords": ["poker", "cards", "magic", "suits"],
+    "char": "♣️",
+    "category": "symbols"
+  },
+  "hearts": {
+    "keywords": ["poker", "cards", "magic", "suits"],
+    "char": "♥️",
+    "category": "symbols"
+  },
+  "diamonds": {
+    "keywords": ["poker", "cards", "magic", "suits"],
+    "char": "♦️",
+    "category": "symbols"
+  },
+  "flower_playing_cards": {
+    "keywords": ["game", "sunset", "red"],
+    "char": "🎴",
+    "category": "symbols"
+  },
+  "thought_balloon": {
+    "keywords": ["bubble", "cloud", "speech", "thinking"],
+    "char": "💭",
+    "category": "symbols"
+  },
+  "right_anger_bubble": {
+    "keywords": ["caption", "speech", "thinking", "mad"],
+    "char": "🗯",
+    "category": "symbols"
+  },
+  "speech_balloon": {
+    "keywords": ["bubble", "words", "message", "talk", "chatting"],
+    "char": "💬",
+    "category": "symbols"
+  },
+  "left_speech_bubble": {
+    "keywords": ["words", "message", "talk", "chatting"],
+    "char": "🗨",
+    "category": "symbols"
+  },
   "clock1": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕐",
-    "category": "symbols"
-  },
-  "clock130": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕜",
     "category": "symbols"
   },
   "clock2": {
@@ -4849,19 +5074,9 @@
     "char": "🕑",
     "category": "symbols"
   },
-  "clock230": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕝",
-    "category": "symbols"
-  },
   "clock3": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕒",
-    "category": "symbols"
-  },
-  "clock330": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕞",
     "category": "symbols"
   },
   "clock4": {
@@ -4869,19 +5084,9 @@
     "char": "🕓",
     "category": "symbols"
   },
-  "clock430": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕟",
-    "category": "symbols"
-  },
   "clock5": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕔",
-    "category": "symbols"
-  },
-  "clock530": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕠",
     "category": "symbols"
   },
   "clock6": {
@@ -4889,19 +5094,9 @@
     "char": "🕕",
     "category": "symbols"
   },
-  "clock630": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕡",
-    "category": "symbols"
-  },
   "clock7": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕖",
-    "category": "symbols"
-  },
-  "clock730": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕢",
     "category": "symbols"
   },
   "clock8": {
@@ -4909,19 +5104,9 @@
     "char": "🕗",
     "category": "symbols"
   },
-  "clock830": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕣",
-    "category": "symbols"
-  },
   "clock9": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕘",
-    "category": "symbols"
-  },
-  "clock930": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕤",
     "category": "symbols"
   },
   "clock10": {
@@ -4929,24 +5114,69 @@
     "char": "🕙",
     "category": "symbols"
   },
-  "clock1030": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕥",
-    "category": "symbols"
-  },
   "clock11": {
     "keywords": ["time", "late", "early", "schedule"],
     "char": "🕚",
     "category": "symbols"
   },
-  "clock1130": {
-    "keywords": ["time", "late", "early", "schedule"],
-    "char": "🕦",
-    "category": "symbols"
-  },
   "clock12": {
     "keywords": ["time", "noon", "midnight", "midday", "late", "early", "schedule"],
     "char": "🕛",
+    "category": "symbols"
+  },
+  "clock130": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕜",
+    "category": "symbols"
+  },
+  "clock230": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕝",
+    "category": "symbols"
+  },
+  "clock330": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕞",
+    "category": "symbols"
+  },
+  "clock430": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕟",
+    "category": "symbols"
+  },
+  "clock530": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕠",
+    "category": "symbols"
+  },
+  "clock630": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕡",
+    "category": "symbols"
+  },
+  "clock730": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕢",
+    "category": "symbols"
+  },
+  "clock830": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕣",
+    "category": "symbols"
+  },
+  "clock930": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕤",
+    "category": "symbols"
+  },
+  "clock1030": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕥",
+    "category": "symbols"
+  },
+  "clock1130": {
+    "keywords": ["time", "late", "early", "schedule"],
+    "char": "🕦",
     "category": "symbols"
   },
   "clock1230": {
