@@ -3300,7 +3300,7 @@
     "category": "objects"
   },
   "coffin": {
-    "keywords": ["vampire", "dead", "die", "death", "rip"],
+    "keywords": ["vampire", "dead", "die", "death", "rip", "graveyard", "cemetery"],
     "char": "⚰",
     "category": "objects"
   },
