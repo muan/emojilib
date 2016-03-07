@@ -50,7 +50,7 @@
     "category": "people"
   },
   "blush": {
-    "keywords": ["face", "smile", "happy", "flushed", "crush", "embarrassed", "shy", "joy"],
+    "keywords": ["face", "smile", "happy", "flushed", "crush", "embarrassed", "shy", "joy", "^^"],
     "char": "😊",
     "category": "people"
   },
