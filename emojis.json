@@ -1405,7 +1405,7 @@
     "category": "animals_and_nature"
   },
   "palm_tree": {
-    "keywords": ["plant", "vegetable", "nature", "summer", "beach"],
+    "keywords": ["plant", "vegetable", "nature", "summer", "beach", "mojito"],
     "char": "🌴",
     "category": "animals_and_nature"
   },
@@ -2045,12 +2045,12 @@
     "category": "food_and_drink"
   },
   "cocktail": {
-    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze"],
+    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze", "mojito"],
     "char": "🍸",
     "category": "food_and_drink"
   },
   "tropical_drink": {
-    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze"],
+    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze", "mojito"],
     "char": "🍹",
     "category": "food_and_drink"
   },
@@ -2765,12 +2765,12 @@
     "category": "travel_and_places"
   },
   "beach_with_umbrella": {
-    "keywords": ["weather", "summer", "sunny", "sand"],
+    "keywords": ["weather", "summer", "sunny", "sand", "mojito"],
     "char": "🏖",
     "category": "travel_and_places"
   },
   "desert_island": {
-    "keywords": ["photo", "tropical"],
+    "keywords": ["photo", "tropical", "mojito"],
     "char": "🏝",
     "category": "travel_and_places"
   },
