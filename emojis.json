@@ -1,6 +1,6 @@
 {
   "grinning": {
-    "keywords": ["face", "smile", "happy", "joy", ":D", ":-D"],
+    "keywords": ["face", "smile", "happy", "joy", ":D"],
     "char": "😀",
     "category": "people"
   },
@@ -20,12 +20,12 @@
     "category": "people"
   },
   "smiley": {
-    "keywords": ["face", "happy", "joy", "haha", ":D", ":)", ":-)" ],
+    "keywords": ["face", "happy", "joy", "haha", ":D", ":)"],
     "char": "😃",
     "category": "people"
   },
   "smile": {
-    "keywords": ["face", "happy", "joy", "funny", "haha", "laugh", "like", ":D", ":)", ":-)" ],
+    "keywords": ["face", "happy", "joy", "funny", "haha", "laugh", "like", ":D", ":)"],
     "char": "😄",
     "category": "people"
   },
@@ -45,13 +45,8 @@
     "category": "people"
   },
   "wink": {
-    "keywords": ["face", "happy", "mischievous", "secret", ";-)", ";)"],
+    "keywords": ["face", "happy", "mischievous", "secret", ";)"],
     "char": "😉",
-    "category": "people"
-  },
-  "yawn": {
-    "keywords": ["bored", "sleepy"],
-    "char": "😪",
     "category": "people"
   },
   "blush": {
