@@ -15,12 +15,12 @@
     "category": "people"
   },
   "joy": {
-    "keywords": ["face", "cry", "tears", "weep", "happy", "haha"],
+    "keywords": ["face", "cry", "tears", "weep", "happy", "happytears", "haha"],
     "char": "😂",
     "category": "people"
   },
   "smiley": {
-    "keywords": ["face", "happy", "joy", "haha", ":D", ":)"],
+    "keywords": ["face", "happy", "joy", "haha", ":D", "funny", ":)"],
     "char": "😃",
     "category": "people"
   },
@@ -30,7 +30,7 @@
     "category": "people"
   },
   "sweat_smile": {
-    "keywords": ["face", "hot", "happy", "laugh"],
+    "keywords": ["face", "hot", "happy", "laugh", "relief"],
     "char": "😅",
     "category": "people"
   },
