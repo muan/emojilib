@@ -1973,7 +1973,12 @@
     "category": "food_and_drink"
   },
   "dango": {
-    "keywords": ["food", "dessert", "sweet", "japanese"],
+    "keywords": ["food"
+    , "dessert"
+    , "sweet"
+    , "japanese"
+    , "barbecue"
+    , "meat"],
     "char": "🍡",
     "category": "food_and_drink"
   },
@@ -3298,7 +3303,11 @@
     "category": "objects"
   },
   "smoking": {
-    "keywords": ["kills", "tobacco", "cigarette", "joint"],
+    "keywords": ["kills"
+    , "tobacco"
+    , "cigarette"
+    , "joint"
+    , "smoke"],
     "char": "🚬",
     "category": "objects"
   },
