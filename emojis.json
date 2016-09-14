@@ -1420,12 +1420,12 @@
     "category": "animals_and_nature"
   },
   "shamrock": {
-    "keywords": ["vegetable", "plant", "nature", "irish"],
+    "keywords": ["vegetable", "plant", "nature", "irish", "clover"],
     "char": "☘",
     "category": "animals_and_nature"
   },
   "four_leaf_clover": {
-    "keywords": ["vegetable", "plant", "nature", "lucky", "irish"],
+    "keywords": ["vegetable", "plant", "nature", "lucky", "irish", "clover"],
     "char": "🍀",
     "category": "animals_and_nature"
   },
