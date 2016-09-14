@@ -49,6 +49,7 @@ npm install emojilib --save
 * [Emoji CLI](https://github.com/muan/emoji-cli) – [muan/emoji-cli](https://github.com/muan/emoji-cli)
 * [Emoji Lookup for Launchbar](https://github.com/jasonrudolph/launchbar-emoji-lookup) – [jasonrudolph/launchbar-emoji-lookup](https://github.com/jasonrudolph/launchbar-emoji-lookup)
 * [commemoji](https://www.npmjs.com/package/commemoji) - [martellaj/commemoji](https://github.com/martellaj/commemoji)
+* [Emoji Stream](https://www.npmjs.com/package/emoji-stream) – [johnelliott/emoji-stream](https://github.com/johnelliott/emoji-stream)
 
 ## :heart: YES
 
