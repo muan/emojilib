@@ -125,10 +125,7 @@ var unnecessitiesInKeywords = []
 keys.forEach(function (key) {
   data[key]['keywords'].forEach(function (keyword) {
     keyword = escapeStr(keyword)
-    if (key.match(keyword)) {
-      unnecessities.push([key, keyword])
-    }
-
+    
     var otherKeywords = data[key]['keywords'].slice()
     otherKeywords.splice(data[key]['keywords'].indexOf(keyword), 1)
     otherKeywords.forEach(function (otherKeyword) {
