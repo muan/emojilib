@@ -124,12 +124,15 @@ var unnecessitiesInKeywords = []
 
 keys.forEach(function (key) {
   data[key]['keywords'].forEach(function (keyword) {
-    keyword = escapeStr(keyword)
-    
+    if (key === keyword) {
+      unnecessities.push([key, keyword])
+    }
+
     var otherKeywords = data[key]['keywords'].slice()
     otherKeywords.splice(data[key]['keywords'].indexOf(keyword), 1)
+
     otherKeywords.forEach(function (otherKeyword) {
-      if (otherKeyword.match(keyword)) {
+      if (otherKeyword === keyword) {
         unnecessitiesInKeywords.push([otherKeyword, keyword, key])
       }
     })
@@ -138,7 +141,7 @@ keys.forEach(function (key) {
 
 if (unnecessities.length > 0 || unnecessitiesInKeywords.length > 0) {
   unnecessities.forEach(function (arr) {
-    console.log('"' + arr[1] + '" is unnecessary as it is already part of "' + arr[0] + '" and will be matched.')
+    console.log('"' + arr[1] + '" is unnecessary as the key is already "' + arr[0] + '".')
   })
   unnecessitiesInKeywords.forEach(function (arr) {
     console.log('"' + arr[1] + '" is unnecessary as a "' + arr[2] + '" already has a keyword "' + arr[0] + '".')
