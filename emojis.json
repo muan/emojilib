@@ -624,6 +624,11 @@
     "char": "👩",
     "category": "people"
   },
+  "blonde_woman": {
+    "keywords": ["woman", "female", "girl", "blonde", "person"],
+    "char": "👱‍♀️",
+    "category": "_custom"
+  },
   "person_with_blond_hair": {
     "keywords": ["man", "male", "boy", "blonde", "guy", "person"],
     "char": "👱",
@@ -644,25 +649,50 @@
     "char": "👲",
     "category": "people"
   },
+  "woman_with_turban": {
+    "keywords": ["female", "indian", "hinduism", "arabs", "woman"],
+    "char": "👳‍♀️",
+    "category": "_custom"
+  },
   "man_with_turban": {
     "keywords": ["male", "indian", "hinduism", "arabs"],
     "char": "👳",
     "category": "people"
+  },
+  "woman_police_officer": {
+    "keywords": ["woman", "police", "law", "legal", "enforcement", "arrest", "911", "female"],
+    "char": "👮‍♀️",
+    "category": "_custom"
   },
   "cop": {
     "keywords": ["man", "police", "law", "legal", "enforcement", "arrest", "911"],
     "char": "👮",
     "category": "people"
   },
+  "female_construction_worker": {
+    "keywords": ["female", "human", "wip", "build", "construction", "worker", "labor", "woman"],
+    "char": "👷‍♀️",
+    "category": "_custom"
+  },
   "construction_worker": {
     "keywords": ["male", "human", "wip", "guy", "build", "construction", "worker", "labor"],
     "char": "👷",
     "category": "people"
   },
+  "female_guard": {
+    "keywords": ["uk", "gb", "british", "female", "royal", "woman"],
+    "char": "💂‍♀️",
+    "category": "_custom"
+  },
   "guardsman": {
     "keywords": ["uk", "gb", "british", "male", "guy", "royal"],
     "char": "💂",
     "category": "people"
+  },
+  "female_sleuth": {
+    "keywords": ["human", "spy", "detective", "female", "woman"],
+    "char": "🕵️‍♀️",
+    "category": "_custom"
   },
   "sleuth": {
     "keywords": ["human", "spy", "detective"],
@@ -689,10 +719,20 @@
     "char": "👰",
     "category": "people"
   },
+  "woman_running": {
+    "keywords": ["woman", "walking", "exercise", "race", "running", "female"],
+    "char": "🏃‍♀️",
+    "category": "_custom"
+  },
   "runner": {
     "keywords": ["man", "walking", "exercise", "race", "running"],
     "char": "🏃",
     "category": "people"
+  },
+  "woman_walking": {
+    "keywords": ["human", "feet", "steps", "woman", "female"],
+    "char": "🚶‍♀️",
+    "category": "_custom"
   },
   "walking": {
     "keywords": ["human", "feet", "steps"],
@@ -723,6 +763,11 @@
     "keywords": ["pair", "friendship", "couple", "love", "like", "female", "people", "human"],
     "char": "👭",
     "category": "people"
+  },
+  "woman_bowing_deeply": {
+    "keywords": ["woman", "female", "girl"],
+    "char": "🙇‍♀️",
+    "category": "_custom"
   },
   "bow": {
     "keywords": ["man", "male", "boy"],
@@ -2134,6 +2179,11 @@
     "char": "⛳",
     "category": "activity"
   },
+  "woman_golfing": {
+    "keywords": ["sports", "business", "woman", "female"],
+    "char": "🏌️‍♀️",
+    "category": "_custom"
+  },
   "golfer": {
     "keywords": ["sports", "business"],
     "char": "🏌",
@@ -2194,15 +2244,30 @@
     "char": "🎣",
     "category": "activity"
   },
+  "woman_rowing_boat": {
+    "keywords": ["sports", "hobby", "water", "ship", "woman", "female"],
+    "char": "🚣‍♀️",
+    "category": "_custom"
+  },
   "rowboat": {
     "keywords": ["sports", "hobby", "water", "ship"],
     "char": "🚣",
     "category": "activity"
   },
+  "woman_swimming": {
+    "keywords": ["sports", "exercise", "human", "athlete", "water", "summer", "woman", "female"],
+    "char": "🏊‍♀️",
+    "category": "_custom"
+  },
   "swimmer": {
     "keywords": ["sports", "exercise", "human", "athlete", "water", "summer"],
     "char": "🏊",
     "category": "activity"
+  },
+  "woman_surfing": {
+    "keywords": ["sports", "ocean", "sea", "summer", "beach", "woman", "female"],
+    "char": "🏄‍♀️",
+    "category": "_custom"
   },
   "surfer": {
     "keywords": ["sports", "ocean", "sea", "summer", "beach"],
@@ -2214,20 +2279,40 @@
     "char": "🛀",
     "category": "activity"
   },
+  "woman_with_ball": {
+    "keywords": ["sports", "human", "woman", "female"],
+    "char": "⛹️‍♀️",
+    "category": "_custom"
+  },
   "person_with_ball": {
     "keywords": ["sports", "human"],
     "char": "⛹",
     "category": "activity"
+  },
+  "woman_weight_lifting": {
+    "keywords": ["sports", "training", "exercise", "woman", "female"],
+    "char": "🏋️‍♀️",
+    "category": "_custom"
   },
   "weight_lifter": {
     "keywords": ["sports", "training", "exercise"],
     "char": "🏋",
     "category": "activity"
   },
+  "woman_biking": {
+    "keywords": ["sports", "bike", "exercise", "hipster", "woman", "female"],
+    "char": "🚴‍♀️",
+    "category": "_custom"
+  },
   "bicyclist": {
     "keywords": ["sports", "bike", "exercise", "hipster"],
     "char": "🚴",
     "category": "activity"
+  },
+  "woman_mountain_biking": {
+    "keywords": ["transportation", "sports", "human", "race", "bike", "woman", "female"],
+    "char": "🚵‍♀️",
+    "category": "_custom"
   },
   "mountain_bicyclist": {
     "keywords": ["transportation", "sports", "human", "race", "bike"],
