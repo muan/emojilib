@@ -2829,6 +2829,11 @@
     "char": "🏁",
     "category": "travel_and_places"
   },
+  "rainbow_flag": {
+    "keywords": ["flag", "rainbow"],
+    "char": "️🏳️‍🌈",
+    "category": "_custom"
+  },
   "ship": {
     "keywords": ["transportation", "titanic", "deploy"],
     "char": "🚢",
