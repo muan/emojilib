@@ -749,6 +749,11 @@
     "char": "👯",
     "category": "people"
   },
+  "men_with_bunny_ears": {
+    "keywords": ["male", "bunny", "men", "boys"],
+    "char": "👯‍♂️",
+    "category": "_custom"
+  },
   "couple": {
     "keywords": ["pair", "people", "human", "love", "date", "dating", "like", "affection", "valentines", "marriage"],
     "char": "👫",
@@ -779,40 +784,80 @@
     "char": "💁",
     "category": "people"
   },
+  "man_tipping_hand": {
+    "keywords": ["male", "boy", "man", "human", "information"],
+    "char": "💁‍♂️",
+    "category": "_custom"
+  },
   "no_good": {
     "keywords": ["female", "girl", "woman", "nope"],
     "char": "🙅",
     "category": "people"
+  },
+  "man_gesturing_not_ok": {
+    "keywords": ["male", "boy", "man", "nope"],
+    "char": "🙅‍♂️",
+    "category": "_custom"
   },
   "ok_woman": {
     "keywords": ["women", "girl", "female", "pink", "human", "woman"],
     "char": "🙆",
     "category": "people"
   },
+  "man_gesturing_ok": {
+    "keywords": ["men", "boy", "male", "blue", "human", "man"],
+    "char": "🙆‍♂️",
+    "category": "_custom"
+  },
   "raising_hand": {
     "keywords": ["female", "girl", "woman"],
     "char": "🙋",
     "category": "people"
+  },
+  "man_raising_hand": {
+    "keywords": ["male", "boy", "man"],
+    "char": "🙋‍♂️",
+    "category": "_custom"
   },
   "person_with_pouting_face": {
     "keywords": ["female", "girl", "woman"],
     "char": "🙎",
     "category": "people"
   },
+   "man_pouting": {
+    "keywords": ["male", "boy", "man"],
+    "char": "🙎‍♂️",
+    "category": "_custom"
+  },
   "person_frowning": {
     "keywords": ["female", "girl", "woman", "sad", "depressed", "discouraged", "unhappy"],
     "char": "🙍",
     "category": "people"
+  },
+  "man_frowning": {
+    "keywords": ["male", "boy", "man", "sad", "depressed", "discouraged", "unhappy"],
+    "char": "🙍‍♂️",
+    "category": "_custom"
   },
   "haircut": {
     "keywords": ["female", "girl", "woman"],
     "char": "💇",
     "category": "people"
   },
+  "man_getting_haircut": {
+    "keywords": ["male", "boy", "man"],
+    "char": "💇‍♂️",
+    "category": "_custom"
+  },
   "massage": {
     "keywords": ["female", "girl", "woman", "head"],
     "char": "💆",
     "category": "people"
+  },
+   "man_getting_face_massage": {
+    "keywords": ["male", "boy", "man", "head"],
+    "char": "💆‍♂️",
+    "category": "_custom"
   },
   "couple_with_heart": {
     "keywords": ["pair", "love", "like", "affection", "human", "dating", "valentines", "marriage"],
