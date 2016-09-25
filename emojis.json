@@ -964,6 +964,56 @@
     "char": "👨‍👨‍👧‍👧",
     "category": "people"
   },
+  "family_woman_boy": {
+    "keywords": ["home", "parent", "people", "human", "child"],
+    "char": "👩‍👦",
+    "category": "_custom"
+  },
+  "family_woman_girl": {
+    "keywords": ["home", "parent", "people", "human", "child"],
+    "char": "👩‍👧",
+    "category": "_custom"
+  },
+  "family_woman_girl_boy": {
+    "keywords": ["home", "parent", "people", "human", "children"],
+    "char": "👩‍👧‍👦",
+    "category": "_custom"
+  },
+  "family_woman_boy_boy": {
+    "keywords": ["home", "parent", "people", "human", "children"],
+    "char": "👩‍👦‍👦",
+    "category": "_custom"
+  },
+  "family_woman_girl_girl": {
+    "keywords": ["home", "parent", "people", "human", "children"],
+    "char": "👩‍👧‍👧",
+    "category": "_custom"
+  },
+  "family_man_boy": {
+    "keywords": ["home", "parent", "people", "human", "child"],
+    "char": "👨‍👦",
+    "category": "_custom"
+  },
+  "family_man_girl": {
+    "keywords": ["home", "parent", "people", "human", "child"],
+    "char": "👨‍👧",
+    "category": "_custom"
+  },
+  "family_man_girl_boy": {
+    "keywords": ["home", "parent", "people", "human", "children"],
+    "char": "👨‍👧‍👦",
+    "category": "_custom"
+  },
+  "family_man_boy_boy": {
+    "keywords": ["home", "parent", "people", "human", "children"],
+    "char": "👨‍👦‍👦",
+    "category": "_custom"
+  },
+  "family_man_girl_girl": {
+    "keywords": ["home", "parent", "people", "human", "children"],
+    "char": "👨‍👧‍👧",
+    "category": "_custom"
+  },
   "womans_clothes": {
     "keywords": ["fashion", "shopping", "female"],
     "char": "👚",
