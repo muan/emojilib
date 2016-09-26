@@ -627,7 +627,8 @@
   "blonde_woman": {
     "keywords": ["woman", "female", "girl", "blonde", "person"],
     "char": "👱‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "person_with_blond_hair": {
     "keywords": ["man", "male", "boy", "blonde", "guy", "person"],
