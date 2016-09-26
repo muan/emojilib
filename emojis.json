@@ -652,7 +652,8 @@
   "woman_with_turban": {
     "keywords": ["female", "indian", "hinduism", "arabs", "woman"],
     "char": "👳‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "man_with_turban": {
     "keywords": ["male", "indian", "hinduism", "arabs"],
@@ -662,7 +663,8 @@
   "woman_police_officer": {
     "keywords": ["woman", "police", "law", "legal", "enforcement", "arrest", "911", "female"],
     "char": "👮‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "cop": {
     "keywords": ["man", "police", "law", "legal", "enforcement", "arrest", "911"],
@@ -672,7 +674,8 @@
   "female_construction_worker": {
     "keywords": ["female", "human", "wip", "build", "construction", "worker", "labor", "woman"],
     "char": "👷‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "construction_worker": {
     "keywords": ["male", "human", "wip", "guy", "build", "construction", "worker", "labor"],
@@ -682,7 +685,8 @@
   "female_guard": {
     "keywords": ["uk", "gb", "british", "female", "royal", "woman"],
     "char": "💂‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "guardsman": {
     "keywords": ["uk", "gb", "british", "male", "guy", "royal"],
@@ -692,7 +696,8 @@
   "female_sleuth": {
     "keywords": ["human", "spy", "detective", "female", "woman"],
     "char": "🕵️‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "sleuth": {
     "keywords": ["human", "spy", "detective"],
@@ -722,7 +727,8 @@
   "woman_running": {
     "keywords": ["woman", "walking", "exercise", "race", "running", "female"],
     "char": "🏃‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "runner": {
     "keywords": ["man", "walking", "exercise", "race", "running"],
@@ -732,7 +738,8 @@
   "woman_walking": {
     "keywords": ["human", "feet", "steps", "woman", "female"],
     "char": "🚶‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "walking": {
     "keywords": ["human", "feet", "steps"],
@@ -752,7 +759,8 @@
   "men_with_bunny_ears": {
     "keywords": ["male", "bunny", "men", "boys"],
     "char": "👯‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "couple": {
     "keywords": ["pair", "people", "human", "love", "date", "dating", "like", "affection", "valentines", "marriage"],
@@ -772,7 +780,8 @@
   "woman_bowing_deeply": {
     "keywords": ["woman", "female", "girl"],
     "char": "🙇‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "bow": {
     "keywords": ["man", "male", "boy"],
@@ -787,7 +796,8 @@
   "man_tipping_hand": {
     "keywords": ["male", "boy", "man", "human", "information"],
     "char": "💁‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "no_good": {
     "keywords": ["female", "girl", "woman", "nope"],
@@ -797,7 +807,8 @@
   "man_gesturing_not_ok": {
     "keywords": ["male", "boy", "man", "nope"],
     "char": "🙅‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "ok_woman": {
     "keywords": ["women", "girl", "female", "pink", "human", "woman"],
@@ -807,7 +818,8 @@
   "man_gesturing_ok": {
     "keywords": ["men", "boy", "male", "blue", "human", "man"],
     "char": "🙆‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "raising_hand": {
     "keywords": ["female", "girl", "woman"],
@@ -817,7 +829,8 @@
   "man_raising_hand": {
     "keywords": ["male", "boy", "man"],
     "char": "🙋‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "person_with_pouting_face": {
     "keywords": ["female", "girl", "woman"],
@@ -827,7 +840,8 @@
    "man_pouting": {
     "keywords": ["male", "boy", "man"],
     "char": "🙎‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "person_frowning": {
     "keywords": ["female", "girl", "woman", "sad", "depressed", "discouraged", "unhappy"],
@@ -837,7 +851,8 @@
   "man_frowning": {
     "keywords": ["male", "boy", "man", "sad", "depressed", "discouraged", "unhappy"],
     "char": "🙍‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "haircut": {
     "keywords": ["female", "girl", "woman"],
@@ -847,7 +862,8 @@
   "man_getting_haircut": {
     "keywords": ["male", "boy", "man"],
     "char": "💇‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "massage": {
     "keywords": ["female", "girl", "woman", "head"],
@@ -857,7 +873,8 @@
    "man_getting_face_massage": {
     "keywords": ["male", "boy", "man", "head"],
     "char": "💆‍♂️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "couple_with_heart": {
     "keywords": ["pair", "love", "like", "affection", "human", "dating", "valentines", "marriage"],
@@ -967,52 +984,62 @@
   "family_woman_boy": {
     "keywords": ["home", "parent", "people", "human", "child"],
     "char": "👩‍👦",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_woman_girl": {
     "keywords": ["home", "parent", "people", "human", "child"],
     "char": "👩‍👧",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_woman_girl_boy": {
     "keywords": ["home", "parent", "people", "human", "children"],
     "char": "👩‍👧‍👦",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_woman_boy_boy": {
     "keywords": ["home", "parent", "people", "human", "children"],
     "char": "👩‍👦‍👦",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_woman_girl_girl": {
     "keywords": ["home", "parent", "people", "human", "children"],
     "char": "👩‍👧‍👧",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_man_boy": {
     "keywords": ["home", "parent", "people", "human", "child"],
     "char": "👨‍👦",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_man_girl": {
     "keywords": ["home", "parent", "people", "human", "child"],
     "char": "👨‍👧",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_man_girl_boy": {
     "keywords": ["home", "parent", "people", "human", "children"],
     "char": "👨‍👧‍👦",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_man_boy_boy": {
     "keywords": ["home", "parent", "people", "human", "children"],
     "char": "👨‍👦‍👦",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "family_man_girl_girl": {
     "keywords": ["home", "parent", "people", "human", "children"],
     "char": "👨‍👧‍👧",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "people"
   },
   "womans_clothes": {
     "keywords": ["fashion", "shopping", "female"],
@@ -2277,7 +2304,8 @@
   "woman_golfing": {
     "keywords": ["sports", "business", "woman", "female"],
     "char": "🏌️‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "golfer": {
     "keywords": ["sports", "business"],
@@ -2342,7 +2370,8 @@
   "woman_rowing_boat": {
     "keywords": ["sports", "hobby", "water", "ship", "woman", "female"],
     "char": "🚣‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "rowboat": {
     "keywords": ["sports", "hobby", "water", "ship"],
@@ -2352,7 +2381,8 @@
   "woman_swimming": {
     "keywords": ["sports", "exercise", "human", "athlete", "water", "summer", "woman", "female"],
     "char": "🏊‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "swimmer": {
     "keywords": ["sports", "exercise", "human", "athlete", "water", "summer"],
@@ -2362,7 +2392,8 @@
   "woman_surfing": {
     "keywords": ["sports", "ocean", "sea", "summer", "beach", "woman", "female"],
     "char": "🏄‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "surfer": {
     "keywords": ["sports", "ocean", "sea", "summer", "beach"],
@@ -2377,7 +2408,8 @@
   "woman_with_ball": {
     "keywords": ["sports", "human", "woman", "female"],
     "char": "⛹️‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "person_with_ball": {
     "keywords": ["sports", "human"],
@@ -2387,7 +2419,8 @@
   "woman_weight_lifting": {
     "keywords": ["sports", "training", "exercise", "woman", "female"],
     "char": "🏋️‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "weight_lifter": {
     "keywords": ["sports", "training", "exercise"],
@@ -2397,7 +2430,8 @@
   "woman_biking": {
     "keywords": ["sports", "bike", "exercise", "hipster", "woman", "female"],
     "char": "🚴‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "bicyclist": {
     "keywords": ["sports", "bike", "exercise", "hipster"],
@@ -2407,7 +2441,8 @@
   "woman_mountain_biking": {
     "keywords": ["transportation", "sports", "human", "race", "bike", "woman", "female"],
     "char": "🚵‍♀️",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "activity"
   },
   "mountain_bicyclist": {
     "keywords": ["transportation", "sports", "human", "race", "bike"],
@@ -3957,7 +3992,8 @@
   "rainbow_flag": {
     "keywords": ["flag", "rainbow"],
     "char": "️🏳️‍🌈",
-    "category": "_custom"
+    "category": "_custom",
+    "_apple_category": "objects"
   },
   "closed_lock_with_key": {
     "keywords": ["security", "privacy"],
