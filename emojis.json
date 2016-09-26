@@ -2829,11 +2829,6 @@
     "char": "🏁",
     "category": "travel_and_places"
   },
-  "rainbow_flag": {
-    "keywords": ["flag", "rainbow"],
-    "char": "️🏳️‍🌈",
-    "category": "_custom"
-  },
   "ship": {
     "keywords": ["transportation", "titanic", "deploy"],
     "char": "🚢",
@@ -3958,6 +3953,11 @@
     "keywords": ["pirate"],
     "char": "🏴",
     "category": "objects"
+  },
+  "rainbow_flag": {
+    "keywords": ["flag", "rainbow"],
+    "char": "️🏳️‍🌈",
+    "category": "_custom"
   },
   "closed_lock_with_key": {
     "keywords": ["security", "privacy"],
