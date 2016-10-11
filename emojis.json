@@ -2055,7 +2055,7 @@
     "category": "food_and_drink"
   },
   "bottle": {
-    "keywords": ["food", "wine", "champagne"],
+    "keywords": ["drink", "wine", "champagne"],
     "char": "🍾",
     "category": "food_and_drink"
   },
