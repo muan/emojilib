@@ -10,7 +10,7 @@
     "category": "people"
   },
   "grin": {
-    "keywords": ["face", "happy", "smile", "joy", "kawaii"],
+    "keywords": ["face", "happy", "smile", "joy", "kawaii", ":D"],
     "char": "😁",
     "category": "people"
   },
@@ -50,17 +50,17 @@
     "category": "people"
   },
   "blush": {
-    "keywords": ["face", "smile", "happy", "flushed", "crush", "embarrassed", "shy", "joy"],
+    "keywords": ["face", "smile", "happy", "flushed", "crush", "embarrassed", "shy", "joy", ":)", "c:"],
     "char": "😊",
     "category": "people"
   },
   "slightly_smiling": {
-    "keywords": ["face", "smile"],
+    "keywords": ["face", "smile", ":)"],
     "char": "🙂",
     "category": "people"
   },
   "upside_down": {
-    "keywords": ["face", "flipped", "silly", "smile"],
+    "keywords": ["face", "flipped", "silly", "smile", "(:"],
     "char": "🙃",
     "category": "people"
   },
@@ -85,47 +85,47 @@
     "category": "people"
   },
   "kissing_heart": {
-    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "kiss"],
+    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "kiss", ":*"],
     "char": "😘",
     "category": "people"
   },
   "kissing": {
-    "keywords": ["love", "like", "face", "3", "valentines", "infatuation", "kiss"],
+    "keywords": ["love", "like", "face", "3", "valentines", "infatuation", "kiss", ":*"],
     "char": "😗",
     "category": "people"
   },
   "kissing_smiling_eyes": {
-    "keywords": ["face", "affection", "valentines", "infatuation", "kiss"],
+    "keywords": ["face", "affection", "valentines", "infatuation", "kiss", ":*"],
     "char": "😙",
     "category": "people"
   },
   "kissing_closed_eyes": {
-    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "kidd"],
+    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "kiss", ":*"],
     "char": "😚",
     "category": "people"
   },
   "stuck_out_tongue_winking_eye": {
-    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile", "wink", "tongue"],
+    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile", "wink", "tongue", ";P"],
     "char": "😜",
     "category": "people"
   },
   "stuck_out_tongue_closed_eyes": {
-    "keywords": ["face", "prank", "playful", "mischievous", "smile", "tongue"],
+    "keywords": ["face", "prank", "playful", "mischievous", "smile", "tongue", "XP"],
     "char": "😝",
     "category": "people"
   },
   "stuck_out_tongue": {
-    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile", "tongue"],
+    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile", "tongue", ":P"],
     "char": "😛",
     "category": "people"
   },
   "money_mouth": {
-    "keywords": ["face", "rich", "dollar", "money"],
+    "keywords": ["face", "rich", "dollar", "money", ":$"],
     "char": "🤑",
     "category": "people"
   },
   "nerd": {
-    "keywords": ["face", "nerdy", "geek", "dork"],
+    "keywords": ["face", "nerdy", "geek", "dork", "8)"],
     "char": "🤓",
     "category": "people"
   },
@@ -150,7 +150,7 @@
     "category": "people"
   },
   "neutral_face": {
-    "keywords": ["indifference", "meh", ":|", "neutral"],
+    "keywords": ["indifference", "meh", ":|", "neutral", "._.", ";_;"],
     "char": "😐",
     "category": "people"
   },
@@ -160,7 +160,7 @@
     "category": "people"
   },
   "unamused": {
-    "keywords": ["indifference", "bored", "straight face", "serious"],
+    "keywords": ["indifference", "bored", "straight face", "serious", ">.>"],
     "char": "😒",
     "category": "people"
   },
@@ -175,7 +175,7 @@
     "category": "people"
   },
   "flushed": {
-    "keywords": ["face", "blush", "shy", "flattered"],
+    "keywords": ["face", "blush", "shy", "flattered", "o.o", "o_o"],
     "char": "😳",
     "category": "people"
   },
@@ -210,7 +210,7 @@
     "category": "people"
   },
   "slightly_sad": {
-    "keywords": ["face", "frowning", "disappointed", "sad", "upset"],
+    "keywords": ["face", "frowning", "disappointed", "sad", "upset", ":("],
     "char": "🙁",
     "category": "people"
   },
@@ -220,7 +220,7 @@
     "category": "people"
   },
   "persevere": {
-    "keywords": ["face", "sick", "no", "upset", "oops"],
+    "keywords": ["face", "sick", "no", "upset", "oops", ">_<"],
     "char": "😣",
     "category": "people"
   },
@@ -230,12 +230,12 @@
     "category": "people"
   },
   "tired_face": {
-    "keywords": ["sick", "whine", "upset", "frustrated"],
+    "keywords": ["sick", "whine", "upset", "frustrated", "D:"],
     "char": "😫",
     "category": "people"
   },
   "weary": {
-    "keywords": ["face", "tired", "sleepy", "sad", "frustrated", "upset"],
+    "keywords": ["face", "tired", "sleepy", "sad", "frustrated", "upset", "D:"],
     "char": "😩",
     "category": "people"
   },
@@ -245,7 +245,7 @@
     "category": "people"
   },
   "open_mouth": {
-    "keywords": ["face", "surprise", "impressed", "wow", "whoa", ":O"],
+    "keywords": ["face", "surprise", "impressed", "wow", "whoa", ":O", ":o"],
     "char": "😮",
     "category": "people"
   },
@@ -265,17 +265,17 @@
     "category": "people"
   },
   "hushed": {
-    "keywords": ["face", "woo", "shh"],
+    "keywords": ["face", "woo", "shh", ":o"],
     "char": "😯",
     "category": "people"
   },
   "frowning": {
-    "keywords": ["face", "aw", "what"],
+    "keywords": ["face", "aw", "what", "D:"],
     "char": "😦",
     "category": "people"
   },
   "anguished": {
-    "keywords": ["face", "stunned", "nervous"],
+    "keywords": ["face", "stunned", "nervous", "D:"],
     "char": "😧",
     "category": "people"
   },
@@ -300,7 +300,7 @@
     "category": "people"
   },
   "sob": {
-    "keywords": ["face", "cry", "tears", "sad", "upset", "depressed"],
+    "keywords": ["face", "cry", "tears", "sad", "upset", "depressed", "T_T"],
     "char": "😭",
     "category": "people"
   },
@@ -310,7 +310,7 @@
     "category": "people"
   },
   "astonished": {
-    "keywords": ["face", "xox", "surprised", "poisoned"],
+    "keywords": ["face", "xox", "surprised", "poisoned", ":o"],
     "char": "😲",
     "category": "people"
   },
@@ -3840,32 +3840,32 @@
     "category": "objects"
   },
   "heart": {
-    "keywords": ["love", "like", "valentines"],
+    "keywords": ["love", "like", "valentines", "<3"],
     "char": "❤️",
     "category": "symbols"
   },
   "yellow_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "<3"],
     "char": "💛",
     "category": "symbols"
   },
   "green_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "<3"],
     "char": "💚",
     "category": "symbols"
   },
   "blue_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "<3"],
     "char": "💙",
     "category": "symbols"
   },
   "purple_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "<3"],
     "char": "💜",
     "category": "symbols"
   },
   "broken_heart": {
-    "keywords": ["sad", "sorry", "break"],
+    "keywords": ["sad", "sorry", "break", "</3"],
     "char": "💔",
     "category": "symbols"
   },
@@ -3875,42 +3875,42 @@
     "category": "symbols"
   },
   "two_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "<3"],
     "char": "💕",
     "category": "symbols"
   },
   "revolving_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "<3"],
     "char": "💞",
     "category": "symbols"
   },
   "heartbeat": {
-    "keywords": ["love", "like", "affection", "valentines", "pink"],
+    "keywords": ["love", "like", "affection", "valentines", "pink", "<3"],
     "char": "💓",
     "category": "symbols"
   },
   "heartpulse": {
-    "keywords": ["like", "love", "affection", "valentines", "pink"],
+    "keywords": ["like", "love", "affection", "valentines", "pink", "<3"],
     "char": "💗",
     "category": "symbols"
   },
   "sparkling_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "<3"],
     "char": "💖",
     "category": "symbols"
   },
   "cupid": {
-    "keywords": ["love", "like", "heart", "affection", "valentines"],
+    "keywords": ["love", "like", "heart", "affection", "valentines", "<3"],
     "char": "💘",
     "category": "symbols"
   },
   "gift_heart": {
-    "keywords": ["love", "valentines"],
+    "keywords": ["love", "valentines", "<3"],
     "char": "💝",
     "category": "symbols"
   },
   "heart_decoration": {
-    "keywords": ["purple-square", "love", "like"],
+    "keywords": ["purple-square", "love", "like", "<3"],
     "char": "💟",
     "category": "symbols"
   },
