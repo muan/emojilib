@@ -1,0 +1,6507 @@
+{
+  "100": {
+    "keywords": ["scor","perfect","numerele","secol","examen","chestionare","Test","trece","sută"],
+    "char": "💯",
+    "category": "symbols"
+  },
+  "1234": {
+    "keywords": ["numerele","albastru-pătrat"],
+    "char": "🔢",
+    "category": "symbols"
+  },
+  "grin": {
+    "keywords": ["față","fericit","zâmbet","bucurie","kawaii"],
+    "char": "😁",
+    "category": "people"
+  },
+  "grinning": {
+    "keywords": ["față","zâmbet","fericit","bucurie",": D","grimasă"],
+    "char": "😀",
+    "category": "people"
+  },
+  "smiley": {
+    "keywords": ["față","fericit","bucurie","haha",": D",":)","zâmbet"],
+    "char": "😃",
+    "category": "people"
+  },
+  "laughing": {
+    "keywords": ["fericit","bucurie","laugh out loud","satisfăcut","haha","față","bucuros","XD","râde"],
+    "char": "😆",
+    "category": "people"
+  },
+  "slightly_smiling": {
+    "keywords": ["față","zâmbet"],
+    "char": "🙂",
+    "category": "people"
+  },
+  "wink": {
+    "keywords": ["față","fericit","răutăcios","secret",";)","zâmbet"],
+    "char": "😉",
+    "category": "people"
+  },
+  "blush": {
+    "keywords": ["față","zâmbet","fericit","înroși","zdrobi","jenat","timid","bucurie"],
+    "char": "😊",
+    "category": "people"
+  },
+  "heart_eyes": {
+    "keywords": ["față","dragoste","ca","afecţiune","Valentines","dragoste nebună","zdrobi","inimă"],
+    "char": "😍",
+    "category": "people"
+  },
+  "relaxed": {
+    "keywords": ["față","roși","masaj","fericire"],
+    "char": "☺️",
+    "category": "people"
+  },
+  "yum": {
+    "keywords": ["fericit","bucurie","limbă","zâmbet","față","prost","yummy","nume"],
+    "char": "😋",
+    "category": "people"
+  },
+  "kissing_heart": {
+    "keywords": ["față","dragoste","ca","afecţiune","Valentines","dragoste nebună","pup"],
+    "char": "😘",
+    "category": "people"
+  },
+  "kissing_closed_eyes": {
+    "keywords": ["față","dragoste","ca","afecţiune","Valentines","dragoste nebună","copil"],
+    "char": "😚",
+    "category": "people"
+  },
+  "innocent": {
+    "keywords": ["față","înger","cer","Aura"],
+    "char": "😇",
+    "category": "people"
+  },
+  "upside_down": {
+    "keywords": ["față","oglindită","prost","zâmbet"],
+    "char": "🙃",
+    "category": "people"
+  },
+  "kissing_smiling_eyes": {
+    "keywords": ["față","afecţiune","Valentines","dragoste nebună","pup"],
+    "char": "😙",
+    "category": "people"
+  },
+  "grimacing": {
+    "keywords": ["față","grimasă","dantură"],
+    "char": "😬",
+    "category": "people"
+  },
+  "kissing": {
+    "keywords": ["dragoste","ca","față","3","Valentines","dragoste nebună","pup"],
+    "char": "😗",
+    "category": "people"
+  },
+  "smile": {
+    "keywords": ["față","fericit","bucurie","amuzant","haha","râde","ca",": D",":)"],
+    "char": "😄",
+    "category": "people"
+  },
+  "sweat_smile": {
+    "keywords": ["față","Fierbinte","fericit","râde","sudoare","zâmbet"],
+    "char": "😅",
+    "category": "people"
+  },
+  "relieved": {
+    "keywords": ["față","relaxat","ptiu","masaj","fericire"],
+    "char": "😌",
+    "category": "people"
+  },
+  "stuck_out_tongue_closed_eyes": {
+    "keywords": ["față","glumă","jucăuş","răutăcios","zâmbet","limbă"],
+    "char": "😝",
+    "category": "people"
+  },
+  "joy": {
+    "keywords": ["față","strigăt","lacrimi","plânge","fericit","haha"],
+    "char": "😂",
+    "category": "people"
+  },
+  "stuck_out_tongue": {
+    "keywords": ["față","glumă","copilăresc","jucăuş","răutăcios","zâmbet","limbă"],
+    "char": "😛",
+    "category": "people"
+  },
+  "money_mouth": {
+    "keywords": ["față","bogat","dolar","bani"],
+    "char": "🤑",
+    "category": "people"
+  },
+  "sunglasses": {
+    "keywords": ["față","misto","zâmbet","vară","plajă","ochelari de soare"],
+    "char": "😎",
+    "category": "people"
+  },
+  "stuck_out_tongue_winking_eye": {
+    "keywords": ["față","glumă","copilăresc","jucăuş","răutăcios","zâmbet","a face cu ochiul","limbă"],
+    "char": "😜",
+    "category": "people"
+  },
+  "hugging": {
+    "keywords": ["față","zâmbet","îmbrăţişare"],
+    "char": "🤗",
+    "category": "people"
+  },
+  "nerd": {
+    "keywords": ["față","tocilar","tocilar","dork"],
+    "char": "🤓",
+    "category": "people"
+  },
+  "smirk": {
+    "keywords": ["față","zâmbet","însemna","glumă","elegant","sarcasm"],
+    "char": "😏",
+    "category": "people"
+  },
+  "expressionless": {
+    "keywords": ["față","indiferent","-_-","lună"],
+    "char": "😑",
+    "category": "people"
+  },
+  "neutral_face": {
+    "keywords": ["indiferenţă","lună",": |","neutru"],
+    "char": "😐",
+    "category": "people"
+  },
+  "disappointed": {
+    "keywords": ["față","Statele Unite ale Americii","deranjat","deprimat",":("],
+    "char": "😞",
+    "category": "people"
+  },
+  "no_mouth": {
+    "keywords": ["față","buna pisicuto"],
+    "char": "😶",
+    "category": "people"
+  },
+  "thinking": {
+    "keywords": ["față","Hmmm","gândi","considera"],
+    "char": "🤔",
+    "category": "people"
+  },
+  "unamused": {
+    "keywords": ["indiferenţă","plictisit","figură cu expresie serioasă","serios"],
+    "char": "😒",
+    "category": "people"
+  },
+  "pensive": {
+    "keywords": ["față","Statele Unite ale Americii","deprimat","bine","deranjat"],
+    "char": "😔",
+    "category": "people"
+  },
+  "rolling_eyes": {
+    "keywords": ["față","eyeroll","frustrat"],
+    "char": "🙄",
+    "category": "people"
+  },
+  "flushed": {
+    "keywords": ["față","roși","timid","flatat"],
+    "char": "😳",
+    "category": "people"
+  },
+  "worried": {
+    "keywords": ["față","îngrijorare","agitat",":("],
+    "char": "😟",
+    "category": "people"
+  },
+  "white_frowning": {
+    "keywords": ["față","Statele Unite ale Americii","deranjat","se încrunta"],
+    "char": "☹",
+    "category": "people"
+  },
+  "persevere": {
+    "keywords": ["față","bolnav","Nu","deranjat","oops"],
+    "char": "😣",
+    "category": "people"
+  },
+  "angry": {
+    "keywords": ["nebun","față","contrariat","frustrat"],
+    "char": "😠",
+    "category": "people"
+  },
+  "rage": {
+    "keywords": ["nervos","nebun","ură","dispreţui"],
+    "char": "😡",
+    "category": "people"
+  },
+  "slightly_sad": {
+    "keywords": ["față","încruntat","dezamăgit","Statele Unite ale Americii","deranjat"],
+    "char": "🙁",
+    "category": "people"
+  },
+  "confused": {
+    "keywords": ["față","indiferenţă","huh","ciudat","Hmmm",": /"],
+    "char": "😕",
+    "category": "people"
+  },
+  "triumph": {
+    "keywords": ["față","gaz","ptiu","mândru","mândrie"],
+    "char": "😤",
+    "category": "people"
+  },
+  "weary": {
+    "keywords": ["față","obosit","somnoros","Statele Unite ale Americii","frustrat","deranjat"],
+    "char": "😩",
+    "category": "people"
+  },
+  "confounded": {
+    "keywords": ["față","confuz","bolnav","bolnav","oops",": S"],
+    "char": "😖",
+    "category": "people"
+  },
+  "tired_face": {
+    "keywords": ["bolnav","se văita","deranjat","frustrat"],
+    "char": "😫",
+    "category": "people"
+  },
+  "cold_sweat": {
+    "keywords": ["față","agitat","sudoare"],
+    "char": "😰",
+    "category": "people"
+  },
+  "scream": {
+    "keywords": ["față","Munch","speriat","Nu-mi vine să cred"],
+    "char": "😱",
+    "category": "people"
+  },
+  "open_mouth": {
+    "keywords": ["față","surprinde","impresionat","Wow","oau",": a"],
+    "char": "😮",
+    "category": "people"
+  },
+  "fearful": {
+    "keywords": ["față","speriat","îngrozit","agitat","oops","huh"],
+    "char": "😨",
+    "category": "people"
+  },
+  "hushed": {
+    "keywords": ["față","peți","shh"],
+    "char": "😯",
+    "category": "people"
+  },
+  "frowning": {
+    "keywords": ["față","și","ce"],
+    "char": "😦",
+    "category": "people"
+  },
+  "cry": {
+    "keywords": ["față","lacrimi","Statele Unite ale Americii","deprimat","deranjat",": '("],
+    "char": "😢",
+    "category": "people"
+  },
+  "anguished": {
+    "keywords": ["față","uimit","agitat"],
+    "char": "😧",
+    "category": "people"
+  },
+  "sob": {
+    "keywords": ["față","strigăt","lacrimi","Statele Unite ale Americii","deranjat","deprimat"],
+    "char": "😭",
+    "category": "people"
+  },
+  "sweat": {
+    "keywords": ["față","Fierbinte","Statele Unite ale Americii","obosit","exercițiu"],
+    "char": "😓",
+    "category": "people"
+  },
+  "zipper_mouth": {
+    "keywords": ["față","sigilate","fermoar","secret"],
+    "char": "🤐",
+    "category": "people"
+  },
+  "sleepy": {
+    "keywords": ["față","obosit","odihnă","zi"],
+    "char": "😪",
+    "category": "people"
+  },
+  "disappointed_relieved": {
+    "keywords": ["față","ptiu","sudoare","agitat"],
+    "char": "😥",
+    "category": "people"
+  },
+  "thermometer_face": {
+    "keywords": ["bolnav","temperatura","termometru","rece"],
+    "char": "🤒",
+    "category": "people"
+  },
+  "astonished": {
+    "keywords": ["față","hijaam","uimit","otrăvit"],
+    "char": "😲",
+    "category": "people"
+  },
+  "mask": {
+    "keywords": ["față","bolnav","voi","boală"],
+    "char": "😷",
+    "category": "people"
+  },
+  "dizzy_face": {
+    "keywords": ["a petrecut","inconştient","hijaam","ameţit"],
+    "char": "😵",
+    "category": "people"
+  },
+  "zzz": {
+    "keywords": ["somnoros","obosit"],
+    "char": "💤",
+    "category": "people"
+  },
+  "sleeping": {
+    "keywords": ["față","obosit","somnoros","noapte","ZZZ"],
+    "char": "😴",
+    "category": "people"
+  },
+  "smiling_imp": {
+    "keywords": ["diavol","coarne"],
+    "char": "😈",
+    "category": "people"
+  },
+  "hankey": {
+    "keywords": ["rahat","shitface","eșua","câcat","rahat"],
+    "char": "💩",
+    "category": "people"
+  },
+  "bandage_face": {
+    "keywords": ["rănit","neîndemânatic","bandaj","rănit"],
+    "char": "🤕",
+    "category": "people"
+  },
+  "imp": {
+    "keywords": ["diavol","nervos","coarne"],
+    "char": "👿",
+    "category": "people"
+  },
+  "japanese_ogre": {
+    "keywords": ["monstru","roșu","masca","Halloween","infricosator","înfiorător","diavol","demon","japonez","căpcăun"],
+    "char": "👹",
+    "category": "people"
+  },
+  "japanese_goblin": {
+    "keywords": ["roșu","rău","masca","monstru","infricosator","înfiorător","japonez","elf"],
+    "char": "👺",
+    "category": "people"
+  },
+  "skull": {
+    "keywords": ["mort","schelet","înfiorător"],
+    "char": "💀",
+    "category": "people"
+  },
+  "ghost": {
+    "keywords": ["Halloween","Înfricoșător","infricosator"],
+    "char": "👻",
+    "category": "people"
+  },
+  "robot": {
+    "keywords": ["computer","maşină"],
+    "char": "🤖",
+    "category": "people"
+  },
+  "alien": {
+    "keywords": ["OZN","Paul","ciudat","spațiul cosmic"],
+    "char": "👽",
+    "category": "people"
+  },
+  "smiley_cat": {
+    "keywords": ["animal","pisici","fericit","zâmbet"],
+    "char": "😺",
+    "category": "people"
+  },
+  "kissing_cat": {
+    "keywords": ["animal","pisici","pup"],
+    "char": "😽",
+    "category": "people"
+  },
+  "smile_cat": {
+    "keywords": ["animal","pisici","zâmbet"],
+    "char": "😸",
+    "category": "people"
+  },
+  "smirk_cat": {
+    "keywords": ["animal","pisici","rânjet"],
+    "char": "😼",
+    "category": "people"
+  },
+  "scream_cat": {
+    "keywords": ["animal","pisici","Munch","speriat","ţipăt"],
+    "char": "🙀",
+    "category": "people"
+  },
+  "joy_cat": {
+    "keywords": ["animal","pisici","haha","fericit","lacrimi"],
+    "char": "😹",
+    "category": "people"
+  },
+  "pouting_cat": {
+    "keywords": ["animal","pisici"],
+    "char": "😾",
+    "category": "people"
+  },
+  "raised_hands": {
+    "keywords": ["gest","ura","Da","celebrare","mâini"],
+    "char": "🙌",
+    "category": "people"
+  },
+  "crying_cat_face": {
+    "keywords": ["animal","lacrimi","plânge","Statele Unite ale Americii","pisici","deranjat","strigăt"],
+    "char": "😿",
+    "category": "people"
+  },
+  "fist": {
+    "keywords": ["degete","mana","înţelege"],
+    "char": "✊",
+    "category": "people"
+  },
+  "-1": {
+    "keywords": ["degetul mare în jos","Nu","nu-i plăcea","mana"],
+    "char": "👎",
+    "category": "people"
+  },
+  "+1": {
+    "keywords": ["bravo","da","minunat","bun","de acord","Accept","misto","mana","ca"],
+    "char": "👍",
+    "category": "people"
+  },
+  "wave": {
+    "keywords": ["mâini","gest","la revedere","singur","ramas bun","buna","palma"],
+    "char": "👋",
+    "category": "people"
+  },
+  "clap": {
+    "keywords": ["mâini","laudă","aplauze","felicitări","vară"],
+    "char": "👏",
+    "category": "people"
+  },
+  "ok_hand": {
+    "keywords": ["degete","membrele","perfect","O.K"],
+    "char": "👌",
+    "category": "people"
+  },
+  "muscle": {
+    "keywords": ["braţ","flex","mana","vară","puternic","biceps"],
+    "char": "💪",
+    "category": "people"
+  },
+  "nose": {
+    "keywords": ["miros","mirosi"],
+    "char": "👃",
+    "category": "people"
+  },
+  "sign_of_horns": {
+    "keywords": ["mana","degete","deochi","metal","rock_on"],
+    "char": "🤘",
+    "category": "people"
+  },
+  "vulcan_salute": {
+    "keywords": ["mana","degete","Spock","Star Trek"],
+    "char": "🖖",
+    "category": "people"
+  },
+  "point_right": {
+    "keywords": ["degete","mana","direcţie","dreapta"],
+    "char": "👉",
+    "category": "people"
+  },
+  "tongue": {
+    "keywords": ["gură","jucăuş"],
+    "char": "👅",
+    "category": "people"
+  },
+  "woman": {
+    "keywords": ["Femeie","fete","doamnă"],
+    "char": "👩",
+    "category": "people"
+  },
+  "speaking_head": {
+    "keywords": ["utilizator","persoană","uman"],
+    "char": "🗣",
+    "category": "people"
+  },
+  "older_man": {
+    "keywords": ["uman","masculin","dar","vechi","mai mare","senior"],
+    "char": "👴",
+    "category": "people"
+  },
+  "person_with_blond_hair": {
+    "keywords": ["om","masculin","băiat","blondă","tip","persoană"],
+    "char": "👱",
+    "category": "people"
+  },
+  "man_with_gua_pi_mao": {
+    "keywords": ["masculin","băiat","chinez"],
+    "char": "👲",
+    "category": "people"
+  },
+  "girl": {
+    "keywords": ["Femeie","femeie","adolescent"],
+    "char": "👧",
+    "category": "people"
+  },
+  "guardsman": {
+    "keywords": ["Regatul Unit","gb","britanic","masculin","tip","regal"],
+    "char": "💂",
+    "category": "people"
+  },
+  "construction_worker": {
+    "keywords": ["masculin","uman","legănare","tip","construi","constructie","muncitor","muncă"],
+    "char": "👷",
+    "category": "people"
+  },
+  "cop": {
+    "keywords": ["om","politie","lege","legal","executare","arestare","911"],
+    "char": "👮",
+    "category": "people"
+  },
+  "sleuth": {
+    "keywords": ["uman","spion","detectiv"],
+    "char": "🕵",
+    "category": "people"
+  },
+  "runner": {
+    "keywords": ["om","mers","exercițiu","rasă","alergare"],
+    "char": "🏃",
+    "category": "people"
+  },
+  "bride_with_veil": {
+    "keywords": ["cuplu","căsătorie","nuntă","femeie","mireasă"],
+    "char": "👰",
+    "category": "people"
+  },
+  "dancer": {
+    "keywords": ["Femeie","fată","femeie","distracţie"],
+    "char": "💃",
+    "category": "people"
+  },
+  "ok_woman": {
+    "keywords": ["femei","fată","Femeie","roz","uman","femeie"],
+    "char": "🙆",
+    "category": "people"
+  },
+  "couplekiss": {
+    "keywords": ["pereche","Valentines","dragoste","ca","datare","căsătorie"],
+    "char": "💏",
+    "category": "people"
+  },
+  "male_couplekiss": {
+    "keywords": ["pereche","Valentines","dragoste","ca","datare","căsătorie"],
+    "char": "👨‍❤️‍💋‍👨",
+    "category": "people"
+  },
+  "male_couple_with_heart": {
+    "keywords": ["pereche","dragoste","ca","afecţiune","uman","datare","Valentines","căsătorie"],
+    "char": "👨‍❤️‍👨",
+    "category": "people"
+  },
+  "two_men_holding_hands": {
+    "keywords": ["pereche","cuplu","dragoste","ca","bromance","prietenie","oameni","uman"],
+    "char": "👬",
+    "category": "people"
+  },
+  "heart_eyes_cat": {
+    "keywords": ["animal","dragoste","ca","afecţiune","pisici","Valentines","inimă"],
+    "char": "😻",
+    "category": "people"
+  },
+  "family_man_woman_girl_boy": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👩‍👧‍👦",
+    "category": "people"
+  },
+  "family_women_boy": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👩‍👩‍👦",
+    "category": "people"
+  },
+  "womans_clothes": {
+    "keywords": ["Modă","cumpărături","Femeie"],
+    "char": "👚",
+    "category": "people"
+  },
+  "shirt": {
+    "keywords": ["Modă","pânză","ocazional","tricou","reper"],
+    "char": "👕",
+    "category": "people"
+  },
+  "v": {
+    "keywords": ["degete","oh da","mana","pace","victorie","Două"],
+    "char": "✌️",
+    "category": "people"
+  },
+  "dress": {
+    "keywords": ["haine","Modă","cumpărături"],
+    "char": "👗",
+    "category": "people"
+  },
+  "family_men_boys": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👨‍👦‍👦",
+    "category": "people"
+  },
+  "kimono": {
+    "keywords": ["rochie","Modă","femei","Femeie","japonez"],
+    "char": "👘",
+    "category": "people"
+  },
+  "female_couple_with_heart": {
+    "keywords": ["pereche","dragoste","ca","afecţiune","uman","datare","Valentines","căsătorie"],
+    "char": "👩‍❤️‍👩",
+    "category": "people"
+  },
+  "family_man_woman_girl": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copil"],
+    "char": "👨‍👩‍👧",
+    "category": "people"
+  },
+  "two_women_holding_hands": {
+    "keywords": ["pereche","prietenie","cuplu","dragoste","ca","Femeie","oameni","uman"],
+    "char": "👭",
+    "category": "people"
+  },
+  "footprints": {
+    "keywords": ["picioare","urmărirea","mers","plajă"],
+    "char": "👣",
+    "category": "people"
+  },
+  "kiss": {
+    "keywords": ["față","gură","dragoste","ca","afecţiune","Valentines"],
+    "char": "💋",
+    "category": "people"
+  },
+  "facepunch": {
+    "keywords": ["nervos","violenţă","pumn","lovit","atac","mana"],
+    "char": "👊",
+    "category": "people"
+  },
+  "mans_shoe": {
+    "keywords": ["Modă","masculin"],
+    "char": "👞",
+    "category": "people"
+  },
+  "sandal": {
+    "keywords": ["pantofi","Modă","papuci flip-flop"],
+    "char": "👡",
+    "category": "people"
+  },
+  "helmet": {
+    "keywords": ["constructie","construi"],
+    "char": "⛑",
+    "category": "people"
+  },
+  "school_satchel": {
+    "keywords": ["student","educaţie","sac"],
+    "char": "🎒",
+    "category": "people"
+  },
+  "hand": {
+    "keywords": ["degete","Stop","bate palma","palma","departament","raised_hand"],
+    "char": "✋",
+    "category": "people"
+  },
+  "crown": {
+    "keywords": ["rege","la","lider","drepturi de autor","Lord"],
+    "char": "👑",
+    "category": "people"
+  },
+  "open_hands": {
+    "keywords": ["degete","fluture","mâini","deschis"],
+    "char": "👐",
+    "category": "people"
+  },
+  "briefcase": {
+    "keywords": ["Afaceri","documente","muncă","lege","legal"],
+    "char": "💼",
+    "category": "people"
+  },
+  "handbag": {
+    "keywords": ["Modă","accesorii","accesorii","cumpărături"],
+    "char": "👜",
+    "category": "people"
+  },
+  "rabbit": {
+    "keywords": ["animal","natură","animal de companie","arc","magie"],
+    "char": "🐰",
+    "category": "animals_and_nature"
+  },
+  "ring": {
+    "keywords": ["nuntă","ofertele","căsătorie","Valentines","diamant","Modă","Bijuterii","bijuterie"],
+    "char": "💍",
+    "category": "people"
+  },
+  "pray": {
+    "keywords": ["Vă rog","speranţă","dori","Alo","bate palma"],
+    "char": "🙏",
+    "category": "people"
+  },
+  "hamster": {
+    "keywords": ["animal","natură"],
+    "char": "🐹",
+    "category": "animals_and_nature"
+  },
+  "dog": {
+    "keywords": ["animal","prieten","natură","bătătură","cățeluș","animal de companie","credincios"],
+    "char": "🐶",
+    "category": "animals_and_nature"
+  },
+  "point_up": {
+    "keywords": ["mana","degete","direcţie","sus"],
+    "char": "☝️",
+    "category": "people"
+  },
+  "point_up_2": {
+    "keywords": ["degete","mana","direcţie","sus"],
+    "char": "👆",
+    "category": "people"
+  },
+  "point_down": {
+    "keywords": ["degete","mana","direcţie","jos"],
+    "char": "👇",
+    "category": "people"
+  },
+  "tiger": {
+    "keywords": ["animal","pisica","pericol","sălbatic","natură","hohote"],
+    "char": "🐯",
+    "category": "animals_and_nature"
+  },
+  "splayed_fingers": {
+    "keywords": ["mana","degete","palma"],
+    "char": "🖐",
+    "category": "people"
+  },
+  "point_left": {
+    "keywords": ["direcţie","degete","mana","stânga"],
+    "char": "👈",
+    "category": "people"
+  },
+  "panda_face": {
+    "keywords": ["animal","natură","urs panda"],
+    "char": "🐼",
+    "category": "animals_and_nature"
+  },
+  "monkey_face": {
+    "keywords": ["animal","natură","circ"],
+    "char": "🐵",
+    "category": "animals_and_nature"
+  },
+  "speak_no_evil": {
+    "keywords": ["maimuţă","animal","natură","Nu-mi vine să cred"],
+    "char": "🙊",
+    "category": "animals_and_nature"
+  },
+  "hatching_chick": {
+    "keywords": ["animal","pui","ou","născut","bebelus","pasăre"],
+    "char": "🐣",
+    "category": "animals_and_nature"
+  },
+  "middle_finger": {
+    "keywords": ["mana","degete","nepoliticos"],
+    "char": "🖕",
+    "category": "people"
+  },
+  "writing_hand": {
+    "keywords": ["stilou","papetărie","scrie"],
+    "char": "✍",
+    "category": "people"
+  },
+  "boar": {
+    "keywords": ["animal","natură"],
+    "char": "🐗",
+    "category": "animals_and_nature"
+  },
+  "eyes": {
+    "keywords": ["uite","ceas","tulpină","arunca o privire","vedea"],
+    "char": "👀",
+    "category": "people"
+  },
+  "eye": {
+    "keywords": ["față","uite","vedea","ceas","stare"],
+    "char": "👁",
+    "category": "people"
+  },
+  "hatched_chick": {
+    "keywords": ["animal","pui","bebelus","pasăre"],
+    "char": "🐥",
+    "category": "animals_and_nature"
+  },
+  "nail_care": {
+    "keywords": ["frumuseţe","manichiură","deget","Modă","cui"],
+    "char": "💅",
+    "category": "people"
+  },
+  "horse": {
+    "keywords": ["animal","maro","natură"],
+    "char": "🐴",
+    "category": "animals_and_nature"
+  },
+  "lips": {
+    "keywords": ["gură","pup"],
+    "char": "👄",
+    "category": "people"
+  },
+  "bust_in_silhouette": {
+    "keywords": ["utilizator","persoană","uman"],
+    "char": "👤",
+    "category": "people"
+  },
+  "boy": {
+    "keywords": ["om","masculin","tip","adolescent"],
+    "char": "👦",
+    "category": "people"
+  },
+  "ear": {
+    "keywords": ["față","auzi","sunet","asculta"],
+    "char": "👂",
+    "category": "people"
+  },
+  "baby": {
+    "keywords": ["copil","băiat","fată","copilul"],
+    "char": "👶",
+    "category": "people"
+  },
+  "busts_in_silhouette": {
+    "keywords": ["utilizator","persoană","uman","grup","echipă"],
+    "char": "👥",
+    "category": "people"
+  },
+  "bee": {
+    "keywords": ["animal","insectă","natură","gândac","arc","Miere"],
+    "char": "🐝",
+    "category": "animals_and_nature"
+  },
+  "bug": {
+    "keywords": ["animal","insectă","natură","vierme"],
+    "char": "🐛",
+    "category": "animals_and_nature"
+  },
+  "snail": {
+    "keywords": ["încet","animal","coajă"],
+    "char": "🐌",
+    "category": "animals_and_nature"
+  },
+  "beetle": {
+    "keywords": ["animal","insectă","natură","buburuză"],
+    "char": "🐞",
+    "category": "animals_and_nature"
+  },
+  "crab": {
+    "keywords": ["animal","crustaceu"],
+    "char": "🦀",
+    "category": "animals_and_nature"
+  },
+  "man": {
+    "keywords": ["Mustață","tată","tata","tip","Deschidere","domn","mustață"],
+    "char": "👨",
+    "category": "people"
+  },
+  "older_woman": {
+    "keywords": ["uman","Femeie","femei","doamnă","vechi","mai mare","senior"],
+    "char": "👵",
+    "category": "people"
+  },
+  "tropical_fish": {
+    "keywords": ["animal","înot","ocean","plajă","nu"],
+    "char": "🐠",
+    "category": "animals_and_nature"
+  },
+  "turtle": {
+    "keywords": ["animal","încet","natură","testoasa"],
+    "char": "🐢",
+    "category": "animals_and_nature"
+  },
+  "man_with_turban": {
+    "keywords": ["masculin","indian","hinduism","arabi"],
+    "char": "👳",
+    "category": "people"
+  },
+  "angel": {
+    "keywords": ["cer","aripi","Aura"],
+    "char": "👼",
+    "category": "people"
+  },
+  "santa": {
+    "keywords": ["festival","om","masculin","Crăciun","Mos Craciun"],
+    "char": "🎅",
+    "category": "people"
+  },
+  "walking": {
+    "keywords": ["uman","picioare","pași"],
+    "char": "🚶",
+    "category": "people"
+  },
+  "bow": {
+    "keywords": ["om","masculin","băiat"],
+    "char": "🙇",
+    "category": "people"
+  },
+  "princess": {
+    "keywords": ["fată","femeie","Femeie","blond","coroană","regal","regină"],
+    "char": "👸",
+    "category": "people"
+  },
+  "whale": {
+    "keywords": ["animal","natură","mare","ocean"],
+    "char": "🐳",
+    "category": "animals_and_nature"
+  },
+  "couple": {
+    "keywords": ["pereche","oameni","uman","dragoste","data","datare","ca","afecţiune","Valentines","căsătorie"],
+    "char": "👫",
+    "category": "people"
+  },
+  "no_good": {
+    "keywords": ["Femeie","fată","femeie","nu"],
+    "char": "🙅",
+    "category": "people"
+  },
+  "whale2": {
+    "keywords": ["animal","natură","mare","ocean"],
+    "char": "🐋",
+    "category": "animals_and_nature"
+  },
+  "tiger2": {
+    "keywords": ["animal","natură","hohote"],
+    "char": "🐅",
+    "category": "animals_and_nature"
+  },
+  "leopard": {
+    "keywords": ["animal","natură"],
+    "char": "🐆",
+    "category": "animals_and_nature"
+  },
+  "information_desk_person": {
+    "keywords": ["Femeie","fată","femeie","uman","informație"],
+    "char": "💁",
+    "category": "people"
+  },
+  "goat": {
+    "keywords": ["animal","natură"],
+    "char": "🐐",
+    "category": "animals_and_nature"
+  },
+  "raising_hand": {
+    "keywords": ["Femeie","fată","femeie"],
+    "char": "🙋",
+    "category": "people"
+  },
+  "snake": {
+    "keywords": ["animal","rău","natură","senzație","piton"],
+    "char": "🐍",
+    "category": "animals_and_nature"
+  },
+  "cow2": {
+    "keywords": ["vită","bou","animal","natură","muget","lapte"],
+    "char": "🐄",
+    "category": "animals_and_nature"
+  },
+  "camel": {
+    "keywords": ["animal","natură","Fierbinte","deşert","cocoașă"],
+    "char": "🐫",
+    "category": "animals_and_nature"
+  },
+  "ram": {
+    "keywords": ["animal","oaie","natură"],
+    "char": "🐏",
+    "category": "animals_and_nature"
+  },
+  "rooster": {
+    "keywords": ["animal","natură","pui"],
+    "char": "🐓",
+    "category": "animals_and_nature"
+  },
+  "person_frowning": {
+    "keywords": ["Femeie","fată","femeie","Statele Unite ale Americii","deprimat","descurajat","nefericit"],
+    "char": "🙍",
+    "category": "people"
+  },
+  "person_with_pouting_face": {
+    "keywords": ["Femeie","fată","femeie"],
+    "char": "🙎",
+    "category": "people"
+  },
+  "dog2": {
+    "keywords": ["animal","natură","prieten","doge","animal de companie","credincios"],
+    "char": "🐕",
+    "category": "animals_and_nature"
+  },
+  "rabbit2": {
+    "keywords": ["animal","natură","animal de companie","magie","arc"],
+    "char": "🐇",
+    "category": "animals_and_nature"
+  },
+  "dragon": {
+    "keywords": ["animal","mit","natură","chinez","verde"],
+    "char": "🐉",
+    "category": "animals_and_nature"
+  },
+  "dragon_face": {
+    "keywords": ["animal","mit","natură","chinez","verde"],
+    "char": "🐲",
+    "category": "animals_and_nature"
+  },
+  "deciduous_tree": {
+    "keywords": ["plantă","natură"],
+    "char": "🌳",
+    "category": "animals_and_nature"
+  },
+  "cactus": {
+    "keywords": ["vegetal","plantă","natură"],
+    "char": "🌵",
+    "category": "animals_and_nature"
+  },
+  "massage": {
+    "keywords": ["Femeie","fată","femeie","cap"],
+    "char": "💆",
+    "category": "people"
+  },
+  "elephant": {
+    "keywords": ["animal","natură","nas","Tailanda","circ"],
+    "char": "🐘",
+    "category": "animals_and_nature"
+  },
+  "couple_with_heart": {
+    "keywords": ["pereche","dragoste","ca","afecţiune","uman","datare","Valentines","căsătorie"],
+    "char": "💑",
+    "category": "people"
+  },
+  "palm_tree": {
+    "keywords": ["plantă","vegetal","natură","vară","plajă","Mojito"],
+    "char": "🌴",
+    "category": "animals_and_nature"
+  },
+  "haircut": {
+    "keywords": ["Femeie","fată","femeie"],
+    "char": "💇",
+    "category": "people"
+  },
+  "hibiscus": {
+    "keywords": ["plantă","vegetal","flori","plajă"],
+    "char": "🌺",
+    "category": "animals_and_nature"
+  },
+  "four_leaf_clover": {
+    "keywords": ["vegetal","plantă","natură","norocos","irlandez"],
+    "char": "🍀",
+    "category": "animals_and_nature"
+  },
+  "bamboo": {
+    "keywords": ["plantă","natură","vegetal","urs panda","pine_decoration"],
+    "char": "🎍",
+    "category": "animals_and_nature"
+  },
+  "family": {
+    "keywords": ["Acasă","părinţi","copil","mama","tata","tată","mamă","oameni","uman"],
+    "char": "👪",
+    "category": "people"
+  },
+  "maple_leaf": {
+    "keywords": ["natură","plantă","vegetal","Canada","cădea"],
+    "char": "🍁",
+    "category": "animals_and_nature"
+  },
+  "blossom": {
+    "keywords": ["natură","flori","galben"],
+    "char": "🌼",
+    "category": "animals_and_nature"
+  },
+  "female_couplekiss": {
+    "keywords": ["pereche","Valentines","dragoste","ca","datare","căsătorie"],
+    "char": "👩‍❤️‍💋‍👩",
+    "category": "people"
+  },
+  "bouquet": {
+    "keywords": ["flori","natură","arc"],
+    "char": "💐",
+    "category": "animals_and_nature"
+  },
+  "dancers": {
+    "keywords": ["Femeie","iepuras","femei","fete"],
+    "char": "👯",
+    "category": "people"
+  },
+  "family_women_boys": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👩‍👩‍👦‍👦",
+    "category": "people"
+  },
+  "family_man_woman_girls": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👩‍👧‍👧",
+    "category": "people"
+  },
+  "family_women_girl_boy": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👩‍👩‍👧‍👦",
+    "category": "people"
+  },
+  "family_man_woman_boys": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👩‍👦‍👦",
+    "category": "people"
+  },
+  "spider_web": {
+    "keywords": ["animal","insectă","Arachnidelor","mătase"],
+    "char": "🕸",
+    "category": "animals_and_nature"
+  },
+  "family_women_girl": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👩‍👩‍👧",
+    "category": "people"
+  },
+  "family_men_girl": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👨‍👧",
+    "category": "people"
+  },
+  "earth_africa": {
+    "keywords": ["glob","lume","internaţional"],
+    "char": "🌍",
+    "category": "animals_and_nature"
+  },
+  "jack_o_lantern": {
+    "keywords": ["Halloween","ușoară","dovleac","înfiorător","cădea"],
+    "char": "🎃",
+    "category": "animals_and_nature"
+  },
+  "family_men_boy": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👨‍👦",
+    "category": "people"
+  },
+  "family_women_girls": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👩‍👩‍👧‍👧",
+    "category": "people"
+  },
+  "family_men_girl_boy": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👨‍👧‍👦",
+    "category": "people"
+  },
+  "earth_asia": {
+    "keywords": ["glob","lume","Orientul","internaţional"],
+    "char": "🌏",
+    "category": "animals_and_nature"
+  },
+  "rose": {
+    "keywords": ["flori","Valentines","dragoste","arc"],
+    "char": "🌹",
+    "category": "animals_and_nature"
+  },
+  "family_men_girls": {
+    "keywords": ["Acasă","părinţi","oameni","uman","copii"],
+    "char": "👨‍👨‍👧‍👧",
+    "category": "people"
+  },
+  "last_quarter_moon": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌗",
+    "category": "animals_and_nature"
+  },
+  "waxing_crescent_moon": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌒",
+    "category": "animals_and_nature"
+  },
+  "full_moon_with_face": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌝",
+    "category": "animals_and_nature"
+  },
+  "new_moon_with_face": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌚",
+    "category": "animals_and_nature"
+  },
+  "first_quarter_moon_with_face": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌛",
+    "category": "animals_and_nature"
+  },
+  "white_sun_with_small_cloud": {
+    "keywords": "[]",
+    "char": "🌤",
+    "category": "animals_and_nature"
+  },
+  "sun_with_face": {
+    "keywords": ["natură","dimineaţă","cer"],
+    "char": "🌞",
+    "category": "animals_and_nature"
+  },
+  "comet": {
+    "keywords": "[]",
+    "char": "☄",
+    "category": "animals_and_nature"
+  },
+  "sunny": {
+    "keywords": ["vreme","natură","strălucire","vară","plajă","arc"],
+    "char": "☀️",
+    "category": "animals_and_nature"
+  },
+  "sparkles": {
+    "keywords": ["stele","strălucire","lucios","misto","minunat","bun","magie"],
+    "char": "✨",
+    "category": "animals_and_nature"
+  },
+  "partly_sunny": {
+    "keywords": ["vreme","natură","noros","dimineaţă","cădea","arc"],
+    "char": "⛅",
+    "category": "animals_and_nature"
+  },
+  "star2": {
+    "keywords": ["noapte","scânteie","minunat","bun","magie"],
+    "char": "🌟",
+    "category": "animals_and_nature"
+  },
+  "fire": {
+    "keywords": ["Fierbinte","bucătar","flacără"],
+    "char": "🔥",
+    "category": "animals_and_nature"
+  },
+  "cloud_with_lightning": {
+    "keywords": ["vreme","tunet"],
+    "char": "🌩",
+    "category": "animals_and_nature"
+  },
+  "dash": {
+    "keywords": ["vânt","aer","rapid","cir","viteză","fum","sufla"],
+    "char": "💨",
+    "category": "animals_and_nature"
+  },
+  "jeans": {
+    "keywords": ["Modă","cumpărături"],
+    "char": "👖",
+    "category": "people"
+  },
+  "umbrella": {
+    "keywords": ["ploios","vreme","arc"],
+    "char": "☔",
+    "category": "animals_and_nature"
+  },
+  "bikini": {
+    "keywords": ["înot","Femeie","femeie","fată","Modă","plajă","vară"],
+    "char": "👙",
+    "category": "people"
+  },
+  "lipstick": {
+    "keywords": ["Femeie","fată","Modă","femeie"],
+    "char": "💄",
+    "category": "people"
+  },
+  "high_heel": {
+    "keywords": ["Modă","pantofi","Femeie","pompe","stilet"],
+    "char": "👠",
+    "category": "people"
+  },
+  "ocean": {
+    "keywords": ["mare","apă","val","natură","tsunami","dezastru"],
+    "char": "🌊",
+    "category": "animals_and_nature"
+  },
+  "pouch": {
+    "keywords": ["sac","accesorii","cumpărături"],
+    "char": "👝",
+    "category": "people"
+  },
+  "boot": {
+    "keywords": ["pantofi","Modă"],
+    "char": "👢",
+    "category": "people"
+  },
+  "necktie": {
+    "keywords": ["cămaşă","suitup","formal","Modă","pânză","Afaceri"],
+    "char": "👔",
+    "category": "people"
+  },
+  "tomato": {
+    "keywords": ["fruct","vegetal","natură","alimente"],
+    "char": "🍅",
+    "category": "food_and_drink"
+  },
+  "corn": {
+    "keywords": ["alimente","vegetal","plantă"],
+    "char": "🌽",
+    "category": "food_and_drink"
+  },
+  "closed_umbrella": {
+    "keywords": ["vreme","ploaie","burniță"],
+    "char": "🌂",
+    "category": "people"
+  },
+  "purse": {
+    "keywords": ["Modă","accesorii","bani","vânzări","cumpărături"],
+    "char": "👛",
+    "category": "people"
+  },
+  "cat": {
+    "keywords": ["animal","miau","natură","animal de companie"],
+    "char": "🐱",
+    "category": "animals_and_nature"
+  },
+  "mouse": {
+    "keywords": ["animal","natură","brânză","rozător"],
+    "char": "🐭",
+    "category": "animals_and_nature"
+  },
+  "egg": {
+    "keywords": ["alimente","mic dejun","bucătărie"],
+    "char": "🍳",
+    "category": "food_and_drink"
+  },
+  "pizza": {
+    "keywords": ["alimente","parte"],
+    "char": "🍕",
+    "category": "food_and_drink"
+  },
+  "hamburger": {
+    "keywords": ["carne","fast food","vită","cheeseburger","McDonalds","Regele burgerilor"],
+    "char": "🍔",
+    "category": "food_and_drink"
+  },
+  "fish_cake": {
+    "keywords": ["alimente","Japonia","mare","plajă"],
+    "char": "🍥",
+    "category": "food_and_drink"
+  },
+  "chicken": {
+    "keywords": ["animal","gogâlț","natură","pasăre"],
+    "char": "🐔",
+    "category": "animals_and_nature"
+  },
+  "hear_no_evil": {
+    "keywords": ["animal","maimuţă","natură"],
+    "char": "🙉",
+    "category": "animals_and_nature"
+  },
+  "cow": {
+    "keywords": ["vită","bou","animal","natură","muget","lapte"],
+    "char": "🐮",
+    "category": "animals_and_nature"
+  },
+  "monkey": {
+    "keywords": ["animal","natură","banană","circ"],
+    "char": "🐒",
+    "category": "animals_and_nature"
+  },
+  "dango": {
+    "keywords": ["alimente","desert","dulce","japonez"],
+    "char": "🍡",
+    "category": "food_and_drink"
+  },
+  "mortar_board": {
+    "keywords": ["şcoală","colegiu","grad","universitate","absolvire","cap","are","legal","învăța","educaţie"],
+    "char": "🎓",
+    "category": "people"
+  },
+  "birthday": {
+    "keywords": ["alimente","desert"],
+    "char": "🎂",
+    "category": "food_and_drink"
+  },
+  "shaved_ice": {
+    "keywords": ["Fierbinte","desert","vară"],
+    "char": "🍧",
+    "category": "food_and_drink"
+  },
+  "cookie": {
+    "keywords": ["alimente","gustare","Oreo","ciocolată","dulce","desert"],
+    "char": "🍪",
+    "category": "food_and_drink"
+  },
+  "chocolate_bar": {
+    "keywords": ["alimente","gustare","desert","dulce"],
+    "char": "🍫",
+    "category": "food_and_drink"
+  },
+  "lollipop": {
+    "keywords": ["alimente","gustare","bomboane","dulce"],
+    "char": "🍭",
+    "category": "food_and_drink"
+  },
+  "wolf": {
+    "keywords": ["animal","natură","sălbatic"],
+    "char": "🐺",
+    "category": "animals_and_nature"
+  },
+  "penguin": {
+    "keywords": ["animal","natură"],
+    "char": "🐧",
+    "category": "animals_and_nature"
+  },
+  "baby_chick": {
+    "keywords": ["animal","pui","pasăre"],
+    "char": "🐤",
+    "category": "animals_and_nature"
+  },
+  "baby_bottle": {
+    "keywords": ["alimente","recipient","lapte"],
+    "char": "🍼",
+    "category": "food_and_drink"
+  },
+  "football": {
+    "keywords": ["sport","bile","NFL"],
+    "char": "🏈",
+    "category": "activity"
+  },
+  "wine_glass": {
+    "keywords": ["băutură","băutură","beat","alcool","beție"],
+    "char": "🍷",
+    "category": "food_and_drink"
+  },
+  "volleyball": {
+    "keywords": ["sport","bile"],
+    "char": "🏐",
+    "category": "activity"
+  },
+  "cocktail": {
+    "keywords": ["băutură","beat","alcool","băutură","beție","Mojito"],
+    "char": "🍸",
+    "category": "food_and_drink"
+  },
+  "oden": {
+    "keywords": ["alimente","japonez"],
+    "char": "🍢",
+    "category": "food_and_drink"
+  },
+  "sake": {
+    "keywords": ["vin","băutură","beat","băutură","japonez","alcool","beție"],
+    "char": "🍶",
+    "category": "food_and_drink"
+  },
+  "fork_and_knife": {
+    "keywords": ["tacâmuri","bucătărie"],
+    "char": "🍴",
+    "category": "food_and_drink"
+  },
+  "skier": {
+    "keywords": ["sport","iarnă","zăpadă"],
+    "char": "⛷",
+    "category": "activity"
+  },
+  "tennis": {
+    "keywords": ["sport","bile","verde"],
+    "char": "🎾",
+    "category": "activity"
+  },
+  "snowboarder": {
+    "keywords": ["sport","iarnă"],
+    "char": "🏂",
+    "category": "activity"
+  },
+  "beers": {
+    "keywords": ["relaxa","băutură","băutură","beat","parte","cârciumă","vară","alcool","beție"],
+    "char": "🍻",
+    "category": "food_and_drink"
+  },
+  "fishing_pole_and_fish": {
+    "keywords": ["alimente","pasiune","vară"],
+    "char": "🎣",
+    "category": "activity"
+  },
+  "surfer": {
+    "keywords": ["sport","ocean","mare","vară","plajă"],
+    "char": "🏄",
+    "category": "activity"
+  },
+  "mountain_bicyclist": {
+    "keywords": ["transport","sport","uman","rasă","bicicletă"],
+    "char": "🚵",
+    "category": "activity"
+  },
+  "horse_racing": {
+    "keywords": ["animal","pariu","competiție","jocuri de noroc","noroc"],
+    "char": "🏇",
+    "category": "activity"
+  },
+  "performing_arts": {
+    "keywords": ["actorie","teatru","dramă"],
+    "char": "🎭",
+    "category": "activity"
+  },
+  "person_with_ball": {
+    "keywords": ["sport","uman"],
+    "char": "⛹",
+    "category": "activity"
+  },
+  "sports_medal": {
+    "keywords": ["adjudecare","câștigător"],
+    "char": "🏅",
+    "category": "activity"
+  },
+  "running_shirt_with_sash": {
+    "keywords": ["Joaca","carnaval"],
+    "char": "🎽",
+    "category": "activity"
+  },
+  "trumpet": {
+    "keywords": ["muzică","alamă"],
+    "char": "🎺",
+    "category": "activity"
+  },
+  "microphone": {
+    "keywords": ["sunet","muzică","PA"],
+    "char": "🎤",
+    "category": "activity"
+  },
+  "scorpion": {
+    "keywords": ["animal","Arachnidelor"],
+    "char": "🦂",
+    "category": "animals_and_nature"
+  },
+  "headphones": {
+    "keywords": ["muzică","scor","gadget-uri"],
+    "char": "🎧",
+    "category": "activity"
+  },
+  "clapper": {
+    "keywords": ["film","film","record"],
+    "char": "🎬",
+    "category": "activity"
+  },
+  "space_invader": {
+    "keywords": ["joc","arcadă","Joaca"],
+    "char": "👾",
+    "category": "activity"
+  },
+  "fish": {
+    "keywords": ["animal","alimente","natură"],
+    "char": "🐟",
+    "category": "animals_and_nature"
+  },
+  "bow_and_arrow": {
+    "keywords": "[]",
+    "char": "🏹",
+    "category": "activity"
+  },
+  "saxophone": {
+    "keywords": ["muzică","instrument","jazz","blues"],
+    "char": "🎷",
+    "category": "activity"
+  },
+  "guitar": {
+    "keywords": ["muzică","instrument"],
+    "char": "🎸",
+    "category": "activity"
+  },
+  "slot_machine": {
+    "keywords": ["dar","joc de noroc","vegas","mașină de fructe","noroc","cazinou"],
+    "char": "🎰",
+    "category": "activity"
+  },
+  "blue_car": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚙",
+    "category": "travel_and_places"
+  },
+  "dromedary_camel": {
+    "keywords": ["animal","Fierbinte","deşert","cocoașă"],
+    "char": "🐪",
+    "category": "animals_and_nature"
+  },
+  "rat": {
+    "keywords": ["animal","mouse","rozător"],
+    "char": "🐀",
+    "category": "animals_and_nature"
+  },
+  "racing_car": {
+    "keywords": ["sport","rasă","rapid","formulă","f1"],
+    "char": "🏎",
+    "category": "travel_and_places"
+  },
+  "pig2": {
+    "keywords": ["animal","natură"],
+    "char": "🐖",
+    "category": "animals_and_nature"
+  },
+  "turkey": {
+    "keywords": ["animal","pasăre"],
+    "char": "🦃",
+    "category": "animals_and_nature"
+  },
+  "minibus": {
+    "keywords": ["vehicul","mașină","transport"],
+    "char": "🚐",
+    "category": "travel_and_places"
+  },
+  "bike": {
+    "keywords": ["sport","bicicletă","exercițiu","hipster"],
+    "char": "🚲",
+    "category": "travel_and_places"
+  },
+  "railway_car": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚃",
+    "category": "travel_and_places"
+  },
+  "police_car": {
+    "keywords": ["vehicul","autoturisme","transport","lege","legal","executare"],
+    "char": "🚓",
+    "category": "travel_and_places"
+  },
+  "oncoming_police_car": {
+    "keywords": ["vehicul","lege","legal","executare","911"],
+    "char": "🚔",
+    "category": "travel_and_places"
+  },
+  "christmas_tree": {
+    "keywords": ["festival","concediu de odihna","decembrie","Crăciun","celebrare"],
+    "char": "🎄",
+    "category": "animals_and_nature"
+  },
+  "chipmunk": {
+    "keywords": ["animal","natură","rozător","veveriţă"],
+    "char": "🐿",
+    "category": "animals_and_nature"
+  },
+  "monorail": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚝",
+    "category": "travel_and_places"
+  },
+  "shamrock": {
+    "keywords": ["vegetal","plantă","natură","irlandez","trifoi"],
+    "char": "☘",
+    "category": "animals_and_nature"
+  },
+  "seedling": {
+    "keywords": ["plantă","natură","iarbă","peluză","arc"],
+    "char": "🌱",
+    "category": "animals_and_nature"
+  },
+  "train2": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚆",
+    "category": "travel_and_places"
+  },
+  "light_rail": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚈",
+    "category": "travel_and_places"
+  },
+  "suspension_railway": {
+    "keywords": ["vehicul","transport"],
+    "char": "🚟",
+    "category": "travel_and_places"
+  },
+  "herb": {
+    "keywords": ["vegetal","plantă","medicament","buruiană","iarbă","peluză"],
+    "char": "🌿",
+    "category": "animals_and_nature"
+  },
+  "leaves": {
+    "keywords": ["natură","plantă","copac","vegetal","iarbă","peluză","arc"],
+    "char": "🍃",
+    "category": "animals_and_nature"
+  },
+  "fallen_leaf": {
+    "keywords": ["natură","plantă","vegetal","frunze"],
+    "char": "🍂",
+    "category": "animals_and_nature"
+  },
+  "station": {
+    "keywords": ["transport","vehicul","public"],
+    "char": "🚉",
+    "category": "travel_and_places"
+  },
+  "steam_locomotive": {
+    "keywords": ["transport","vehicul","tren"],
+    "char": "🚂",
+    "category": "travel_and_places"
+  },
+  "musical_keyboard": {
+    "keywords": ["plan","instrument"],
+    "char": "🎹",
+    "category": "activity"
+  },
+  "airplane_arrival": {
+    "keywords": ["aeroport","zbor","îmbarcare"],
+    "char": "🛬",
+    "category": "travel_and_places"
+  },
+  "sunflower": {
+    "keywords": ["natură","plantă","cădea"],
+    "char": "🌻",
+    "category": "animals_and_nature"
+  },
+  "motor_boat": {
+    "keywords": "[]",
+    "char": "🛥",
+    "category": "travel_and_places"
+  },
+  "tanabata_tree": {
+    "keywords": ["plantă","natură","ramură","vară"],
+    "char": "🎋",
+    "category": "animals_and_nature"
+  },
+  "ferry": {
+    "keywords": ["barcă","navă","iaht"],
+    "char": "⛴",
+    "category": "travel_and_places"
+  },
+  "cherry_blossom": {
+    "keywords": ["natură","plantă","arc","floare"],
+    "char": "🌸",
+    "category": "animals_and_nature"
+  },
+  "rocket": {
+    "keywords": ["lansa","navă","staffmode","NASA","spațiul cosmic","spațiul cosmic","a zbura"],
+    "char": "🚀",
+    "category": "travel_and_places"
+  },
+  "speedboat": {
+    "keywords": ["navă","transport","vehicul","vară"],
+    "char": "🚤",
+    "category": "travel_and_places"
+  },
+  "anchor": {
+    "keywords": ["navă","BAC","mare","barcă"],
+    "char": "⚓",
+    "category": "travel_and_places"
+  },
+  "chestnut": {
+    "keywords": ["alimente","veveriţă"],
+    "char": "🌰",
+    "category": "animals_and_nature"
+  },
+  "shell": {
+    "keywords": ["natură","mare","plajă"],
+    "char": "🐚",
+    "category": "animals_and_nature"
+  },
+  "earth_americas": {
+    "keywords": ["glob","lume","Statele Unite ale Americii","internaţional"],
+    "char": "🌎",
+    "category": "animals_and_nature"
+  },
+  "waning_gibbous_moon": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi","waxing_gibbous_moon"],
+    "char": "🌖",
+    "category": "animals_and_nature"
+  },
+  "full_moon": {
+    "keywords": ["natură","galben","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌕",
+    "category": "animals_and_nature"
+  },
+  "passenger_ship": {
+    "keywords": ["iaht","croazieră","BAC"],
+    "char": "🛳",
+    "category": "travel_and_places"
+  },
+  "busstop": {
+    "keywords": ["transport","aștepta"],
+    "char": "🚏",
+    "category": "travel_and_places"
+  },
+  "building_construction": {
+    "keywords": ["legănare","lucru","progres"],
+    "char": "🏗",
+    "category": "travel_and_places"
+  },
+  "dove_of_peace": {
+    "keywords": ["animal","pasăre"],
+    "char": "🕊",
+    "category": "animals_and_nature"
+  },
+  "fountain": {
+    "keywords": ["fotografie","vară","apă","proaspăt"],
+    "char": "⛲",
+    "category": "travel_and_places"
+  },
+  "waning_crescent_moon": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌘",
+    "category": "animals_and_nature"
+  },
+  "ship": {
+    "keywords": ["transport","titanic","lansa"],
+    "char": "🚢",
+    "category": "travel_and_places"
+  },
+  "first_quarter_moon": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌓",
+    "category": "animals_and_nature"
+  },
+  "tent": {
+    "keywords": ["fotografie","camping","în aer liber"],
+    "char": "⛺",
+    "category": "travel_and_places"
+  },
+  "railway_track": {
+    "keywords": ["tren","transport"],
+    "char": "🛤",
+    "category": "travel_and_places"
+  },
+  "desert": {
+    "keywords": ["fotografie","cald","Sharah"],
+    "char": "🏜",
+    "category": "travel_and_places"
+  },
+  "sunrise_over_mountains": {
+    "keywords": ["vedere","concediu de odihna","fotografie"],
+    "char": "🌄",
+    "category": "travel_and_places"
+  },
+  "tram": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚊",
+    "category": "travel_and_places"
+  },
+  "moon": {
+    "keywords": ["natură","noapte","cer","gri","amurg","planetă","spaţiu","seară","dormi"],
+    "char": "🌔",
+    "category": "animals_and_nature"
+  },
+  "motorway": {
+    "keywords": ["drum","Cupertino","interstatal","șosea"],
+    "char": "🛣",
+    "category": "travel_and_places"
+  },
+  "sunrise": {
+    "keywords": ["dimineaţă","vedere","concediu de odihna","fotografie"],
+    "char": "🌅",
+    "category": "travel_and_places"
+  },
+  "milky_way": {
+    "keywords": ["fotografie","spaţiu","stele"],
+    "char": "🌌",
+    "category": "travel_and_places"
+  },
+  "last_quarter_moon_with_face": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌜",
+    "category": "animals_and_nature"
+  },
+  "stars": {
+    "keywords": ["noapte","fotografie"],
+    "char": "🌠",
+    "category": "travel_and_places"
+  },
+  "night_with_stars": {
+    "keywords": ["seară","oraș","centrul orasului"],
+    "char": "🌃",
+    "category": "travel_and_places"
+  },
+  "star": {
+    "keywords": ["noapte","galben"],
+    "char": "⭐",
+    "category": "animals_and_nature"
+  },
+  "japanese_castle": {
+    "keywords": ["fotografie","clădire"],
+    "char": "🏯",
+    "category": "travel_and_places"
+  },
+  "fireworks": {
+    "keywords": ["fotografie","festival","carnaval","Felicitări"],
+    "char": "🎆",
+    "category": "travel_and_places"
+  },
+  "dizzy": {
+    "keywords": ["stea","scânteie","trage","magie"],
+    "char": "💫",
+    "category": "animals_and_nature"
+  },
+  "cloud": {
+    "keywords": ["vreme","cer"],
+    "char": "☁️",
+    "category": "animals_and_nature"
+  },
+  "stadium": {
+    "keywords": ["fotografie","loc","sport","concert","loc de întâlnire"],
+    "char": "🏟",
+    "category": "travel_and_places"
+  },
+  "white_sun_behind_cloud": {
+    "keywords": "[]",
+    "char": "🌥",
+    "category": "animals_and_nature"
+  },
+  "hospital": {
+    "keywords": ["clădire","sănătate","interventie chirurgicala","doctor"],
+    "char": "🏥",
+    "category": "travel_and_places"
+  },
+  "thunder_cloud_and_rain": {
+    "keywords": ["vreme","fulger"],
+    "char": "⛈",
+    "category": "animals_and_nature"
+  },
+  "cloud_with_rain": {
+    "keywords": "[]",
+    "char": "🌧",
+    "category": "animals_and_nature"
+  },
+  "snowflake": {
+    "keywords": ["iarnă","sezon","rece","vreme","Crăciun","Crăciun"],
+    "char": "❄️",
+    "category": "animals_and_nature"
+  },
+  "shinto_shrine": {
+    "keywords": ["templu","Japonia","kyoto"],
+    "char": "⛩",
+    "category": "travel_and_places"
+  },
+  "synagogue": {
+    "keywords": ["iudaismul","cult","templu","evreiesc"],
+    "char": "🕍",
+    "category": "travel_and_places"
+  },
+  "wedding": {
+    "keywords": ["dragoste","ca","afecţiune","cuplu","căsătorie","mireasă","mire"],
+    "char": "💒",
+    "category": "travel_and_places"
+  },
+  "boom": {
+    "keywords": ["bombă","exploda","explozie","coliziune","cu sufletul la gură"],
+    "char": "💥",
+    "category": "animals_and_nature"
+  },
+  "joystick": {
+    "keywords": ["joc","Joaca"],
+    "char": "🕹",
+    "category": "objects"
+  },
+  "cloud_with_snow": {
+    "keywords": "[]",
+    "char": "🌨",
+    "category": "animals_and_nature"
+  },
+  "green_apple": {
+    "keywords": ["fruct","natură"],
+    "char": "🍏",
+    "category": "food_and_drink"
+  },
+  "cloud_with_tornado": {
+    "keywords": ["vreme","ciclon","twister"],
+    "char": "🌪",
+    "category": "animals_and_nature"
+  },
+  "tangerine": {
+    "keywords": ["alimente","fruct","natură","portocale"],
+    "char": "🍊",
+    "category": "food_and_drink"
+  },
+  "lemon": {
+    "keywords": ["fruct","natură"],
+    "char": "🍋",
+    "category": "food_and_drink"
+  },
+  "floppy_disk": {
+    "keywords": ["oldschool","tehnologie","Salvați","'90","80s"],
+    "char": "💾",
+    "category": "objects"
+  },
+  "camera": {
+    "keywords": ["gadget-uri","fotografie"],
+    "char": "📷",
+    "category": "objects"
+  },
+  "video_camera": {
+    "keywords": ["film","record"],
+    "char": "📹",
+    "category": "objects"
+  },
+  "movie_camera": {
+    "keywords": ["film","record"],
+    "char": "🎥",
+    "category": "objects"
+  },
+  "dvd": {
+    "keywords": ["CD","disc","disc"],
+    "char": "📀",
+    "category": "objects"
+  },
+  "camera_with_flash": {
+    "keywords": ["fotografie","gadget-uri"],
+    "char": "📸",
+    "category": "objects"
+  },
+  "radio": {
+    "keywords": ["comunicare","muzică","podcast","program"],
+    "char": "📻",
+    "category": "objects"
+  },
+  "fax": {
+    "keywords": ["comunicare","tehnologie"],
+    "char": "📠",
+    "category": "objects"
+  },
+  "pear": {
+    "keywords": ["fruct","natură","alimente"],
+    "char": "🍐",
+    "category": "food_and_drink"
+  },
+  "battery": {
+    "keywords": ["putere","energie","suporta"],
+    "char": "🔋",
+    "category": "objects"
+  },
+  "bulb": {
+    "keywords": ["ușoară","electricitate","idee"],
+    "char": "💡",
+    "category": "objects"
+  },
+  "flashlight": {
+    "keywords": ["întuneric","camping","vedere","noapte"],
+    "char": "🔦",
+    "category": "objects"
+  },
+  "euro": {
+    "keywords": ["bani","vânzări","dolar","valută"],
+    "char": "💶",
+    "category": "objects"
+  },
+  "watermelon": {
+    "keywords": ["fruct","alimente","picnic","vară"],
+    "char": "🍉",
+    "category": "food_and_drink"
+  },
+  "moneybag": {
+    "keywords": ["dolar","plată","monede","vânzare"],
+    "char": "💰",
+    "category": "objects"
+  },
+  "wastebasket": {
+    "keywords": ["sunt","Gunoi","gunoi","gunoi","arunca"],
+    "char": "🗑",
+    "category": "objects"
+  },
+  "wrench": {
+    "keywords": ["unelte","diy","ikea","repara","maintainer"],
+    "char": "🔧",
+    "category": "objects"
+  },
+  "chains": {
+    "keywords": ["blocare","arestare"],
+    "char": "⛓",
+    "category": "objects"
+  },
+  "hammer_and_wrench": {
+    "keywords": ["unelte","construi","crea"],
+    "char": "🛠",
+    "category": "objects"
+  },
+  "bomb": {
+    "keywords": ["bum","exploda","explozie","terorism"],
+    "char": "💣",
+    "category": "objects"
+  },
+  "smoking": {
+    "keywords": ["ucide","tutun","ţigară","comun"],
+    "char": "🚬",
+    "category": "objects"
+  },
+  "crystal_ball": {
+    "keywords": ["disc","parte","magie","circ","ghicitoare"],
+    "char": "🔮",
+    "category": "objects"
+  },
+  "barber": {
+    "keywords": ["par","salon","stil"],
+    "char": "💈",
+    "category": "objects"
+  },
+  "alembic": {
+    "keywords": ["distilare","ştiinţă","experiment"],
+    "char": "⚗",
+    "category": "objects"
+  },
+  "gun": {
+    "keywords": ["violenţă","armă","pistol","revolver"],
+    "char": "🔫",
+    "category": "objects"
+  },
+  "thermometer": {
+    "keywords": ["vreme","temperatura","Fierbinte","rece"],
+    "char": "🌡",
+    "category": "objects"
+  },
+  "toilet": {
+    "keywords": ["toaletă","WC","washroom","baie","nebun"],
+    "char": "🚽",
+    "category": "objects"
+  },
+  "label": {
+    "keywords": ["vânzare","etichetă"],
+    "char": "🏷",
+    "category": "objects"
+  },
+  "shower": {
+    "keywords": ["curat","apă","baie"],
+    "char": "🚿",
+    "category": "objects"
+  },
+  "door": {
+    "keywords": ["casă","intrare","Ieșire"],
+    "char": "🚪",
+    "category": "objects"
+  },
+  "pill": {
+    "keywords": ["sănătate","medicament","doctor","farmacie","medicament"],
+    "char": "💊",
+    "category": "objects"
+  },
+  "old_key": {
+    "keywords": ["blocare","de","parola"],
+    "char": "🗝",
+    "category": "objects"
+  },
+  "candle": {
+    "keywords": ["foc","ceară"],
+    "char": "🕯",
+    "category": "objects"
+  },
+  "couch_and_lamp": {
+    "keywords": ["citit","rece"],
+    "char": "🛋",
+    "category": "objects"
+  },
+  "frame_with_picture": {
+    "keywords": "[]",
+    "char": "🖼",
+    "category": "objects"
+  },
+  "bellhop_bell": {
+    "keywords": "[]",
+    "char": "🛎",
+    "category": "objects"
+  },
+  "shopping_bags": {
+    "keywords": ["centru comercial","a cumpara","cumpărare"],
+    "char": "🛍",
+    "category": "objects"
+  },
+  "flags": {
+    "keywords": ["peşte","japonez","koinobori","crap","steag"],
+    "char": "🎏",
+    "category": "objects"
+  },
+  "izakaya_lantern": {
+    "keywords": ["ușoară","hârtie","Halloween","Înfricoșător"],
+    "char": "🏮",
+    "category": "objects"
+  },
+  "email": {
+    "keywords": ["comunicare","Inbox"],
+    "char": "📧",
+    "category": "objects"
+  },
+  "new_moon": {
+    "keywords": ["natură","amurg","planetă","spaţiu","noapte","seară","dormi"],
+    "char": "🌑",
+    "category": "animals_and_nature"
+  },
+  "postal_horn": {
+    "keywords": ["instrument","muzică"],
+    "char": "📯",
+    "category": "objects"
+  },
+  "womans_hat": {
+    "keywords": ["Modă","accesorii","Femeie","doamnă","arc"],
+    "char": "👒",
+    "category": "people"
+  },
+  "mailbox_closed": {
+    "keywords": ["e-mail","comunicare","Inbox"],
+    "char": "📪",
+    "category": "objects"
+  },
+  "tophat": {
+    "keywords": ["magie","domn","Deschidere","circ"],
+    "char": "🎩",
+    "category": "people"
+  },
+  "postbox": {
+    "keywords": ["e-mail","scrisoare","plic"],
+    "char": "📮",
+    "category": "objects"
+  },
+  "athletic_shoe": {
+    "keywords": ["pantofi","sport","adidași"],
+    "char": "👟",
+    "category": "people"
+  },
+  "scroll": {
+    "keywords": ["documente","vechi","istorie","hârtie"],
+    "char": "📜",
+    "category": "objects"
+  },
+  "page_facing_up": {
+    "keywords": ["documente","birou","hârtie","informație"],
+    "char": "📄",
+    "category": "objects"
+  },
+  "chart_with_upwards_trend": {
+    "keywords": ["grafic","prezentare","statistici","recuperare","Afaceri","economie","bani","vânzări","bun","succes"],
+    "char": "📈",
+    "category": "objects"
+  },
+  "crescent_moon": {
+    "keywords": ["noapte","dormi","cer","seară","magie"],
+    "char": "🌙",
+    "category": "animals_and_nature"
+  },
+  "calendar": {
+    "keywords": ["programa","data","planificare"],
+    "char": "📆",
+    "category": "objects"
+  },
+  "card_index": {
+    "keywords": ["Afaceri","papetărie"],
+    "char": "📇",
+    "category": "objects"
+  },
+  "file_folder": {
+    "keywords": ["documente","Afaceri","birou"],
+    "char": "📁",
+    "category": "objects"
+  },
+  "dark_sunglasses": {
+    "keywords": ["față","misto","accesorii"],
+    "char": "🕶",
+    "category": "people"
+  },
+  "eyeglasses": {
+    "keywords": ["Modă","accesorii","vedere","tocilar","dork","tocilar"],
+    "char": "👓",
+    "category": "people"
+  },
+  "rolled_up_newspaper": {
+    "keywords": ["presa","titlu"],
+    "char": "🗞",
+    "category": "objects"
+  },
+  "open_file_folder": {
+    "keywords": ["documente","sarcină"],
+    "char": "📂",
+    "category": "objects"
+  },
+  "blue_book": {
+    "keywords": ["citit","bibliotecă","cunoştinţe","învăța","studiu"],
+    "char": "📘",
+    "category": "objects"
+  },
+  "white_sun_behind_cloud_with_rain": {
+    "keywords": "[]",
+    "char": "🌦",
+    "category": "animals_and_nature"
+  },
+  "oncoming_taxi": {
+    "keywords": ["vehicul","autoturisme","uber"],
+    "char": "🚖",
+    "category": "travel_and_places"
+  },
+  "ledger": {
+    "keywords": ["notițe","hârtie"],
+    "char": "📒",
+    "category": "objects"
+  },
+  "linked_paperclips": {
+    "keywords": ["documente","papetărie"],
+    "char": "🖇",
+    "category": "objects"
+  },
+  "round_pushpin": {
+    "keywords": ["papetărie","Locație","Hartă","aici"],
+    "char": "📍",
+    "category": "objects"
+  },
+  "lock": {
+    "keywords": ["Securitate","parola","lacăt"],
+    "char": "🔒",
+    "category": "objects"
+  },
+  "pencil2": {
+    "keywords": ["papetărie","scrie","hârtie","scris","şcoală","studiu"],
+    "char": "✏️",
+    "category": "objects"
+  },
+  "lock_with_ink_pen": {
+    "keywords": ["Securitate","secret"],
+    "char": "🔏",
+    "category": "objects"
+  },
+  "lower_left_crayon": {
+    "keywords": ["desen","creativitate"],
+    "char": "🖍",
+    "category": "objects"
+  },
+  "lower_left_fountain_pen": {
+    "keywords": ["papetărie","scris","scrie"],
+    "char": "🖋",
+    "category": "objects"
+  },
+  "memo": {
+    "keywords": ["scrie","documente","papetărie","creion","hârtie","scris","legal","examen","chestionare","Test","studiu"],
+    "char": "📝",
+    "category": "objects"
+  },
+  "bear": {
+    "keywords": ["animal","natură","sălbatic"],
+    "char": "🐻",
+    "category": "animals_and_nature"
+  },
+  "waving_white_flag": {
+    "keywords": ["pierzând","pierzător","pierdut","predare","renunță","eșua"],
+    "char": "🏳",
+    "category": "objects"
+  },
+  "waving_black_flag": {
+    "keywords": "[]",
+    "char": "🏴",
+    "category": "objects"
+  },
+  "zap": {
+    "keywords": ["tunet","vreme","fulger","rapid"],
+    "char": "⚡",
+    "category": "animals_and_nature"
+  },
+  "koala": {
+    "keywords": ["animal","natură"],
+    "char": "🐨",
+    "category": "animals_and_nature"
+  },
+  "snowman_with_snow": {
+    "keywords": ["iarnă","sezon","rece","vreme","Crăciun","Crăciun","îngheţat"],
+    "char": "☃",
+    "category": "animals_and_nature"
+  },
+  "blue_heart": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines"],
+    "char": "💙",
+    "category": "symbols"
+  },
+  "snowman": {
+    "keywords": ["iarnă","sezon","rece","vreme","Crăciun","Crăciun","îngheţat","without_snow"],
+    "char": "⛄",
+    "category": "animals_and_nature"
+  },
+  "wind_blowing_face": {
+    "keywords": ["gust","aer"],
+    "char": "🌬",
+    "category": "animals_and_nature"
+  },
+  "green_heart": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines"],
+    "char": "💚",
+    "category": "symbols"
+  },
+  "heart": {
+    "keywords": ["dragoste","ca","Valentines"],
+    "char": "❤️",
+    "category": "symbols"
+  },
+  "fog": {
+    "keywords": "[]",
+    "char": "🌫",
+    "category": "animals_and_nature"
+  },
+  "yellow_heart": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines"],
+    "char": "💛",
+    "category": "symbols"
+  },
+  "heavy_heart_exclamation_mark_ornament": {
+    "keywords": ["decor","dragoste"],
+    "char": "❣",
+    "category": "symbols"
+  },
+  "umbrella_without_rain": {
+    "keywords": ["vreme","arc"],
+    "char": "☂",
+    "category": "animals_and_nature"
+  },
+  "apple": {
+    "keywords": ["fruct","Mac","şcoală"],
+    "char": "🍎",
+    "category": "food_and_drink"
+  },
+  "droplet": {
+    "keywords": ["apă","picatură","robinet","arc"],
+    "char": "💧",
+    "category": "animals_and_nature"
+  },
+  "sweat_drops": {
+    "keywords": ["apă","picatură","oops"],
+    "char": "💦",
+    "category": "animals_and_nature"
+  },
+  "broken_heart": {
+    "keywords": ["Statele Unite ale Americii","scuze","pauză"],
+    "char": "💔",
+    "category": "symbols"
+  },
+  "lion_face": {
+    "keywords": ["animal","natură"],
+    "char": "🦁",
+    "category": "animals_and_nature"
+  },
+  "pig_nose": {
+    "keywords": ["animal","Oink"],
+    "char": "🐽",
+    "category": "animals_and_nature"
+  },
+  "pig": {
+    "keywords": ["animal","Oink","natură"],
+    "char": "🐷",
+    "category": "animals_and_nature"
+  },
+  "octopus": {
+    "keywords": ["animal","creatură","ocean","mare","natură","plajă"],
+    "char": "🐙",
+    "category": "animals_and_nature"
+  },
+  "frog": {
+    "keywords": ["animal","natură","cârâit","lingău"],
+    "char": "🐸",
+    "category": "animals_and_nature"
+  },
+  "see_no_evil": {
+    "keywords": ["maimuţă","animal","natură","haha"],
+    "char": "🙈",
+    "category": "animals_and_nature"
+  },
+  "heart_decoration": {
+    "keywords": ["violet-pătrat","dragoste","ca"],
+    "char": "💟",
+    "category": "symbols"
+  },
+  "heartpulse": {
+    "keywords": ["ca","dragoste","afecţiune","Valentines","roz"],
+    "char": "💗",
+    "category": "symbols"
+  },
+  "gift_heart": {
+    "keywords": ["dragoste","Valentines"],
+    "char": "💝",
+    "category": "symbols"
+  },
+  "star_and_crescent": {
+    "keywords": "[]",
+    "char": "☪",
+    "category": "symbols"
+  },
+  "star_of_david": {
+    "keywords": "[]",
+    "char": "✡",
+    "category": "symbols"
+  },
+  "latin_cross": {
+    "keywords": "[]",
+    "char": "✝",
+    "category": "symbols"
+  },
+  "strawberry": {
+    "keywords": ["fruct","alimente","natură"],
+    "char": "🍓",
+    "category": "food_and_drink"
+  },
+  "cupid": {
+    "keywords": ["dragoste","ca","inimă","afecţiune","Valentines"],
+    "char": "💘",
+    "category": "symbols"
+  },
+  "menorah_with_nine_branches": {
+    "keywords": ["Hanukkah","lumânări","evreiesc"],
+    "char": "🕎",
+    "category": "symbols"
+  },
+  "grapes": {
+    "keywords": ["fruct","alimente","vin"],
+    "char": "🍇",
+    "category": "food_and_drink"
+  },
+  "orthodox_cross": {
+    "keywords": ["suppedaneum","religie"],
+    "char": "☦",
+    "category": "symbols"
+  },
+  "melon": {
+    "keywords": ["fruct","natură","alimente"],
+    "char": "🍈",
+    "category": "food_and_drink"
+  },
+  "gemini": {
+    "keywords": ["semn","zodiac","violet-pătrat","astrologie"],
+    "char": "♊",
+    "category": "symbols"
+  },
+  "ophiuchus": {
+    "keywords": ["semn","violet-pătrat","constelaţie","astrologie"],
+    "char": "⛎",
+    "category": "symbols"
+  },
+  "leo": {
+    "keywords": ["semn","violet-pătrat","zodiac","astrologie"],
+    "char": "♌",
+    "category": "symbols"
+  },
+  "u7533": {
+    "keywords": ["chinez","japonez","Kanji","portocaliu-pătrat"],
+    "char": "🈸",
+    "category": "symbols"
+  },
+  "eight_pointed_black_star": {
+    "keywords": ["portocaliu-pătrat","formă","poligon"],
+    "char": "✴️",
+    "category": "symbols"
+  },
+  "u7a7a": {
+    "keywords": ["Kanji","japonez","chinez","gol","cer","albastru-pătrat"],
+    "char": "🈳",
+    "category": "symbols"
+  },
+  "vs": {
+    "keywords": ["cuvinte","portocaliu-pătrat"],
+    "char": "🆚",
+    "category": "symbols"
+  },
+  "do_not_litter": {
+    "keywords": ["Gunoi","sunt","gunoi","cerc"],
+    "char": "🚯",
+    "category": "symbols"
+  },
+  "question": {
+    "keywords": ["îndoială","confuz"],
+    "char": "❓",
+    "category": "symbols"
+  },
+  "grey_question": {
+    "keywords": ["îndoieli","gri","huh","confuz"],
+    "char": "❔",
+    "category": "symbols"
+  },
+  "hotsprings": {
+    "keywords": ["baie","cald","relaxa"],
+    "char": "♨️",
+    "category": "symbols"
+  },
+  "warning": {
+    "keywords": ["exclamare","legănare","alerta","eroare","problemă","problema"],
+    "char": "⚠️",
+    "category": "symbols"
+  },
+  "bangbang": {
+    "keywords": ["exclamare","surprinde"],
+    "char": "‼️",
+    "category": "symbols"
+  },
+  "parking": {
+    "keywords": ["autoturisme","albastru-pătrat","alfabet","scrisoare"],
+    "char": "🅿️",
+    "category": "symbols"
+  },
+  "customs": {
+    "keywords": ["pașaport","frontieră","albastru-pătrat"],
+    "char": "🛃",
+    "category": "symbols"
+  },
+  "triangular_flag_on_post": {
+    "keywords": ["marcă","piatră de hotar","loc"],
+    "char": "🚩",
+    "category": "objects"
+  },
+  "low_brightness": {
+    "keywords": ["soare","dupa amiaza","cald","vară"],
+    "char": "🔅",
+    "category": "symbols"
+  },
+  "eight": {
+    "keywords": ["8","albastru-pătrat","numerele"],
+    "char": "8️⃣",
+    "category": "symbols"
+  },
+  "black_square_for_stop": {
+    "keywords": "[]",
+    "char": "⏹",
+    "category": "symbols"
+  },
+  "keycap_ten": {
+    "keywords": ["numerele","10","albastru-pătrat"],
+    "char": "🔟",
+    "category": "symbols"
+  },
+  "nine": {
+    "keywords": ["albastru-pătrat","numerele","9"],
+    "char": "9️⃣",
+    "category": "symbols"
+  },
+  "double_vertical_bar": {
+    "keywords": ["pauză","albastru-pătrat"],
+    "char": "⏸",
+    "category": "symbols"
+  },
+  "arrow_forward": {
+    "keywords": ["albastru-pătrat","dreapta","direcţie","Joaca"],
+    "char": "▶️",
+    "category": "symbols"
+  },
+  "keycap_star": {
+    "keywords": "[]",
+    "char": "*⃣",
+    "category": "symbols"
+  },
+  "black_right_pointing_triangle_with_double_vertical_bar": {
+    "keywords": ["redirecţiona","Următor →","albastru-pătrat"],
+    "char": "⏭",
+    "category": "symbols"
+  },
+  "abcd": {
+    "keywords": ["albastru-pătrat","alfabet"],
+    "char": "🔡",
+    "category": "symbols"
+  },
+  "abc": {
+    "keywords": ["albastru-pătrat","alfabet"],
+    "char": "🔤",
+    "category": "symbols"
+  },
+  "copyright": {
+    "keywords": ["ip","licență","cerc","lege","legal"],
+    "char": "©️",
+    "category": "symbols"
+  },
+  "back": {
+    "keywords": ["săgeată","cuvinte","întoarcere"],
+    "char": "🔙",
+    "category": "symbols"
+  },
+  "bird": {
+    "keywords": ["animal","natură","a zbura","tweet","arc"],
+    "char": "🐦",
+    "category": "animals_and_nature"
+  },
+  "on": {
+    "keywords": ["săgeată","cuvinte"],
+    "char": "🔛",
+    "category": "symbols"
+  },
+  "red_circle": {
+    "keywords": ["formă","eroare","pericol"],
+    "char": "🔴",
+    "category": "symbols"
+  },
+  "tm": {
+    "keywords": ["marcă","marca","lege","legal"],
+    "char": "™️",
+    "category": "symbols"
+  },
+  "top": {
+    "keywords": ["cuvinte","albastru-pătrat"],
+    "char": "🔝",
+    "category": "symbols"
+  },
+  "large_blue_circle": {
+    "keywords": ["formă","icoană","buton"],
+    "char": "🔵",
+    "category": "symbols"
+  },
+  "seven": {
+    "keywords": ["7","numerele","albastru-pătrat","prim"],
+    "char": "7️⃣",
+    "category": "symbols"
+  },
+  "small_red_triangle": {
+    "keywords": ["formă","direcţie","sus","top"],
+    "char": "🔺",
+    "category": "symbols"
+  },
+  "unicorn_face": {
+    "keywords": ["animal","natură","mistic"],
+    "char": "🦄",
+    "category": "animals_and_nature"
+  },
+  "black_small_square": {
+    "keywords": ["formă","icoană"],
+    "char": "▪️",
+    "category": "symbols"
+  },
+  "white_medium_small_square": {
+    "keywords": ["formă","piatră","icoană","buton"],
+    "char": "◽",
+    "category": "symbols"
+  },
+  "white_square_button": {
+    "keywords": ["formă","intrare"],
+    "char": "🔳",
+    "category": "symbols"
+  },
+  "loudspeaker": {
+    "keywords": ["volum","sunet"],
+    "char": "📢",
+    "category": "symbols"
+  },
+  "mute": {
+    "keywords": ["sunet","volum","tăcere","Liniște"],
+    "char": "🔇",
+    "category": "symbols"
+  },
+  "loud_sound": {
+    "keywords": ["volum","zgomot","zgomotos","vorbitor","difuzare"],
+    "char": "🔊",
+    "category": "symbols"
+  },
+  "speaker": {
+    "keywords": ["sunet","volum","tăcere","difuzare"],
+    "char": "🔈",
+    "category": "symbols"
+  },
+  "bell": {
+    "keywords": ["sunet","notificare","Crăciun","Crăciun","dăngăni"],
+    "char": "🔔",
+    "category": "symbols"
+  },
+  "clubs": {
+    "keywords": ["pocher","carduri","magie","costume"],
+    "char": "♣️",
+    "category": "symbols"
+  },
+  "hearts": {
+    "keywords": ["pocher","carduri","magie","costume"],
+    "char": "♥️",
+    "category": "symbols"
+  },
+  "spider": {
+    "keywords": ["animal","Arachnidelor"],
+    "char": "🕷",
+    "category": "animals_and_nature"
+  },
+  "no_bell": {
+    "keywords": ["sunet","volum","mut","Liniște","tăcut"],
+    "char": "🔕",
+    "category": "symbols"
+  },
+  "ant": {
+    "keywords": ["animal","insectă","natură","gândac"],
+    "char": "🐜",
+    "category": "animals_and_nature"
+  },
+  "speech_balloon": {
+    "keywords": ["balon","cuvinte","mesaj","vorbi","chat"],
+    "char": "💬",
+    "category": "symbols"
+  },
+  "left_speech_bubble": {
+    "keywords": ["cuvinte","mesaj","vorbi","chat"],
+    "char": "🗨",
+    "category": "symbols"
+  },
+  "clock12": {
+    "keywords": ["timp","amiază","miezul nopţii","miezul zilei","târziu","din timp","programa"],
+    "char": "🕛",
+    "category": "symbols"
+  },
+  "clock330": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕞",
+    "category": "symbols"
+  },
+  "clock530": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕠",
+    "category": "symbols"
+  },
+  "clock430": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕟",
+    "category": "symbols"
+  },
+  "clock830": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕣",
+    "category": "symbols"
+  },
+  "dolphin": {
+    "keywords": ["animal","natură","peşte","mare","ocean","labă","în sus","plajă"],
+    "char": "🐬",
+    "category": "animals_and_nature"
+  },
+  "clock930": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕤",
+    "category": "symbols"
+  },
+  "blowfish": {
+    "keywords": ["animal","natură","alimente","mare","ocean"],
+    "char": "🐡",
+    "category": "animals_and_nature"
+  },
+  "af": {
+    "keywords": ["afghanistan","steag","naţiune","țară","steag"],
+    "char": "🇦🇫",
+    "category": "flags"
+  },
+  "al": {
+    "keywords": ["Albania","steag","naţiune","țară","steag"],
+    "char": "🇦🇱",
+    "category": "flags"
+  },
+  "crocodile": {
+    "keywords": ["animal","natură","târâtoare","şopârlă","aligator"],
+    "char": "🐊",
+    "category": "animals_and_nature"
+  },
+  "water_buffalo": {
+    "keywords": ["animal","natură","bou","vacă"],
+    "char": "🐃",
+    "category": "animals_and_nature"
+  },
+  "ax": {
+    "keywords": ["Aland","insule","steag","naţiune","țară","steag"],
+    "char": "🇦🇽",
+    "category": "flags"
+  },
+  "as": {
+    "keywords": ["american","samoa","steag","naţiune","țară","steag"],
+    "char": "🇦🇸",
+    "category": "flags"
+  },
+  "clock1130": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕦",
+    "category": "symbols"
+  },
+  "ai": {
+    "keywords": ["anguilla","steag","naţiune","țară","steag"],
+    "char": "🇦🇮",
+    "category": "flags"
+  },
+  "thought_balloon": {
+    "keywords": ["balon","nor","vorbire","gândire"],
+    "char": "💭",
+    "category": "symbols"
+  },
+  "aq": {
+    "keywords": ["antarctica","steag","naţiune","țară","steag"],
+    "char": "🇦🇶",
+    "category": "flags"
+  },
+  "ar": {
+    "keywords": ["Argentina","steag","naţiune","țară","steag"],
+    "char": "🇦🇷",
+    "category": "flags"
+  },
+  "aw": {
+    "keywords": ["aruba","steag","naţiune","țară","steag"],
+    "char": "🇦🇼",
+    "category": "flags"
+  },
+  "am": {
+    "keywords": ["Armenia","steag","naţiune","țară","steag"],
+    "char": "🇦🇲",
+    "category": "flags"
+  },
+  "ag": {
+    "keywords": ["vechi","barbuda","steag","naţiune","țară","steag"],
+    "char": "🇦🇬",
+    "category": "flags"
+  },
+  "au": {
+    "keywords": ["Australia","steag","naţiune","țară","steag"],
+    "char": "🇦🇺",
+    "category": "flags"
+  },
+  "bs": {
+    "keywords": ["bahamas","steag","naţiune","țară","steag"],
+    "char": "🇧🇸",
+    "category": "flags"
+  },
+  "at": {
+    "keywords": ["Austria","steag","naţiune","țară","steag"],
+    "char": "🇦🇹",
+    "category": "flags"
+  },
+  "ox": {
+    "keywords": ["animal","vacă","vită"],
+    "char": "🐂",
+    "category": "animals_and_nature"
+  },
+  "bh": {
+    "keywords": ["bahrain","steag","naţiune","țară","steag"],
+    "char": "🇧🇭",
+    "category": "flags"
+  },
+  "az": {
+    "keywords": ["azerbaidjan","steag","naţiune","țară","steag"],
+    "char": "🇦🇿",
+    "category": "flags"
+  },
+  "by": {
+    "keywords": ["Bielorusia","steag","naţiune","țară","steag"],
+    "char": "🇧🇾",
+    "category": "flags"
+  },
+  "bd": {
+    "keywords": ["bangladesh","steag","naţiune","țară","steag"],
+    "char": "🇧🇩",
+    "category": "flags"
+  },
+  "bb": {
+    "keywords": ["barbados","steag","naţiune","țară","steag"],
+    "char": "🇧🇧",
+    "category": "flags"
+  },
+  "be": {
+    "keywords": ["Belgia","steag","naţiune","țară","steag"],
+    "char": "🇧🇪",
+    "category": "flags"
+  },
+  "bz": {
+    "keywords": ["belize","steag","naţiune","țară","steag"],
+    "char": "🇧🇿",
+    "category": "flags"
+  },
+  "bt": {
+    "keywords": ["Butan","steag","naţiune","țară","steag"],
+    "char": "🇧🇹",
+    "category": "flags"
+  },
+  "bm": {
+    "keywords": ["Bermude","steag","naţiune","țară","steag"],
+    "char": "🇧🇲",
+    "category": "flags"
+  },
+  "bq": {
+    "keywords": ["Bonaire","steag","naţiune","țară","steag"],
+    "char": "🇧🇶",
+    "category": "flags"
+  },
+  "bo": {
+    "keywords": ["Bolivia","steag","naţiune","țară","steag"],
+    "char": "🇧🇴",
+    "category": "flags"
+  },
+  "bj": {
+    "keywords": ["benin","steag","naţiune","țară","steag"],
+    "char": "🇧🇯",
+    "category": "flags"
+  },
+  "bw": {
+    "keywords": ["Botswanei","steag","naţiune","țară","steag"],
+    "char": "🇧🇼",
+    "category": "flags"
+  },
+  "ba": {
+    "keywords": ["bosnia","herțegovina","steag","naţiune","țară","steag"],
+    "char": "🇧🇦",
+    "category": "flags"
+  },
+  "br": {
+    "keywords": ["Brazilia","steag","naţiune","țară","steag"],
+    "char": "🇧🇷",
+    "category": "flags"
+  },
+  "vg": {
+    "keywords": ["britanic","virgin","insule","BVI","steag","naţiune","țară","steag"],
+    "char": "🇻🇬",
+    "category": "flags"
+  },
+  "bn": {
+    "keywords": ["brunei","Darussalam","steag","naţiune","țară","steag"],
+    "char": "🇧🇳",
+    "category": "flags"
+  },
+  "sheep": {
+    "keywords": ["animal","natură","lână","Trimite-l"],
+    "char": "🐑",
+    "category": "animals_and_nature"
+  },
+  "io": {
+    "keywords": ["britanic","indian","ocean","teritoriu","steag","naţiune","țară","steag"],
+    "char": "🇮🇴",
+    "category": "flags"
+  },
+  "mouse2": {
+    "keywords": ["animal","natură","rozător"],
+    "char": "🐁",
+    "category": "animals_and_nature"
+  },
+  "racehorse": {
+    "keywords": ["animal","joc de noroc","noroc"],
+    "char": "🐎",
+    "category": "animals_and_nature"
+  },
+  "cv": {
+    "keywords": ["capă","verde","steag","naţiune","țară","steag"],
+    "char": "🇨🇻",
+    "category": "flags"
+  },
+  "kh": {
+    "keywords": ["Cambogia","steag","naţiune","țară","steag"],
+    "char": "🇰🇭",
+    "category": "flags"
+  },
+  "bg": {
+    "keywords": ["Bulgaria","steag","naţiune","țară","steag"],
+    "char": "🇧🇬",
+    "category": "flags"
+  },
+  "bi": {
+    "keywords": ["burundi","steag","naţiune","țară","steag"],
+    "char": "🇧🇮",
+    "category": "flags"
+  },
+  "ca": {
+    "keywords": ["Canada","steag","naţiune","țară","steag"],
+    "char": "🇨🇦",
+    "category": "flags"
+  },
+  "bf": {
+    "keywords": ["Burkinei","faso","steag","naţiune","țară","steag"],
+    "char": "🇧🇫",
+    "category": "flags"
+  },
+  "cm": {
+    "keywords": ["Camerun","steag","naţiune","țară","steag"],
+    "char": "🇨🇲",
+    "category": "flags"
+  },
+  "ky": {
+    "keywords": ["cayman","insule","steag","naţiune","țară","steag"],
+    "char": "🇰🇾",
+    "category": "flags"
+  },
+  "ic": {
+    "keywords": ["canar","insule","steag","naţiune","țară","steag"],
+    "char": "🇮🇨",
+    "category": "flags"
+  },
+  "poodle": {
+    "keywords": ["câine","animal","101","natură","animal de companie"],
+    "char": "🐩",
+    "category": "animals_and_nature"
+  },
+  "evergreen_tree": {
+    "keywords": ["plantă","natură"],
+    "char": "🌲",
+    "category": "animals_and_nature"
+  },
+  "cn": {
+    "keywords": ["China","chinez","PRC","steag","țară","naţiune","steag"],
+    "char": "🇨🇳",
+    "category": "flags"
+  },
+  "cx": {
+    "keywords": ["Crăciun","insulă","steag","naţiune","țară","steag"],
+    "char": "🇨🇽",
+    "category": "flags"
+  },
+  "cf": {
+    "keywords": ["central","african","republică","steag","naţiune","țară","steag"],
+    "char": "🇨🇫",
+    "category": "flags"
+  },
+  "chile": {
+    "keywords": ["steag","naţiune","țară","steag"],
+    "char": "🇨🇱",
+    "category": "flags"
+  },
+  "cg": {
+    "keywords": ["Congo","steag","naţiune","țară","steag"],
+    "char": "🇨🇬",
+    "category": "flags"
+  },
+  "cc": {
+    "keywords": ["Insulele Cocos","Keeling","insule","steag","naţiune","țară","steag"],
+    "char": "🇨🇨",
+    "category": "flags"
+  },
+  "km": {
+    "keywords": ["Comore","steag","naţiune","țară","steag"],
+    "char": "🇰🇲",
+    "category": "flags"
+  },
+  "feet": {
+    "keywords": ["animal","urmărirea","urme de pasi","câine","pisica","animal de companie","urme de labe"],
+    "char": "🐾",
+    "category": "animals_and_nature"
+  },
+  "cat2": {
+    "keywords": ["animal","miau","animal de companie","pisici"],
+    "char": "🐈",
+    "category": "animals_and_nature"
+  },
+  "ck": {
+    "keywords": ["bucătar","insule","steag","naţiune","țară","steag"],
+    "char": "🇨🇰",
+    "category": "flags"
+  },
+  "td": {
+    "keywords": ["Ciad","steag","naţiune","țară","steag"],
+    "char": "🇹🇩",
+    "category": "flags"
+  },
+  "drc": {
+    "keywords": ["Congo","democratic","republică","steag","naţiune","țară","steag"],
+    "char": "🇨🇩",
+    "category": "flags"
+  },
+  "cr": {
+    "keywords": ["Costa","rica","steag","naţiune","țară","steag"],
+    "char": "🇨🇷",
+    "category": "flags"
+  },
+  "cu": {
+    "keywords": ["Cuba","steag","naţiune","țară","steag"],
+    "char": "🇨🇺",
+    "category": "flags"
+  },
+  "cz": {
+    "keywords": ["Republica Cehă","steag","naţiune","țară","steag"],
+    "char": "🇨🇿",
+    "category": "flags"
+  },
+  "dk": {
+    "keywords": ["Danemarca","steag","naţiune","țară","steag"],
+    "char": "🇩🇰",
+    "category": "flags"
+  },
+  "hr": {
+    "keywords": ["Croaţia","steag","naţiune","țară","steag"],
+    "char": "🇭🇷",
+    "category": "flags"
+  },
+  "cw": {
+    "keywords": ["Curaçao","steag","naţiune","țară","steag"],
+    "char": "🇨🇼",
+    "category": "flags"
+  },
+  "dj": {
+    "keywords": ["Djibuti","steag","naţiune","țară","steag"],
+    "char": "🇩🇯",
+    "category": "flags"
+  },
+  "co": {
+    "keywords": ["Columbia","steag","naţiune","țară","steag"],
+    "char": "🇨🇴",
+    "category": "flags"
+  },
+  "do": {
+    "keywords": ["dominicana","republică","steag","naţiune","țară","steag"],
+    "char": "🇩🇴",
+    "category": "flags"
+  },
+  "cy": {
+    "keywords": ["cipru","steag","naţiune","țară","steag"],
+    "char": "🇨🇾",
+    "category": "flags"
+  },
+  "dm": {
+    "keywords": ["dominica","steag","naţiune","țară","steag"],
+    "char": "🇩🇲",
+    "category": "flags"
+  },
+  "ec": {
+    "keywords": ["Ecuador","steag","naţiune","țară","steag"],
+    "char": "🇪🇨",
+    "category": "flags"
+  },
+  "eg": {
+    "keywords": ["Egipt","steag","naţiune","țară","steag"],
+    "char": "🇪🇬",
+    "category": "flags"
+  },
+  "banana": {
+    "keywords": ["fruct","alimente","maimuţă"],
+    "char": "🍌",
+    "category": "food_and_drink"
+  },
+  "pineapple": {
+    "keywords": ["fruct","natură","alimente"],
+    "char": "🍍",
+    "category": "food_and_drink"
+  },
+  "eggplant": {
+    "keywords": ["vegetal","natură","alimente","vânătă"],
+    "char": "🍆",
+    "category": "food_and_drink"
+  },
+  "cherries": {
+    "keywords": ["alimente","fruct"],
+    "char": "🍒",
+    "category": "food_and_drink"
+  },
+  "peach": {
+    "keywords": ["fruct","natură","alimente"],
+    "char": "🍑",
+    "category": "food_and_drink"
+  },
+  "ear_of_rice": {
+    "keywords": ["natură","plantă"],
+    "char": "🌾",
+    "category": "animals_and_nature"
+  },
+  "hot_pepper": {
+    "keywords": ["alimente","picant"],
+    "char": "🌶",
+    "category": "food_and_drink"
+  },
+  "bread": {
+    "keywords": ["alimente","grâu","mic dejun","paine prajita"],
+    "char": "🍞",
+    "category": "food_and_drink"
+  },
+  "cheese_wedge": {
+    "keywords": ["alimente","chadder"],
+    "char": "🧀",
+    "category": "food_and_drink"
+  },
+  "meat_on_bone": {
+    "keywords": ["bun","alimente","copan"],
+    "char": "🍖",
+    "category": "food_and_drink"
+  },
+  "poultry_leg": {
+    "keywords": ["alimente","carne","copan","pasăre","pui","Curcan"],
+    "char": "🍗",
+    "category": "food_and_drink"
+  },
+  "sweet_potato": {
+    "keywords": ["alimente","natură"],
+    "char": "🍠",
+    "category": "food_and_drink"
+  },
+  "fried_shrimp": {
+    "keywords": ["alimente","animal","aperitiv","vară"],
+    "char": "🍤",
+    "category": "food_and_drink"
+  },
+  "tulip": {
+    "keywords": ["flori","plantă","natură","vară","arc"],
+    "char": "🌷",
+    "category": "animals_and_nature"
+  },
+  "taco": {
+    "keywords": ["alimente","mexican"],
+    "char": "🌮",
+    "category": "food_and_drink"
+  },
+  "fries": {
+    "keywords": ["chipsuri","gustare","fast food"],
+    "char": "🍟",
+    "category": "food_and_drink"
+  },
+  "spaghetti": {
+    "keywords": ["alimente","Italiană","taitei"],
+    "char": "🍝",
+    "category": "food_and_drink"
+  },
+  "hot_dog": {
+    "keywords": ["alimente","Frankfurter","hot dog"],
+    "char": "🌭",
+    "category": "food_and_drink"
+  },
+  "burrito": {
+    "keywords": ["alimente","mexican"],
+    "char": "🌯",
+    "category": "food_and_drink"
+  },
+  "mushroom": {
+    "keywords": ["plantă","vegetal"],
+    "char": "🍄",
+    "category": "animals_and_nature"
+  },
+  "ramen": {
+    "keywords": ["alimente","japonez","taitei","chipsticks"],
+    "char": "🍜",
+    "category": "food_and_drink"
+  },
+  "stew": {
+    "keywords": ["alimente","carne","supă"],
+    "char": "🍲",
+    "category": "food_and_drink"
+  },
+  "bento": {
+    "keywords": ["alimente","japonez","cutie"],
+    "char": "🍱",
+    "category": "food_and_drink"
+  },
+  "sushi": {
+    "keywords": ["alimente","peşte","japonez","orez"],
+    "char": "🍣",
+    "category": "food_and_drink"
+  },
+  "honey_pot": {
+    "keywords": ["albine","dulce","bucătărie"],
+    "char": "🍯",
+    "category": "food_and_drink"
+  },
+  "rice_ball": {
+    "keywords": ["alimente","japonez"],
+    "char": "🍙",
+    "category": "food_and_drink"
+  },
+  "curry": {
+    "keywords": ["alimente","picant","Fierbinte","indian"],
+    "char": "🍛",
+    "category": "food_and_drink"
+  },
+  "rice_cracker": {
+    "keywords": ["alimente","japonez"],
+    "char": "🍘",
+    "category": "food_and_drink"
+  },
+  "rice": {
+    "keywords": ["alimente","China","asiatic"],
+    "char": "🍚",
+    "category": "food_and_drink"
+  },
+  "ice_cream": {
+    "keywords": ["alimente","Fierbinte","desert"],
+    "char": "🍨",
+    "category": "food_and_drink"
+  },
+  "candy": {
+    "keywords": ["gustare","desert","dulce"],
+    "char": "🍬",
+    "category": "food_and_drink"
+  },
+  "icecream": {
+    "keywords": ["alimente","Fierbinte","desert","vară"],
+    "char": "🍦",
+    "category": "food_and_drink"
+  },
+  "custard": {
+    "keywords": ["desert","alimente"],
+    "char": "🍮",
+    "category": "food_and_drink"
+  },
+  "cake": {
+    "keywords": ["alimente","desert"],
+    "char": "🍰",
+    "category": "food_and_drink"
+  },
+  "popcorn": {
+    "keywords": ["alimente","Cinema","filme","gustare"],
+    "char": "🍿",
+    "category": "food_and_drink"
+  },
+  "beer": {
+    "keywords": ["relaxa","băutură","băutură","beat","parte","cârciumă","vară","alcool","beție"],
+    "char": "🍺",
+    "category": "food_and_drink"
+  },
+  "doughnut": {
+    "keywords": ["alimente","desert","gustare","dulce","gogoașă"],
+    "char": "🍩",
+    "category": "food_and_drink"
+  },
+  "gw": {
+    "keywords": ["Guineea","bissau","steag","naţiune","țară","steag"],
+    "char": "🇬🇼",
+    "category": "flags"
+  },
+  "bottle": {
+    "keywords": ["băutură","vin","Șampanie"],
+    "char": "🍾",
+    "category": "food_and_drink"
+  },
+  "tea": {
+    "keywords": ["băutură","castron","mic dejun","verde","britanic"],
+    "char": "🍵",
+    "category": "food_and_drink"
+  },
+  "coffee": {
+    "keywords": ["băutură","cofeină","lapte","exprimat"],
+    "char": "☕",
+    "category": "food_and_drink"
+  },
+  "soccer": {
+    "keywords": ["sport","fotbal"],
+    "char": "⚽",
+    "category": "activity"
+  },
+  "baseball": {
+    "keywords": ["sport","bile"],
+    "char": "⚾",
+    "category": "activity"
+  },
+  "basketball": {
+    "keywords": ["sport","bile","NBA"],
+    "char": "🏀",
+    "category": "activity"
+  },
+  "fork_and_knife_with_plate": {
+    "keywords": ["alimente","mânca","masă","masa de pranz","cină","restaurant"],
+    "char": "🍽",
+    "category": "food_and_drink"
+  },
+  "tropical_drink": {
+    "keywords": ["băutură","cocktail","vară","plajă","alcool","beție","Mojito"],
+    "char": "🍹",
+    "category": "food_and_drink"
+  },
+  "rugby_football": {
+    "keywords": ["sport","echipă"],
+    "char": "🏉",
+    "category": "activity"
+  },
+  "golf": {
+    "keywords": ["sport","Afaceri","steag","gaură","vară"],
+    "char": "⛳",
+    "category": "activity"
+  },
+  "8ball": {
+    "keywords": ["piscină","pasiune","joc","noroc","magie"],
+    "char": "🎱",
+    "category": "activity"
+  },
+  "golfer": {
+    "keywords": ["sport","Afaceri"],
+    "char": "🏌",
+    "category": "activity"
+  },
+  "cricket": {
+    "keywords": "[]",
+    "char": "🏏",
+    "category": "activity"
+  },
+  "badminton": {
+    "keywords": "[]",
+    "char": "🏸",
+    "category": "activity"
+  },
+  "field_hockey": {
+    "keywords": "[]",
+    "char": "🏑",
+    "category": "activity"
+  },
+  "rowboat": {
+    "keywords": ["sport","pasiune","apă","navă"],
+    "char": "🚣",
+    "category": "activity"
+  },
+  "weight_lifter": {
+    "keywords": ["sport","pregătire","exercițiu"],
+    "char": "🏋",
+    "category": "activity"
+  },
+  "swimmer": {
+    "keywords": ["sport","exercițiu","uman","atlet","apă","vară"],
+    "char": "🏊",
+    "category": "activity"
+  },
+  "bath": {
+    "keywords": ["curat","duș","baie"],
+    "char": "🛀",
+    "category": "activity"
+  },
+  "bicyclist": {
+    "keywords": ["sport","bicicletă","exercițiu","hipster"],
+    "char": "🚴",
+    "category": "activity"
+  },
+  "man_levitating": {
+    "keywords": ["costum","Afaceri","lumină","planare","a sari"],
+    "char": "🕴",
+    "category": "activity"
+  },
+  "ee": {
+    "keywords": ["Estonia","steag","naţiune","țară","steag"],
+    "char": "🇪🇪",
+    "category": "flags"
+  },
+  "fo": {
+    "keywords": ["Faroe","insule","steag","naţiune","țară","steag"],
+    "char": "🇫🇴",
+    "category": "flags"
+  },
+  "fi": {
+    "keywords": ["Finlanda","steag","naţiune","țară","steag"],
+    "char": "🇫🇮",
+    "category": "flags"
+  },
+  "et": {
+    "keywords": ["Etiopia","steag","naţiune","țară","steag"],
+    "char": "🇪🇹",
+    "category": "flags"
+  },
+  "gq": {
+    "keywords": ["ecuatorial","Guineea","steag","naţiune","țară","steag"],
+    "char": "🇬🇶",
+    "category": "flags"
+  },
+  "fj": {
+    "keywords": ["fiji","steag","naţiune","țară","steag"],
+    "char": "🇫🇯",
+    "category": "flags"
+  },
+  "trophy": {
+    "keywords": ["a castiga","adjudecare","concurs","loc","FTW","ceremonie"],
+    "char": "🏆",
+    "category": "activity"
+  },
+  "gm": {
+    "keywords": ["gambia","steag","naţiune","țară","steag"],
+    "char": "🇬🇲",
+    "category": "flags"
+  },
+  "ge": {
+    "keywords": ["georgia","steag","naţiune","țară","steag"],
+    "char": "🇬🇪",
+    "category": "flags"
+  },
+  "military_medal": {
+    "keywords": ["adjudecare","câștigător","armată"],
+    "char": "🎖",
+    "category": "activity"
+  },
+  "gi": {
+    "keywords": ["gibraltar","steag","naţiune","țară","steag"],
+    "char": "🇬🇮",
+    "category": "flags"
+  },
+  "rosette": {
+    "keywords": ["floare","decor","militar"],
+    "char": "🏵",
+    "category": "activity"
+  },
+  "gl": {
+    "keywords": ["Groenlanda","steag","naţiune","țară","steag"],
+    "char": "🇬🇱",
+    "category": "flags"
+  },
+  "gr": {
+    "keywords": ["Grecia","steag","naţiune","țară","steag"],
+    "char": "🇬🇷",
+    "category": "flags"
+  },
+  "reminder_ribbon": {
+    "keywords": ["sport","cauza","supprt","conștientizare"],
+    "char": "🎗",
+    "category": "activity"
+  },
+  "gt": {
+    "keywords": ["Guatemala","steag","naţiune","țară","steag"],
+    "char": "🇬🇹",
+    "category": "flags"
+  },
+  "admission_ticket": {
+    "keywords": ["sport","concert","Intrare"],
+    "char": "🎟",
+    "category": "activity"
+  },
+  "gp": {
+    "keywords": ["Guadeloupe","steag","naţiune","țară","steag"],
+    "char": "🇬🇵",
+    "category": "flags"
+  },
+  "tf": {
+    "keywords": ["limba franceza","din sud","teritorii","steag","naţiune","țară","steag"],
+    "char": "🇹🇫",
+    "category": "flags"
+  },
+  "gn": {
+    "keywords": ["Guineea","steag","naţiune","țară","steag"],
+    "char": "🇬🇳",
+    "category": "flags"
+  },
+  "gg": {
+    "keywords": ["jachetă","steag","naţiune","țară","steag"],
+    "char": "🇬🇬",
+    "category": "flags"
+  },
+  "art": {
+    "keywords": ["proiecta","a picta","a desena","colorate"],
+    "char": "🎨",
+    "category": "activity"
+  },
+  "in": {
+    "keywords": ["India","steag","naţiune","țară","steag"],
+    "char": "🇮🇳",
+    "category": "flags"
+  },
+  "indonesia": {
+    "keywords": ["steag","naţiune","țară","steag"],
+    "char": "🇮🇩",
+    "category": "flags"
+  },
+  "ir": {
+    "keywords": ["Iran,","islamica","republică","steag","naţiune","țară","steag"],
+    "char": "🇮🇷",
+    "category": "flags"
+  },
+  "ticket": {
+    "keywords": ["eveniment","concert","trece"],
+    "char": "🎫",
+    "category": "activity"
+  },
+  "hu": {
+    "keywords": ["Ungaria","steag","naţiune","țară","steag"],
+    "char": "🇭🇺",
+    "category": "flags"
+  },
+  "musical_score": {
+    "keywords": ["tripla","cheie"],
+    "char": "🎼",
+    "category": "activity"
+  },
+  "iq": {
+    "keywords": ["irak","steag","naţiune","țară","steag"],
+    "char": "🇮🇶",
+    "category": "flags"
+  },
+  "circus_tent": {
+    "keywords": ["festival","carnaval","parte"],
+    "char": "🎪",
+    "category": "activity"
+  },
+  "il": {
+    "keywords": ["israel","steag","naţiune","țară","steag"],
+    "char": "🇮🇱",
+    "category": "flags"
+  },
+  "gd": {
+    "keywords": ["grenada","steag","naţiune","țară","steag"],
+    "char": "🇬🇩",
+    "category": "flags"
+  },
+  "violin": {
+    "keywords": ["muzică","instrument","orchestră","simfonie"],
+    "char": "🎻",
+    "category": "activity"
+  },
+  "bowling": {
+    "keywords": ["sport","distracţie","Joaca"],
+    "char": "🎳",
+    "category": "activity"
+  },
+  "game_die": {
+    "keywords": ["el spune","întâmplător","tabbletop","Joaca","noroc"],
+    "char": "🎲",
+    "category": "activity"
+  },
+  "video_game": {
+    "keywords": ["Joaca","consolă","PS4","controlor"],
+    "char": "🎮",
+    "category": "activity"
+  },
+  "dart": {
+    "keywords": ["joc","Joaca","bar"],
+    "char": "🎯",
+    "category": "activity"
+  },
+  "car": {
+    "keywords": ["roșu","transport","vehicul"],
+    "char": "🚗",
+    "category": "travel_and_places"
+  },
+  "bus": {
+    "keywords": ["mașină","vehicul","transport"],
+    "char": "🚌",
+    "category": "travel_and_places"
+  },
+  "taxi": {
+    "keywords": ["uber","vehicul","autoturisme","transport"],
+    "char": "🚕",
+    "category": "travel_and_places"
+  },
+  "jp": {
+    "keywords": ["japonez","naţiune","steag","țară","steag"],
+    "char": "🇯🇵",
+    "category": "flags"
+  },
+  "it": {
+    "keywords": ["Italia","steag","naţiune","țară","steag"],
+    "char": "🇮🇹",
+    "category": "flags"
+  },
+  "jm": {
+    "keywords": ["jamaica","steag","naţiune","țară","steag"],
+    "char": "🇯🇲",
+    "category": "flags"
+  },
+  "jo": {
+    "keywords": ["Iordania","steag","naţiune","țară","steag"],
+    "char": "🇯🇴",
+    "category": "flags"
+  },
+  "ke": {
+    "keywords": ["Kenia","steag","naţiune","țară","steag"],
+    "char": "🇰🇪",
+    "category": "flags"
+  },
+  "ki": {
+    "keywords": ["Kiribati","steag","naţiune","țară","steag"],
+    "char": "🇰🇮",
+    "category": "flags"
+  },
+  "kw": {
+    "keywords": ["Kuweit","steag","naţiune","țară","steag"],
+    "char": "🇰🇼",
+    "category": "flags"
+  },
+  "la": {
+    "keywords": ["lao","democratic","republică","steag","naţiune","țară","steag"],
+    "char": "🇱🇦",
+    "category": "flags"
+  },
+  "li": {
+    "keywords": ["Lichtenstein","steag","naţiune","țară","steag"],
+    "char": "🇱🇮",
+    "category": "flags"
+  },
+  "lr": {
+    "keywords": ["liberia","steag","naţiune","țară","steag"],
+    "char": "🇱🇷",
+    "category": "flags"
+  },
+  "kg": {
+    "keywords": ["Kyrgyzstan","steag","naţiune","țară","steag"],
+    "char": "🇰🇬",
+    "category": "flags"
+  },
+  "trolleybus": {
+    "keywords": ["Bart","transport","vehicul"],
+    "char": "🚎",
+    "category": "travel_and_places"
+  },
+  "ambulance": {
+    "keywords": ["sănătate","911","spital"],
+    "char": "🚑",
+    "category": "travel_and_places"
+  },
+  "mo": {
+    "keywords": ["macao","steag","naţiune","țară","steag"],
+    "char": "🇲🇴",
+    "category": "flags"
+  },
+  "truck": {
+    "keywords": ["autoturisme","transport"],
+    "char": "🚚",
+    "category": "travel_and_places"
+  },
+  "racing_motorcycle": {
+    "keywords": ["rasă","sport","rapid"],
+    "char": "🏍",
+    "category": "travel_and_places"
+  },
+  "mk": {
+    "keywords": ["Macedonia,","steag","naţiune","țară","steag"],
+    "char": "🇲🇰",
+    "category": "flags"
+  },
+  "fire_engine": {
+    "keywords": ["transport","autoturisme","vehicul"],
+    "char": "🚒",
+    "category": "travel_and_places"
+  },
+  "mg": {
+    "keywords": ["Madagascar","steag","naţiune","țară","steag"],
+    "char": "🇲🇬",
+    "category": "flags"
+  },
+  "tractor": {
+    "keywords": ["vehicul","mașină","agricultură","agricultură"],
+    "char": "🚜",
+    "category": "travel_and_places"
+  },
+  "mw": {
+    "keywords": ["Malawi","steag","naţiune","țară","steag"],
+    "char": "🇲🇼",
+    "category": "flags"
+  },
+  "my": {
+    "keywords": ["Malaezia","steag","naţiune","țară","steag"],
+    "char": "🇲🇾",
+    "category": "flags"
+  },
+  "oncoming_bus": {
+    "keywords": ["vehicul","transport"],
+    "char": "🚍",
+    "category": "travel_and_places"
+  },
+  "articulated_lorry": {
+    "keywords": ["vehicul","autoturisme","transport","expres"],
+    "char": "🚛",
+    "category": "travel_and_places"
+  },
+  "oncoming_automobile": {
+    "keywords": ["mașină","vehicul","transport"],
+    "char": "🚘",
+    "category": "travel_and_places"
+  },
+  "rotating_light": {
+    "keywords": ["politie","ambulanță","911","caz de urgență","alerta","eroare","tensiuni","lege","legal"],
+    "char": "🚨",
+    "category": "travel_and_places"
+  },
+  "aerial_tramway": {
+    "keywords": ["transport","vehicul","schi"],
+    "char": "🚡",
+    "category": "travel_and_places"
+  },
+  "mountain_cableway": {
+    "keywords": ["transport","vehicul","schi"],
+    "char": "🚠",
+    "category": "travel_and_places"
+  },
+  "bullettrain_front": {
+    "keywords": ["transport","vehicul","viteză","rapid","public","voiaj"],
+    "char": "🚅",
+    "category": "travel_and_places"
+  },
+  "mx": {
+    "keywords": ["Mexic","steag","naţiune","țară","steag"],
+    "char": "🇲🇽",
+    "category": "flags"
+  },
+  "mc": {
+    "keywords": ["monaco","steag","naţiune","țară","steag"],
+    "char": "🇲🇨",
+    "category": "flags"
+  },
+  "bullettrain_side": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚄",
+    "category": "travel_and_places"
+  },
+  "mountain_railway": {
+    "keywords": ["transport","vehicul"],
+    "char": "🚞",
+    "category": "travel_and_places"
+  },
+  "train": {
+    "keywords": ["transport","vehicul","transport","public","voiaj"],
+    "char": "🚋",
+    "category": "travel_and_places"
+  },
+  "helicopter": {
+    "keywords": ["transport","vehicul","a zbura"],
+    "char": "🚁",
+    "category": "travel_and_places"
+  },
+  "small_airplane": {
+    "keywords": ["zbor","transport","a zbura","vehicul"],
+    "char": "🛩",
+    "category": "travel_and_places"
+  },
+  "metro": {
+    "keywords": ["transport","albastru-pătrat","strica","Subteran","tub"],
+    "char": "🚇",
+    "category": "travel_and_places"
+  },
+  "airplane": {
+    "keywords": ["vehicul","transport","zbor","a zbura"],
+    "char": "✈️",
+    "category": "travel_and_places"
+  },
+  "ne": {
+    "keywords": ["niger","steag","naţiune","țară","steag"],
+    "char": "🇳🇪",
+    "category": "flags"
+  },
+  "boat": {
+    "keywords": ["navă","vară","transport","apă","navigație","barcă cu pânze"],
+    "char": "⛵",
+    "category": "travel_and_places"
+  },
+  "airplane_departure": {
+    "keywords": ["aeroport","zbor","aterizare"],
+    "char": "🛫",
+    "category": "travel_and_places"
+  },
+  "nf": {
+    "keywords": ["norfolk","insulă","steag","naţiune","țară","steag"],
+    "char": "🇳🇫",
+    "category": "flags"
+  },
+  "kp": {
+    "keywords": ["Nord","Coreea","naţiune","steag","țară","steag"],
+    "char": "🇰🇵",
+    "category": "flags"
+  },
+  "pk": {
+    "keywords": ["Pakistan","steag","naţiune","țară","steag"],
+    "char": "🇵🇰",
+    "category": "flags"
+  },
+  "pg": {
+    "keywords": ["papua","nou","Guineea","steag","naţiune","țară","steag"],
+    "char": "🇵🇬",
+    "category": "flags"
+  },
+  "ph": {
+    "keywords": ["Filipine","steag","naţiune","țară","steag"],
+    "char": "🇵🇭",
+    "category": "flags"
+  },
+  "pn": {
+    "keywords": ["Pitcairn","steag","naţiune","țară","steag"],
+    "char": "🇵🇳",
+    "category": "flags"
+  },
+  "seat": {
+    "keywords": ["sta","avion","transport","autobuz","zbor","a zbura"],
+    "char": "💺",
+    "category": "travel_and_places"
+  },
+  "traffic_light": {
+    "keywords": ["transport","semnal"],
+    "char": "🚥",
+    "category": "travel_and_places"
+  },
+  "construction": {
+    "keywords": ["legănare","progres","prudență","avertizare"],
+    "char": "🚧",
+    "category": "travel_and_places"
+  },
+  "artificial_satellite": {
+    "keywords": ["comunicare","GPS","orbită","zbor în spațiu","NASA","ISS"],
+    "char": "🛰",
+    "category": "travel_and_places"
+  },
+  "ws": {
+    "keywords": ["samoa","steag","naţiune","țară","steag"],
+    "char": "🇼🇸",
+    "category": "flags"
+  },
+  "saudi_arabia": {
+    "keywords": ["steag","naţiune","țară","steag"],
+    "char": "🇸🇦",
+    "category": "flags"
+  },
+  "vertical_traffic_light": {
+    "keywords": ["transport","conducere"],
+    "char": "🚦",
+    "category": "travel_and_places"
+  },
+  "sn": {
+    "keywords": ["senegal","steag","naţiune","țară","steag"],
+    "char": "🇸🇳",
+    "category": "flags"
+  },
+  "roller_coaster": {
+    "keywords": ["carnaval","loc de joaca","fotografie","distracţie"],
+    "char": "🎢",
+    "category": "travel_and_places"
+  },
+  "fuelpump": {
+    "keywords": ["benzinărie","petrol"],
+    "char": "⛽",
+    "category": "travel_and_places"
+  },
+  "tokyo_tower": {
+    "keywords": ["fotografie","japonez"],
+    "char": "🗼",
+    "category": "travel_and_places"
+  },
+  "checkered_flag": {
+    "keywords": ["concurs","Finishline","rasă","țarc"],
+    "char": "🏁",
+    "category": "travel_and_places"
+  },
+  "carousel_horse": {
+    "keywords": ["fotografie","carnaval"],
+    "char": "🎠",
+    "category": "travel_and_places"
+  },
+  "foggy": {
+    "keywords": ["fotografie","munte"],
+    "char": "🌁",
+    "category": "travel_and_places"
+  },
+  "sg": {
+    "keywords": ["Singapur","steag","naţiune","țară","steag"],
+    "char": "🇸🇬",
+    "category": "flags"
+  },
+  "ferris_wheel": {
+    "keywords": ["fotografie","carnaval","London Eye"],
+    "char": "🎡",
+    "category": "travel_and_places"
+  },
+  "factory": {
+    "keywords": ["clădire","industrie","poluare","fum"],
+    "char": "🏭",
+    "category": "travel_and_places"
+  },
+  "sk": {
+    "keywords": ["Slovacia","steag","naţiune","țară","steag"],
+    "char": "🇸🇰",
+    "category": "flags"
+  },
+  "se": {
+    "keywords": ["Suedia","steag","naţiune","țară","steag"],
+    "char": "🇸🇪",
+    "category": "flags"
+  },
+  "tz": {
+    "keywords": ["tanzania,","Unit","republică","steag","naţiune","țară","steag"],
+    "char": "🇹🇿",
+    "category": "flags"
+  },
+  "ch": {
+    "keywords": ["Elveţia","steag","naţiune","țară","steag"],
+    "char": "🇨🇭",
+    "category": "flags"
+  },
+  "to": {
+    "keywords": ["Tonga","steag","naţiune","țară","steag"],
+    "char": "🇹🇴",
+    "category": "flags"
+  },
+  "mountain": {
+    "keywords": ["fotografie","natură","mediu inconjurator"],
+    "char": "⛰",
+    "category": "travel_and_places"
+  },
+  "tn": {
+    "keywords": ["Tunisia","steag","naţiune","țară","steag"],
+    "char": "🇹🇳",
+    "category": "flags"
+  },
+  "rice_scene": {
+    "keywords": ["fotografie","Japonia","Asia","Tsukimi"],
+    "char": "🎑",
+    "category": "travel_and_places"
+  },
+  "snow_capped_mountain": {
+    "keywords": ["fotografie","natură","mediu inconjurator","iarnă","rece"],
+    "char": "🏔",
+    "category": "travel_and_places"
+  },
+  "turkmenistan": {
+    "keywords": ["steag","naţiune","țară","steag"],
+    "char": "🇹🇲",
+    "category": "flags"
+  },
+  "volcano": {
+    "keywords": ["fotografie","natură","dezastru"],
+    "char": "🌋",
+    "category": "travel_and_places"
+  },
+  "tt": {
+    "keywords": ["trinidad","tobago","steag","naţiune","țară","steag"],
+    "char": "🇹🇹",
+    "category": "flags"
+  },
+  "mount_fuji": {
+    "keywords": ["fotografie","munte","natură","japonez"],
+    "char": "🗻",
+    "category": "travel_and_places"
+  },
+  "japan": {
+    "keywords": ["naţiune","țară","japonez","Asia"],
+    "char": "🗾",
+    "category": "travel_and_places"
+  },
+  "camping": {
+    "keywords": ["fotografie","în aer liber","cort"],
+    "char": "🏕",
+    "category": "travel_and_places"
+  },
+  "virgo": {
+    "keywords": ["semn","zodiac","violet-pătrat","astrologie"],
+    "char": "♍",
+    "category": "symbols"
+  },
+  "vi": {
+    "keywords": ["virgin","insule","ne","steag","naţiune","țară","steag"],
+    "char": "🇻🇮",
+    "category": "flags"
+  },
+  "national_park": {
+    "keywords": ["fotografie","mediu inconjurator","natură"],
+    "char": "🏞",
+    "category": "travel_and_places"
+  },
+  "tc": {
+    "keywords": ["turks","Caicos","insule","steag","naţiune","țară","steag"],
+    "char": "🇹🇨",
+    "category": "flags"
+  },
+  "uy": {
+    "keywords": ["Uruguay","steag","naţiune","țară","steag"],
+    "char": "🇺🇾",
+    "category": "flags"
+  },
+  "uz": {
+    "keywords": ["Uzbekistanul","steag","naţiune","țară","steag"],
+    "char": "🇺🇿",
+    "category": "flags"
+  },
+  "u5272": {
+    "keywords": ["a taia","divide","chinez","Kanji","roz-pătrat"],
+    "char": "🈹",
+    "category": "symbols"
+  },
+  "beach_with_umbrella": {
+    "keywords": ["vreme","vară","cu soare","nisip","Mojito"],
+    "char": "🏖",
+    "category": "travel_and_places"
+  },
+  "u6709": {
+    "keywords": ["portocaliu-pătrat","chinez","avea","Kanji"],
+    "char": "🈶",
+    "category": "symbols"
+  },
+  "desert_island": {
+    "keywords": ["fotografie","tropical","Mojito"],
+    "char": "🏝",
+    "category": "travel_and_places"
+  },
+  "zm": {
+    "keywords": ["zambia","steag","naţiune","țară","steag"],
+    "char": "🇿🇲",
+    "category": "flags"
+  },
+  "city_sunrise": {
+    "keywords": ["fotografie","Buna dimineata","zori de zi"],
+    "char": "🌇",
+    "category": "travel_and_places"
+  },
+  "aquarius": {
+    "keywords": ["semn","violet-pătrat","zodiac","astrologie"],
+    "char": "♒",
+    "category": "symbols"
+  },
+  "x": {
+    "keywords": ["Nu","șterge","elimina","Anulare"],
+    "char": "❌",
+    "category": "symbols"
+  },
+  "exclamation": {
+    "keywords": ["heavy_exclamation_mark","pericol","surprinde","punctuaţie","Wow","avertizare"],
+    "char": "❗",
+    "category": "symbols"
+  },
+  "city_sunset": {
+    "keywords": ["fotografie","seară","cer","clădiri"],
+    "char": "🌆",
+    "category": "travel_and_places"
+  },
+  "bridge_at_night": {
+    "keywords": ["fotografie","San Francisco"],
+    "char": "🌉",
+    "category": "travel_and_places"
+  },
+  "sparkler": {
+    "keywords": ["stele","noapte","strălucire"],
+    "char": "🎇",
+    "category": "travel_and_places"
+  },
+  "godmode": {
+    "keywords": ["osândă","oldschool"],
+    "char": null,
+    "category": "_custom"
+  },
+  "scorpius": {
+    "keywords": ["semn","zodiac","violet-pătrat","astrologie","Scorpionul"],
+    "char": "♏",
+    "category": "symbols"
+  },
+  "buildings": {
+    "keywords": ["case","fotografie"],
+    "char": "🏘",
+    "category": "travel_and_places"
+  },
+  "sagittarius": {
+    "keywords": ["semn","zodiac","violet-pătrat","astrologie"],
+    "char": "♐",
+    "category": "symbols"
+  },
+  "goberserk": {
+    "keywords": ["osândă","furie","sângeros","rănit"],
+    "char": null,
+    "category": "_custom"
+  },
+  "capricorn": {
+    "keywords": ["semn","zodiac","violet-pătrat","astrologie"],
+    "char": "♑",
+    "category": "symbols"
+  },
+  "libra": {
+    "keywords": ["semn","violet-pătrat","zodiac","astrologie"],
+    "char": "♎",
+    "category": "symbols"
+  },
+  "rainbow": {
+    "keywords": ["natură","fericit","inorog","fotografie","cer","arc"],
+    "char": "🌈",
+    "category": "travel_and_places"
+  },
+  "mobile_phone_off": {
+    "keywords": ["mut","portocaliu-pătrat","tăcere","Liniște"],
+    "char": "📴",
+    "category": "symbols"
+  },
+  "id": {
+    "keywords": ["violet-pătrat","cuvinte"],
+    "char": "🆔",
+    "category": "symbols"
+  },
+  "european_castle": {
+    "keywords": ["clădire","drepturi de autor","istorie"],
+    "char": "🏰",
+    "category": "travel_and_places"
+  },
+  "finnadie": {
+    "keywords": ["osândă","oldschool"],
+    "char": null,
+    "category": "_custom"
+  },
+  "u6e80": {
+    "keywords": ["deplin","chinez","japonez","pătrat roșu","Kanji"],
+    "char": "🈵",
+    "category": "symbols"
+  },
+  "congratulations": {
+    "keywords": ["chinez","Kanji","japonez","roșu-cerc"],
+    "char": "㊗️",
+    "category": "symbols"
+  },
+  "u5408": {
+    "keywords": ["japonez","chinez","a adera","Kanji","pătrat roșu"],
+    "char": "🈴",
+    "category": "symbols"
+  },
+  "left_luggage": {
+    "keywords": ["albastru-pătrat","voiaj"],
+    "char": "🛅",
+    "category": "symbols"
+  },
+  "secret": {
+    "keywords": ["intimitate","chinez","sshh","Kanji","roșu-cerc"],
+    "char": "㊙️",
+    "category": "symbols"
+  },
+  "ideograph_advantage": {
+    "keywords": ["chinez","Kanji","obține","obține","cerc"],
+    "char": "🉐",
+    "category": "symbols"
+  },
+  "u7981": {
+    "keywords": ["Kanji","japonez","chinez","interzis","limită","restrâns","pătrat roșu"],
+    "char": "🈲",
+    "category": "symbols"
+  },
+  "baggage_claim": {
+    "keywords": ["albastru-pătrat","aeroport","transport"],
+    "char": "🛄",
+    "category": "symbols"
+  },
+  "cityscape": {
+    "keywords": ["fotografie","viata de noapte","urban"],
+    "char": "🏙",
+    "category": "travel_and_places"
+  },
+  "underage": {
+    "keywords": ["18","băutură","cârciumă","noapte","minor","cerc"],
+    "char": "🔞",
+    "category": "symbols"
+  },
+  "name_badge": {
+    "keywords": ["foc","interzis"],
+    "char": "📛",
+    "category": "symbols"
+  },
+  "non-potable_water": {
+    "keywords": ["băutură","robinet","Atingeți","cerc"],
+    "char": "🚱",
+    "category": "symbols"
+  },
+  "house": {
+    "keywords": ["clădire","Acasă"],
+    "char": "🏠",
+    "category": "travel_and_places"
+  },
+  "anger": {
+    "keywords": ["nervos","nebun"],
+    "char": "💢",
+    "category": "symbols"
+  },
+  "no_pedestrians": {
+    "keywords": ["norme","trecere","mers","cerc"],
+    "char": "🚷",
+    "category": "symbols"
+  },
+  "o": {
+    "keywords": ["cerc","rundă"],
+    "char": "⭕",
+    "category": "symbols"
+  },
+  "statue_of_liberty": {
+    "keywords": ["american","New York"],
+    "char": "🗽",
+    "category": "travel_and_places"
+  },
+  "house_with_garden": {
+    "keywords": ["Acasă","plantă","natură"],
+    "char": "🏡",
+    "category": "travel_and_places"
+  },
+  "no_entry_sign": {
+    "keywords": ["interzis","Stop","limită","a negat","dezaproba","cerc"],
+    "char": "🚫",
+    "category": "symbols"
+  },
+  "no_entry": {
+    "keywords": ["limită","Securitate","intimitate","rău","a negat","Stop","cerc"],
+    "char": "⛔",
+    "category": "symbols"
+  },
+  "no_mobile_phones": {
+    "keywords": ["iphone","mut","cerc"],
+    "char": "📵",
+    "category": "symbols"
+  },
+  "grey_exclamation": {
+    "keywords": ["surprinde","punctuaţie","gri","Wow","avertizare"],
+    "char": "❕",
+    "category": "symbols"
+  },
+  "interrobang": {
+    "keywords": ["ce","punctuaţie","surprinde"],
+    "char": "⁉️",
+    "category": "symbols"
+  },
+  "part_alternation_mark": {
+    "keywords": ["grafic","prezentare","statistici","Afaceri","economie","rău"],
+    "char": "〽️",
+    "category": "symbols"
+  },
+  "european_post_office": {
+    "keywords": ["clădire","e-mail"],
+    "char": "🏤",
+    "category": "travel_and_places"
+  },
+  "high_brightness": {
+    "keywords": ["soare","ușoară"],
+    "char": "🔆",
+    "category": "symbols"
+  },
+  "office": {
+    "keywords": ["clădire","birou","muncă"],
+    "char": "🏢",
+    "category": "travel_and_places"
+  },
+  "fleur_de_lis": {
+    "keywords": ["decorativ","cercetaș"],
+    "char": "⚜",
+    "category": "symbols"
+  },
+  "derelict_house": {
+    "keywords": ["abandon","evacua","spart","clădire"],
+    "char": "🏚",
+    "category": "travel_and_places"
+  },
+  "post_office": {
+    "keywords": ["clădire","e-mail","comunicare"],
+    "char": "🏣",
+    "category": "travel_and_places"
+  },
+  "department_store": {
+    "keywords": ["clădire","cumpărături","centru comercial"],
+    "char": "🏬",
+    "category": "travel_and_places"
+  },
+  "recycle": {
+    "keywords": ["săgeată","mediu inconjurator","gunoi","Gunoi"],
+    "char": "♻️",
+    "category": "symbols"
+  },
+  "trident": {
+    "keywords": ["armă","suliţă"],
+    "char": "🔱",
+    "category": "symbols"
+  },
+  "loop": {
+    "keywords": ["bandă","casetă"],
+    "char": "➿",
+    "category": "symbols"
+  },
+  "diamond_shape_with_a_dot_inside": {
+    "keywords": ["bijuterie","albastru","bijuterie","cristal","extravagant"],
+    "char": "💠",
+    "category": "symbols"
+  },
+  "notes": {
+    "keywords": ["muzică","scor"],
+    "char": "🎶",
+    "category": "symbols"
+  },
+  "white_check_mark": {
+    "keywords": ["verde-pătrat","O.K","de acord","vot","alegere","Răspuns"],
+    "char": "✅",
+    "category": "symbols"
+  },
+  "bank": {
+    "keywords": ["clădire","bani","vânzări","bani gheata","Afaceri","afacere"],
+    "char": "🏦",
+    "category": "travel_and_places"
+  },
+  "sa": {
+    "keywords": ["japonez","albastru-pătrat","katakana"],
+    "char": "🈂️",
+    "category": "symbols"
+  },
+  "hotel": {
+    "keywords": ["clădire","whotel","cazare","checkin"],
+    "char": "🏨",
+    "category": "travel_and_places"
+  },
+  "wheelchair": {
+    "keywords": ["albastru-pătrat","invalid","a11y","accesibilitate"],
+    "char": "♿",
+    "category": "symbols"
+  },
+  "baby_symbol": {
+    "keywords": ["portocaliu-pătrat","copil"],
+    "char": "🚼",
+    "category": "symbols"
+  },
+  "school": {
+    "keywords": ["clădire","student","educaţie","învăța","a preda"],
+    "char": "🏫",
+    "category": "travel_and_places"
+  },
+  "musical_note": {
+    "keywords": ["scor","ton","sunet"],
+    "char": "🎵",
+    "category": "symbols"
+  },
+  "convenience_store": {
+    "keywords": ["clădire","cumpărături","alimente de"],
+    "char": "🏪",
+    "category": "travel_and_places"
+  },
+  "love_hotel": {
+    "keywords": ["ca","afecţiune","datare"],
+    "char": "🏩",
+    "category": "travel_and_places"
+  },
+  "ok": {
+    "keywords": ["bun","de acord","da","albastru-pătrat"],
+    "char": "🆗",
+    "category": "symbols"
+  },
+  "new": {
+    "keywords": ["albastru-pătrat","cuvinte","start"],
+    "char": "🆕",
+    "category": "symbols"
+  },
+  "church": {
+    "keywords": ["clădire","religie","Hristos"],
+    "char": "⛪",
+    "category": "travel_and_places"
+  },
+  "kaaba": {
+    "keywords": ["mecca","moschee","islam"],
+    "char": "🕋",
+    "category": "travel_and_places"
+  },
+  "five": {
+    "keywords": ["5","numerele","albastru-pătrat","prim"],
+    "char": "5️⃣",
+    "category": "symbols"
+  },
+  "watch": {
+    "keywords": ["timp","accesorii"],
+    "char": "⌚",
+    "category": "objects"
+  },
+  "three": {
+    "keywords": ["3","numerele","prim","albastru-pătrat"],
+    "char": "3️⃣",
+    "category": "symbols"
+  },
+  "up": {
+    "keywords": ["albastru-pătrat","de mai sus","înalt"],
+    "char": "🆙",
+    "category": "symbols"
+  },
+  "suspect": {
+    "keywords": ["nebun","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "arrow_double_down": {
+    "keywords": ["albastru-pătrat","direcţie","fund"],
+    "char": "⏬",
+    "category": "symbols"
+  },
+  "iphone": {
+    "keywords": ["tehnologie","măr","gadget-uri","cadran"],
+    "char": "📱",
+    "category": "objects"
+  },
+  "cool": {
+    "keywords": ["cuvinte","albastru-pătrat"],
+    "char": "🆒",
+    "category": "symbols"
+  },
+  "arrow_upper_left": {
+    "keywords": ["albastru-pătrat","punct","direcţie","diagonală","Nord Vest"],
+    "char": "↖️",
+    "category": "symbols"
+  },
+  "arrow_right": {
+    "keywords": ["albastru-pătrat","Următor →"],
+    "char": "➡️",
+    "category": "symbols"
+  },
+  "arrow_left": {
+    "keywords": ["albastru-pătrat","anterior","înapoi"],
+    "char": "⬅️",
+    "category": "symbols"
+  },
+  "museum": {
+    "keywords": ["artă","cultură","istorie"],
+    "char": "🏛",
+    "category": "travel_and_places"
+  },
+  "mosque": {
+    "keywords": ["islam","cult","minaret"],
+    "char": "🕌",
+    "category": "travel_and_places"
+  },
+  "arrow_down": {
+    "keywords": ["albastru-pătrat","direcţie","fund"],
+    "char": "⬇️",
+    "category": "symbols"
+  },
+  "arrow_upper_right": {
+    "keywords": ["albastru-pătrat","punct","direcţie","diagonală","nord-est"],
+    "char": "↗️",
+    "category": "symbols"
+  },
+  "arrow_up": {
+    "keywords": ["albastru-pătrat","continua","top","direcţie"],
+    "char": "⬆️",
+    "category": "symbols"
+  },
+  "arrow_right_hook": {
+    "keywords": ["albastru-pătrat","întoarcere","înrădăcinat","direcţie"],
+    "char": "↪️",
+    "category": "symbols"
+  },
+  "arrows_counterclockwise": {
+    "keywords": ["albastru-pătrat","sincronizați","ciclu"],
+    "char": "🔄",
+    "category": "symbols"
+  },
+  "calling": {
+    "keywords": ["iphone","sosire"],
+    "char": "📲",
+    "category": "objects"
+  },
+  "computer": {
+    "keywords": ["tehnologie","laptop","ecran","afişa","monitor"],
+    "char": "💻",
+    "category": "objects"
+  },
+  "trackball": {
+    "keywords": ["tehnologie","trackpad"],
+    "char": "🖲",
+    "category": "objects"
+  },
+  "keyboard": {
+    "keywords": ["tehnologie","computer","tip","intrare","text"],
+    "char": "⌨",
+    "category": "objects"
+  },
+  "m": {
+    "keywords": ["alfabet","albastru-cerc","scrisoare"],
+    "char": "Ⓜ️",
+    "category": "symbols"
+  },
+  "desktop_computer": {
+    "keywords": ["tehnologie","tehnica de calcul","ecran"],
+    "char": "🖥",
+    "category": "objects"
+  },
+  "registered": {
+    "keywords": ["alfabet","cerc"],
+    "char": "®️",
+    "category": "symbols"
+  },
+  "heavy_check_mark": {
+    "keywords": ["O.K","Nike","Răspuns","da","căpușă"],
+    "char": "✔️",
+    "category": "symbols"
+  },
+  "three_button_mouse": {
+    "keywords": "[]",
+    "char": "🖱",
+    "category": "objects"
+  },
+  "left_right_arrow": {
+    "keywords": ["formă","direcţie","orizontală","lateral"],
+    "char": "↔️",
+    "category": "symbols"
+  },
+  "printer": {
+    "keywords": ["hârtie","cerneală"],
+    "char": "🖨",
+    "category": "objects"
+  },
+  "mahjong": {
+    "keywords": ["joc","Joaca","chinez","Kanji"],
+    "char": "🀄",
+    "category": "symbols"
+  },
+  "white_circle": {
+    "keywords": ["formă","rundă"],
+    "char": "⚪",
+    "category": "symbols"
+  },
+  "ballot_box_with_check": {
+    "keywords": ["O.K","de acord","a confirma","negru-pătrat","vot","alegere","da"],
+    "char": "☑️",
+    "category": "symbols"
+  },
+  "soon": {
+    "keywords": ["săgeată","cuvinte"],
+    "char": "🔜",
+    "category": "symbols"
+  },
+  "cd": {
+    "keywords": ["tehnologie","DVD","disc","disc","'90"],
+    "char": "💿",
+    "category": "objects"
+  },
+  "black_medium_square": {
+    "keywords": ["formă","buton","icoană"],
+    "char": "◼️",
+    "category": "symbols"
+  },
+  "black_large_square": {
+    "keywords": ["formă","icoană","buton"],
+    "char": "⬛",
+    "category": "symbols"
+  },
+  "black_square_button": {
+    "keywords": ["formă","intrare","cadru"],
+    "char": "🔲",
+    "category": "symbols"
+  },
+  "film_projector": {
+    "keywords": ["video","bandă","record","film"],
+    "char": "📽",
+    "category": "objects"
+  },
+  "compression": {
+    "keywords": "[]",
+    "char": "🗜",
+    "category": "objects"
+  },
+  "arrows_clockwise": {
+    "keywords": ["sincronizați","ciclu","rundă","repeta"],
+    "char": "🔃",
+    "category": "symbols"
+  },
+  "currency_exchange": {
+    "keywords": ["bani","vânzări","dolar","voiaj"],
+    "char": "💱",
+    "category": "symbols"
+  },
+  "heavy_minus_sign": {
+    "keywords": ["matematica","calcul","scădea","Mai puțin"],
+    "char": "➖",
+    "category": "symbols"
+  },
+  "heavy_plus_sign": {
+    "keywords": ["matematica","calcul","plus","Mai Mult","crește"],
+    "char": "➕",
+    "category": "symbols"
+  },
+  "black_circle": {
+    "keywords": ["formă","buton","rundă"],
+    "char": "⚫",
+    "category": "symbols"
+  },
+  "radio_button": {
+    "keywords": ["intrare","vechi","muzică","cerc"],
+    "char": "🔘",
+    "category": "symbols"
+  },
+  "telephone_receiver": {
+    "keywords": ["tehnologie","comunicare","cadran"],
+    "char": "📞",
+    "category": "objects"
+  },
+  "minidisc": {
+    "keywords": ["tehnologie","record","date","disc","'90"],
+    "char": "💽",
+    "category": "objects"
+  },
+  "vhs": {
+    "keywords": ["record","video","oldschool","'90","80s"],
+    "char": "📼",
+    "category": "objects"
+  },
+  "tv": {
+    "keywords": ["tehnologie","program","oldschool","spectacol","televiziune"],
+    "char": "📺",
+    "category": "objects"
+  },
+  "pager": {
+    "keywords": ["bbcall","oldschool","'90"],
+    "char": "📟",
+    "category": "objects"
+  },
+  "level_slider": {
+    "keywords": "[]",
+    "char": "🎚",
+    "category": "objects"
+  },
+  "small_red_triangle_down": {
+    "keywords": ["formă","direcţie","fund"],
+    "char": "🔻",
+    "category": "symbols"
+  },
+  "white_medium_square": {
+    "keywords": ["formă","piatră","icoană"],
+    "char": "◻️",
+    "category": "symbols"
+  },
+  "white_small_square": {
+    "keywords": ["formă","icoană"],
+    "char": "▫️",
+    "category": "symbols"
+  },
+  "studio_microphone": {
+    "keywords": ["cântăreaţă","înregistrare","artist"],
+    "char": "🎙",
+    "category": "objects"
+  },
+  "control_knobs": {
+    "keywords": "[]",
+    "char": "🎛",
+    "category": "objects"
+  },
+  "stopwatch": {
+    "keywords": ["timp","termen limita"],
+    "char": "⏱",
+    "category": "objects"
+  },
+  "timer_clock": {
+    "keywords": "[]",
+    "char": "⏲",
+    "category": "objects"
+  },
+  "mantelpiece_clock": {
+    "keywords": "[]",
+    "char": "🕰",
+    "category": "objects"
+  },
+  "hourglass_flowing_sand": {
+    "keywords": ["oldschool","timp","numărătoarea inversă"],
+    "char": "⏳",
+    "category": "objects"
+  },
+  "hourglass": {
+    "keywords": ["timp","ceas","oldschool","limită","examen","chestionare","Test"],
+    "char": "⌛",
+    "category": "objects"
+  },
+  "alarm_clock": {
+    "keywords": ["timp","trezi"],
+    "char": "⏰",
+    "category": "objects"
+  },
+  "satellite": {
+    "keywords": ["comunicare","viitor","radio","spaţiu"],
+    "char": "📡",
+    "category": "objects"
+  },
+  "electric_plug": {
+    "keywords": ["încărcător","putere"],
+    "char": "🔌",
+    "category": "objects"
+  },
+  "oil_drum": {
+    "keywords": "[]",
+    "char": "🛢",
+    "category": "objects"
+  },
+  "money_with_wings": {
+    "keywords": ["dolar","bancnote","plată","vânzare"],
+    "char": "💸",
+    "category": "objects"
+  },
+  "dollar": {
+    "keywords": ["bani","vânzări","factură","valută"],
+    "char": "💵",
+    "category": "objects"
+  },
+  "yen": {
+    "keywords": ["bani","vânzări","japonez","dolar","valută"],
+    "char": "💴",
+    "category": "objects"
+  },
+  "pound": {
+    "keywords": ["britanic","veritabil","bani","vânzări","bancnote","Regatul Unit","Anglia","valută"],
+    "char": "💷",
+    "category": "objects"
+  },
+  "scales": {
+    "keywords": ["lege","dreptate","greutate"],
+    "char": "⚖",
+    "category": "objects"
+  },
+  "hammer": {
+    "keywords": ["unelte","construi","crea"],
+    "char": "🔨",
+    "category": "objects"
+  },
+  "gem": {
+    "keywords": ["albastru","rubin","diamant","Bijuterii"],
+    "char": "💎",
+    "category": "objects"
+  },
+  "pick": {
+    "keywords": ["unelte","tu"],
+    "char": "⛏",
+    "category": "objects"
+  },
+  "nut_and_bolt": {
+    "keywords": ["la indemana","unelte","repara"],
+    "char": "🔩",
+    "category": "objects"
+  },
+  "gear": {
+    "keywords": "[]",
+    "char": "⚙",
+    "category": "objects"
+  },
+  "dagger_knife": {
+    "keywords": "[]",
+    "char": "🗡",
+    "category": "objects"
+  },
+  "hocho": {
+    "keywords": ["cuţit","lamă","tacâmuri","bucătărie","armă"],
+    "char": "🔪",
+    "category": "objects"
+  },
+  "crossed_swords": {
+    "keywords": "[]",
+    "char": "⚔",
+    "category": "objects"
+  },
+  "shield": {
+    "keywords": ["protecţie","Securitate"],
+    "char": "🛡",
+    "category": "objects"
+  },
+  "coffin": {
+    "keywords": ["vampir","mort","","moarte","RIP","cimitir","cimitir"],
+    "char": "⚰",
+    "category": "objects"
+  },
+  "skull_and_crossbones": {
+    "keywords": ["otravă","pericol","mortal","infricosator"],
+    "char": "☠",
+    "category": "objects"
+  },
+  "prayer_beads": {
+    "keywords": ["dhikr","religios"],
+    "char": "📿",
+    "category": "objects"
+  },
+  "amphora": {
+    "keywords": ["vază","borcan"],
+    "char": "🏺",
+    "category": "objects"
+  },
+  "funeral_urn": {
+    "keywords": ["mort","","moarte","RIP","cenusa"],
+    "char": "⚱",
+    "category": "objects"
+  },
+  "telescope": {
+    "keywords": ["stele","spaţiu","Zoom"],
+    "char": "🔭",
+    "category": "objects"
+  },
+  "hole": {
+    "keywords": "[]",
+    "char": "🕳",
+    "category": "objects"
+  },
+  "microscope": {
+    "keywords": ["laborator","experiment","Zoom","ştiinţă","studiu"],
+    "char": "🔬",
+    "category": "objects"
+  },
+  "syringe": {
+    "keywords": ["sănătate","spital","droguri","sânge","medicament","ac","doctor","asistent medical"],
+    "char": "💉",
+    "category": "objects"
+  },
+  "bathtub": {
+    "keywords": ["curat","duș","baie"],
+    "char": "🛁",
+    "category": "objects"
+  },
+  "key": {
+    "keywords": ["blocare","de","parola"],
+    "char": "🔑",
+    "category": "objects"
+  },
+  "bookmark": {
+    "keywords": ["favorit","eticheta","Salvați"],
+    "char": "🔖",
+    "category": "objects"
+  },
+  "taurus": {
+    "keywords": ["violet-pătrat","semn","zodiac","astrologie"],
+    "char": "♉",
+    "category": "symbols"
+  },
+  "sleeping_accommodation": {
+    "keywords": ["pat","odihnă"],
+    "char": "🛌",
+    "category": "objects"
+  },
+  "bed": {
+    "keywords": ["dormi","odihnă"],
+    "char": "🛏",
+    "category": "objects"
+  },
+  "cancer": {
+    "keywords": ["semn","zodiac","violet-pătrat","astrologie"],
+    "char": "♋",
+    "category": "symbols"
+  },
+  "aries": {
+    "keywords": ["semn","violet-pătrat","zodiac","astrologie"],
+    "char": "♈",
+    "category": "symbols"
+  },
+  "umbrella_on_ground": {
+    "keywords": ["vreme","vară"],
+    "char": "⛱",
+    "category": "objects"
+  },
+  "moyai": {
+    "keywords": ["stâncă","insula Pastelui","frumos"],
+    "char": "🗿",
+    "category": "objects"
+  },
+  "balloon": {
+    "keywords": ["parte","celebrare","zi de nastere","circ"],
+    "char": "🎈",
+    "category": "objects"
+  },
+  "gift": {
+    "keywords": ["prezent","zi de nastere","Crăciun","Crăciun"],
+    "char": "🎁",
+    "category": "objects"
+  },
+  "ribbon": {
+    "keywords": ["decor","roz","fată","papion"],
+    "char": "🎀",
+    "category": "objects"
+  },
+  "place_of_worship": {
+    "keywords": ["religie","biserică","templu","rugăciune"],
+    "char": "🛐",
+    "category": "symbols"
+  },
+  "wind_chime": {
+    "keywords": ["natură","lucru","arc","clopot"],
+    "char": "🎐",
+    "category": "objects"
+  },
+  "tada": {
+    "keywords": ["parte","contulations","zi de nastere","magie","circ"],
+    "char": "🎉",
+    "category": "objects"
+  },
+  "envelope": {
+    "keywords": ["scrisoare","poştal","Inbox","comunicare"],
+    "char": "✉️",
+    "category": "objects"
+  },
+  "crossed_flags": {
+    "keywords": ["japonez","naţiune","țară","frontieră"],
+    "char": "🎌",
+    "category": "objects"
+  },
+  "dolls": {
+    "keywords": ["japonez","jucărie","chimono"],
+    "char": "🎎",
+    "category": "objects"
+  },
+  "envelope_with_arrow": {
+    "keywords": ["e-mail","comunicare"],
+    "char": "📩",
+    "category": "objects"
+  },
+  "pisces": {
+    "keywords": ["violet-pătrat","semn","zodiac","astrologie"],
+    "char": "♓",
+    "category": "symbols"
+  },
+  "white_flower": {
+    "keywords": ["japonez","arc"],
+    "char": "💮",
+    "category": "symbols"
+  },
+  "atom_symbol": {
+    "keywords": "[]",
+    "char": "⚛",
+    "category": "symbols"
+  },
+  "love_letter": {
+    "keywords": ["e-mail","ca","afecţiune","plic","Valentines"],
+    "char": "💌",
+    "category": "objects"
+  },
+  "mailbox_with_mail": {
+    "keywords": ["e-mail","Inbox","comunicare"],
+    "char": "📬",
+    "category": "objects"
+  },
+  "mailbox": {
+    "keywords": ["e-mail","Inbox","comunicare"],
+    "char": "📫",
+    "category": "objects"
+  },
+  "vibration_mode": {
+    "keywords": ["portocaliu-pătrat","telefon"],
+    "char": "📳",
+    "category": "symbols"
+  },
+  "mailbox_with_no_mail": {
+    "keywords": ["e-mail","Inbox"],
+    "char": "📭",
+    "category": "objects"
+  },
+  "outbox_tray": {
+    "keywords": ["Inbox","e-mail"],
+    "char": "📤",
+    "category": "objects"
+  },
+  "incoming_envelope": {
+    "keywords": ["e-mail","Inbox"],
+    "char": "📨",
+    "category": "objects"
+  },
+  "inbox_tray": {
+    "keywords": ["e-mail","documente"],
+    "char": "📥",
+    "category": "objects"
+  },
+  "u55b6": {
+    "keywords": ["japonez","ore de deschidere","portocaliu-pătrat"],
+    "char": "🈺",
+    "category": "symbols"
+  },
+  "page_with_curl": {
+    "keywords": ["documente","birou","hârtie"],
+    "char": "📃",
+    "category": "objects"
+  },
+  "accept": {
+    "keywords": ["O.K","bun","chinez","Kanji","de acord","da","portocaliu-cerc"],
+    "char": "🉑",
+    "category": "symbols"
+  },
+  "u6708": {
+    "keywords": ["chinez","lună","lună","japonez","portocaliu-pătrat","Kanji"],
+    "char": "🈷️",
+    "category": "symbols"
+  },
+  "package": {
+    "keywords": ["Poștă","cadou","carton","cutie","in miscare"],
+    "char": "📦",
+    "category": "objects"
+  },
+  "bookmark_tabs": {
+    "keywords": ["favorit","Salvați","Ordin","ordonat"],
+    "char": "📑",
+    "category": "objects"
+  },
+  "bar_chart": {
+    "keywords": ["grafic","prezentare","statistici"],
+    "char": "📊",
+    "category": "objects"
+  },
+  "u7121": {
+    "keywords": ["nimic","chinez","Kanji","japonez","portocaliu-pătrat"],
+    "char": "🈚",
+    "category": "symbols"
+  },
+  "a": {
+    "keywords": ["pătrat roșu","alfabet","scrisoare"],
+    "char": "🅰️",
+    "category": "symbols"
+  },
+  "chart_with_downwards_trend": {
+    "keywords": ["grafic","prezentare","statistici","recesiune","Afaceri","economie","bani","vânzări","rău","eșec"],
+    "char": "📉",
+    "category": "objects"
+  },
+  "b": {
+    "keywords": ["pătrat roșu","alfabet","scrisoare"],
+    "char": "🅱️",
+    "category": "symbols"
+  },
+  "spiral_calendar_pad": {
+    "keywords": ["data","programa","planificare"],
+    "char": "🗓",
+    "category": "objects"
+  },
+  "date": {
+    "keywords": ["calendar","programa"],
+    "char": "📅",
+    "category": "objects"
+  },
+  "card_file_box": {
+    "keywords": ["Afaceri","papetărie"],
+    "char": "🗃",
+    "category": "objects"
+  },
+  "file_cabinet": {
+    "keywords": ["depozit","organizatoric"],
+    "char": "🗄",
+    "category": "objects"
+  },
+  "ballot_box_with_ballot": {
+    "keywords": ["alegere","vot"],
+    "char": "🗳",
+    "category": "objects"
+  },
+  "o2": {
+    "keywords": ["alfabet","pătrat roșu","scrisoare"],
+    "char": "🅾️",
+    "category": "symbols"
+  },
+  "confetti_ball": {
+    "keywords": ["festival","parte","zi de nastere","circ"],
+    "char": "🎊",
+    "category": "objects"
+  },
+  "sos": {
+    "keywords": ["Ajutor","pătrat roșu","cuvinte","caz de urgență","911"],
+    "char": "🆘",
+    "category": "symbols"
+  },
+  "ab": {
+    "keywords": ["pătrat roșu","alfabet"],
+    "char": "🆎",
+    "category": "symbols"
+  },
+  "world_map": {
+    "keywords": ["Locație","direcţie"],
+    "char": "🗺",
+    "category": "objects"
+  },
+  "cl": {
+    "keywords": ["alfabet","cuvinte","pătrat roșu"],
+    "char": "🆑",
+    "category": "symbols"
+  },
+  "clipboard": {
+    "keywords": ["papetărie","documente"],
+    "char": "📋",
+    "category": "objects"
+  },
+  "spiral_note_pad": {
+    "keywords": ["memo","papetărie"],
+    "char": "🗒",
+    "category": "objects"
+  },
+  "newspaper": {
+    "keywords": ["presa","titlu"],
+    "char": "📰",
+    "category": "objects"
+  },
+  "no_bicycles": {
+    "keywords": ["ciclist","interzise","cerc"],
+    "char": "🚳",
+    "category": "symbols"
+  },
+  "notebook": {
+    "keywords": ["papetărie","record","notițe","hârtie","studiu"],
+    "char": "📓",
+    "category": "objects"
+  },
+  "green_book": {
+    "keywords": ["citit","bibliotecă","cunoştinţe","studiu"],
+    "char": "📗",
+    "category": "objects"
+  },
+  "orange_book": {
+    "keywords": ["citit","bibliotecă","cunoştinţe","manual","studiu"],
+    "char": "📙",
+    "category": "objects"
+  },
+  "card_index_dividers": {
+    "keywords": ["organizatoric","Afaceri","papetărie"],
+    "char": "🗂",
+    "category": "objects"
+  },
+  "closed_book": {
+    "keywords": ["citit","bibliotecă","cunoştinţe","manual","învăța"],
+    "char": "📕",
+    "category": "objects"
+  },
+  "books": {
+    "keywords": ["literatură","bibliotecă","studiu"],
+    "char": "📚",
+    "category": "objects"
+  },
+  "no_smoking": {
+    "keywords": ["ţigară","albastru-pătrat","miros","fum"],
+    "char": "🚭",
+    "category": "symbols"
+  },
+  "beginner": {
+    "keywords": ["insignă","scut"],
+    "char": "🔰",
+    "category": "symbols"
+  },
+  "paperclip": {
+    "keywords": ["documente","papetărie"],
+    "char": "📎",
+    "category": "objects"
+  },
+  "notebook_with_decorative_cover": {
+    "keywords": ["sală de clasă","notițe","record","hârtie","studiu"],
+    "char": "📔",
+    "category": "objects"
+  },
+  "link": {
+    "keywords": ["inele","adresă URL"],
+    "char": "🔗",
+    "category": "objects"
+  },
+  "scissors": {
+    "keywords": ["papetărie","a taia"],
+    "char": "✂️",
+    "category": "objects"
+  },
+  "children_crossing": {
+    "keywords": ["şcoală","avertizare","pericol","semn","conducere","galben-diamant"],
+    "char": "🚸",
+    "category": "symbols"
+  },
+  "pushpin": {
+    "keywords": ["papetărie","marcă","aici"],
+    "char": "📌",
+    "category": "objects"
+  },
+  "chart": {
+    "keywords": ["verde-pătrat","grafic","prezentare","statistici"],
+    "char": "💹",
+    "category": "symbols"
+  },
+  "closed_lock_with_key": {
+    "keywords": ["Securitate","intimitate"],
+    "char": "🔐",
+    "category": "objects"
+  },
+  "black_nib": {
+    "keywords": ["stilou","papetărie","scris","scrie"],
+    "char": "✒️",
+    "category": "objects"
+  },
+  "lower_left_ballpoint_pen": {
+    "keywords": ["papetărie","scris","scrie"],
+    "char": "🖊",
+    "category": "objects"
+  },
+  "unlock": {
+    "keywords": ["intimitate","Securitate"],
+    "char": "🔓",
+    "category": "objects"
+  },
+  "cyclone": {
+    "keywords": ["vreme","vârtej","albastru","nor","vârtej","spirală","vârtej de apă","a invarti"],
+    "char": "🌀",
+    "category": "symbols"
+  },
+  "eight_spoked_asterisk": {
+    "keywords": ["stea","scânteie","verde-pătrat"],
+    "char": "✳️",
+    "category": "symbols"
+  },
+  "straight_ruler": {
+    "keywords": ["papetărie","calculati","lungime","matematica","şcoală","desen","arhitect","schiță"],
+    "char": "📏",
+    "category": "objects"
+  },
+  "triangular_ruler": {
+    "keywords": ["papetărie","matematica","arhitect","schiță"],
+    "char": "📐",
+    "category": "objects"
+  },
+  "lower_left_paintbrush": {
+    "keywords": ["desen","creativitate","artă"],
+    "char": "🖌",
+    "category": "objects"
+  },
+  "globe_with_meridians": {
+    "keywords": ["Pământ","internaţional","lume","Internet","interweb","i18n"],
+    "char": "🌐",
+    "category": "symbols"
+  },
+  "sparkle": {
+    "keywords": ["stele","verde-pătrat","minunat","bun","focuri de artificii"],
+    "char": "❇️",
+    "category": "symbols"
+  },
+  "passport_control": {
+    "keywords": ["personalizat","albastru-pătrat"],
+    "char": "🛂",
+    "category": "symbols"
+  },
+  "mag": {
+    "keywords": ["căutare","Zoom","găsi","detectiv"],
+    "char": "🔍",
+    "category": "objects"
+  },
+  "atm": {
+    "keywords": ["bani","vânzări","bani gheata","albastru-pătrat","plată","bancă"],
+    "char": "🏧",
+    "category": "symbols"
+  },
+  "wc": {
+    "keywords": ["toaletă","toaletă","albastru-pătrat"],
+    "char": "🚾",
+    "category": "symbols"
+  },
+  "mens": {
+    "keywords": ["toaletă","toaletă","WC","albastru-pătrat","gen","masculin"],
+    "char": "🚹",
+    "category": "symbols"
+  },
+  "one": {
+    "keywords": ["albastru-pătrat","numerele","1"],
+    "char": "1️⃣",
+    "category": "symbols"
+  },
+  "mag_right": {
+    "keywords": ["căutare","Zoom","găsi","detectiv"],
+    "char": "🔎",
+    "category": "objects"
+  },
+  "womens": {
+    "keywords": ["violet-pătrat","femeie","Femeie","toaletă","la","toaletă","gen"],
+    "char": "🚺",
+    "category": "symbols"
+  },
+  "put_litter_in_its_place": {
+    "keywords": ["albastru-pătrat","semn","uman","info"],
+    "char": "🚮",
+    "category": "symbols"
+  },
+  "signal_strength": {
+    "keywords": ["albastru-pătrat","recepţie","telefon","Internet","conexiune","Wifi","bluetooth","baruri"],
+    "char": "📶",
+    "category": "symbols"
+  },
+  "zero": {
+    "keywords": ["0","numerele","albastru-pătrat","nul"],
+    "char": "0️⃣",
+    "category": "symbols"
+  },
+  "free": {
+    "keywords": ["albastru-pătrat","cuvinte"],
+    "char": "🆓",
+    "category": "symbols"
+  },
+  "black_circle_for_record": {
+    "keywords": "[]",
+    "char": "⏺",
+    "category": "symbols"
+  },
+  "rewind": {
+    "keywords": ["Joaca","albastru-pătrat"],
+    "char": "⏪",
+    "category": "symbols"
+  },
+  "fast_forward": {
+    "keywords": ["albastru-pătrat","Joaca","viteză","continua"],
+    "char": "⏩",
+    "category": "symbols"
+  },
+  "arrow_double_up": {
+    "keywords": ["albastru-pătrat","direcţie","top"],
+    "char": "⏫",
+    "category": "symbols"
+  },
+  "repeat_one": {
+    "keywords": ["albastru-pătrat","buclă"],
+    "char": "🔂",
+    "category": "symbols"
+  },
+  "arrow_backward": {
+    "keywords": ["albastru-pătrat","stânga","direcţie"],
+    "char": "◀️",
+    "category": "symbols"
+  },
+  "arrow_down_small": {
+    "keywords": ["albastru-pătrat","direcţie","fund"],
+    "char": "🔽",
+    "category": "symbols"
+  },
+  "repeat": {
+    "keywords": ["buclă","record"],
+    "char": "🔁",
+    "category": "symbols"
+  },
+  "twisted_rightwards_arrows": {
+    "keywords": ["albastru-pătrat","amesteca","muzică","întâmplător"],
+    "char": "🔀",
+    "category": "symbols"
+  },
+  "arrow_up_small": {
+    "keywords": ["albastru-pătrat","triunghi","direcţie","punct","redirecţiona","top"],
+    "char": "🔼",
+    "category": "symbols"
+  },
+  "revolving_hearts": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines"],
+    "char": "💞",
+    "category": "symbols"
+  },
+  "black_left_pointing_double_triangle_with_vertical_bar": {
+    "keywords": "[]",
+    "char": "⏮",
+    "category": "symbols"
+  },
+  "koko": {
+    "keywords": ["albastru-pătrat","aici","katakana","japonez","destinaţie"],
+    "char": "🈁",
+    "category": "symbols"
+  },
+  "purple_heart": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines"],
+    "char": "💜",
+    "category": "symbols"
+  },
+  "sparkling_heart": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines"],
+    "char": "💖",
+    "category": "symbols"
+  },
+  "book": {
+    "keywords": ["carte deschisă","citit","bibliotecă","cunoştinţe","literatură","învăța","studiu"],
+    "char": "📖",
+    "category": "objects"
+  },
+  "peace_symbol": {
+    "keywords": "[]",
+    "char": "☮",
+    "category": "symbols"
+  },
+  "heartbeat": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines","roz"],
+    "char": "💓",
+    "category": "symbols"
+  },
+  "wheel_of_dharma": {
+    "keywords": ["hinduism","budism","Sikhism","jainism"],
+    "char": "☸",
+    "category": "symbols"
+  },
+  "arrow_lower_left": {
+    "keywords": ["albastru-pătrat","direcţie","diagonală","sud-vest"],
+    "char": "↙️",
+    "category": "symbols"
+  },
+  "arrow_up_down": {
+    "keywords": ["albastru-pătrat","direcţie","cale","vertical"],
+    "char": "↕️",
+    "category": "symbols"
+  },
+  "om_symbol": {
+    "keywords": ["hinduism","budism","Sikhism","jainism"],
+    "char": "🕉",
+    "category": "symbols"
+  },
+  "arrow_lower_right": {
+    "keywords": ["albastru-pătrat","direcţie","diagonală","Sud Est"],
+    "char": "↘️",
+    "category": "symbols"
+  },
+  "yin_yang": {
+    "keywords": "[]",
+    "char": "☯",
+    "category": "symbols"
+  },
+  "two_hearts": {
+    "keywords": ["dragoste","ca","afecţiune","Valentines"],
+    "char": "💕",
+    "category": "symbols"
+  },
+  "six_pointed_star": {
+    "keywords": ["violet-pătrat","religie","evreiesc","Hexagram"],
+    "char": "🔯",
+    "category": "symbols"
+  },
+  "arrow_heading_down": {
+    "keywords": ["albastru-pătrat","direcţie","fund"],
+    "char": "⤵️",
+    "category": "symbols"
+  },
+  "hash": {
+    "keywords": ["simbol","albastru-pătrat","stare de nervozitate"],
+    "char": "#️⃣",
+    "category": "symbols"
+  },
+  "leftwards_arrow_with_hook": {
+    "keywords": ["înapoi","întoarcere","albastru-pătrat","anula","introduce"],
+    "char": "↩️",
+    "category": "symbols"
+  },
+  "biohazard_sign": {
+    "keywords": "[]",
+    "char": "☣",
+    "category": "symbols"
+  },
+  "radioactive_sign": {
+    "keywords": ["nuclear","pericol"],
+    "char": "☢",
+    "category": "symbols"
+  },
+  "arrow_heading_up": {
+    "keywords": ["albastru-pătrat","direcţie","top"],
+    "char": "⤴️",
+    "category": "symbols"
+  },
+  "black_right_pointing_double_triangle_with_vertical_bar": {
+    "keywords": ["albastru-pătrat","Joaca","pauză"],
+    "char": "⏯",
+    "category": "symbols"
+  },
+  "information_source": {
+    "keywords": ["albastru-pătrat","alfabet","scrisoare"],
+    "char": "ℹ️",
+    "category": "symbols"
+  },
+  "capital_abcd": {
+    "keywords": ["alfabet","cuvinte","albastru-pătrat"],
+    "char": "🔠",
+    "category": "symbols"
+  },
+  "wavy_dash": {
+    "keywords": ["a desena","linia","mustață","Mustață","squiggle","bileţel"],
+    "char": "〰️",
+    "category": "symbols"
+  },
+  "heavy_multiplication_x": {
+    "keywords": ["matematica","calcul"],
+    "char": "✖️",
+    "category": "symbols"
+  },
+  "symbols": {
+    "keywords": ["albastru-pătrat","muzică","Notă","ampersand","la sută","glife","caractere"],
+    "char": "🔣",
+    "category": "symbols"
+  },
+  "heavy_dollar_sign": {
+    "keywords": ["bani","vânzări","plată","valută","dolar"],
+    "char": "💲",
+    "category": "symbols"
+  },
+  "end": {
+    "keywords": ["cuvinte","săgeată"],
+    "char": "🔚",
+    "category": "symbols"
+  },
+  "small_orange_diamond": {
+    "keywords": ["formă","bijuterie","bijuterie"],
+    "char": "🔸",
+    "category": "symbols"
+  },
+  "small_blue_diamond": {
+    "keywords": ["formă","bijuterie","bijuterie"],
+    "char": "🔹",
+    "category": "symbols"
+  },
+  "large_blue_diamond": {
+    "keywords": ["formă","bijuterie","bijuterie"],
+    "char": "🔷",
+    "category": "symbols"
+  },
+  "large_orange_diamond": {
+    "keywords": ["formă","bijuterie","bijuterie"],
+    "char": "🔶",
+    "category": "symbols"
+  },
+  "white_large_square": {
+    "keywords": ["formă","icoană","piatră","buton"],
+    "char": "⬜",
+    "category": "symbols"
+  },
+  "black_medium_small_square": {
+    "keywords": ["icoană","formă","buton"],
+    "char": "◾",
+    "category": "symbols"
+  },
+  "sound": {
+    "keywords": ["volum","vorbitor","difuzare"],
+    "char": "🔉",
+    "category": "symbols"
+  },
+  "mega": {
+    "keywords": ["sunet","vorbitor","volum"],
+    "char": "📣",
+    "category": "symbols"
+  },
+  "black_joker": {
+    "keywords": ["pocher","carduri","joc","Joaca","magie"],
+    "char": "🃏",
+    "category": "symbols"
+  },
+  "spades": {
+    "keywords": ["pocher","carduri","costume","magie"],
+    "char": "♠️",
+    "category": "symbols"
+  },
+  "diamonds": {
+    "keywords": ["pocher","carduri","magie","costume"],
+    "char": "♦️",
+    "category": "symbols"
+  },
+  "flower_playing_cards": {
+    "keywords": ["joc","apus de soare","roșu"],
+    "char": "🎴",
+    "category": "symbols"
+  },
+  "right_anger_bubble": {
+    "keywords": ["legendă","vorbire","gândire","nebun"],
+    "char": "🗯",
+    "category": "symbols"
+  },
+  "clock1": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕐",
+    "category": "symbols"
+  },
+  "clock3": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕒",
+    "category": "symbols"
+  },
+  "clock2": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕑",
+    "category": "symbols"
+  },
+  "clock5": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕔",
+    "category": "symbols"
+  },
+  "clock4": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕓",
+    "category": "symbols"
+  },
+  "clock8": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕗",
+    "category": "symbols"
+  },
+  "clock6": {
+    "keywords": ["timp","târziu","din timp","programa","zori de zi","amurg"],
+    "char": "🕕",
+    "category": "symbols"
+  },
+  "clock7": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕖",
+    "category": "symbols"
+  },
+  "clock9": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕘",
+    "category": "symbols"
+  },
+  "clock10": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕙",
+    "category": "symbols"
+  },
+  "clock230": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕝",
+    "category": "symbols"
+  },
+  "clock11": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕚",
+    "category": "symbols"
+  },
+  "clock130": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕜",
+    "category": "symbols"
+  },
+  "clock630": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕡",
+    "category": "symbols"
+  },
+  "clock730": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕢",
+    "category": "symbols"
+  },
+  "clock1230": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕧",
+    "category": "symbols"
+  },
+  "clock1030": {
+    "keywords": ["timp","târziu","din timp","programa"],
+    "char": "🕥",
+    "category": "symbols"
+  },
+  "dz": {
+    "keywords": ["algeria","steag","naţiune","țară","steag"],
+    "char": "🇩🇿",
+    "category": "flags"
+  },
+  "ad": {
+    "keywords": ["Andora","steag","naţiune","țară","steag"],
+    "char": "🇦🇩",
+    "category": "flags"
+  },
+  "ao": {
+    "keywords": ["Angola","steag","naţiune","țară","steag"],
+    "char": "🇦🇴",
+    "category": "flags"
+  },
+  "mn": {
+    "keywords": ["Mongolia","steag","naţiune","țară","steag"],
+    "char": "🇲🇳",
+    "category": "flags"
+  },
+  "sv": {
+    "keywords": ["","Salvador","steag","naţiune","țară","steag"],
+    "char": "🇸🇻",
+    "category": "flags"
+  },
+  "fk": {
+    "keywords": ["falkland","insule","Malvine","steag","naţiune","țară","steag"],
+    "char": "🇫🇰",
+    "category": "flags"
+  },
+  "gf": {
+    "keywords": ["limba franceza","Guiana","steag","naţiune","țară","steag"],
+    "char": "🇬🇫",
+    "category": "flags"
+  },
+  "pf": {
+    "keywords": ["limba franceza","Polynesia","steag","naţiune","țară","steag"],
+    "char": "🇵🇫",
+    "category": "flags"
+  },
+  "de": {
+    "keywords": ["germană","naţiune","steag","țară","steag"],
+    "char": "🇩🇪",
+    "category": "flags"
+  },
+  "ht": {
+    "keywords": ["Haiti","steag","naţiune","țară","steag"],
+    "char": "🇭🇹",
+    "category": "flags"
+  },
+  "gu": {
+    "keywords": ["guam","steag","naţiune","țară","steag"],
+    "char": "🇬🇺",
+    "category": "flags"
+  },
+  "hn": {
+    "keywords": ["honduras","steag","naţiune","țară","steag"],
+    "char": "🇭🇳",
+    "category": "flags"
+  },
+  "ie": {
+    "keywords": ["Irlanda","steag","naţiune","țară","steag"],
+    "char": "🇮🇪",
+    "category": "flags"
+  },
+  "eu": {
+    "keywords": ["european","uniune","steag","steag"],
+    "char": "🇪🇺",
+    "category": "flags"
+  },
+  "bl": {
+    "keywords": ["sfânt","Barthélemy","steag","naţiune","țară","steag"],
+    "char": "🇧🇱",
+    "category": "flags"
+  },
+  "negative_squared_cross_mark": {
+    "keywords": ["X","verde-pătrat","Nu","nega"],
+    "char": "❎",
+    "category": "symbols"
+  },
+  "er": {
+    "keywords": ["Eritrea","steag","naţiune","țară","steag"],
+    "char": "🇪🇷",
+    "category": "flags"
+  },
+  "ga": {
+    "keywords": ["Gabon","steag","naţiune","țară","steag"],
+    "char": "🇬🇦",
+    "category": "flags"
+  },
+  "im": {
+    "keywords": ["insulă","om","steag","naţiune","țară","steag"],
+    "char": "🇮🇲",
+    "category": "flags"
+  },
+  "gh": {
+    "keywords": ["ghana","steag","naţiune","țară","steag"],
+    "char": "🇬🇭",
+    "category": "flags"
+  },
+  "fr": {
+    "keywords": ["steag","steag","naţiune","Franţa","limba franceza","țară"],
+    "char": "🇫🇷",
+    "category": "flags"
+  },
+  "gy": {
+    "keywords": ["guyana","steag","naţiune","țară","steag"],
+    "char": "🇬🇾",
+    "category": "flags"
+  },
+  "hk": {
+    "keywords": ["hong","kong","steag","naţiune","țară","steag"],
+    "char": "🇭🇰",
+    "category": "flags"
+  },
+  "u6307": {
+    "keywords": ["chinez","punct","verde-pătrat","Kanji"],
+    "char": "🈯",
+    "category": "symbols"
+  },
+  "is": {
+    "keywords": ["Islanda","steag","naţiune","țară","steag"],
+    "char": "🇮🇸",
+    "category": "flags"
+  },
+  "two": {
+    "keywords": ["numerele","2","prim","albastru-pătrat"],
+    "char": "2️⃣",
+    "category": "symbols"
+  },
+  "ng": {
+    "keywords": ["albastru-pătrat","cuvinte","formă","icoană"],
+    "char": "🆖",
+    "category": "symbols"
+  },
+  "four": {
+    "keywords": ["4","numerele","albastru-pătrat"],
+    "char": "4️⃣",
+    "category": "symbols"
+  },
+  "six": {
+    "keywords": ["6","numerele","albastru-pătrat"],
+    "char": "6️⃣",
+    "category": "symbols"
+  },
+  "cinema": {
+    "keywords": ["albastru-pătrat","record","film","film","perdea","etapă","teatru"],
+    "char": "🎦",
+    "category": "symbols"
+  },
+  "sx": {
+    "keywords": ["Sf.","Maarten","olandeză","steag","naţiune","țară","steag"],
+    "char": "🇸🇽",
+    "category": "flags"
+  },
+  "za": {
+    "keywords": ["sud","Africa","steag","naţiune","țară","steag"],
+    "char": "🇿🇦",
+    "category": "flags"
+  },
+  "restroom": {
+    "keywords": ["albastru-pătrat","toaletă","reîmprospăta","WC","gen"],
+    "char": "🚻",
+    "category": "symbols"
+  },
+  "potable_water": {
+    "keywords": ["albastru-pătrat","lichid","toaletă","curățenie","robinet"],
+    "char": "🚰",
+    "category": "symbols"
+  },
+  "je": {
+    "keywords": ["jerseu","steag","naţiune","țară","steag"],
+    "char": "🇯🇪",
+    "category": "flags"
+  },
+  "ci": {
+    "keywords": ["fildeş","coastă","steag","naţiune","țară","steag"],
+    "char": "🇨🇮",
+    "category": "flags"
+  },
+  "kz": {
+    "keywords": ["kazahstan","steag","naţiune","țară","steag"],
+    "char": "🇰🇿",
+    "category": "flags"
+  },
+  "lv": {
+    "keywords": ["Letonia","steag","naţiune","țară","steag"],
+    "char": "🇱🇻",
+    "category": "flags"
+  },
+  "tj": {
+    "keywords": ["Tajikistan","steag","naţiune","țară","steag"],
+    "char": "🇹🇯",
+    "category": "flags"
+  },
+  "ls": {
+    "keywords": ["Lesotho","steag","naţiune","țară","steag"],
+    "char": "🇱🇸",
+    "category": "flags"
+  },
+  "ly": {
+    "keywords": ["Libia","steag","naţiune","țară","steag"],
+    "char": "🇱🇾",
+    "category": "flags"
+  },
+  "lb": {
+    "keywords": ["Liban","steag","naţiune","țară","steag"],
+    "char": "🇱🇧",
+    "category": "flags"
+  },
+  "tw": {
+    "keywords": ["taiwan","steag","naţiune","țară","steag"],
+    "char": "🇹🇼",
+    "category": "flags"
+  },
+  "lu": {
+    "keywords": ["Luxemburg","steag","naţiune","țară","steag"],
+    "char": "🇱🇺",
+    "category": "flags"
+  },
+  "lt": {
+    "keywords": ["Lituania","steag","naţiune","țară","steag"],
+    "char": "🇱🇹",
+    "category": "flags"
+  },
+  "xk": {
+    "keywords": ["kosovo","steag","naţiune","țară","steag"],
+    "char": "🇽🇰",
+    "category": "flags"
+  },
+  "ua": {
+    "keywords": ["Ucraina","steag","naţiune","țară","steag"],
+    "char": "🇺🇦",
+    "category": "flags"
+  },
+  "eh": {
+    "keywords": ["vestic","sahara","steag","naţiune","țară","steag"],
+    "char": "🇪🇭",
+    "category": "flags"
+  },
+  "ml": {
+    "keywords": ["mali","steag","naţiune","țară","steag"],
+    "char": "🇲🇱",
+    "category": "flags"
+  },
+  "mr": {
+    "keywords": ["mauritania","steag","naţiune","țară","steag"],
+    "char": "🇲🇷",
+    "category": "flags"
+  },
+  "mu": {
+    "keywords": ["mauritius","steag","naţiune","țară","steag"],
+    "char": "🇲🇺",
+    "category": "flags"
+  },
+  "mz": {
+    "keywords": ["Mozambique","steag","naţiune","țară","steag"],
+    "char": "🇲🇿",
+    "category": "flags"
+  },
+  "mq": {
+    "keywords": ["Martinique","steag","naţiune","țară","steag"],
+    "char": "🇲🇶",
+    "category": "flags"
+  },
+  "table_tennis": {
+    "keywords": ["sport","pingpong"],
+    "char": "🏓",
+    "category": "activity"
+  },
+  "ye": {
+    "keywords": ["Yemenul","steag","naţiune","țară","steag"],
+    "char": "🇾🇪",
+    "category": "flags"
+  },
+  "ice_hockey": {
+    "keywords": "[]",
+    "char": "🏒",
+    "category": "activity"
+  },
+  "ice_skate": {
+    "keywords": "[]",
+    "char": "⛸",
+    "category": "activity"
+  },
+  "ma": {
+    "keywords": ["Maroc","steag","naţiune","țară","steag"],
+    "char": "🇲🇦",
+    "category": "flags"
+  },
+  "bowtie": {
+    "keywords": ["față","formal","Modă","costum","Deschidere","magie","circ"],
+    "char": null,
+    "category": "_custom"
+  },
+  "shipit": {
+    "keywords": ["veveriţă","detectiv","animal","sherlock","inspector","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "fu": {
+    "keywords": ["La dracu","deget","nu-i plăcea","degetul mare în jos","dezaproba","Nu","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "trollface": {
+    "keywords": ["Internet","meme","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "na": {
+    "keywords": ["namibia","steag","naţiune","țară","steag"],
+    "char": "🇳🇦",
+    "category": "flags"
+  },
+  "ms": {
+    "keywords": ["Montserrat","steag","naţiune","țară","steag"],
+    "char": "🇲🇸",
+    "category": "flags"
+  },
+  "np": {
+    "keywords": ["Nepal","steag","naţiune","țară","steag"],
+    "char": "🇳🇵",
+    "category": "flags"
+  },
+  "ski": {
+    "keywords": ["sport","iarnă","rece","zăpadă"],
+    "char": "🎿",
+    "category": "activity"
+  },
+  "nigeria": {
+    "keywords": ["steag","naţiune","țară","steag"],
+    "char": "🇳🇬",
+    "category": "flags"
+  },
+  "rage1": {
+    "keywords": ["nervos","nebun","ură","dispreţui"],
+    "char": null,
+    "category": "_custom"
+  },
+  "mt": {
+    "keywords": ["Malta","steag","naţiune","țară","steag"],
+    "char": "🇲🇹",
+    "category": "flags"
+  },
+  "mp": {
+    "keywords": ["de Nord","mariana","insule","steag","naţiune","țară","steag"],
+    "char": "🇲🇵",
+    "category": "flags"
+  },
+  "mh": {
+    "keywords": ["marshall","insule","steag","naţiune","țară","steag"],
+    "char": "🇲🇭",
+    "category": "flags"
+  },
+  "rage2": {
+    "keywords": ["nervos","nebun","ură","dispreţui"],
+    "char": null,
+    "category": "_custom"
+  },
+  "ni": {
+    "keywords": ["nicaragua","steag","naţiune","țară","steag"],
+    "char": "🇳🇮",
+    "category": "flags"
+  },
+  "yt": {
+    "keywords": ["Mayotte","steag","naţiune","țară","steag"],
+    "char": "🇾🇹",
+    "category": "flags"
+  },
+  "fm": {
+    "keywords": ["Micronezia,","federalizat","state","steag","naţiune","țară","steag"],
+    "char": "🇫🇲",
+    "category": "flags"
+  },
+  "pe": {
+    "keywords": ["Peru","steag","naţiune","țară","steag"],
+    "char": "🇵🇪",
+    "category": "flags"
+  },
+  "md": {
+    "keywords": ["moldova,","republică","steag","naţiune","țară","steag"],
+    "char": "🇲🇩",
+    "category": "flags"
+  },
+  "mm": {
+    "keywords": ["myanmar","steag","naţiune","țară","steag"],
+    "char": "🇲🇲",
+    "category": "flags"
+  },
+  "nl": {
+    "keywords": ["Olanda","steag","naţiune","țară","steag"],
+    "char": "🇳🇱",
+    "category": "flags"
+  },
+  "mv": {
+    "keywords": ["maldive","steag","naţiune","țară","steag"],
+    "char": "🇲🇻",
+    "category": "flags"
+  },
+  "pr": {
+    "keywords": ["port","rico","steag","naţiune","țară","steag"],
+    "char": "🇵🇷",
+    "category": "flags"
+  },
+  "sl": {
+    "keywords": ["sierra","leone","steag","naţiune","țară","steag"],
+    "char": "🇸🇱",
+    "category": "flags"
+  },
+  "vc": {
+    "keywords": ["sfânt","vincent","Grenadines","steag","naţiune","țară","steag"],
+    "char": "🇻🇨",
+    "category": "flags"
+  },
+  "me": {
+    "keywords": ["muntenegru","steag","naţiune","țară","steag"],
+    "char": "🇲🇪",
+    "category": "flags"
+  },
+  "kr": {
+    "keywords": ["sud","Coreea","naţiune","steag","țară","steag"],
+    "char": "🇰🇷",
+    "category": "flags"
+  },
+  "nr": {
+    "keywords": ["Nauru","steag","naţiune","țară","steag"],
+    "char": "🇳🇷",
+    "category": "flags"
+  },
+  "py": {
+    "keywords": ["paraguay","steag","naţiune","țară","steag"],
+    "char": "🇵🇾",
+    "category": "flags"
+  },
+  "nz": {
+    "keywords": ["nou","zeelanda","steag","naţiune","țară","steag"],
+    "char": "🇳🇿",
+    "category": "flags"
+  },
+  "es": {
+    "keywords": ["Spania","steag","naţiune","țară","steag"],
+    "char": "🇪🇸",
+    "category": "flags"
+  },
+  "pa": {
+    "keywords": ["Panama","steag","naţiune","țară","steag"],
+    "char": "🇵🇦",
+    "category": "flags"
+  },
+  "pw": {
+    "keywords": ["palau","steag","naţiune","țară","steag"],
+    "char": "🇵🇼",
+    "category": "flags"
+  },
+  "om": {
+    "keywords": ["Oman","steag","naţiune","țară","steag"],
+    "char": "🇴🇲",
+    "category": "flags"
+  },
+  "no": {
+    "keywords": ["Norvegia","steag","naţiune","țară","steag"],
+    "char": "🇳🇴",
+    "category": "flags"
+  },
+  "nc": {
+    "keywords": ["nou","Caledonie","steag","naţiune","țară","steag"],
+    "char": "🇳🇨",
+    "category": "flags"
+  },
+  "rw": {
+    "keywords": ["Rwandei","steag","naţiune","țară","steag"],
+    "char": "🇷🇼",
+    "category": "flags"
+  },
+  "pm": {
+    "keywords": ["sfânt","piatră","Miquelon","steag","naţiune","țară","steag"],
+    "char": "🇵🇲",
+    "category": "flags"
+  },
+  "st": {
+    "keywords": ["cum","ea","principiu","steag","naţiune","țară","steag"],
+    "char": "🇸🇹",
+    "category": "flags"
+  },
+  "kn": {
+    "keywords": ["sfânt","Cristofor","nevis","steag","naţiune","țară","steag"],
+    "char": "🇰🇳",
+    "category": "flags"
+  },
+  "tl": {
+    "keywords": ["Timor","est","steag","naţiune","țară","steag"],
+    "char": "🇹🇱",
+    "category": "flags"
+  },
+  "si": {
+    "keywords": ["Slovenia","steag","naţiune","țară","steag"],
+    "char": "🇸🇮",
+    "category": "flags"
+  },
+  "nu": {
+    "keywords": ["Niue","steag","naţiune","țară","steag"],
+    "char": "🇳🇺",
+    "category": "flags"
+  },
+  "pl": {
+    "keywords": ["Polonia","steag","naţiune","țară","steag"],
+    "char": "🇵🇱",
+    "category": "flags"
+  },
+  "ru": {
+    "keywords": ["Rusă","federaţie","steag","naţiune","țară","steag"],
+    "char": "🇷🇺",
+    "category": "flags"
+  },
+  "ps": {
+    "keywords": ["Palestina","palestinian","teritorii","steag","naţiune","țară","steag"],
+    "char": "🇵🇸",
+    "category": "flags"
+  },
+  "so": {
+    "keywords": ["Somalia","steag","naţiune","țară","steag"],
+    "char": "🇸🇴",
+    "category": "flags"
+  },
+  "sd": {
+    "keywords": ["sudan","steag","naţiune","țară","steag"],
+    "char": "🇸🇩",
+    "category": "flags"
+  },
+  "ro": {
+    "keywords": ["romania","steag","naţiune","țară","steag"],
+    "char": "🇷🇴",
+    "category": "flags"
+  },
+  "pt": {
+    "keywords": ["Portugalia","steag","naţiune","țară","steag"],
+    "char": "🇵🇹",
+    "category": "flags"
+  },
+  "ae": {
+    "keywords": ["Unit","arab","emiratele","steag","naţiune","țară","steag"],
+    "char": "🇦🇪",
+    "category": "flags"
+  },
+  "lc": {
+    "keywords": ["sfânt","lucia","steag","naţiune","țară","steag"],
+    "char": "🇱🇨",
+    "category": "flags"
+  },
+  "tk": {
+    "keywords": ["Tokelau","steag","naţiune","țară","steag"],
+    "char": "🇹🇰",
+    "category": "flags"
+  },
+  "qa": {
+    "keywords": ["Qatarul","steag","naţiune","țară","steag"],
+    "char": "🇶🇦",
+    "category": "flags"
+  },
+  "re": {
+    "keywords": ["întâlnire","steag","naţiune","țară","steag"],
+    "char": "🇷🇪",
+    "category": "flags"
+  },
+  "us": {
+    "keywords": ["Unit","state","America","steag","naţiune","țară","steag"],
+    "char": "🇺🇸",
+    "category": "flags"
+  },
+  "sm": {
+    "keywords": ["san","marino","steag","naţiune","țară","steag"],
+    "char": "🇸🇲",
+    "category": "flags"
+  },
+  "vn": {
+    "keywords": ["Viet","sud","steag","naţiune","țară","steag"],
+    "char": "🇻🇳",
+    "category": "flags"
+  },
+  "sc": {
+    "keywords": ["seychelles","steag","naţiune","țară","steag"],
+    "char": "🇸🇨",
+    "category": "flags"
+  },
+  "rs": {
+    "keywords": ["serbia","steag","naţiune","țară","steag"],
+    "char": "🇷🇸",
+    "category": "flags"
+  },
+  "sh": {
+    "keywords": ["sfânt","helena","ascensiune","tristan","pană","steag","naţiune","țară","steag"],
+    "char": "🇸🇭",
+    "category": "flags"
+  },
+  "sb": {
+    "keywords": ["solomon","insule","steag","naţiune","țară","steag"],
+    "char": "🇸🇧",
+    "category": "flags"
+  },
+  "va": {
+    "keywords": ["vatican","oraș","steag","naţiune","țară","steag"],
+    "char": "🇻🇦",
+    "category": "flags"
+  },
+  "gs": {
+    "keywords": ["sud","georgia","sandwich","insule","steag","naţiune","țară","steag"],
+    "char": "🇬🇸",
+    "category": "flags"
+  },
+  "wf": {
+    "keywords": ["wallis","Futuna","steag","naţiune","țară","steag"],
+    "char": "🇼🇫",
+    "category": "flags"
+  },
+  "ss": {
+    "keywords": ["sud","sudan","steag","naţiune","țară","steag"],
+    "char": "🇸🇸",
+    "category": "flags"
+  },
+  "octocat": {
+    "keywords": ["animal","caracatiță","github","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "sr": {
+    "keywords": ["Suriname","steag","naţiune","țară","steag"],
+    "char": "🇸🇷",
+    "category": "flags"
+  },
+  "lk": {
+    "keywords": ["sri","lanka","steag","naţiune","țară","steag"],
+    "char": "🇱🇰",
+    "category": "flags"
+  },
+  "rage4": {
+    "keywords": ["nervos","nebun","ură","dispreţui"],
+    "char": null,
+    "category": "_custom"
+  },
+  "sz": {
+    "keywords": ["swaziland","steag","naţiune","țară","steag"],
+    "char": "🇸🇿",
+    "category": "flags"
+  },
+  "rage3": {
+    "keywords": ["nervos","nebun","ură","dispreţui"],
+    "char": null,
+    "category": "_custom"
+  },
+  "sy": {
+    "keywords": ["sirian","arab","republică","steag","naţiune","țară","steag"],
+    "char": "🇸🇾",
+    "category": "flags"
+  },
+  "th": {
+    "keywords": ["Tailanda","steag","naţiune","țară","steag"],
+    "char": "🇹🇭",
+    "category": "flags"
+  },
+  "phone": {
+    "keywords": ["tehnologie","comunicare","cadran","telefon"],
+    "char": "☎️",
+    "category": "objects"
+  },
+  "tg": {
+    "keywords": ["a merge","steag","naţiune","țară","steag"],
+    "char": "🇹🇬",
+    "category": "flags"
+  },
+  "tuvalu": {
+    "keywords": ["steag","naţiune","țară","steag"],
+    "char": "🇹🇻",
+    "category": "flags"
+  },
+  "tr": {
+    "keywords": ["Curcan","steag","naţiune","țară","steag"],
+    "char": "🇹🇷",
+    "category": "flags"
+  },
+  "vu": {
+    "keywords": ["vanuatu","steag","naţiune","țară","steag"],
+    "char": "🇻🇺",
+    "category": "flags"
+  },
+  "ug": {
+    "keywords": ["uganda","steag","naţiune","țară","steag"],
+    "char": "🇺🇬",
+    "category": "flags"
+  },
+  "ve": {
+    "keywords": ["Venezuela","Bolivariană","republică","steag","naţiune","țară","steag"],
+    "char": "🇻🇪",
+    "category": "flags"
+  },
+  "gb": {
+    "keywords": ["Unit","regat","Grozav","Marea Britanie","de Nord","Irlanda","steag","naţiune","țară","steag","britanic","Regatul Unit","Engleză","Anglia","mufă unire"],
+    "char": "🇬🇧",
+    "category": "flags"
+  },
+  "metal": {
+    "keywords": ["degete","rocknroll","concert","trupa","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "zw": {
+    "keywords": ["Zimbabwe","steag","naţiune","țară","steag"],
+    "char": "🇿🇼",
+    "category": "flags"
+  },
+  "feelsgood": {
+    "keywords": ["osândă","oldschool"],
+    "char": null,
+    "category": "_custom"
+  },
+  "neckbeard": {
+    "keywords": ["tocilar","față","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "hurtrealbad": {
+    "keywords": ["nebun","rănit","osândă","oldschool","personalizat_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "heavy_division_sign": {
+    "keywords": ["divide","matematica","calcul"],
+    "char": "➗",
+    "category": "symbols"
+  },
+  "film_frames": {
+    "keywords": "[]",
+    "char": "🎞",
+    "category": "objects"
+  },
+  "curly_loop": {
+    "keywords": ["bileţel","a desena","formă","squiggle"],
+    "char": "➰",
+    "category": "symbols"
+  },
+  "hammer_and_pick": {
+    "keywords": ["unelte","construi","crea"],
+    "char": "⚒",
+    "category": "objects"
+  },
+  "credit_card": {
+    "keywords": ["bani","vânzări","dolar","factură","plată","cumpărături"],
+    "char": "💳",
+    "category": "objects"
+  }
+}
