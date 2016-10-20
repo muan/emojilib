@@ -1,0 +1,6507 @@
+{
+  "100": {
+    "keywords": ["得分了","完善","数字","世纪","考试","测验","测试","通过","百"],
+    "char": "💯",
+    "category": "symbols"
+  },
+  "1234": {
+    "keywords": ["数字","蓝方"],
+    "char": "🔢",
+    "category": "symbols"
+  },
+  "grin": {
+    "keywords": ["面对","快乐","微笑","喜悦","卡哇伊"],
+    "char": "😁",
+    "category": "people"
+  },
+  "smiley": {
+    "keywords": ["面对","快乐","喜悦","哈哈","：D",":)","微笑"],
+    "char": "😃",
+    "category": "people"
+  },
+  "grimacing": {
+    "keywords": ["面对","鬼脸","牙"],
+    "char": "😬",
+    "category": "people"
+  },
+  "joy": {
+    "keywords": ["面对","哭","眼泪","哭泣","快乐","哈哈"],
+    "char": "😂",
+    "category": "people"
+  },
+  "blush": {
+    "keywords": ["面对","微笑","快乐","酡","粉碎","尴尬","害羞","喜悦"],
+    "char": "😊",
+    "category": "people"
+  },
+  "smile": {
+    "keywords": ["面对","快乐","喜悦","滑稽","哈哈","笑","喜欢","：D",":)"],
+    "char": "😄",
+    "category": "people"
+  },
+  "relaxed": {
+    "keywords": ["面对","脸红","按摩","幸福"],
+    "char": "☺️",
+    "category": "people"
+  },
+  "relieved": {
+    "keywords": ["面对","轻松","表示不快","按摩","幸福"],
+    "char": "😌",
+    "category": "people"
+  },
+  "sweat_smile": {
+    "keywords": ["面对","热","快乐","笑","汗","微笑"],
+    "char": "😅",
+    "category": "people"
+  },
+  "heart_eyes": {
+    "keywords": ["面对","爱","喜欢","感情","情人节礼物","痴情","粉碎","心"],
+    "char": "😍",
+    "category": "people"
+  },
+  "grinning": {
+    "keywords": ["面对","微笑","快乐","喜悦","：D","微笑"],
+    "char": "😀",
+    "category": "people"
+  },
+  "kissing_smiling_eyes": {
+    "keywords": ["面对","感情","情人节礼物","痴情","吻"],
+    "char": "😙",
+    "category": "people"
+  },
+  "stuck_out_tongue_closed_eyes": {
+    "keywords": ["面对","恶作剧","调皮","恶作剧","微笑","舌"],
+    "char": "😝",
+    "category": "people"
+  },
+  "nerd": {
+    "keywords": ["面对","书呆子","极客","白痴"],
+    "char": "🤓",
+    "category": "people"
+  },
+  "no_mouth": {
+    "keywords": ["面对","凯蒂猫"],
+    "char": "😶",
+    "category": "people"
+  },
+  "smirk": {
+    "keywords": ["面对","微笑","意思","恶作剧","踌躇满志","讽刺"],
+    "char": "😏",
+    "category": "people"
+  },
+  "sunglasses": {
+    "keywords": ["面对","凉","微笑","夏季","海滩","太阳镜"],
+    "char": "😎",
+    "category": "people"
+  },
+  "innocent": {
+    "keywords": ["面对","天使","天堂","光环"],
+    "char": "😇",
+    "category": "people"
+  },
+  "hugging": {
+    "keywords": ["面对","微笑","拥抱"],
+    "char": "🤗",
+    "category": "people"
+  },
+  "slightly_smiling": {
+    "keywords": ["面对","微笑"],
+    "char": "🙂",
+    "category": "people"
+  },
+  "unamused": {
+    "keywords": ["漠不关心","无聊","板着个脸，无表情","严重"],
+    "char": "😒",
+    "category": "people"
+  },
+  "kissing_heart": {
+    "keywords": ["面对","爱","喜欢","感情","情人节礼物","痴情","吻"],
+    "char": "😘",
+    "category": "people"
+  },
+  "wink": {
+    "keywords": ["面对","快乐","恶作剧","秘密",";）","微笑"],
+    "char": "😉",
+    "category": "people"
+  },
+  "laughing": {
+    "keywords": ["快乐","喜悦","大声笑","满意","哈哈","面对","高兴","XD","笑"],
+    "char": "😆",
+    "category": "people"
+  },
+  "kissing": {
+    "keywords": ["爱","喜欢","面对","3","情人节礼物","痴情","吻"],
+    "char": "😗",
+    "category": "people"
+  },
+  "thinking": {
+    "keywords": ["面对","嗯","认为","考虑"],
+    "char": "🤔",
+    "category": "people"
+  },
+  "rage": {
+    "keywords": ["愤怒","狂","讨厌","讨厌"],
+    "char": "😡",
+    "category": "people"
+  },
+  "angry": {
+    "keywords": ["狂","面对","懊恼","受挫"],
+    "char": "😠",
+    "category": "people"
+  },
+  "white_frowning": {
+    "keywords": ["面对","美国","烦乱","皱眉"],
+    "char": "☹",
+    "category": "people"
+  },
+  "stuck_out_tongue": {
+    "keywords": ["面对","恶作剧","幼稚","调皮","恶作剧","微笑","舌"],
+    "char": "😛",
+    "category": "people"
+  },
+  "confused": {
+    "keywords": ["面对","漠不关心","呵呵","奇怪的","嗯","：/"],
+    "char": "😕",
+    "category": "people"
+  },
+  "yum": {
+    "keywords": ["快乐","喜悦","舌","微笑","面对","愚蠢","好吃","名"],
+    "char": "😋",
+    "category": "people"
+  },
+  "persevere": {
+    "keywords": ["面对","生病","没有","烦乱","哎呀"],
+    "char": "😣",
+    "category": "people"
+  },
+  "upside_down": {
+    "keywords": ["面对","翻转","愚蠢","微笑"],
+    "char": "🙃",
+    "category": "people"
+  },
+  "slightly_sad": {
+    "keywords": ["面对","皱着眉头","失望","美国","烦乱"],
+    "char": "🙁",
+    "category": "people"
+  },
+  "stuck_out_tongue_winking_eye": {
+    "keywords": ["面对","恶作剧","幼稚","调皮","恶作剧","微笑","眨眼","舌"],
+    "char": "😜",
+    "category": "people"
+  },
+  "tired_face": {
+    "keywords": ["生病","抱怨","烦乱","受挫"],
+    "char": "😫",
+    "category": "people"
+  },
+  "money_mouth": {
+    "keywords": ["面对","丰富","美元","钱"],
+    "char": "🤑",
+    "category": "people"
+  },
+  "kissing_closed_eyes": {
+    "keywords": ["面对","爱","喜欢","感情","情人节礼物","痴情","基德"],
+    "char": "😚",
+    "category": "people"
+  },
+  "rolling_eyes": {
+    "keywords": ["面对","eyeroll","受挫"],
+    "char": "🙄",
+    "category": "people"
+  },
+  "cold_sweat": {
+    "keywords": ["面对","紧张","汗"],
+    "char": "😰",
+    "category": "people"
+  },
+  "flushed": {
+    "keywords": ["面对","脸红","害羞","受宠若惊"],
+    "char": "😳",
+    "category": "people"
+  },
+  "disappointed": {
+    "keywords": ["面对","美国","烦乱","郁闷",":("],
+    "char": "😞",
+    "category": "people"
+  },
+  "sweat": {
+    "keywords": ["面对","热","美国","累","行使"],
+    "char": "😓",
+    "category": "people"
+  },
+  "worried": {
+    "keywords": ["面对","关心","紧张",":("],
+    "char": "😟",
+    "category": "people"
+  },
+  "pensive": {
+    "keywords": ["面对","美国","郁闷","好的","烦乱"],
+    "char": "😔",
+    "category": "people"
+  },
+  "sleepy": {
+    "keywords": ["面对","累","休息","天"],
+    "char": "😪",
+    "category": "people"
+  },
+  "sleeping": {
+    "keywords": ["面对","累","困","晚","ZZZ"],
+    "char": "😴",
+    "category": "people"
+  },
+  "expressionless": {
+    "keywords": ["面对","冷漠","-_-","月"],
+    "char": "😑",
+    "category": "people"
+  },
+  "confounded": {
+    "keywords": ["面对","困惑","生病","不适","哎呀","：•"],
+    "char": "😖",
+    "category": "people"
+  },
+  "robot": {
+    "keywords": ["电脑","机"],
+    "char": "🤖",
+    "category": "people"
+  },
+  "weary": {
+    "keywords": ["面对","累","困","美国","受挫","烦乱"],
+    "char": "😩",
+    "category": "people"
+  },
+  "alien": {
+    "keywords": ["飞碟","保罗","奇怪的","外太空"],
+    "char": "👽",
+    "category": "people"
+  },
+  "heart_eyes_cat": {
+    "keywords": ["动物","爱","喜欢","感情","猫","情人节礼物","心"],
+    "char": "😻",
+    "category": "people"
+  },
+  "kissing_cat": {
+    "keywords": ["动物","猫","吻"],
+    "char": "😽",
+    "category": "people"
+  },
+  "scream": {
+    "keywords": ["面对","蒙克","害怕","我的天啊"],
+    "char": "😱",
+    "category": "people"
+  },
+  "+1": {
+    "keywords": ["竖起大拇指","是","真棒","好","同意","接受","凉","手","喜欢"],
+    "char": "👍",
+    "category": "people"
+  },
+  "open_mouth": {
+    "keywords": ["面对","惊","印象深刻","哇","哇","：本"],
+    "char": "😮",
+    "category": "people"
+  },
+  "point_up": {
+    "keywords": ["手","手指","方向","向上"],
+    "char": "☝️",
+    "category": "people"
+  },
+  "raised_hands": {
+    "keywords": ["手势","万岁","是啊","庆典","手"],
+    "char": "🙌",
+    "category": "people"
+  },
+  "open_hands": {
+    "keywords": ["手指","蝴蝶","手","打开"],
+    "char": "👐",
+    "category": "people"
+  },
+  "point_left": {
+    "keywords": ["方向","手指","手","剩下"],
+    "char": "👈",
+    "category": "people"
+  },
+  "fist": {
+    "keywords": ["手指","手","把握"],
+    "char": "✊",
+    "category": "people"
+  },
+  "point_down": {
+    "keywords": ["手指","手","方向","下"],
+    "char": "👇",
+    "category": "people"
+  },
+  "disappointed_relieved": {
+    "keywords": ["面对","表示不快","汗","紧张"],
+    "char": "😥",
+    "category": "people"
+  },
+  "v": {
+    "keywords": ["手指","哦耶","手","和平","胜利","二"],
+    "char": "✌️",
+    "category": "people"
+  },
+  "sob": {
+    "keywords": ["面对","哭","眼泪","美国","烦乱","郁闷"],
+    "char": "😭",
+    "category": "people"
+  },
+  "hand": {
+    "keywords": ["手指","停止","举手击掌","棕榈","部门","raised_hand"],
+    "char": "✋",
+    "category": "people"
+  },
+  "point_right": {
+    "keywords": ["手指","手","方向","对"],
+    "char": "👉",
+    "category": "people"
+  },
+  "anguished": {
+    "keywords": ["面对","目瞪口呆","紧张"],
+    "char": "😧",
+    "category": "people"
+  },
+  "fearful": {
+    "keywords": ["面对","害怕","怔","紧张","哎呀","呵呵"],
+    "char": "😨",
+    "category": "people"
+  },
+  "hushed": {
+    "keywords": ["面对","求爱","嘘"],
+    "char": "😯",
+    "category": "people"
+  },
+  "tongue": {
+    "keywords": ["口","调皮"],
+    "char": "👅",
+    "category": "people"
+  },
+  "sign_of_horns": {
+    "keywords": ["手","手指","邪恶的眼睛","金属","rock_on"],
+    "char": "🤘",
+    "category": "people"
+  },
+  "ear": {
+    "keywords": ["面对","听","声音","听"],
+    "char": "👂",
+    "category": "people"
+  },
+  "eyes": {
+    "keywords": ["看","看","茎","窥视","看到"],
+    "char": "👀",
+    "category": "people"
+  },
+  "busts_in_silhouette": {
+    "keywords": ["用户","人","人的","组","球队"],
+    "char": "👥",
+    "category": "people"
+  },
+  "cry": {
+    "keywords": ["面对","眼泪","美国","郁闷","烦乱","：'（"],
+    "char": "😢",
+    "category": "people"
+  },
+  "mask": {
+    "keywords": ["面对","生病","生病","疾病"],
+    "char": "😷",
+    "category": "people"
+  },
+  "speaking_head": {
+    "keywords": ["用户","人","人的"],
+    "char": "🗣",
+    "category": "people"
+  },
+  "zzz": {
+    "keywords": ["困","累"],
+    "char": "💤",
+    "category": "people"
+  },
+  "frowning": {
+    "keywords": ["面对","和","什么"],
+    "char": "😦",
+    "category": "people"
+  },
+  "older_woman": {
+    "keywords": ["人的","女","妇女","淑女","旧","长老","前辈"],
+    "char": "👵",
+    "category": "people"
+  },
+  "thermometer_face": {
+    "keywords": ["生病","温度","温度计","冷"],
+    "char": "🤒",
+    "category": "people"
+  },
+  "boy": {
+    "keywords": ["人","男","家伙","青少年"],
+    "char": "👦",
+    "category": "people"
+  },
+  "person_with_blond_hair": {
+    "keywords": ["人","男","男孩","金发","家伙","人"],
+    "char": "👱",
+    "category": "people"
+  },
+  "eye": {
+    "keywords": ["面对","看","看到","看","状态"],
+    "char": "👁",
+    "category": "people"
+  },
+  "triumph": {
+    "keywords": ["面对","加油站","表示不快","骄傲","自豪"],
+    "char": "😤",
+    "category": "people"
+  },
+  "cop": {
+    "keywords": ["人","警察","法","法律","强制","逮捕","911"],
+    "char": "👮",
+    "category": "people"
+  },
+  "zipper_mouth": {
+    "keywords": ["面对","密封","拉链","秘密"],
+    "char": "🤐",
+    "category": "people"
+  },
+  "angel": {
+    "keywords": ["天堂","翅膀","光环"],
+    "char": "👼",
+    "category": "people"
+  },
+  "dancer": {
+    "keywords": ["女","女孩","女人","开玩笑"],
+    "char": "💃",
+    "category": "people"
+  },
+  "astonished": {
+    "keywords": ["面对","hijaam","感到惊讶","中毒"],
+    "char": "😲",
+    "category": "people"
+  },
+  "guardsman": {
+    "keywords": ["联合王国","GB","英国的","男","家伙","王室的"],
+    "char": "💂",
+    "category": "people"
+  },
+  "smiling_imp": {
+    "keywords": ["魔鬼","牛角"],
+    "char": "😈",
+    "category": "people"
+  },
+  "man": {
+    "keywords": ["胡子","父亲","爸","家伙","优雅","先生","小胡子"],
+    "char": "👨",
+    "category": "people"
+  },
+  "dizzy_face": {
+    "keywords": ["花费","无意识","hijaam","头晕"],
+    "char": "😵",
+    "category": "people"
+  },
+  "hankey": {
+    "keywords": ["船尾","shitface","失败","粪","拉屎"],
+    "char": "💩",
+    "category": "people"
+  },
+  "construction_worker": {
+    "keywords": ["男","人的","跷跷板","家伙","建立","施工","工人","劳动"],
+    "char": "👷",
+    "category": "people"
+  },
+  "person_frowning": {
+    "keywords": ["女","女孩","女人","美国","郁闷","灰心","不快乐"],
+    "char": "🙍",
+    "category": "people"
+  },
+  "skull": {
+    "keywords": ["死","骨架","爬行"],
+    "char": "💀",
+    "category": "people"
+  },
+  "couple": {
+    "keywords": ["对","人","人的","爱","日期","约会","喜欢","感情","情人节礼物","婚姻"],
+    "char": "👫",
+    "category": "people"
+  },
+  "bride_with_veil": {
+    "keywords": ["一对","婚姻","婚礼","女人","新娘"],
+    "char": "👰",
+    "category": "people"
+  },
+  "japanese_goblin": {
+    "keywords": ["红","邪恶","面具","怪物","害怕","爬行","日本","小妖精"],
+    "char": "👺",
+    "category": "people"
+  },
+  "japanese_ogre": {
+    "keywords": ["怪物","红","面具","万圣节","害怕","爬行","魔鬼","恶魔","日本","怪物"],
+    "char": "👹",
+    "category": "people"
+  },
+  "two_women_holding_hands": {
+    "keywords": ["对","友谊","一对","爱","喜欢","女","人","人的"],
+    "char": "👭",
+    "category": "people"
+  },
+  "female_couple_with_heart": {
+    "keywords": ["对","爱","喜欢","感情","人的","约会","情人节礼物","婚姻"],
+    "char": "👩‍❤️‍👩",
+    "category": "people"
+  },
+  "male_couplekiss": {
+    "keywords": ["对","情人节礼物","爱","喜欢","约会","婚姻"],
+    "char": "👨‍❤️‍💋‍👨",
+    "category": "people"
+  },
+  "couple_with_heart": {
+    "keywords": ["对","爱","喜欢","感情","人的","约会","情人节礼物","婚姻"],
+    "char": "💑",
+    "category": "people"
+  },
+  "male_couple_with_heart": {
+    "keywords": ["对","爱","喜欢","感情","人的","约会","情人节礼物","婚姻"],
+    "char": "👨‍❤️‍👨",
+    "category": "people"
+  },
+  "bandage_face": {
+    "keywords": ["受伤","笨拙","绷带","伤害"],
+    "char": "🤕",
+    "category": "people"
+  },
+  "smile_cat": {
+    "keywords": ["动物","猫","微笑"],
+    "char": "😸",
+    "category": "people"
+  },
+  "smirk_cat": {
+    "keywords": ["动物","猫","傻笑"],
+    "char": "😼",
+    "category": "people"
+  },
+  "joy_cat": {
+    "keywords": ["动物","猫","哈哈","快乐","眼泪"],
+    "char": "😹",
+    "category": "people"
+  },
+  "family_man_woman_girl_boy": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👩‍👧‍👦",
+    "category": "people"
+  },
+  "family": {
+    "keywords": ["家","父母","儿童","妈妈","爸","父亲","母亲","人","人的"],
+    "char": "👪",
+    "category": "people"
+  },
+  "crying_cat_face": {
+    "keywords": ["动物","眼泪","哭泣","美国","猫","烦乱","哭"],
+    "char": "😿",
+    "category": "people"
+  },
+  "family_women_boys": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👩‍👩‍👦‍👦",
+    "category": "people"
+  },
+  "family_women_girl": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👩‍👩‍👧",
+    "category": "people"
+  },
+  "lipstick": {
+    "keywords": ["女","女孩","时尚","女人"],
+    "char": "💄",
+    "category": "people"
+  },
+  "family_men_boy": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👨‍👦",
+    "category": "people"
+  },
+  "kimono": {
+    "keywords": ["连衣裙","时尚","妇女","女","日本"],
+    "char": "👘",
+    "category": "people"
+  },
+  "scream_cat": {
+    "keywords": ["动物","猫","蒙克","害怕","惊叫"],
+    "char": "🙀",
+    "category": "people"
+  },
+  "family_men_boys": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👨‍👦‍👦",
+    "category": "people"
+  },
+  "shirt": {
+    "keywords": ["时尚","布","随便","T恤","开球"],
+    "char": "👕",
+    "category": "people"
+  },
+  "mans_shoe": {
+    "keywords": ["时尚","男"],
+    "char": "👞",
+    "category": "people"
+  },
+  "pouting_cat": {
+    "keywords": ["动物","猫"],
+    "char": "😾",
+    "category": "people"
+  },
+  "briefcase": {
+    "keywords": ["商业","文件","工作","法","法律"],
+    "char": "💼",
+    "category": "people"
+  },
+  "high_heel": {
+    "keywords": ["时尚","鞋","女","水泵","短剑"],
+    "char": "👠",
+    "category": "people"
+  },
+  "helmet": {
+    "keywords": ["施工","建立"],
+    "char": "⛑",
+    "category": "people"
+  },
+  "imp": {
+    "keywords": ["魔鬼","愤怒","牛角"],
+    "char": "👿",
+    "category": "people"
+  },
+  "dark_sunglasses": {
+    "keywords": ["面对","凉","饰品"],
+    "char": "🕶",
+    "category": "people"
+  },
+  "ok_hand": {
+    "keywords": ["手指","四肢","完善","好"],
+    "char": "👌",
+    "category": "people"
+  },
+  "eyeglasses": {
+    "keywords": ["时尚","饰品","眼力","书呆子","白痴","极客"],
+    "char": "👓",
+    "category": "people"
+  },
+  "-1": {
+    "keywords": ["不看好","没有","反感","手"],
+    "char": "👎",
+    "category": "people"
+  },
+  "panda_face": {
+    "keywords": ["动物","性质","熊猫"],
+    "char": "🐼",
+    "category": "animals_and_nature"
+  },
+  "facepunch": {
+    "keywords": ["愤怒","暴力","拳头","击中","攻击","手"],
+    "char": "👊",
+    "category": "people"
+  },
+  "clap": {
+    "keywords": ["手","赞美","掌声","恭喜","夏天"],
+    "char": "👏",
+    "category": "people"
+  },
+  "wave": {
+    "keywords": ["手","手势","再见","单","告别","你好","棕榈"],
+    "char": "👋",
+    "category": "people"
+  },
+  "bear": {
+    "keywords": ["动物","性质","野生"],
+    "char": "🐻",
+    "category": "animals_and_nature"
+  },
+  "cat": {
+    "keywords": ["动物","喵","性质","宠物"],
+    "char": "🐱",
+    "category": "animals_and_nature"
+  },
+  "closed_umbrella": {
+    "keywords": ["天气","雨","细雨"],
+    "char": "🌂",
+    "category": "people"
+  },
+  "muscle": {
+    "keywords": ["臂","柔性","手","夏季","强大","肱二头肌"],
+    "char": "💪",
+    "category": "people"
+  },
+  "octopus": {
+    "keywords": ["动物","生物","海洋","海","性质","海滩"],
+    "char": "🐙",
+    "category": "animals_and_nature"
+  },
+  "ghost": {
+    "keywords": ["万圣节","幽灵般的","害怕"],
+    "char": "👻",
+    "category": "people"
+  },
+  "koala": {
+    "keywords": ["动物","性质"],
+    "char": "🐨",
+    "category": "animals_and_nature"
+  },
+  "see_no_evil": {
+    "keywords": ["猴","动物","性质","哈哈"],
+    "char": "🙈",
+    "category": "animals_and_nature"
+  },
+  "penguin": {
+    "keywords": ["动物","性质"],
+    "char": "🐧",
+    "category": "animals_and_nature"
+  },
+  "crown": {
+    "keywords": ["国王","在","领导","王权","主"],
+    "char": "👑",
+    "category": "people"
+  },
+  "hear_no_evil": {
+    "keywords": ["动物","猴","性质"],
+    "char": "🙉",
+    "category": "animals_and_nature"
+  },
+  "pig_nose": {
+    "keywords": ["动物","OINK"],
+    "char": "🐽",
+    "category": "animals_and_nature"
+  },
+  "pray": {
+    "keywords": ["请","希望","希望","你好","举手击掌"],
+    "char": "🙏",
+    "category": "people"
+  },
+  "bird": {
+    "keywords": ["动物","性质","飞","鸣叫","弹簧"],
+    "char": "🐦",
+    "category": "animals_and_nature"
+  },
+  "monkey_face": {
+    "keywords": ["动物","性质","马戏团"],
+    "char": "🐵",
+    "category": "animals_and_nature"
+  },
+  "frog": {
+    "keywords": ["动物","性质","发牢骚","蟾蜍"],
+    "char": "🐸",
+    "category": "animals_and_nature"
+  },
+  "wolf": {
+    "keywords": ["动物","性质","野生"],
+    "char": "🐺",
+    "category": "animals_and_nature"
+  },
+  "point_up_2": {
+    "keywords": ["手指","手","方向","向上"],
+    "char": "👆",
+    "category": "people"
+  },
+  "horse": {
+    "keywords": ["动物","棕色","性质"],
+    "char": "🐴",
+    "category": "animals_and_nature"
+  },
+  "splayed_fingers": {
+    "keywords": ["手","手指","棕榈"],
+    "char": "🖐",
+    "category": "people"
+  },
+  "chicken": {
+    "keywords": ["动物","咕","性质","鸟"],
+    "char": "🐔",
+    "category": "animals_and_nature"
+  },
+  "smiley_cat": {
+    "keywords": ["动物","猫","快乐","微笑"],
+    "char": "😺",
+    "category": "people"
+  },
+  "baby_chick": {
+    "keywords": ["动物","鸡","鸟"],
+    "char": "🐤",
+    "category": "animals_and_nature"
+  },
+  "hatched_chick": {
+    "keywords": ["动物","鸡","宝宝","鸟"],
+    "char": "🐥",
+    "category": "animals_and_nature"
+  },
+  "middle_finger": {
+    "keywords": ["手","手指","无礼"],
+    "char": "🖕",
+    "category": "people"
+  },
+  "nose": {
+    "keywords": ["闻","吸气"],
+    "char": "👃",
+    "category": "people"
+  },
+  "nail_care": {
+    "keywords": ["美女","修指甲","手指","时尚","钉"],
+    "char": "💅",
+    "category": "people"
+  },
+  "lips": {
+    "keywords": ["口","吻"],
+    "char": "👄",
+    "category": "people"
+  },
+  "vulcan_salute": {
+    "keywords": ["手","手指","斯波克","星际迷航"],
+    "char": "🖖",
+    "category": "people"
+  },
+  "bust_in_silhouette": {
+    "keywords": ["用户","人","人的"],
+    "char": "👤",
+    "category": "people"
+  },
+  "girl": {
+    "keywords": ["女","女人","青少年"],
+    "char": "👧",
+    "category": "people"
+  },
+  "snail": {
+    "keywords": ["慢","动物","贝壳"],
+    "char": "🐌",
+    "category": "animals_and_nature"
+  },
+  "leopard": {
+    "keywords": ["动物","性质"],
+    "char": "🐆",
+    "category": "animals_and_nature"
+  },
+  "bee": {
+    "keywords": ["动物","昆虫","性质","错误","弹簧","蜜糖"],
+    "char": "🐝",
+    "category": "animals_and_nature"
+  },
+  "ant": {
+    "keywords": ["动物","昆虫","性质","错误"],
+    "char": "🐜",
+    "category": "animals_and_nature"
+  },
+  "woman": {
+    "keywords": ["女","女孩","淑女"],
+    "char": "👩",
+    "category": "people"
+  },
+  "snake": {
+    "keywords": ["动物","邪恶","性质","感觉","蟒蛇"],
+    "char": "🐍",
+    "category": "animals_and_nature"
+  },
+  "older_man": {
+    "keywords": ["人的","男","但","旧","长老","前辈"],
+    "char": "👴",
+    "category": "people"
+  },
+  "neutral_face": {
+    "keywords": ["漠不关心","月","：|","中性"],
+    "char": "😐",
+    "category": "people"
+  },
+  "pig2": {
+    "keywords": ["动物","性质"],
+    "char": "🐖",
+    "category": "animals_and_nature"
+  },
+  "man_with_gua_pi_mao": {
+    "keywords": ["男","男孩","中文"],
+    "char": "👲",
+    "category": "people"
+  },
+  "ox": {
+    "keywords": ["动物","牛","牛肉"],
+    "char": "🐂",
+    "category": "animals_and_nature"
+  },
+  "camel": {
+    "keywords": ["动物","性质","热","沙漠","驼峰"],
+    "char": "🐫",
+    "category": "animals_and_nature"
+  },
+  "water_buffalo": {
+    "keywords": ["动物","性质","牛","牛"],
+    "char": "🐃",
+    "category": "animals_and_nature"
+  },
+  "baby": {
+    "keywords": ["儿童","男孩","女孩","幼儿"],
+    "char": "👶",
+    "category": "people"
+  },
+  "sheep": {
+    "keywords": ["动物","性质","羊毛","装运它"],
+    "char": "🐑",
+    "category": "animals_and_nature"
+  },
+  "elephant": {
+    "keywords": ["动物","性质","鼻子","泰国","马戏团"],
+    "char": "🐘",
+    "category": "animals_and_nature"
+  },
+  "cow2": {
+    "keywords": ["牛肉","牛","动物","性质","哞","牛奶"],
+    "char": "🐄",
+    "category": "animals_and_nature"
+  },
+  "rat": {
+    "keywords": ["动物","老鼠","啮齿动物"],
+    "char": "🐀",
+    "category": "animals_and_nature"
+  },
+  "racehorse": {
+    "keywords": ["动物","赌","运气"],
+    "char": "🐎",
+    "category": "animals_and_nature"
+  },
+  "man_with_turban": {
+    "keywords": ["男","印度人","印度教","阿拉伯人"],
+    "char": "👳",
+    "category": "people"
+  },
+  "writing_hand": {
+    "keywords": ["钢笔","文具","写"],
+    "char": "✍",
+    "category": "people"
+  },
+  "santa": {
+    "keywords": ["节","人","男","圣诞节","圣诞老人"],
+    "char": "🎅",
+    "category": "people"
+  },
+  "sleuth": {
+    "keywords": ["人的","间谍","侦探"],
+    "char": "🕵",
+    "category": "people"
+  },
+  "walking": {
+    "keywords": ["人的","脚","脚步"],
+    "char": "🚶",
+    "category": "people"
+  },
+  "dancers": {
+    "keywords": ["女","兔子","妇女","女孩"],
+    "char": "👯",
+    "category": "people"
+  },
+  "runner": {
+    "keywords": ["人","步行","行使","种族","赛跑"],
+    "char": "🏃",
+    "category": "people"
+  },
+  "princess": {
+    "keywords": ["女孩","女人","女","金发","王冠","王室的","女王"],
+    "char": "👸",
+    "category": "people"
+  },
+  "shell": {
+    "keywords": ["性质","海","海滩"],
+    "char": "🐚",
+    "category": "animals_and_nature"
+  },
+  "haircut": {
+    "keywords": ["女","女孩","女人"],
+    "char": "💇",
+    "category": "people"
+  },
+  "christmas_tree": {
+    "keywords": ["节","假期","十二月","圣诞节","庆典"],
+    "char": "🎄",
+    "category": "animals_and_nature"
+  },
+  "cherry_blossom": {
+    "keywords": ["性质","厂","弹簧","花"],
+    "char": "🌸",
+    "category": "animals_and_nature"
+  },
+  "blossom": {
+    "keywords": ["性质","花卉","黄色"],
+    "char": "🌼",
+    "category": "animals_and_nature"
+  },
+  "tulip": {
+    "keywords": ["花卉","厂","性质","夏季","弹簧"],
+    "char": "🌷",
+    "category": "animals_and_nature"
+  },
+  "cactus": {
+    "keywords": ["蔬菜","厂","性质"],
+    "char": "🌵",
+    "category": "animals_and_nature"
+  },
+  "earth_africa": {
+    "keywords": ["地球","世界","国际"],
+    "char": "🌍",
+    "category": "animals_and_nature"
+  },
+  "earth_americas": {
+    "keywords": ["地球","世界","美国","国际"],
+    "char": "🌎",
+    "category": "animals_and_nature"
+  },
+  "earth_asia": {
+    "keywords": ["地球","世界","东","国际"],
+    "char": "🌏",
+    "category": "animals_and_nature"
+  },
+  "maple_leaf": {
+    "keywords": ["性质","厂","蔬菜","加拿大","秋季"],
+    "char": "🍁",
+    "category": "animals_and_nature"
+  },
+  "last_quarter_moon": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌗",
+    "category": "animals_and_nature"
+  },
+  "family_women_girls": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👩‍👩‍👧‍👧",
+    "category": "people"
+  },
+  "family_women_girl_boy": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👩‍👩‍👧‍👦",
+    "category": "people"
+  },
+  "womans_clothes": {
+    "keywords": ["时尚","购物","女"],
+    "char": "👚",
+    "category": "people"
+  },
+  "white_sun_behind_cloud": {
+    "keywords": "[]",
+    "char": "🌥",
+    "category": "animals_and_nature"
+  },
+  "family_men_girl_boy": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👨‍👧‍👦",
+    "category": "people"
+  },
+  "womans_hat": {
+    "keywords": ["时尚","饰品","女","淑女","弹簧"],
+    "char": "👒",
+    "category": "people"
+  },
+  "umbrella": {
+    "keywords": ["多雨的","天气","弹簧"],
+    "char": "☔",
+    "category": "animals_and_nature"
+  },
+  "pouch": {
+    "keywords": ["袋","饰品","购物"],
+    "char": "👝",
+    "category": "people"
+  },
+  "necktie": {
+    "keywords": ["衬衫","suitup","正式","时尚","布","商业"],
+    "char": "👔",
+    "category": "people"
+  },
+  "purse": {
+    "keywords": ["时尚","饰品","钱","销售","购物"],
+    "char": "👛",
+    "category": "people"
+  },
+  "tophat": {
+    "keywords": ["魔法","绅士","优雅","马戏团"],
+    "char": "🎩",
+    "category": "people"
+  },
+  "athletic_shoe": {
+    "keywords": ["鞋","体育","球鞋"],
+    "char": "👟",
+    "category": "people"
+  },
+  "mouse": {
+    "keywords": ["动物","性质","起司","啮齿动物"],
+    "char": "🐭",
+    "category": "animals_and_nature"
+  },
+  "corn": {
+    "keywords": ["餐饮","蔬菜","厂"],
+    "char": "🌽",
+    "category": "food_and_drink"
+  },
+  "grapes": {
+    "keywords": ["水果","餐饮","红酒"],
+    "char": "🍇",
+    "category": "food_and_drink"
+  },
+  "watermelon": {
+    "keywords": ["水果","餐饮","野餐","夏季"],
+    "char": "🍉",
+    "category": "food_and_drink"
+  },
+  "cherries": {
+    "keywords": ["餐饮","水果"],
+    "char": "🍒",
+    "category": "food_and_drink"
+  },
+  "sweet_potato": {
+    "keywords": ["餐饮","性质"],
+    "char": "🍠",
+    "category": "food_and_drink"
+  },
+  "strawberry": {
+    "keywords": ["水果","餐饮","性质"],
+    "char": "🍓",
+    "category": "food_and_drink"
+  },
+  "tomato": {
+    "keywords": ["水果","蔬菜","性质","餐饮"],
+    "char": "🍅",
+    "category": "food_and_drink"
+  },
+  "pineapple": {
+    "keywords": ["水果","性质","餐饮"],
+    "char": "🍍",
+    "category": "food_and_drink"
+  },
+  "ring": {
+    "keywords": ["婚礼","报价","婚姻","情人节礼物","钻石","时尚","首饰","宝石"],
+    "char": "💍",
+    "category": "people"
+  },
+  "rice_cracker": {
+    "keywords": ["餐饮","日本"],
+    "char": "🍘",
+    "category": "food_and_drink"
+  },
+  "dog": {
+    "keywords": ["动物","朋友","性质","纬","小狗","宠物","可信"],
+    "char": "🐶",
+    "category": "animals_and_nature"
+  },
+  "bread": {
+    "keywords": ["餐饮","小麦","早餐","烤面包"],
+    "char": "🍞",
+    "category": "food_and_drink"
+  },
+  "cheese_wedge": {
+    "keywords": ["餐饮","跟数据"],
+    "char": "🧀",
+    "category": "food_and_drink"
+  },
+  "eggplant": {
+    "keywords": ["蔬菜","性质","餐饮","茄子"],
+    "char": "🍆",
+    "category": "food_and_drink"
+  },
+  "pig": {
+    "keywords": ["动物","OINK","性质"],
+    "char": "🐷",
+    "category": "animals_and_nature"
+  },
+  "icecream": {
+    "keywords": ["餐饮","热","甜点","夏季"],
+    "char": "🍦",
+    "category": "food_and_drink"
+  },
+  "bento": {
+    "keywords": ["餐饮","日本","框"],
+    "char": "🍱",
+    "category": "food_and_drink"
+  },
+  "speak_no_evil": {
+    "keywords": ["猴","动物","性质","我的天啊"],
+    "char": "🙊",
+    "category": "animals_and_nature"
+  },
+  "custard": {
+    "keywords": ["甜点","餐饮"],
+    "char": "🍮",
+    "category": "food_and_drink"
+  },
+  "boar": {
+    "keywords": ["动物","性质"],
+    "char": "🐗",
+    "category": "animals_and_nature"
+  },
+  "stew": {
+    "keywords": ["餐饮","肉","汤"],
+    "char": "🍲",
+    "category": "food_and_drink"
+  },
+  "monkey": {
+    "keywords": ["动物","性质","香蕉","马戏团"],
+    "char": "🐒",
+    "category": "animals_and_nature"
+  },
+  "rice_ball": {
+    "keywords": ["餐饮","日本"],
+    "char": "🍙",
+    "category": "food_and_drink"
+  },
+  "fish_cake": {
+    "keywords": ["餐饮","日本","海","海滩"],
+    "char": "🍥",
+    "category": "food_and_drink"
+  },
+  "bottle": {
+    "keywords": ["喝","红酒","香槟酒"],
+    "char": "🍾",
+    "category": "food_and_drink"
+  },
+  "popcorn": {
+    "keywords": ["餐饮","电影院","影片","小吃"],
+    "char": "🍿",
+    "category": "food_and_drink"
+  },
+  "hatching_chick": {
+    "keywords": ["动物","鸡","蛋","天生","宝宝","鸟"],
+    "char": "🐣",
+    "category": "animals_and_nature"
+  },
+  "unicorn_face": {
+    "keywords": ["动物","性质","神秘"],
+    "char": "🦄",
+    "category": "animals_and_nature"
+  },
+  "cookie": {
+    "keywords": ["餐饮","小吃","奥利奥","巧克力","甜","甜点"],
+    "char": "🍪",
+    "category": "food_and_drink"
+  },
+  "wine_glass": {
+    "keywords": ["喝","饮料","醉","醇","豪饮"],
+    "char": "🍷",
+    "category": "food_and_drink"
+  },
+  "sake": {
+    "keywords": ["红酒","喝","醉","饮料","日本","醇","豪饮"],
+    "char": "🍶",
+    "category": "food_and_drink"
+  },
+  "baby_bottle": {
+    "keywords": ["餐饮","容器","牛奶"],
+    "char": "🍼",
+    "category": "food_and_drink"
+  },
+  "tropical_drink": {
+    "keywords": ["饮料","鸡尾酒","夏季","海滩","醇","豪饮","莫吉托"],
+    "char": "🍹",
+    "category": "food_and_drink"
+  },
+  "badminton": {
+    "keywords": "[]",
+    "char": "🏸",
+    "category": "activity"
+  },
+  "baseball": {
+    "keywords": ["体育","球"],
+    "char": "⚾",
+    "category": "activity"
+  },
+  "field_hockey": {
+    "keywords": "[]",
+    "char": "🏑",
+    "category": "activity"
+  },
+  "beetle": {
+    "keywords": ["动物","昆虫","性质","瓢虫"],
+    "char": "🐞",
+    "category": "animals_and_nature"
+  },
+  "bug": {
+    "keywords": ["动物","昆虫","性质","虫"],
+    "char": "🐛",
+    "category": "animals_and_nature"
+  },
+  "crab": {
+    "keywords": ["动物","甲壳动物"],
+    "char": "🦀",
+    "category": "animals_and_nature"
+  },
+  "scorpion": {
+    "keywords": ["动物","蜘蛛"],
+    "char": "🦂",
+    "category": "animals_and_nature"
+  },
+  "spider": {
+    "keywords": ["动物","蜘蛛"],
+    "char": "🕷",
+    "category": "animals_and_nature"
+  },
+  "whale2": {
+    "keywords": ["动物","性质","海","海洋"],
+    "char": "🐋",
+    "category": "animals_and_nature"
+  },
+  "blowfish": {
+    "keywords": ["动物","性质","餐饮","海","海洋"],
+    "char": "🐡",
+    "category": "animals_and_nature"
+  },
+  "fish": {
+    "keywords": ["动物","餐饮","性质"],
+    "char": "🐟",
+    "category": "animals_and_nature"
+  },
+  "ski": {
+    "keywords": ["体育","冬季","冷","雪"],
+    "char": "🎿",
+    "category": "activity"
+  },
+  "turtle": {
+    "keywords": ["动物","慢","性质","乌龟"],
+    "char": "🐢",
+    "category": "animals_and_nature"
+  },
+  "whale": {
+    "keywords": ["动物","性质","海","海洋"],
+    "char": "🐳",
+    "category": "animals_and_nature"
+  },
+  "cricket": {
+    "keywords": "[]",
+    "char": "🏏",
+    "category": "activity"
+  },
+  "tropical_fish": {
+    "keywords": ["动物","游泳","海洋","海滩","没有"],
+    "char": "🐠",
+    "category": "animals_and_nature"
+  },
+  "dolphin": {
+    "keywords": ["动物","性质","鱼","海","海洋","脚蹼","向上","海滩"],
+    "char": "🐬",
+    "category": "animals_and_nature"
+  },
+  "tiger2": {
+    "keywords": ["动物","性质","怒吼"],
+    "char": "🐅",
+    "category": "animals_and_nature"
+  },
+  "skier": {
+    "keywords": ["体育","冬季","雪"],
+    "char": "⛷",
+    "category": "activity"
+  },
+  "turkey": {
+    "keywords": ["动物","鸟"],
+    "char": "🦃",
+    "category": "animals_and_nature"
+  },
+  "mouse2": {
+    "keywords": ["动物","性质","啮齿动物"],
+    "char": "🐁",
+    "category": "animals_and_nature"
+  },
+  "bicyclist": {
+    "keywords": ["体育","自行车","行使","潮人"],
+    "char": "🚴",
+    "category": "activity"
+  },
+  "rooster": {
+    "keywords": ["动物","性质","鸡"],
+    "char": "🐓",
+    "category": "animals_and_nature"
+  },
+  "dove_of_peace": {
+    "keywords": ["动物","鸟"],
+    "char": "🕊",
+    "category": "animals_and_nature"
+  },
+  "cat2": {
+    "keywords": ["动物","喵","宠物","猫"],
+    "char": "🐈",
+    "category": "animals_and_nature"
+  },
+  "sports_medal": {
+    "keywords": ["奖","胜利"],
+    "char": "🏅",
+    "category": "activity"
+  },
+  "poodle": {
+    "keywords": ["狗","动物","101","性质","宠物"],
+    "char": "🐩",
+    "category": "animals_and_nature"
+  },
+  "rabbit2": {
+    "keywords": ["动物","性质","宠物","魔法","弹簧"],
+    "char": "🐇",
+    "category": "animals_and_nature"
+  },
+  "chipmunk": {
+    "keywords": ["动物","性质","啮齿动物","松鼠"],
+    "char": "🐿",
+    "category": "animals_and_nature"
+  },
+  "dragon": {
+    "keywords": ["动物","神话","性质","中文","绿色"],
+    "char": "🐉",
+    "category": "animals_and_nature"
+  },
+  "dragon_face": {
+    "keywords": ["动物","神话","性质","中文","绿色"],
+    "char": "🐲",
+    "category": "animals_and_nature"
+  },
+  "dog2": {
+    "keywords": ["动物","性质","朋友","总督","宠物","可信"],
+    "char": "🐕",
+    "category": "animals_and_nature"
+  },
+  "military_medal": {
+    "keywords": ["奖","胜利","军队"],
+    "char": "🎖",
+    "category": "activity"
+  },
+  "feet": {
+    "keywords": ["动物","追踪","脚印","狗","猫","宠物","掌印"],
+    "char": "🐾",
+    "category": "animals_and_nature"
+  },
+  "deciduous_tree": {
+    "keywords": ["厂","性质"],
+    "char": "🌳",
+    "category": "animals_and_nature"
+  },
+  "reminder_ribbon": {
+    "keywords": ["体育","原因","一如既往支持","意识"],
+    "char": "🎗",
+    "category": "activity"
+  },
+  "violin": {
+    "keywords": ["音乐","仪器","乐队","交响乐"],
+    "char": "🎻",
+    "category": "activity"
+  },
+  "trophy": {
+    "keywords": ["赢得","奖","比赛","地点","FTW","仪式"],
+    "char": "🏆",
+    "category": "activity"
+  },
+  "bowling": {
+    "keywords": ["体育","开玩笑","玩"],
+    "char": "🎳",
+    "category": "activity"
+  },
+  "police_car": {
+    "keywords": ["车辆","汽车","运输","法","法律","强制"],
+    "char": "🚓",
+    "category": "travel_and_places"
+  },
+  "palm_tree": {
+    "keywords": ["厂","蔬菜","性质","夏季","海滩","莫吉托"],
+    "char": "🌴",
+    "category": "animals_and_nature"
+  },
+  "oncoming_police_car": {
+    "keywords": ["车辆","法","法律","强制","911"],
+    "char": "🚔",
+    "category": "travel_and_places"
+  },
+  "aerial_tramway": {
+    "keywords": ["运输","车辆","滑雪"],
+    "char": "🚡",
+    "category": "travel_and_places"
+  },
+  "mountain_cableway": {
+    "keywords": ["运输","车辆","滑雪"],
+    "char": "🚠",
+    "category": "travel_and_places"
+  },
+  "mountain_railway": {
+    "keywords": ["运输","车辆"],
+    "char": "🚞",
+    "category": "travel_and_places"
+  },
+  "light_rail": {
+    "keywords": ["运输","车辆"],
+    "char": "🚈",
+    "category": "travel_and_places"
+  },
+  "bullettrain_side": {
+    "keywords": ["运输","车辆"],
+    "char": "🚄",
+    "category": "travel_and_places"
+  },
+  "hibiscus": {
+    "keywords": ["厂","蔬菜","花卉","海滩"],
+    "char": "🌺",
+    "category": "animals_and_nature"
+  },
+  "bullettrain_front": {
+    "keywords": ["运输","车辆","速度","快速","上市","旅行"],
+    "char": "🚅",
+    "category": "travel_and_places"
+  },
+  "train2": {
+    "keywords": ["运输","车辆"],
+    "char": "🚆",
+    "category": "travel_and_places"
+  },
+  "tanabata_tree": {
+    "keywords": ["厂","性质","科","夏季"],
+    "char": "🎋",
+    "category": "animals_and_nature"
+  },
+  "steam_locomotive": {
+    "keywords": ["运输","车辆","培养"],
+    "char": "🚂",
+    "category": "travel_and_places"
+  },
+  "sunflower": {
+    "keywords": ["性质","厂","秋季"],
+    "char": "🌻",
+    "category": "animals_and_nature"
+  },
+  "bamboo": {
+    "keywords": ["厂","性质","蔬菜","熊猫","pine_decoration"],
+    "char": "🎍",
+    "category": "animals_and_nature"
+  },
+  "rose": {
+    "keywords": ["花卉","情人节礼物","爱","弹簧"],
+    "char": "🌹",
+    "category": "animals_and_nature"
+  },
+  "bouquet": {
+    "keywords": ["花卉","性质","弹簧"],
+    "char": "💐",
+    "category": "animals_and_nature"
+  },
+  "speedboat": {
+    "keywords": ["船","运输","车辆","夏季"],
+    "char": "🚤",
+    "category": "travel_and_places"
+  },
+  "airplane_departure": {
+    "keywords": ["飞机场","飞行","降落"],
+    "char": "🛫",
+    "category": "travel_and_places"
+  },
+  "traffic_light": {
+    "keywords": ["运输","信号"],
+    "char": "🚥",
+    "category": "travel_and_places"
+  },
+  "construction": {
+    "keywords": ["跷跷板","进展","警告","警告"],
+    "char": "🚧",
+    "category": "travel_and_places"
+  },
+  "building_construction": {
+    "keywords": ["跷跷板","加工","进展"],
+    "char": "🏗",
+    "category": "travel_and_places"
+  },
+  "first_quarter_moon": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌓",
+    "category": "animals_and_nature"
+  },
+  "checkered_flag": {
+    "keywords": ["比赛","finishline","品种","乳母车"],
+    "char": "🏁",
+    "category": "travel_and_places"
+  },
+  "sunrise_over_mountains": {
+    "keywords": ["视图","假期","照片"],
+    "char": "🌄",
+    "category": "travel_and_places"
+  },
+  "waxing_crescent_moon": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌒",
+    "category": "animals_and_nature"
+  },
+  "factory": {
+    "keywords": ["建造","行业","污染","抽烟"],
+    "char": "🏭",
+    "category": "travel_and_places"
+  },
+  "full_moon_with_face": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌝",
+    "category": "animals_and_nature"
+  },
+  "mushroom": {
+    "keywords": ["厂","蔬菜"],
+    "char": "🍄",
+    "category": "animals_and_nature"
+  },
+  "roller_coaster": {
+    "keywords": ["狂欢","操场","照片","开玩笑"],
+    "char": "🎢",
+    "category": "travel_and_places"
+  },
+  "sunrise": {
+    "keywords": ["早上","视图","假期","照片"],
+    "char": "🌅",
+    "category": "travel_and_places"
+  },
+  "city_sunrise": {
+    "keywords": ["照片","早上好","黎明"],
+    "char": "🌇",
+    "category": "travel_and_places"
+  },
+  "new_moon_with_face": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌚",
+    "category": "animals_and_nature"
+  },
+  "star2": {
+    "keywords": ["晚","火花","真棒","好","魔法"],
+    "char": "🌟",
+    "category": "animals_and_nature"
+  },
+  "desert": {
+    "keywords": ["照片","暖","Sharah"],
+    "char": "🏜",
+    "category": "travel_and_places"
+  },
+  "fireworks": {
+    "keywords": ["照片","节","狂欢","祝贺"],
+    "char": "🎆",
+    "category": "travel_and_places"
+  },
+  "comet": {
+    "keywords": "[]",
+    "char": "☄",
+    "category": "animals_and_nature"
+  },
+  "new_moon": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌑",
+    "category": "animals_and_nature"
+  },
+  "dizzy": {
+    "keywords": ["星","火花","射击","魔法"],
+    "char": "💫",
+    "category": "animals_and_nature"
+  },
+  "sunny": {
+    "keywords": ["天气","性质","亮度","夏季","海滩","弹簧"],
+    "char": "☀️",
+    "category": "animals_and_nature"
+  },
+  "japanese_castle": {
+    "keywords": ["照片","建造"],
+    "char": "🏯",
+    "category": "travel_and_places"
+  },
+  "european_castle": {
+    "keywords": ["建造","王权","历史"],
+    "char": "🏰",
+    "category": "travel_and_places"
+  },
+  "department_store": {
+    "keywords": ["建造","购物","购物中心"],
+    "char": "🏬",
+    "category": "travel_and_places"
+  },
+  "derelict_house": {
+    "keywords": ["放弃","赶出","破碎","建造"],
+    "char": "🏚",
+    "category": "travel_and_places"
+  },
+  "white_sun_with_small_cloud": {
+    "keywords": "[]",
+    "char": "🌤",
+    "category": "animals_and_nature"
+  },
+  "stadium": {
+    "keywords": ["照片","地点","体育","音乐会","会场"],
+    "char": "🏟",
+    "category": "travel_and_places"
+  },
+  "partly_sunny": {
+    "keywords": ["天气","性质","多云的","早上","秋季","弹簧"],
+    "char": "⛅",
+    "category": "animals_and_nature"
+  },
+  "cloud": {
+    "keywords": ["天气","天空"],
+    "char": "☁️",
+    "category": "animals_and_nature"
+  },
+  "cloud_with_rain": {
+    "keywords": "[]",
+    "char": "🌧",
+    "category": "animals_and_nature"
+  },
+  "white_sun_behind_cloud_with_rain": {
+    "keywords": "[]",
+    "char": "🌦",
+    "category": "animals_and_nature"
+  },
+  "bank": {
+    "keywords": ["建造","钱","销售","现金","商业","企业"],
+    "char": "🏦",
+    "category": "travel_and_places"
+  },
+  "hospital": {
+    "keywords": ["建造","健康","手术","医生"],
+    "char": "🏥",
+    "category": "travel_and_places"
+  },
+  "hotel": {
+    "keywords": ["建造","whotel","大酒店","签"],
+    "char": "🏨",
+    "category": "travel_and_places"
+  },
+  "cloud_with_lightning": {
+    "keywords": ["天气","雷"],
+    "char": "🌩",
+    "category": "animals_and_nature"
+  },
+  "fire": {
+    "keywords": ["热","厨师","火焰"],
+    "char": "🔥",
+    "category": "animals_and_nature"
+  },
+  "watch": {
+    "keywords": ["时间","饰品"],
+    "char": "⌚",
+    "category": "objects"
+  },
+  "museum": {
+    "keywords": ["艺术","文化","历史"],
+    "char": "🏛",
+    "category": "travel_and_places"
+  },
+  "church": {
+    "keywords": ["建造","宗教","基督"],
+    "char": "⛪",
+    "category": "travel_and_places"
+  },
+  "iphone": {
+    "keywords": ["技术","苹果","小工具","拨号"],
+    "char": "📱",
+    "category": "objects"
+  },
+  "cloud_with_snow": {
+    "keywords": "[]",
+    "char": "🌨",
+    "category": "animals_and_nature"
+  },
+  "synagogue": {
+    "keywords": ["犹太教","崇拜","寺庙","犹"],
+    "char": "🕍",
+    "category": "travel_and_places"
+  },
+  "compression": {
+    "keywords": "[]",
+    "char": "🗜",
+    "category": "objects"
+  },
+  "mosque": {
+    "keywords": ["伊斯兰教","崇拜","尖塔"],
+    "char": "🕌",
+    "category": "travel_and_places"
+  },
+  "european_post_office": {
+    "keywords": ["建造","电子邮件"],
+    "char": "🏤",
+    "category": "travel_and_places"
+  },
+  "pear": {
+    "keywords": ["水果","性质","餐饮"],
+    "char": "🍐",
+    "category": "food_and_drink"
+  },
+  "snowman": {
+    "keywords": ["冬季","季节","冷","天气","圣诞","圣诞节","冻结的","without_snow"],
+    "char": "⛄",
+    "category": "animals_and_nature"
+  },
+  "film_projector": {
+    "keywords": ["视频","胶带","记录","电影"],
+    "char": "📽",
+    "category": "objects"
+  },
+  "control_knobs": {
+    "keywords": "[]",
+    "char": "🎛",
+    "category": "objects"
+  },
+  "level_slider": {
+    "keywords": "[]",
+    "char": "🎚",
+    "category": "objects"
+  },
+  "banana": {
+    "keywords": ["水果","餐饮","猴"],
+    "char": "🍌",
+    "category": "food_and_drink"
+  },
+  "boom": {
+    "keywords": ["炸弹","爆炸","爆炸","碰撞","吹"],
+    "char": "💥",
+    "category": "animals_and_nature"
+  },
+  "bulb": {
+    "keywords": ["光","电力","理念"],
+    "char": "💡",
+    "category": "objects"
+  },
+  "dvd": {
+    "keywords": ["光盘","磁盘","圆盘"],
+    "char": "📀",
+    "category": "objects"
+  },
+  "zap": {
+    "keywords": ["雷","天气","闪电","快速"],
+    "char": "⚡",
+    "category": "animals_and_nature"
+  },
+  "studio_microphone": {
+    "keywords": ["歌手","记录","艺术家"],
+    "char": "🎙",
+    "category": "objects"
+  },
+  "flashlight": {
+    "keywords": ["黑暗","露营","视力","晚"],
+    "char": "🔦",
+    "category": "objects"
+  },
+  "hourglass_flowing_sand": {
+    "keywords": ["老套","时间","倒数"],
+    "char": "⏳",
+    "category": "objects"
+  },
+  "hourglass": {
+    "keywords": ["时间","时钟","老套","限制","考试","测验","测试"],
+    "char": "⌛",
+    "category": "objects"
+  },
+  "wastebasket": {
+    "keywords": ["是","垃圾","垃圾","垃圾","折腾"],
+    "char": "🗑",
+    "category": "objects"
+  },
+  "electric_plug": {
+    "keywords": ["充电器","功率"],
+    "char": "🔌",
+    "category": "objects"
+  },
+  "chains": {
+    "keywords": ["锁","逮捕"],
+    "char": "⛓",
+    "category": "objects"
+  },
+  "scales": {
+    "keywords": ["法","公平","重量"],
+    "char": "⚖",
+    "category": "objects"
+  },
+  "hammer_and_pick": {
+    "keywords": ["工具","建立","创建"],
+    "char": "⚒",
+    "category": "objects"
+  },
+  "two_men_holding_hands": {
+    "keywords": ["对","一对","爱","喜欢","兄弟情","友谊","人","人的"],
+    "char": "👬",
+    "category": "people"
+  },
+  "moneybag": {
+    "keywords": ["美元","付款","硬币","拍卖"],
+    "char": "💰",
+    "category": "objects"
+  },
+  "melon": {
+    "keywords": ["水果","性质","餐饮"],
+    "char": "🍈",
+    "category": "food_and_drink"
+  },
+  "crossed_swords": {
+    "keywords": "[]",
+    "char": "⚔",
+    "category": "objects"
+  },
+  "peach": {
+    "keywords": ["水果","性质","餐饮"],
+    "char": "🍑",
+    "category": "food_and_drink"
+  },
+  "skull_and_crossbones": {
+    "keywords": ["毒","危险","致命","害怕"],
+    "char": "☠",
+    "category": "objects"
+  },
+  "bomb": {
+    "keywords": ["繁荣","爆炸","爆炸","恐怖主义"],
+    "char": "💣",
+    "category": "objects"
+  },
+  "bow": {
+    "keywords": ["人","男","男孩"],
+    "char": "🙇",
+    "category": "people"
+  },
+  "hole": {
+    "keywords": "[]",
+    "char": "🕳",
+    "category": "objects"
+  },
+  "pill": {
+    "keywords": ["健康","医学","医生","药店","药物"],
+    "char": "💊",
+    "category": "objects"
+  },
+  "syringe": {
+    "keywords": ["健康","醫院","毒品","血液","医学","针","医生","护士"],
+    "char": "💉",
+    "category": "objects"
+  },
+  "thermometer": {
+    "keywords": ["天气","温度","热","冷"],
+    "char": "🌡",
+    "category": "objects"
+  },
+  "information_desk_person": {
+    "keywords": ["女","女孩","女人","人的","信息"],
+    "char": "💁",
+    "category": "people"
+  },
+  "couch_and_lamp": {
+    "keywords": ["读","寒意"],
+    "char": "🛋",
+    "category": "objects"
+  },
+  "old_key": {
+    "keywords": ["锁","由","密码"],
+    "char": "🗝",
+    "category": "objects"
+  },
+  "meat_on_bone": {
+    "keywords": ["好","餐饮","鼓槌"],
+    "char": "🍖",
+    "category": "food_and_drink"
+  },
+  "massage": {
+    "keywords": ["女","女孩","女人","头"],
+    "char": "💆",
+    "category": "people"
+  },
+  "poultry_leg": {
+    "keywords": ["餐饮","肉","鼓槌","鸟","鸡","火鸡"],
+    "char": "🍗",
+    "category": "food_and_drink"
+  },
+  "egg": {
+    "keywords": ["餐饮","早餐","厨房"],
+    "char": "🍳",
+    "category": "food_and_drink"
+  },
+  "bellhop_bell": {
+    "keywords": "[]",
+    "char": "🛎",
+    "category": "objects"
+  },
+  "sleeping_accommodation": {
+    "keywords": ["床","休息"],
+    "char": "🛌",
+    "category": "objects"
+  },
+  "couplekiss": {
+    "keywords": ["对","情人节礼物","爱","喜欢","约会","婚姻"],
+    "char": "💏",
+    "category": "people"
+  },
+  "female_couplekiss": {
+    "keywords": ["对","情人节礼物","爱","喜欢","约会","婚姻"],
+    "char": "👩‍❤️‍💋‍👩",
+    "category": "people"
+  },
+  "fried_shrimp": {
+    "keywords": ["餐饮","动物","开胃菜","夏季"],
+    "char": "🍤",
+    "category": "food_and_drink"
+  },
+  "fries": {
+    "keywords": ["芯片","小吃","快餐"],
+    "char": "🍟",
+    "category": "food_and_drink"
+  },
+  "hamburger": {
+    "keywords": ["肉","快餐","牛肉","乳酪汉堡","麦当劳","汉堡王"],
+    "char": "🍔",
+    "category": "food_and_drink"
+  },
+  "flags": {
+    "keywords": ["鱼","日本","鲤鱼旗","鲤鱼","旗帜"],
+    "char": "🎏",
+    "category": "objects"
+  },
+  "moyai": {
+    "keywords": ["岩","复活节岛","美丽"],
+    "char": "🗿",
+    "category": "objects"
+  },
+  "family_man_woman_boys": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👩‍👦‍👦",
+    "category": "people"
+  },
+  "ribbon": {
+    "keywords": ["装饰","粉","女孩","领结"],
+    "char": "🎀",
+    "category": "objects"
+  },
+  "family_women_boy": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👩‍👩‍👦",
+    "category": "people"
+  },
+  "family_man_woman_girls": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👩‍👧‍👧",
+    "category": "people"
+  },
+  "tada": {
+    "keywords": ["派对","contulations","生日","魔法","马戏团"],
+    "char": "🎉",
+    "category": "objects"
+  },
+  "dolls": {
+    "keywords": ["日本","玩具","和服"],
+    "char": "🎎",
+    "category": "objects"
+  },
+  "page_with_curl": {
+    "keywords": ["文件","办公室","纸"],
+    "char": "📃",
+    "category": "objects"
+  },
+  "wind_chime": {
+    "keywords": ["性质","事","弹簧","钟"],
+    "char": "🎐",
+    "category": "objects"
+  },
+  "family_men_girl": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👨‍👧",
+    "category": "people"
+  },
+  "love_letter": {
+    "keywords": ["电子邮件","喜欢","感情","信封","情人节礼物"],
+    "char": "💌",
+    "category": "objects"
+  },
+  "mailbox_with_no_mail": {
+    "keywords": ["电子邮件","收件箱"],
+    "char": "📭",
+    "category": "objects"
+  },
+  "date": {
+    "keywords": ["日历","时间表"],
+    "char": "📅",
+    "category": "objects"
+  },
+  "mailbox_closed": {
+    "keywords": ["电子邮件","通讯","收件箱"],
+    "char": "📪",
+    "category": "objects"
+  },
+  "crossed_flags": {
+    "keywords": ["日本","国家","国家","边境"],
+    "char": "🎌",
+    "category": "objects"
+  },
+  "card_file_box": {
+    "keywords": ["商业","文具"],
+    "char": "🗃",
+    "category": "objects"
+  },
+  "page_facing_up": {
+    "keywords": ["文件","办公室","纸","信息"],
+    "char": "📄",
+    "category": "objects"
+  },
+  "family_men_girls": {
+    "keywords": ["家","父母","人","人的","孩子"],
+    "char": "👨‍👨‍👧‍👧",
+    "category": "people"
+  },
+  "clipboard": {
+    "keywords": ["文具","文件"],
+    "char": "📋",
+    "category": "objects"
+  },
+  "spiral_calendar_pad": {
+    "keywords": ["日期","时间表","规划"],
+    "char": "🗓",
+    "category": "objects"
+  },
+  "chart_with_downwards_trend": {
+    "keywords": ["图形","介绍","统计","不景气","商业","经济学","钱","销售","坏","失败"],
+    "char": "📉",
+    "category": "objects"
+  },
+  "postbox": {
+    "keywords": ["电子邮件","信","信封"],
+    "char": "📮",
+    "category": "objects"
+  },
+  "open_file_folder": {
+    "keywords": ["文件","加载"],
+    "char": "📂",
+    "category": "objects"
+  },
+  "calendar": {
+    "keywords": ["时间表","日期","规划"],
+    "char": "📆",
+    "category": "objects"
+  },
+  "rolled_up_newspaper": {
+    "keywords": ["按","标题"],
+    "char": "🗞",
+    "category": "objects"
+  },
+  "closed_book": {
+    "keywords": ["读","图书馆","知识","教科书","学习"],
+    "char": "📕",
+    "category": "objects"
+  },
+  "family_man_woman_girl": {
+    "keywords": ["家","父母","人","人的","儿童"],
+    "char": "👨‍👩‍👧",
+    "category": "people"
+  },
+  "books": {
+    "keywords": ["文学","图书馆","研究"],
+    "char": "📚",
+    "category": "objects"
+  },
+  "linked_paperclips": {
+    "keywords": ["文件","文具"],
+    "char": "🖇",
+    "category": "objects"
+  },
+  "link": {
+    "keywords": ["戒指","网址"],
+    "char": "🔗",
+    "category": "objects"
+  },
+  "dress": {
+    "keywords": ["衣服","时尚","购物"],
+    "char": "👗",
+    "category": "people"
+  },
+  "triangular_ruler": {
+    "keywords": ["文具","数学","建筑师","草图"],
+    "char": "📐",
+    "category": "objects"
+  },
+  "pushpin": {
+    "keywords": ["文具","标记","这里"],
+    "char": "📌",
+    "category": "objects"
+  },
+  "jeans": {
+    "keywords": ["时尚","购物"],
+    "char": "👖",
+    "category": "people"
+  },
+  "bikini": {
+    "keywords": ["游泳的","女","女人","女孩","时尚","海滩","夏季"],
+    "char": "👙",
+    "category": "people"
+  },
+  "waving_black_flag": {
+    "keywords": "[]",
+    "char": "🏴",
+    "category": "objects"
+  },
+  "footprints": {
+    "keywords": ["脚","追踪","步行","海滩"],
+    "char": "👣",
+    "category": "people"
+  },
+  "triangular_flag_on_post": {
+    "keywords": ["标记","里程碑","地点"],
+    "char": "🚩",
+    "category": "objects"
+  },
+  "waving_white_flag": {
+    "keywords": ["失去","失败者","丢失","投降","放弃","失败"],
+    "char": "🏳",
+    "category": "objects"
+  },
+  "kiss": {
+    "keywords": ["面对","嘴唇","爱","喜欢","感情","情人节礼物"],
+    "char": "💋",
+    "category": "people"
+  },
+  "boot": {
+    "keywords": ["鞋","时尚"],
+    "char": "👢",
+    "category": "people"
+  },
+  "memo": {
+    "keywords": ["写","文件","文具","铅笔","纸","写作","法律","考试","测验","测试","研究"],
+    "char": "📝",
+    "category": "objects"
+  },
+  "mag_right": {
+    "keywords": ["搜索","放大","找","侦探"],
+    "char": "🔎",
+    "category": "objects"
+  },
+  "lower_left_crayon": {
+    "keywords": ["画画","创造力"],
+    "char": "🖍",
+    "category": "objects"
+  },
+  "sandal": {
+    "keywords": ["鞋","时尚","人字拖"],
+    "char": "👡",
+    "category": "people"
+  },
+  "blue_heart": {
+    "keywords": ["爱","喜欢","感情","情人节礼物"],
+    "char": "💙",
+    "category": "symbols"
+  },
+  "heart": {
+    "keywords": ["爱","喜欢","情人节礼物"],
+    "char": "❤️",
+    "category": "symbols"
+  },
+  "yellow_heart": {
+    "keywords": ["爱","喜欢","感情","情人节礼物"],
+    "char": "💛",
+    "category": "symbols"
+  },
+  "two_hearts": {
+    "keywords": ["爱","喜欢","感情","情人节礼物"],
+    "char": "💕",
+    "category": "symbols"
+  },
+  "heartpulse": {
+    "keywords": ["喜欢","爱","感情","情人节礼物","粉"],
+    "char": "💗",
+    "category": "symbols"
+  },
+  "school_satchel": {
+    "keywords": ["学生","教育","袋"],
+    "char": "🎒",
+    "category": "people"
+  },
+  "mortar_board": {
+    "keywords": ["学校","学院","度","大学","毕业","头","有","法律","学习","教育"],
+    "char": "🎓",
+    "category": "people"
+  },
+  "wheel_of_dharma": {
+    "keywords": ["印度教","佛教","锡克教","耆那教"],
+    "char": "☸",
+    "category": "symbols"
+  },
+  "yin_yang": {
+    "keywords": "[]",
+    "char": "☯",
+    "category": "symbols"
+  },
+  "orthodox_cross": {
+    "keywords": ["suppedaneum","宗教"],
+    "char": "☦",
+    "category": "symbols"
+  },
+  "thunder_cloud_and_rain": {
+    "keywords": ["天气","闪电"],
+    "char": "⛈",
+    "category": "animals_and_nature"
+  },
+  "six_pointed_star": {
+    "keywords": ["紫方","宗教","犹","卦"],
+    "char": "🔯",
+    "category": "symbols"
+  },
+  "gemini": {
+    "keywords": ["标志","生肖","紫方","占星术"],
+    "char": "♊",
+    "category": "symbols"
+  },
+  "ophiuchus": {
+    "keywords": ["标志","紫方","星座","占星术"],
+    "char": "⛎",
+    "category": "symbols"
+  },
+  "leo": {
+    "keywords": ["标志","紫方","生肖","占星术"],
+    "char": "♌",
+    "category": "symbols"
+  },
+  "taurus": {
+    "keywords": ["紫方","标志","生肖","占星术"],
+    "char": "♉",
+    "category": "symbols"
+  },
+  "cancer": {
+    "keywords": ["标志","生肖","紫方","占星术"],
+    "char": "♋",
+    "category": "symbols"
+  },
+  "snowflake": {
+    "keywords": ["冬季","季节","冷","天气","圣诞","圣诞节"],
+    "char": "❄️",
+    "category": "animals_and_nature"
+  },
+  "virgo": {
+    "keywords": ["标志","生肖","紫方","占星术"],
+    "char": "♍",
+    "category": "symbols"
+  },
+  "libra": {
+    "keywords": ["标志","紫方","生肖","占星术"],
+    "char": "♎",
+    "category": "symbols"
+  },
+  "snowman_with_snow": {
+    "keywords": ["冬季","季节","冷","天气","圣诞","圣诞节","冻结的"],
+    "char": "☃",
+    "category": "animals_and_nature"
+  },
+  "fog": {
+    "keywords": "[]",
+    "char": "🌫",
+    "category": "animals_and_nature"
+  },
+  "handbag": {
+    "keywords": ["时尚","附件","饰品","购物"],
+    "char": "👜",
+    "category": "people"
+  },
+  "pisces": {
+    "keywords": ["紫方","标志","生肖","占星术"],
+    "char": "♓",
+    "category": "symbols"
+  },
+  "aquarius": {
+    "keywords": ["标志","紫方","生肖","占星术"],
+    "char": "♒",
+    "category": "symbols"
+  },
+  "sagittarius": {
+    "keywords": ["标志","生肖","紫方","占星术"],
+    "char": "♐",
+    "category": "symbols"
+  },
+  "cloud_with_tornado": {
+    "keywords": ["天气","气旋","捻线机"],
+    "char": "🌪",
+    "category": "animals_and_nature"
+  },
+  "sweat_drops": {
+    "keywords": ["水","滴","哎呀"],
+    "char": "💦",
+    "category": "animals_and_nature"
+  },
+  "wind_blowing_face": {
+    "keywords": ["味道","空气"],
+    "char": "🌬",
+    "category": "animals_and_nature"
+  },
+  "id": {
+    "keywords": ["紫方","话"],
+    "char": "🆔",
+    "category": "symbols"
+  },
+  "dash": {
+    "keywords": ["风","空气","快速","十拿九稳","速度","抽烟","噗"],
+    "char": "💨",
+    "category": "animals_and_nature"
+  },
+  "atom_symbol": {
+    "keywords": "[]",
+    "char": "⚛",
+    "category": "symbols"
+  },
+  "umbrella_without_rain": {
+    "keywords": ["天气","弹簧"],
+    "char": "☂",
+    "category": "animals_and_nature"
+  },
+  "green_apple": {
+    "keywords": ["水果","性质"],
+    "char": "🍏",
+    "category": "food_and_drink"
+  },
+  "droplet": {
+    "keywords": ["水","滴","龙头","弹簧"],
+    "char": "💧",
+    "category": "animals_and_nature"
+  },
+  "biohazard_sign": {
+    "keywords": "[]",
+    "char": "☣",
+    "category": "symbols"
+  },
+  "radioactive_sign": {
+    "keywords": ["核","危险"],
+    "char": "☢",
+    "category": "symbols"
+  },
+  "u7a7a": {
+    "keywords": ["汉子","日本","中文","空","天空","蓝方"],
+    "char": "🈳",
+    "category": "symbols"
+  },
+  "mobile_phone_off": {
+    "keywords": ["静音","橙方","安静","安静"],
+    "char": "📴",
+    "category": "symbols"
+  },
+  "ocean": {
+    "keywords": ["海","水","波","性质","海啸","灾害"],
+    "char": "🌊",
+    "category": "animals_and_nature"
+  },
+  "vs": {
+    "keywords": ["话","橙方"],
+    "char": "🆚",
+    "category": "symbols"
+  },
+  "vibration_mode": {
+    "keywords": ["橙方","电话"],
+    "char": "📳",
+    "category": "symbols"
+  },
+  "lemon": {
+    "keywords": ["水果","性质"],
+    "char": "🍋",
+    "category": "food_and_drink"
+  },
+  "u7121": {
+    "keywords": ["没有","中文","汉子","日本","橙方"],
+    "char": "🈚",
+    "category": "symbols"
+  },
+  "apple": {
+    "keywords": ["水果","苹果电脑","学校"],
+    "char": "🍎",
+    "category": "food_and_drink"
+  },
+  "u7533": {
+    "keywords": ["中文","日本","汉子","橙方"],
+    "char": "🈸",
+    "category": "symbols"
+  },
+  "tangerine": {
+    "keywords": ["餐饮","水果","性质","橙子"],
+    "char": "🍊",
+    "category": "food_and_drink"
+  },
+  "u55b6": {
+    "keywords": ["日本","营业时间","橙方"],
+    "char": "🈺",
+    "category": "symbols"
+  },
+  "accept": {
+    "keywords": ["好","好","中文","汉子","同意","是","橙圈"],
+    "char": "🉑",
+    "category": "symbols"
+  },
+  "sos": {
+    "keywords": ["帮帮我","红方格","话","急","911"],
+    "char": "🆘",
+    "category": "symbols"
+  },
+  "u6e80": {
+    "keywords": ["充分","中文","日本","红方格","汉子"],
+    "char": "🈵",
+    "category": "symbols"
+  },
+  "congratulations": {
+    "keywords": ["中文","汉子","日本","红色圈"],
+    "char": "㊗️",
+    "category": "symbols"
+  },
+  "no_pedestrians": {
+    "keywords": ["规则","路口","步行","圈"],
+    "char": "🚷",
+    "category": "symbols"
+  },
+  "no_bicycles": {
+    "keywords": ["骑自行车的人","被禁止","圈"],
+    "char": "🚳",
+    "category": "symbols"
+  },
+  "fleur_de_lis": {
+    "keywords": ["装饰","侦察"],
+    "char": "⚜",
+    "category": "symbols"
+  },
+  "warning": {
+    "keywords": ["感叹","跷跷板","警报","错误","问题","问题"],
+    "char": "⚠️",
+    "category": "symbols"
+  },
+  "wc": {
+    "keywords": ["厕所","卫生间","蓝方"],
+    "char": "🚾",
+    "category": "symbols"
+  },
+  "rabbit": {
+    "keywords": ["动物","性质","宠物","弹簧","魔法"],
+    "char": "🐰",
+    "category": "animals_and_nature"
+  },
+  "recycle": {
+    "keywords": ["箭头","环境","垃圾","垃圾"],
+    "char": "♻️",
+    "category": "symbols"
+  },
+  "negative_squared_cross_mark": {
+    "keywords": ["X","绿色的方","没有","拒绝"],
+    "char": "❎",
+    "category": "symbols"
+  },
+  "potable_water": {
+    "keywords": ["蓝方","液体","卫生间","清洁的","龙头"],
+    "char": "🚰",
+    "category": "symbols"
+  },
+  "hamster": {
+    "keywords": ["动物","性质"],
+    "char": "🐹",
+    "category": "animals_and_nature"
+  },
+  "white_check_mark": {
+    "keywords": ["绿色的方","好","同意","投票","选举","回答"],
+    "char": "✅",
+    "category": "symbols"
+  },
+  "black_right_pointing_triangle_with_double_vertical_bar": {
+    "keywords": ["前锋","下一个","蓝方"],
+    "char": "⏭",
+    "category": "symbols"
+  },
+  "tiger": {
+    "keywords": ["动物","猫","危险","野生","性质","怒吼"],
+    "char": "🐯",
+    "category": "animals_and_nature"
+  },
+  "cow": {
+    "keywords": ["牛肉","牛","动物","性质","哞","牛奶"],
+    "char": "🐮",
+    "category": "animals_and_nature"
+  },
+  "ok": {
+    "keywords": ["好","同意","是","蓝方"],
+    "char": "🆗",
+    "category": "symbols"
+  },
+  "rewind": {
+    "keywords": ["玩","蓝方"],
+    "char": "⏪",
+    "category": "symbols"
+  },
+  "black_right_pointing_double_triangle_with_vertical_bar": {
+    "keywords": ["蓝方","玩","暂停"],
+    "char": "⏯",
+    "category": "symbols"
+  },
+  "black_left_pointing_double_triangle_with_vertical_bar": {
+    "keywords": "[]",
+    "char": "⏮",
+    "category": "symbols"
+  },
+  "repeat": {
+    "keywords": ["循环","记录"],
+    "char": "🔁",
+    "category": "symbols"
+  },
+  "arrow_right": {
+    "keywords": ["蓝方","下一个"],
+    "char": "➡️",
+    "category": "symbols"
+  },
+  "koko": {
+    "keywords": ["蓝方","这里","片假名","日本","目的地"],
+    "char": "🈁",
+    "category": "symbols"
+  },
+  "arrow_double_down": {
+    "keywords": ["蓝方","方向","底部"],
+    "char": "⏬",
+    "category": "symbols"
+  },
+  "arrow_heading_down": {
+    "keywords": ["蓝方","方向","底部"],
+    "char": "⤵️",
+    "category": "symbols"
+  },
+  "repeat_one": {
+    "keywords": ["蓝方","循环"],
+    "char": "🔂",
+    "category": "symbols"
+  },
+  "lion_face": {
+    "keywords": ["动物","性质"],
+    "char": "🦁",
+    "category": "animals_and_nature"
+  },
+  "arrow_heading_up": {
+    "keywords": ["蓝方","方向","最佳"],
+    "char": "⤴️",
+    "category": "symbols"
+  },
+  "hash": {
+    "keywords": ["符号","蓝方","推特"],
+    "char": "#️⃣",
+    "category": "symbols"
+  },
+  "leftwards_arrow_with_hook": {
+    "keywords": ["背部","返回","蓝方","解开","输入"],
+    "char": "↩️",
+    "category": "symbols"
+  },
+  "symbols": {
+    "keywords": ["蓝方","音乐","注意","符号","百分","字形","人物"],
+    "char": "🔣",
+    "category": "symbols"
+  },
+  "abc": {
+    "keywords": ["蓝方","字母"],
+    "char": "🔤",
+    "category": "symbols"
+  },
+  "capital_abcd": {
+    "keywords": ["字母","话","蓝方"],
+    "char": "🔠",
+    "category": "symbols"
+  },
+  "notes": {
+    "keywords": ["音乐","得分了"],
+    "char": "🎶",
+    "category": "symbols"
+  },
+  "currency_exchange": {
+    "keywords": ["钱","销售","美元","旅行"],
+    "char": "💱",
+    "category": "symbols"
+  },
+  "end": {
+    "keywords": ["话","箭头"],
+    "char": "🔚",
+    "category": "symbols"
+  },
+  "heavy_multiplication_x": {
+    "keywords": ["数学","计算"],
+    "char": "✖️",
+    "category": "symbols"
+  },
+  "honey_pot": {
+    "keywords": ["蜜蜂","甜","厨房"],
+    "char": "🍯",
+    "category": "food_and_drink"
+  },
+  "heavy_plus_sign": {
+    "keywords": ["数学","计算","加成","更多","增加"],
+    "char": "➕",
+    "category": "symbols"
+  },
+  "hot_pepper": {
+    "keywords": ["餐饮","辣"],
+    "char": "🌶",
+    "category": "food_and_drink"
+  },
+  "heavy_division_sign": {
+    "keywords": ["划分","数学","计算"],
+    "char": "➗",
+    "category": "symbols"
+  },
+  "on": {
+    "keywords": ["箭头","话"],
+    "char": "🔛",
+    "category": "symbols"
+  },
+  "radio_button": {
+    "keywords": ["输入","旧","音乐","圈"],
+    "char": "🔘",
+    "category": "symbols"
+  },
+  "ballot_box_with_check": {
+    "keywords": ["好","同意","确认","黑方","投票","选举","是"],
+    "char": "☑️",
+    "category": "symbols"
+  },
+  "copyright": {
+    "keywords": ["IP","执照","圈","法","法律"],
+    "char": "©️",
+    "category": "symbols"
+  },
+  "white_circle": {
+    "keywords": ["形状","回合"],
+    "char": "⚪",
+    "category": "symbols"
+  },
+  "black_circle": {
+    "keywords": ["形状","按键","回合"],
+    "char": "⚫",
+    "category": "symbols"
+  },
+  "information_source": {
+    "keywords": ["蓝方","字母","信"],
+    "char": "ℹ️",
+    "category": "symbols"
+  },
+  "small_red_triangle": {
+    "keywords": ["形状","方向","向上","最佳"],
+    "char": "🔺",
+    "category": "symbols"
+  },
+  "black_large_square": {
+    "keywords": ["形状","图标","按键"],
+    "char": "⬛",
+    "category": "symbols"
+  },
+  "white_square_button": {
+    "keywords": ["形状","输入"],
+    "char": "🔳",
+    "category": "symbols"
+  },
+  "mute": {
+    "keywords": ["声音","卷","安静","安静"],
+    "char": "🔇",
+    "category": "symbols"
+  },
+  "white_medium_square": {
+    "keywords": ["形状","石","图标"],
+    "char": "◻️",
+    "category": "symbols"
+  },
+  "white_large_square": {
+    "keywords": ["形状","图标","石","按键"],
+    "char": "⬜",
+    "category": "symbols"
+  },
+  "small_blue_diamond": {
+    "keywords": ["形状","宝","宝石"],
+    "char": "🔹",
+    "category": "symbols"
+  },
+  "large_blue_diamond": {
+    "keywords": ["形状","宝","宝石"],
+    "char": "🔷",
+    "category": "symbols"
+  },
+  "white_medium_small_square": {
+    "keywords": ["形状","石","图标","按键"],
+    "char": "◽",
+    "category": "symbols"
+  },
+  "speaker": {
+    "keywords": ["声音","卷","安静","广播"],
+    "char": "🔈",
+    "category": "symbols"
+  },
+  "sound": {
+    "keywords": ["卷","扬声器","广播"],
+    "char": "🔉",
+    "category": "symbols"
+  },
+  "loudspeaker": {
+    "keywords": ["卷","声音"],
+    "char": "📢",
+    "category": "symbols"
+  },
+  "clock11": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕚",
+    "category": "symbols"
+  },
+  "clock930": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕤",
+    "category": "symbols"
+  },
+  "clock9": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕘",
+    "category": "symbols"
+  },
+  "bm": {
+    "keywords": ["百慕大","旗","国家","国家","旗帜"],
+    "char": "🇧🇲",
+    "category": "flags"
+  },
+  "bb": {
+    "keywords": ["巴巴多斯","旗","国家","国家","旗帜"],
+    "char": "🇧🇧",
+    "category": "flags"
+  },
+  "by": {
+    "keywords": ["白俄罗斯","旗","国家","国家","旗帜"],
+    "char": "🇧🇾",
+    "category": "flags"
+  },
+  "bs": {
+    "keywords": ["巴哈马","旗","国家","国家","旗帜"],
+    "char": "🇧🇸",
+    "category": "flags"
+  },
+  "be": {
+    "keywords": ["比利时","旗","国家","国家","旗帜"],
+    "char": "🇧🇪",
+    "category": "flags"
+  },
+  "bt": {
+    "keywords": ["不丹","旗","国家","国家","旗帜"],
+    "char": "🇧🇹",
+    "category": "flags"
+  },
+  "bw": {
+    "keywords": ["博茨瓦纳","旗","国家","国家","旗帜"],
+    "char": "🇧🇼",
+    "category": "flags"
+  },
+  "bn": {
+    "keywords": ["文莱","莱达鲁萨兰国","旗","国家","国家","旗帜"],
+    "char": "🇧🇳",
+    "category": "flags"
+  },
+  "ic": {
+    "keywords": ["金丝雀","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇮🇨",
+    "category": "flags"
+  },
+  "io": {
+    "keywords": ["英国的","印度人","海洋","领土","旗","国家","国家","旗帜"],
+    "char": "🇮🇴",
+    "category": "flags"
+  },
+  "bq": {
+    "keywords": ["博内尔","旗","国家","国家","旗帜"],
+    "char": "🇧🇶",
+    "category": "flags"
+  },
+  "bf": {
+    "keywords": ["布基纳法索","布基纳法索","旗","国家","国家","旗帜"],
+    "char": "🇧🇫",
+    "category": "flags"
+  },
+  "vg": {
+    "keywords": ["英国的","处女","岛屿","英属维尔京群岛","旗","国家","国家","旗帜"],
+    "char": "🇻🇬",
+    "category": "flags"
+  },
+  "cy": {
+    "keywords": ["塞浦路斯","旗","国家","国家","旗帜"],
+    "char": "🇨🇾",
+    "category": "flags"
+  },
+  "cf": {
+    "keywords": ["中央","非洲人","共和国","旗","国家","国家","旗帜"],
+    "char": "🇨🇫",
+    "category": "flags"
+  },
+  "ky": {
+    "keywords": ["鳄鱼","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇰🇾",
+    "category": "flags"
+  },
+  "dj": {
+    "keywords": ["吉布提","旗","国家","国家","旗帜"],
+    "char": "🇩🇯",
+    "category": "flags"
+  },
+  "no_good": {
+    "keywords": ["女","女孩","女人","不"],
+    "char": "🙅",
+    "category": "people"
+  },
+  "cc": {
+    "keywords": ["科科斯","基林","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇨🇨",
+    "category": "flags"
+  },
+  "as": {
+    "keywords": ["美国","萨摩亚","旗","国家","国家","旗帜"],
+    "char": "🇦🇸",
+    "category": "flags"
+  },
+  "drc": {
+    "keywords": ["刚果","民主的","共和国","旗","国家","国家","旗帜"],
+    "char": "🇨🇩",
+    "category": "flags"
+  },
+  "co": {
+    "keywords": ["哥伦比亚","旗","国家","国家","旗帜"],
+    "char": "🇨🇴",
+    "category": "flags"
+  },
+  "cw": {
+    "keywords": ["库拉索","旗","国家","国家","旗帜"],
+    "char": "🇨🇼",
+    "category": "flags"
+  },
+  "goat": {
+    "keywords": ["动物","性质"],
+    "char": "🐐",
+    "category": "animals_and_nature"
+  },
+  "dromedary_camel": {
+    "keywords": ["动物","热","沙漠","驼峰"],
+    "char": "🐪",
+    "category": "animals_and_nature"
+  },
+  "ram": {
+    "keywords": ["动物","羊","性质"],
+    "char": "🐏",
+    "category": "animals_and_nature"
+  },
+  "crocodile": {
+    "keywords": ["动物","性质","爬虫","蜥蜴","鳄鱼"],
+    "char": "🐊",
+    "category": "animals_and_nature"
+  },
+  "ok_woman": {
+    "keywords": ["妇女","女孩","女","粉","人的","女人"],
+    "char": "🙆",
+    "category": "people"
+  },
+  "raising_hand": {
+    "keywords": ["女","女孩","女人"],
+    "char": "🙋",
+    "category": "people"
+  },
+  "person_with_pouting_face": {
+    "keywords": ["女","女孩","女人"],
+    "char": "🙎",
+    "category": "people"
+  },
+  "er": {
+    "keywords": ["厄立特里亚","旗","国家","国家","旗帜"],
+    "char": "🇪🇷",
+    "category": "flags"
+  },
+  "fj": {
+    "keywords": ["斐","旗","国家","国家","旗帜"],
+    "char": "🇫🇯",
+    "category": "flags"
+  },
+  "eu": {
+    "keywords": ["欧洲的","联盟","旗","旗帜"],
+    "char": "🇪🇺",
+    "category": "flags"
+  },
+  "fo": {
+    "keywords": ["法罗","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇫🇴",
+    "category": "flags"
+  },
+  "et": {
+    "keywords": ["埃塞俄比亚","旗","国家","国家","旗帜"],
+    "char": "🇪🇹",
+    "category": "flags"
+  },
+  "evergreen_tree": {
+    "keywords": ["厂","性质"],
+    "char": "🌲",
+    "category": "animals_and_nature"
+  },
+  "de": {
+    "keywords": ["德语","国家","旗","国家","旗帜"],
+    "char": "🇩🇪",
+    "category": "flags"
+  },
+  "ga": {
+    "keywords": ["加蓬","旗","国家","国家","旗帜"],
+    "char": "🇬🇦",
+    "category": "flags"
+  },
+  "gn": {
+    "keywords": ["几内亚","旗","国家","国家","旗帜"],
+    "char": "🇬🇳",
+    "category": "flags"
+  },
+  "gp": {
+    "keywords": ["瓜德罗普岛","旗","国家","国家","旗帜"],
+    "char": "🇬🇵",
+    "category": "flags"
+  },
+  "gd": {
+    "keywords": ["格林纳达","旗","国家","国家","旗帜"],
+    "char": "🇬🇩",
+    "category": "flags"
+  },
+  "in": {
+    "keywords": ["印度","旗","国家","国家","旗帜"],
+    "char": "🇮🇳",
+    "category": "flags"
+  },
+  "hk": {
+    "keywords": ["红","香港","旗","国家","国家","旗帜"],
+    "char": "🇭🇰",
+    "category": "flags"
+  },
+  "gw": {
+    "keywords": ["几内亚","几内亚比绍","旗","国家","国家","旗帜"],
+    "char": "🇬🇼",
+    "category": "flags"
+  },
+  "ir": {
+    "keywords": ["伊朗，","清真","共和国","旗","国家","国家","旗帜"],
+    "char": "🇮🇷",
+    "category": "flags"
+  },
+  "leaves": {
+    "keywords": ["性质","厂","树","蔬菜","草","草坪","弹簧"],
+    "char": "🍃",
+    "category": "animals_and_nature"
+  },
+  "herb": {
+    "keywords": ["蔬菜","厂","医学","野草","草","草坪"],
+    "char": "🌿",
+    "category": "animals_and_nature"
+  },
+  "iq": {
+    "keywords": ["伊拉克","旗","国家","国家","旗帜"],
+    "char": "🇮🇶",
+    "category": "flags"
+  },
+  "je": {
+    "keywords": ["球衣","旗","国家","国家","旗帜"],
+    "char": "🇯🇪",
+    "category": "flags"
+  },
+  "seedling": {
+    "keywords": ["厂","性质","草","草坪","弹簧"],
+    "char": "🌱",
+    "category": "animals_and_nature"
+  },
+  "im": {
+    "keywords": ["小岛","人","旗","国家","国家","旗帜"],
+    "char": "🇮🇲",
+    "category": "flags"
+  },
+  "ie": {
+    "keywords": ["爱尔兰","旗","国家","国家","旗帜"],
+    "char": "🇮🇪",
+    "category": "flags"
+  },
+  "kg": {
+    "keywords": ["吉尔吉斯斯坦","旗","国家","国家","旗帜"],
+    "char": "🇰🇬",
+    "category": "flags"
+  },
+  "ear_of_rice": {
+    "keywords": ["性质","厂"],
+    "char": "🌾",
+    "category": "animals_and_nature"
+  },
+  "ki": {
+    "keywords": ["基里巴斯","旗","国家","国家","旗帜"],
+    "char": "🇰🇮",
+    "category": "flags"
+  },
+  "fallen_leaf": {
+    "keywords": ["性质","厂","蔬菜","树叶"],
+    "char": "🍂",
+    "category": "animals_and_nature"
+  },
+  "chestnut": {
+    "keywords": ["餐饮","松鼠"],
+    "char": "🌰",
+    "category": "animals_and_nature"
+  },
+  "shamrock": {
+    "keywords": ["蔬菜","厂","性质","爱尔兰的","苜"],
+    "char": "☘",
+    "category": "animals_and_nature"
+  },
+  "lv": {
+    "keywords": ["拉脱维亚","旗","国家","国家","旗帜"],
+    "char": "🇱🇻",
+    "category": "flags"
+  },
+  "four_leaf_clover": {
+    "keywords": ["蔬菜","厂","性质","幸运","爱尔兰的"],
+    "char": "🍀",
+    "category": "animals_and_nature"
+  },
+  "ls": {
+    "keywords": ["莱索托","旗","国家","国家","旗帜"],
+    "char": "🇱🇸",
+    "category": "flags"
+  },
+  "lr": {
+    "keywords": ["利比里亚","旗","国家","国家","旗帜"],
+    "char": "🇱🇷",
+    "category": "flags"
+  },
+  "mo": {
+    "keywords": ["澳门","旗","国家","国家","旗帜"],
+    "char": "🇲🇴",
+    "category": "flags"
+  },
+  "jp": {
+    "keywords": ["日本","国家","旗","国家","旗帜"],
+    "char": "🇯🇵",
+    "category": "flags"
+  },
+  "la": {
+    "keywords": ["老挝","民主的","共和国","旗","国家","国家","旗帜"],
+    "char": "🇱🇦",
+    "category": "flags"
+  },
+  "spider_web": {
+    "keywords": ["动物","昆虫","蜘蛛","丝"],
+    "char": "🕸",
+    "category": "animals_and_nature"
+  },
+  "mt": {
+    "keywords": ["马耳他","旗","国家","国家","旗帜"],
+    "char": "🇲🇹",
+    "category": "flags"
+  },
+  "mh": {
+    "keywords": ["马歇尔","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇲🇭",
+    "category": "flags"
+  },
+  "jack_o_lantern": {
+    "keywords": ["万圣节","光","南瓜","爬行","秋季"],
+    "char": "🎃",
+    "category": "animals_and_nature"
+  },
+  "full_moon": {
+    "keywords": ["性质","黄色","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌕",
+    "category": "animals_and_nature"
+  },
+  "fm": {
+    "keywords": ["密克罗尼西亚","联合","状态","旗","国家","国家","旗帜"],
+    "char": "🇫🇲",
+    "category": "flags"
+  },
+  "ms": {
+    "keywords": ["蒙特塞拉特","旗","国家","国家","旗帜"],
+    "char": "🇲🇸",
+    "category": "flags"
+  },
+  "waning_crescent_moon": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌘",
+    "category": "animals_and_nature"
+  },
+  "waning_gibbous_moon": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉","waxing_gibbous_moon"],
+    "char": "🌖",
+    "category": "animals_and_nature"
+  },
+  "mz": {
+    "keywords": ["莫桑比克","旗","国家","国家","旗帜"],
+    "char": "🇲🇿",
+    "category": "flags"
+  },
+  "np": {
+    "keywords": ["尼泊尔","旗","国家","国家","旗帜"],
+    "char": "🇳🇵",
+    "category": "flags"
+  },
+  "nr": {
+    "keywords": ["瑙鲁","旗","国家","国家","旗帜"],
+    "char": "🇳🇷",
+    "category": "flags"
+  },
+  "kp": {
+    "keywords": ["北","韩国","国家","旗","国家","旗帜"],
+    "char": "🇰🇵",
+    "category": "flags"
+  },
+  "nu": {
+    "keywords": ["纽埃","旗","国家","国家","旗帜"],
+    "char": "🇳🇺",
+    "category": "flags"
+  },
+  "nz": {
+    "keywords": ["新","新西兰","旗","国家","国家","旗帜"],
+    "char": "🇳🇿",
+    "category": "flags"
+  },
+  "nf": {
+    "keywords": ["诺福克","岛","旗","国家","国家","旗帜"],
+    "char": "🇳🇫",
+    "category": "flags"
+  },
+  "py": {
+    "keywords": ["巴拉圭","旗","国家","国家","旗帜"],
+    "char": "🇵🇾",
+    "category": "flags"
+  },
+  "pe": {
+    "keywords": ["秘鲁","旗","国家","国家","旗帜"],
+    "char": "🇵🇪",
+    "category": "flags"
+  },
+  "om": {
+    "keywords": ["阿曼","旗","国家","国家","旗帜"],
+    "char": "🇴🇲",
+    "category": "flags"
+  },
+  "ru": {
+    "keywords": ["俄语","联邦","旗","国家","国家","旗帜"],
+    "char": "🇷🇺",
+    "category": "flags"
+  },
+  "ps": {
+    "keywords": ["巴勒斯坦","巴勒斯坦的","地区","旗","国家","国家","旗帜"],
+    "char": "🇵🇸",
+    "category": "flags"
+  },
+  "last_quarter_moon_with_face": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌜",
+    "category": "animals_and_nature"
+  },
+  "sun_with_face": {
+    "keywords": ["性质","早上","天空"],
+    "char": "🌞",
+    "category": "animals_and_nature"
+  },
+  "first_quarter_moon_with_face": {
+    "keywords": ["性质","暮","行星","空间","晚","晚间","睡觉"],
+    "char": "🌛",
+    "category": "animals_and_nature"
+  },
+  "pr": {
+    "keywords": ["端口","波多黎各","旗","国家","国家","旗帜"],
+    "char": "🇵🇷",
+    "category": "flags"
+  },
+  "qa": {
+    "keywords": ["卡塔尔","旗","国家","国家","旗帜"],
+    "char": "🇶🇦",
+    "category": "flags"
+  },
+  "moon": {
+    "keywords": ["性质","晚","天空","灰色","暮","行星","空间","晚间","睡觉"],
+    "char": "🌔",
+    "category": "animals_and_nature"
+  },
+  "crescent_moon": {
+    "keywords": ["晚","睡觉","天空","晚间","魔法"],
+    "char": "🌙",
+    "category": "animals_and_nature"
+  },
+  "sh": {
+    "keywords": ["圣","海伦娜","上升","特里斯坦","楔子","旗","国家","国家","旗帜"],
+    "char": "🇸🇭",
+    "category": "flags"
+  },
+  "pizza": {
+    "keywords": ["餐饮","派对"],
+    "char": "🍕",
+    "category": "food_and_drink"
+  },
+  "sl": {
+    "keywords": ["内华达","利昂","旗","国家","国家","旗帜"],
+    "char": "🇸🇱",
+    "category": "flags"
+  },
+  "sc": {
+    "keywords": ["塞舌尔","旗","国家","国家","旗帜"],
+    "char": "🇸🇨",
+    "category": "flags"
+  },
+  "sm": {
+    "keywords": ["SAN","马里诺","旗","国家","国家","旗帜"],
+    "char": "🇸🇲",
+    "category": "flags"
+  },
+  "hot_dog": {
+    "keywords": ["餐饮","法兰克福","热狗"],
+    "char": "🌭",
+    "category": "food_and_drink"
+  },
+  "star": {
+    "keywords": ["晚","黄色"],
+    "char": "⭐",
+    "category": "animals_and_nature"
+  },
+  "burrito": {
+    "keywords": ["餐饮","墨西哥人"],
+    "char": "🌯",
+    "category": "food_and_drink"
+  },
+  "st": {
+    "keywords": ["如何","它","原则","旗","国家","国家","旗帜"],
+    "char": "🇸🇹",
+    "category": "flags"
+  },
+  "taco": {
+    "keywords": ["餐饮","墨西哥人"],
+    "char": "🌮",
+    "category": "food_and_drink"
+  },
+  "sparkles": {
+    "keywords": ["明星","闪耀","闪亮","凉","真棒","好","魔法"],
+    "char": "✨",
+    "category": "animals_and_nature"
+  },
+  "sushi": {
+    "keywords": ["餐饮","鱼","日本","白饭"],
+    "char": "🍣",
+    "category": "food_and_drink"
+  },
+  "curry": {
+    "keywords": ["餐饮","辣","热","印度人"],
+    "char": "🍛",
+    "category": "food_and_drink"
+  },
+  "ramen": {
+    "keywords": ["餐饮","日本","面条","chipsticks"],
+    "char": "🍜",
+    "category": "food_and_drink"
+  },
+  "spaghetti": {
+    "keywords": ["餐饮","意大利","面条"],
+    "char": "🍝",
+    "category": "food_and_drink"
+  },
+  "shaved_ice": {
+    "keywords": ["热","甜点","夏季"],
+    "char": "🍧",
+    "category": "food_and_drink"
+  },
+  "sk": {
+    "keywords": ["斯洛伐克","旗","国家","国家","旗帜"],
+    "char": "🇸🇰",
+    "category": "flags"
+  },
+  "rice": {
+    "keywords": ["餐饮","中国","亚洲"],
+    "char": "🍚",
+    "category": "food_and_drink"
+  },
+  "dango": {
+    "keywords": ["餐饮","甜点","甜","日本"],
+    "char": "🍡",
+    "category": "food_and_drink"
+  },
+  "ice_cream": {
+    "keywords": ["餐饮","热","甜点"],
+    "char": "🍨",
+    "category": "food_and_drink"
+  },
+  "oden": {
+    "keywords": ["餐饮","日本"],
+    "char": "🍢",
+    "category": "food_and_drink"
+  },
+  "cake": {
+    "keywords": ["餐饮","甜点"],
+    "char": "🍰",
+    "category": "food_and_drink"
+  },
+  "birthday": {
+    "keywords": ["餐饮","甜点"],
+    "char": "🎂",
+    "category": "food_and_drink"
+  },
+  "candy": {
+    "keywords": ["小吃","甜点","甜"],
+    "char": "🍬",
+    "category": "food_and_drink"
+  },
+  "za": {
+    "keywords": ["南","非洲","旗","国家","国家","旗帜"],
+    "char": "🇿🇦",
+    "category": "flags"
+  },
+  "lollipop": {
+    "keywords": ["餐饮","小吃","糖果","甜"],
+    "char": "🍭",
+    "category": "food_and_drink"
+  },
+  "gs": {
+    "keywords": ["南","格鲁吉亚","三明治","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇬🇸",
+    "category": "flags"
+  },
+  "chocolate_bar": {
+    "keywords": ["餐饮","小吃","甜点","甜"],
+    "char": "🍫",
+    "category": "food_and_drink"
+  },
+  "beers": {
+    "keywords": ["放松","饮料","喝","醉","派对","酒馆","夏季","醇","豪饮"],
+    "char": "🍻",
+    "category": "food_and_drink"
+  },
+  "beer": {
+    "keywords": ["放松","饮料","喝","醉","派对","酒馆","夏季","醇","豪饮"],
+    "char": "🍺",
+    "category": "food_and_drink"
+  },
+  "cocktail": {
+    "keywords": ["喝","醉","醇","饮料","豪饮","莫吉托"],
+    "char": "🍸",
+    "category": "food_and_drink"
+  },
+  "doughnut": {
+    "keywords": ["餐饮","甜点","小吃","甜","甜甜圈"],
+    "char": "🍩",
+    "category": "food_and_drink"
+  },
+  "tea": {
+    "keywords": ["喝","碗","早餐","绿色","英国的"],
+    "char": "🍵",
+    "category": "food_and_drink"
+  },
+  "fork_and_knife_with_plate": {
+    "keywords": ["餐饮","吃","膳食","午餐","晚餐","餐厅"],
+    "char": "🍽",
+    "category": "food_and_drink"
+  },
+  "coffee": {
+    "keywords": ["饮料","咖啡因","牛奶","表达"],
+    "char": "☕",
+    "category": "food_and_drink"
+  },
+  "fork_and_knife": {
+    "keywords": ["刀具","厨房"],
+    "char": "🍴",
+    "category": "food_and_drink"
+  },
+  "football": {
+    "keywords": ["体育","球","NFL"],
+    "char": "🏈",
+    "category": "activity"
+  },
+  "basketball": {
+    "keywords": ["体育","球","NBA"],
+    "char": "🏀",
+    "category": "activity"
+  },
+  "volleyball": {
+    "keywords": ["体育","球"],
+    "char": "🏐",
+    "category": "activity"
+  },
+  "soccer": {
+    "keywords": ["体育","足球"],
+    "char": "⚽",
+    "category": "activity"
+  },
+  "golfer": {
+    "keywords": ["体育","商业"],
+    "char": "🏌",
+    "category": "activity"
+  },
+  "golf": {
+    "keywords": ["体育","商业","旗","孔","夏季"],
+    "char": "⛳",
+    "category": "activity"
+  },
+  "rugby_football": {
+    "keywords": ["体育","球队"],
+    "char": "🏉",
+    "category": "activity"
+  },
+  "ice_hockey": {
+    "keywords": "[]",
+    "char": "🏒",
+    "category": "activity"
+  },
+  "8ball": {
+    "keywords": ["池","爱好","游戏","运气","魔法"],
+    "char": "🎱",
+    "category": "activity"
+  },
+  "table_tennis": {
+    "keywords": ["体育","乒乓球"],
+    "char": "🏓",
+    "category": "activity"
+  },
+  "tennis": {
+    "keywords": ["体育","球","绿色"],
+    "char": "🎾",
+    "category": "activity"
+  },
+  "snowboarder": {
+    "keywords": ["体育","冬季"],
+    "char": "🏂",
+    "category": "activity"
+  },
+  "rowboat": {
+    "keywords": ["体育","爱好","水","船"],
+    "char": "🚣",
+    "category": "activity"
+  },
+  "bow_and_arrow": {
+    "keywords": "[]",
+    "char": "🏹",
+    "category": "activity"
+  },
+  "ice_skate": {
+    "keywords": "[]",
+    "char": "⛸",
+    "category": "activity"
+  },
+  "fishing_pole_and_fish": {
+    "keywords": ["餐饮","爱好","夏季"],
+    "char": "🎣",
+    "category": "activity"
+  },
+  "person_with_ball": {
+    "keywords": ["体育","人的"],
+    "char": "⛹",
+    "category": "activity"
+  },
+  "swimmer": {
+    "keywords": ["体育","行使","人的","运动员","水","夏季"],
+    "char": "🏊",
+    "category": "activity"
+  },
+  "surfer": {
+    "keywords": ["体育","海洋","海","夏季","海滩"],
+    "char": "🏄",
+    "category": "activity"
+  },
+  "mountain_bicyclist": {
+    "keywords": ["运输","体育","人的","种族","自行车"],
+    "char": "🚵",
+    "category": "activity"
+  },
+  "horse_racing": {
+    "keywords": ["动物","博彩","竞争","赌博","运气"],
+    "char": "🏇",
+    "category": "activity"
+  },
+  "bath": {
+    "keywords": ["清洁","淋浴","浴室"],
+    "char": "🛀",
+    "category": "activity"
+  },
+  "running_shirt_with_sash": {
+    "keywords": ["玩","盛会"],
+    "char": "🎽",
+    "category": "activity"
+  },
+  "weight_lifter": {
+    "keywords": ["体育","训练","行使"],
+    "char": "🏋",
+    "category": "activity"
+  },
+  "man_levitating": {
+    "keywords": ["适合","商业","亮度","徘徊","跳"],
+    "char": "🕴",
+    "category": "activity"
+  },
+  "rosette": {
+    "keywords": ["花","装饰","军事"],
+    "char": "🏵",
+    "category": "activity"
+  },
+  "ticket": {
+    "keywords": ["事件","音乐会","通过"],
+    "char": "🎫",
+    "category": "activity"
+  },
+  "admission_ticket": {
+    "keywords": ["体育","音乐会","入口"],
+    "char": "🎟",
+    "category": "activity"
+  },
+  "circus_tent": {
+    "keywords": ["节","狂欢","派对"],
+    "char": "🎪",
+    "category": "activity"
+  },
+  "art": {
+    "keywords": ["设计","涂料","画","颜色"],
+    "char": "🎨",
+    "category": "activity"
+  },
+  "headphones": {
+    "keywords": ["音乐","得分了","小工具"],
+    "char": "🎧",
+    "category": "activity"
+  },
+  "tg": {
+    "keywords": ["多哥","旗","国家","国家","旗帜"],
+    "char": "🇹🇬",
+    "category": "flags"
+  },
+  "se": {
+    "keywords": ["瑞典","旗","国家","国家","旗帜"],
+    "char": "🇸🇪",
+    "category": "flags"
+  },
+  "musical_score": {
+    "keywords": ["三重","谱号"],
+    "char": "🎼",
+    "category": "activity"
+  },
+  "tj": {
+    "keywords": ["塔吉克斯坦","旗","国家","国家","旗帜"],
+    "char": "🇹🇯",
+    "category": "flags"
+  },
+  "sr": {
+    "keywords": ["苏里南","旗","国家","国家","旗帜"],
+    "char": "🇸🇷",
+    "category": "flags"
+  },
+  "microphone": {
+    "keywords": ["声音","音乐","PA"],
+    "char": "🎤",
+    "category": "activity"
+  },
+  "dart": {
+    "keywords": ["游戏","玩","酒吧"],
+    "char": "🎯",
+    "category": "activity"
+  },
+  "video_game": {
+    "keywords": ["玩","安慰","PS4","调节器"],
+    "char": "🎮",
+    "category": "activity"
+  },
+  "tn": {
+    "keywords": ["突尼斯","旗","国家","国家","旗帜"],
+    "char": "🇹🇳",
+    "category": "flags"
+  },
+  "saxophone": {
+    "keywords": ["音乐","仪器","爵士乐","蓝调"],
+    "char": "🎷",
+    "category": "activity"
+  },
+  "to": {
+    "keywords": ["汤加","旗","国家","国家","旗帜"],
+    "char": "🇹🇴",
+    "category": "flags"
+  },
+  "tk": {
+    "keywords": ["托克劳","旗","国家","国家","旗帜"],
+    "char": "🇹🇰",
+    "category": "flags"
+  },
+  "trumpet": {
+    "keywords": ["音乐","黄铜"],
+    "char": "🎺",
+    "category": "activity"
+  },
+  "blue_car": {
+    "keywords": ["运输","车辆"],
+    "char": "🚙",
+    "category": "travel_and_places"
+  },
+  "sy": {
+    "keywords": ["叙利亚的","阿拉伯","共和国","旗","国家","国家","旗帜"],
+    "char": "🇸🇾",
+    "category": "flags"
+  },
+  "musical_keyboard": {
+    "keywords": ["计划","仪器"],
+    "char": "🎹",
+    "category": "activity"
+  },
+  "space_invader": {
+    "keywords": ["游戏","拱廊","玩"],
+    "char": "👾",
+    "category": "activity"
+  },
+  "taxi": {
+    "keywords": ["尤伯杯","车辆","汽车","运输"],
+    "char": "🚕",
+    "category": "travel_and_places"
+  },
+  "ug": {
+    "keywords": ["乌干达","旗","国家","国家","旗帜"],
+    "char": "🇺🇬",
+    "category": "flags"
+  },
+  "slot_machine": {
+    "keywords": ["但","赌","拉斯维加斯","水果机","运气","赌场"],
+    "char": "🎰",
+    "category": "activity"
+  },
+  "wf": {
+    "keywords": ["沃利斯","福图纳","旗","国家","国家","旗帜"],
+    "char": "🇼🇫",
+    "category": "flags"
+  },
+  "octocat": {
+    "keywords": ["动物","章鱼","GitHub上","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "truck": {
+    "keywords": ["汽车","运输"],
+    "char": "🚚",
+    "category": "travel_and_places"
+  },
+  "shipit": {
+    "keywords": ["松鼠","侦探","动物","福尔摩斯","检查员","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "ve": {
+    "keywords": ["委内瑞拉","玻利瓦尔","共和国","旗","国家","国家","旗帜"],
+    "char": "🇻🇪",
+    "category": "flags"
+  },
+  "goberserk": {
+    "keywords": ["厄运","愤怒","血腥","伤害"],
+    "char": null,
+    "category": "_custom"
+  },
+  "minibus": {
+    "keywords": ["车辆","汽车","运输"],
+    "char": "🚐",
+    "category": "travel_and_places"
+  },
+  "oncoming_taxi": {
+    "keywords": ["车辆","汽车","尤伯杯"],
+    "char": "🚖",
+    "category": "travel_and_places"
+  },
+  "performing_arts": {
+    "keywords": ["演戏","剧院","戏剧"],
+    "char": "🎭",
+    "category": "activity"
+  },
+  "bike": {
+    "keywords": ["体育","自行车","行使","潮人"],
+    "char": "🚲",
+    "category": "travel_and_places"
+  },
+  "rotating_light": {
+    "keywords": ["警察","救护车","911","急","警报","错误","紧张","法","法律"],
+    "char": "🚨",
+    "category": "travel_and_places"
+  },
+  "railway_car": {
+    "keywords": ["运输","车辆"],
+    "char": "🚃",
+    "category": "travel_and_places"
+  },
+  "oncoming_bus": {
+    "keywords": ["车辆","运输"],
+    "char": "🚍",
+    "category": "travel_and_places"
+  },
+  "monorail": {
+    "keywords": ["运输","车辆"],
+    "char": "🚝",
+    "category": "travel_and_places"
+  },
+  "suspension_railway": {
+    "keywords": ["车辆","运输"],
+    "char": "🚟",
+    "category": "travel_and_places"
+  },
+  "rage1": {
+    "keywords": ["愤怒","狂","讨厌","讨厌"],
+    "char": null,
+    "category": "_custom"
+  },
+  "helicopter": {
+    "keywords": ["运输","车辆","飞"],
+    "char": "🚁",
+    "category": "travel_and_places"
+  },
+  "small_airplane": {
+    "keywords": ["飞行","运输","飞","车辆"],
+    "char": "🛩",
+    "category": "travel_and_places"
+  },
+  "airplane_arrival": {
+    "keywords": ["飞机场","飞行","登机"],
+    "char": "🛬",
+    "category": "travel_and_places"
+  },
+  "boat": {
+    "keywords": ["船","夏季","运输","水","帆船","帆船"],
+    "char": "⛵",
+    "category": "travel_and_places"
+  },
+  "ferry": {
+    "keywords": ["船","船","游艇"],
+    "char": "⛴",
+    "category": "travel_and_places"
+  },
+  "passenger_ship": {
+    "keywords": ["游艇","巡航","渡船"],
+    "char": "🛳",
+    "category": "travel_and_places"
+  },
+  "fuelpump": {
+    "keywords": ["加油站","石油"],
+    "char": "⛽",
+    "category": "travel_and_places"
+  },
+  "artificial_satellite": {
+    "keywords": ["通讯","全球定位系统","轨道","航天","美国航空航天局","ISS"],
+    "char": "🛰",
+    "category": "travel_and_places"
+  },
+  "rocket": {
+    "keywords": ["发射","船","staffmode","美国航空航天局","外太空","外太空","飞"],
+    "char": "🚀",
+    "category": "travel_and_places"
+  },
+  "anchor": {
+    "keywords": ["船","渡船","海","船"],
+    "char": "⚓",
+    "category": "travel_and_places"
+  },
+  "airplane": {
+    "keywords": ["车辆","运输","飞行","飞"],
+    "char": "✈️",
+    "category": "travel_and_places"
+  },
+  "vertical_traffic_light": {
+    "keywords": ["运输","主动"],
+    "char": "🚦",
+    "category": "travel_and_places"
+  },
+  "ship": {
+    "keywords": ["运输","泰坦尼克号","部署"],
+    "char": "🚢",
+    "category": "travel_and_places"
+  },
+  "foggy": {
+    "keywords": ["照片","山"],
+    "char": "🌁",
+    "category": "travel_and_places"
+  },
+  "tokyo_tower": {
+    "keywords": ["照片","日本"],
+    "char": "🗼",
+    "category": "travel_and_places"
+  },
+  "gb": {
+    "keywords": ["联合的","王国","大","英国","北方","爱尔兰","旗","国家","国家","旗帜","英国的","联合王国","英语","英国","英国国旗"],
+    "char": "🇬🇧",
+    "category": "flags"
+  },
+  "fountain": {
+    "keywords": ["照片","夏季","水","新鲜"],
+    "char": "⛲",
+    "category": "travel_and_places"
+  },
+  "snow_capped_mountain": {
+    "keywords": ["照片","性质","环境","冬季","冷"],
+    "char": "🏔",
+    "category": "travel_and_places"
+  },
+  "mount_fuji": {
+    "keywords": ["照片","山","性质","日本"],
+    "char": "🗻",
+    "category": "travel_and_places"
+  },
+  "camping": {
+    "keywords": ["照片","在户外","帐篷"],
+    "char": "🏕",
+    "category": "travel_and_places"
+  },
+  "volcano": {
+    "keywords": ["照片","性质","灾害"],
+    "char": "🌋",
+    "category": "travel_and_places"
+  },
+  "tent": {
+    "keywords": ["照片","露营","在户外"],
+    "char": "⛺",
+    "category": "travel_and_places"
+  },
+  "mountain": {
+    "keywords": ["照片","性质","环境"],
+    "char": "⛰",
+    "category": "travel_and_places"
+  },
+  "japan": {
+    "keywords": ["国家","国家","日本","亚洲"],
+    "char": "🗾",
+    "category": "travel_and_places"
+  },
+  "national_park": {
+    "keywords": ["照片","环境","性质"],
+    "char": "🏞",
+    "category": "travel_and_places"
+  },
+  "railway_track": {
+    "keywords": ["培养","运输"],
+    "char": "🛤",
+    "category": "travel_and_places"
+  },
+  "rice_scene": {
+    "keywords": ["照片","日本","亚洲","赏月"],
+    "char": "🎑",
+    "category": "travel_and_places"
+  },
+  "beach_with_umbrella": {
+    "keywords": ["天气","夏季","晴朗","砂","莫吉托"],
+    "char": "🏖",
+    "category": "travel_and_places"
+  },
+  "desert_island": {
+    "keywords": ["照片","热带","莫吉托"],
+    "char": "🏝",
+    "category": "travel_and_places"
+  },
+  "motorway": {
+    "keywords": ["路","库比蒂诺","州际","高速公路"],
+    "char": "🛣",
+    "category": "travel_and_places"
+  },
+  "city_sunset": {
+    "keywords": ["照片","晚间","天空","房屋"],
+    "char": "🌆",
+    "category": "travel_and_places"
+  },
+  "milky_way": {
+    "keywords": ["照片","空间","明星"],
+    "char": "🌌",
+    "category": "travel_and_places"
+  },
+  "bridge_at_night": {
+    "keywords": ["照片","旧金山"],
+    "char": "🌉",
+    "category": "travel_and_places"
+  },
+  "sparkler": {
+    "keywords": ["明星","晚","闪耀"],
+    "char": "🎇",
+    "category": "travel_and_places"
+  },
+  "rainbow": {
+    "keywords": ["性质","快乐","独角兽","照片","天空","弹簧"],
+    "char": "🌈",
+    "category": "travel_and_places"
+  },
+  "stars": {
+    "keywords": ["晚","照片"],
+    "char": "🌠",
+    "category": "travel_and_places"
+  },
+  "night_with_stars": {
+    "keywords": ["晚间","市","市中心"],
+    "char": "🌃",
+    "category": "travel_and_places"
+  },
+  "house": {
+    "keywords": ["建造","家"],
+    "char": "🏠",
+    "category": "travel_and_places"
+  },
+  "u5408": {
+    "keywords": ["日本","中文","加入","汉子","红方格"],
+    "char": "🈴",
+    "category": "symbols"
+  },
+  "buildings": {
+    "keywords": ["房屋","照片"],
+    "char": "🏘",
+    "category": "travel_and_places"
+  },
+  "statue_of_liberty": {
+    "keywords": ["美国","纽约"],
+    "char": "🗽",
+    "category": "travel_and_places"
+  },
+  "u7981": {
+    "keywords": ["汉子","日本","中文","被禁止","限制","限制","红方格"],
+    "char": "🈲",
+    "category": "symbols"
+  },
+  "post_office": {
+    "keywords": ["建造","电子邮件","通讯"],
+    "char": "🏣",
+    "category": "travel_and_places"
+  },
+  "office": {
+    "keywords": ["建造","办公室","工作"],
+    "char": "🏢",
+    "category": "travel_and_places"
+  },
+  "o2": {
+    "keywords": ["字母","红方格","信"],
+    "char": "🅾️",
+    "category": "symbols"
+  },
+  "no_entry": {
+    "keywords": ["限制","安全","隐私","坏","否认","停止","圈"],
+    "char": "⛔",
+    "category": "symbols"
+  },
+  "x": {
+    "keywords": ["没有","删除","去掉","取消"],
+    "char": "❌",
+    "category": "symbols"
+  },
+  "eight_pointed_black_star": {
+    "keywords": ["橙方","形状","多边形"],
+    "char": "✴️",
+    "category": "symbols"
+  },
+  "non-potable_water": {
+    "keywords": ["喝","龙头","龙头","圈"],
+    "char": "🚱",
+    "category": "symbols"
+  },
+  "u6708": {
+    "keywords": ["中文","月","月亮","日本","橙方","汉子"],
+    "char": "🈷️",
+    "category": "symbols"
+  },
+  "do_not_litter": {
+    "keywords": ["垃圾","是","垃圾","圈"],
+    "char": "🚯",
+    "category": "symbols"
+  },
+  "low_brightness": {
+    "keywords": ["太阳","下午","暖","夏季"],
+    "char": "🔅",
+    "category": "symbols"
+  },
+  "no_mobile_phones": {
+    "keywords": ["苹果手机","静音","圈"],
+    "char": "📵",
+    "category": "symbols"
+  },
+  "house_with_garden": {
+    "keywords": ["家","厂","性质"],
+    "char": "🏡",
+    "category": "travel_and_places"
+  },
+  "b": {
+    "keywords": ["红方格","字母","信"],
+    "char": "🅱️",
+    "category": "symbols"
+  },
+  "love_hotel": {
+    "keywords": ["喜欢","感情","约会"],
+    "char": "🏩",
+    "category": "travel_and_places"
+  },
+  "wedding": {
+    "keywords": ["爱","喜欢","感情","一对","婚姻","新娘","马夫"],
+    "char": "💒",
+    "category": "travel_and_places"
+  },
+  "exclamation": {
+    "keywords": ["heavy_exclamation_mark","危险","惊","标点","哇","警告"],
+    "char": "❗",
+    "category": "symbols"
+  },
+  "ab": {
+    "keywords": ["红方格","字母"],
+    "char": "🆎",
+    "category": "symbols"
+  },
+  "trident": {
+    "keywords": ["武器","矛"],
+    "char": "🔱",
+    "category": "symbols"
+  },
+  "school": {
+    "keywords": ["建造","学生","教育","学习","教"],
+    "char": "🏫",
+    "category": "travel_and_places"
+  },
+  "convenience_store": {
+    "keywords": ["建造","购物","杂货"],
+    "char": "🏪",
+    "category": "travel_and_places"
+  },
+  "a": {
+    "keywords": ["红方格","字母","信"],
+    "char": "🅰️",
+    "category": "symbols"
+  },
+  "cl": {
+    "keywords": ["字母","话","红方格"],
+    "char": "🆑",
+    "category": "symbols"
+  },
+  "o": {
+    "keywords": ["圈","回合"],
+    "char": "⭕",
+    "category": "symbols"
+  },
+  "hotsprings": {
+    "keywords": ["浴","暖","放松"],
+    "char": "♨️",
+    "category": "symbols"
+  },
+  "anger": {
+    "keywords": ["愤怒","狂"],
+    "char": "💢",
+    "category": "symbols"
+  },
+  "kaaba": {
+    "keywords": ["麦加","清真寺","伊斯兰教"],
+    "char": "🕋",
+    "category": "travel_and_places"
+  },
+  "shinto_shrine": {
+    "keywords": ["寺庙","日本","京都"],
+    "char": "⛩",
+    "category": "travel_and_places"
+  },
+  "grey_exclamation": {
+    "keywords": ["惊","标点","灰色","哇","警告"],
+    "char": "❕",
+    "category": "symbols"
+  },
+  "keyboard": {
+    "keywords": ["技术","电脑","类型","输入","文本"],
+    "char": "⌨",
+    "category": "objects"
+  },
+  "underage": {
+    "keywords": ["18","喝","酒馆","晚","次要","圈"],
+    "char": "🔞",
+    "category": "symbols"
+  },
+  "question": {
+    "keywords": ["怀疑","困惑"],
+    "char": "❓",
+    "category": "symbols"
+  },
+  "ng": {
+    "keywords": ["蓝方","话","形状","图标"],
+    "char": "🆖",
+    "category": "symbols"
+  },
+  "joystick": {
+    "keywords": ["游戏","玩"],
+    "char": "🕹",
+    "category": "objects"
+  },
+  "three_button_mouse": {
+    "keywords": "[]",
+    "char": "🖱",
+    "category": "objects"
+  },
+  "desktop_computer": {
+    "keywords": ["技术","计算","屏幕"],
+    "char": "🖥",
+    "category": "objects"
+  },
+  "free": {
+    "keywords": ["蓝方","话"],
+    "char": "🆓",
+    "category": "symbols"
+  },
+  "new": {
+    "keywords": ["蓝方","话","开始"],
+    "char": "🆕",
+    "category": "symbols"
+  },
+  "calling": {
+    "keywords": ["苹果手机","来"],
+    "char": "📲",
+    "category": "objects"
+  },
+  "interrobang": {
+    "keywords": ["什么","标点","惊"],
+    "char": "⁉️",
+    "category": "symbols"
+  },
+  "one": {
+    "keywords": ["蓝方","数字","1"],
+    "char": "1️⃣",
+    "category": "symbols"
+  },
+  "video_camera": {
+    "keywords": ["电影","记录"],
+    "char": "📹",
+    "category": "objects"
+  },
+  "seven": {
+    "keywords": ["7","数字","蓝方","主要"],
+    "char": "7️⃣",
+    "category": "symbols"
+  },
+  "trackball": {
+    "keywords": ["技术","触控板"],
+    "char": "🖲",
+    "category": "objects"
+  },
+  "camera": {
+    "keywords": ["小工具","摄影"],
+    "char": "📷",
+    "category": "objects"
+  },
+  "printer": {
+    "keywords": ["纸","墨水"],
+    "char": "🖨",
+    "category": "objects"
+  },
+  "minidisc": {
+    "keywords": ["技术","记录","数据","磁盘","90年代"],
+    "char": "💽",
+    "category": "objects"
+  },
+  "cd": {
+    "keywords": ["技术","DVD","磁盘","圆盘","90年代"],
+    "char": "💿",
+    "category": "objects"
+  },
+  "floppy_disk": {
+    "keywords": ["老套","技术","保存","90年代","80年代"],
+    "char": "💾",
+    "category": "objects"
+  },
+  "movie_camera": {
+    "keywords": ["电影","记录"],
+    "char": "🎥",
+    "category": "objects"
+  },
+  "film_frames": {
+    "keywords": "[]",
+    "char": "🎞",
+    "category": "objects"
+  },
+  "vhs": {
+    "keywords": ["记录","视频","老套","90年代","80年代"],
+    "char": "📼",
+    "category": "objects"
+  },
+  "phone": {
+    "keywords": ["技术","通讯","拨号","电话"],
+    "char": "☎️",
+    "category": "objects"
+  },
+  "pager": {
+    "keywords": ["bbcall","老套","90年代"],
+    "char": "📟",
+    "category": "objects"
+  },
+  "telephone_receiver": {
+    "keywords": ["技术","通讯","拨号"],
+    "char": "📞",
+    "category": "objects"
+  },
+  "fax": {
+    "keywords": ["通讯","技术"],
+    "char": "📠",
+    "category": "objects"
+  },
+  "camera_with_flash": {
+    "keywords": ["摄影","小工具"],
+    "char": "📸",
+    "category": "objects"
+  },
+  "black_circle_for_record": {
+    "keywords": "[]",
+    "char": "⏺",
+    "category": "symbols"
+  },
+  "u6307": {
+    "keywords": ["中文","点","绿色的方","汉子"],
+    "char": "🈯",
+    "category": "symbols"
+  },
+  "radio": {
+    "keywords": ["通讯","音乐","播客","程序"],
+    "char": "📻",
+    "category": "objects"
+  },
+  "chart": {
+    "keywords": ["绿色的方","图形","介绍","统计"],
+    "char": "💹",
+    "category": "symbols"
+  },
+  "parking": {
+    "keywords": ["汽车","蓝方","字母","信"],
+    "char": "🅿️",
+    "category": "symbols"
+  },
+  "sparkle": {
+    "keywords": ["明星","绿色的方","真棒","好","烟花"],
+    "char": "❇️",
+    "category": "symbols"
+  },
+  "soon": {
+    "keywords": ["箭头","话"],
+    "char": "🔜",
+    "category": "symbols"
+  },
+  "beginner": {
+    "keywords": ["徽章","屏蔽"],
+    "char": "🔰",
+    "category": "symbols"
+  },
+  "stopwatch": {
+    "keywords": ["时间","截止日期"],
+    "char": "⏱",
+    "category": "objects"
+  },
+  "put_litter_in_its_place": {
+    "keywords": ["蓝方","标志","人的","信息"],
+    "char": "🚮",
+    "category": "symbols"
+  },
+  "wavy_dash": {
+    "keywords": ["画","线","小胡子","胡子","抽搐","涂"],
+    "char": "〰️",
+    "category": "symbols"
+  },
+  "customs": {
+    "keywords": ["护照","边境","蓝方"],
+    "char": "🛃",
+    "category": "symbols"
+  },
+  "arrows_clockwise": {
+    "keywords": ["同步","周期","回合","重复"],
+    "char": "🔃",
+    "category": "symbols"
+  },
+  "timer_clock": {
+    "keywords": "[]",
+    "char": "⏲",
+    "category": "objects"
+  },
+  "mantelpiece_clock": {
+    "keywords": "[]",
+    "char": "🕰",
+    "category": "objects"
+  },
+  "alarm_clock": {
+    "keywords": ["时间","唤醒"],
+    "char": "⏰",
+    "category": "objects"
+  },
+  "five": {
+    "keywords": ["五","数字","蓝方","主要"],
+    "char": "5️⃣",
+    "category": "symbols"
+  },
+  "six": {
+    "keywords": ["6","数字","蓝方"],
+    "char": "6️⃣",
+    "category": "symbols"
+  },
+  "tm": {
+    "keywords": ["商标","牌","法","法律"],
+    "char": "™️",
+    "category": "symbols"
+  },
+  "satellite": {
+    "keywords": ["通讯","未来","无线电","空间"],
+    "char": "📡",
+    "category": "objects"
+  },
+  "two": {
+    "keywords": ["数字","2","主要","蓝方"],
+    "char": "2️⃣",
+    "category": "symbols"
+  },
+  "four": {
+    "keywords": ["4","数字","蓝方"],
+    "char": "4️⃣",
+    "category": "symbols"
+  },
+  "arrow_up": {
+    "keywords": ["蓝方","继续","最佳","方向"],
+    "char": "⬆️",
+    "category": "symbols"
+  },
+  "keycap_ten": {
+    "keywords": ["数字","10","蓝方"],
+    "char": "🔟",
+    "category": "symbols"
+  },
+  "battery": {
+    "keywords": ["功率","能源","支持"],
+    "char": "🔋",
+    "category": "objects"
+  },
+  "nine": {
+    "keywords": ["蓝方","数字","9"],
+    "char": "9️⃣",
+    "category": "symbols"
+  },
+  "arrow_left": {
+    "keywords": ["蓝方","以前","背部"],
+    "char": "⬅️",
+    "category": "symbols"
+  },
+  "eight": {
+    "keywords": ["8","蓝方","数字"],
+    "char": "8️⃣",
+    "category": "symbols"
+  },
+  "dollar": {
+    "keywords": ["钱","销售","法案","货币"],
+    "char": "💵",
+    "category": "objects"
+  },
+  "arrow_right_hook": {
+    "keywords": ["蓝方","返回","根","方向"],
+    "char": "↪️",
+    "category": "symbols"
+  },
+  "oil_drum": {
+    "keywords": "[]",
+    "char": "🛢",
+    "category": "objects"
+  },
+  "euro": {
+    "keywords": ["钱","销售","美元","货币"],
+    "char": "💶",
+    "category": "objects"
+  },
+  "three": {
+    "keywords": ["3","数字","主要","蓝方"],
+    "char": "3️⃣",
+    "category": "symbols"
+  },
+  "candle": {
+    "keywords": ["火","蜡"],
+    "char": "🕯",
+    "category": "objects"
+  },
+  "yen": {
+    "keywords": ["钱","销售","日本","美元","货币"],
+    "char": "💴",
+    "category": "objects"
+  },
+  "money_with_wings": {
+    "keywords": ["美元","票据","付款","拍卖"],
+    "char": "💸",
+    "category": "objects"
+  },
+  "bell": {
+    "keywords": ["声音","通知","圣诞","圣诞节","钟"],
+    "char": "🔔",
+    "category": "symbols"
+  },
+  "gem": {
+    "keywords": ["蓝色","红宝石","钻石","首饰"],
+    "char": "💎",
+    "category": "objects"
+  },
+  "abcd": {
+    "keywords": ["蓝方","字母"],
+    "char": "🔡",
+    "category": "symbols"
+  },
+  "heavy_check_mark": {
+    "keywords": ["好","耐克","回答","是","蜱"],
+    "char": "✔️",
+    "category": "symbols"
+  },
+  "musical_note": {
+    "keywords": ["得分了","音","声音"],
+    "char": "🎵",
+    "category": "symbols"
+  },
+  "spades": {
+    "keywords": ["扑克","牌","西装","魔法"],
+    "char": "♠️",
+    "category": "symbols"
+  },
+  "credit_card": {
+    "keywords": ["钱","销售","美元","法案","付款","购物"],
+    "char": "💳",
+    "category": "objects"
+  },
+  "hammer": {
+    "keywords": ["工具","建立","创建"],
+    "char": "🔨",
+    "category": "objects"
+  },
+  "hammer_and_wrench": {
+    "keywords": ["工具","建立","创建"],
+    "char": "🛠",
+    "category": "objects"
+  },
+  "back": {
+    "keywords": ["箭头","话","返回"],
+    "char": "🔙",
+    "category": "symbols"
+  },
+  "wrench": {
+    "keywords": ["工具","DIY","宜家","固定","维护者"],
+    "char": "🔧",
+    "category": "objects"
+  },
+  "clock130": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕜",
+    "category": "symbols"
+  },
+  "pick": {
+    "keywords": ["工具","您"],
+    "char": "⛏",
+    "category": "objects"
+  },
+  "gear": {
+    "keywords": "[]",
+    "char": "⚙",
+    "category": "objects"
+  },
+  "gun": {
+    "keywords": ["暴力","武器","手枪","左轮手枪"],
+    "char": "🔫",
+    "category": "objects"
+  },
+  "clock330": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕞",
+    "category": "symbols"
+  },
+  "arrow_forward": {
+    "keywords": ["蓝方","对","方向","玩"],
+    "char": "▶️",
+    "category": "symbols"
+  },
+  "pound": {
+    "keywords": ["英国的","英镑","钱","销售","票据","联合王国","英国","货币"],
+    "char": "💷",
+    "category": "objects"
+  },
+  "dagger_knife": {
+    "keywords": "[]",
+    "char": "🗡",
+    "category": "objects"
+  },
+  "shield": {
+    "keywords": ["保护","安全"],
+    "char": "🛡",
+    "category": "objects"
+  },
+  "hocho": {
+    "keywords": ["刀","刀","刀具","厨房","武器"],
+    "char": "🔪",
+    "category": "objects"
+  },
+  "arrows_counterclockwise": {
+    "keywords": ["蓝方","同步","周期"],
+    "char": "🔄",
+    "category": "symbols"
+  },
+  "black_joker": {
+    "keywords": ["扑克","牌","游戏","玩","魔法"],
+    "char": "🃏",
+    "category": "symbols"
+  },
+  "arrow_up_down": {
+    "keywords": ["蓝方","方向","办法","垂直"],
+    "char": "↕️",
+    "category": "symbols"
+  },
+  "clubs": {
+    "keywords": ["扑克","牌","魔法","西装"],
+    "char": "♣️",
+    "category": "symbols"
+  },
+  "ax": {
+    "keywords": ["奥兰","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇦🇽",
+    "category": "flags"
+  },
+  "hearts": {
+    "keywords": ["扑克","牌","魔法","西装"],
+    "char": "♥️",
+    "category": "symbols"
+  },
+  "ag": {
+    "keywords": ["老","巴布达","旗","国家","国家","旗帜"],
+    "char": "🇦🇬",
+    "category": "flags"
+  },
+  "clock8": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕗",
+    "category": "symbols"
+  },
+  "curly_loop": {
+    "keywords": ["涂","画","形状","抽搐"],
+    "char": "➰",
+    "category": "symbols"
+  },
+  "clock5": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕔",
+    "category": "symbols"
+  },
+  "no_bell": {
+    "keywords": ["声音","卷","静音","安静","无声"],
+    "char": "🔕",
+    "category": "symbols"
+  },
+  "flower_playing_cards": {
+    "keywords": ["游戏","日落","红"],
+    "char": "🎴",
+    "category": "symbols"
+  },
+  "clock1": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕐",
+    "category": "symbols"
+  },
+  "registered": {
+    "keywords": ["字母","圈"],
+    "char": "®️",
+    "category": "symbols"
+  },
+  "thought_balloon": {
+    "keywords": ["泡沫","云","言语","思维"],
+    "char": "💭",
+    "category": "symbols"
+  },
+  "coffin": {
+    "keywords": ["吸血鬼","死","该","死亡","安息","墓地","公墓"],
+    "char": "⚰",
+    "category": "objects"
+  },
+  "smoking": {
+    "keywords": ["杀敌","烟草","香烟","联合"],
+    "char": "🚬",
+    "category": "objects"
+  },
+  "amphora": {
+    "keywords": ["花瓶","罐"],
+    "char": "🏺",
+    "category": "objects"
+  },
+  "clock730": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕢",
+    "category": "symbols"
+  },
+  "clock530": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕠",
+    "category": "symbols"
+  },
+  "telescope": {
+    "keywords": ["明星","空间","放大"],
+    "char": "🔭",
+    "category": "objects"
+  },
+  "clock830": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕣",
+    "category": "symbols"
+  },
+  "bathtub": {
+    "keywords": ["清洁","淋浴","浴室"],
+    "char": "🛁",
+    "category": "objects"
+  },
+  "microscope": {
+    "keywords": ["实验室","实验","放大","科学","研究"],
+    "char": "🔬",
+    "category": "objects"
+  },
+  "ad": {
+    "keywords": ["安道尔","旗","国家","国家","旗帜"],
+    "char": "🇦🇩",
+    "category": "flags"
+  },
+  "key": {
+    "keywords": ["锁","由","密码"],
+    "char": "🔑",
+    "category": "objects"
+  },
+  "bed": {
+    "keywords": ["睡觉","休息"],
+    "char": "🛏",
+    "category": "objects"
+  },
+  "ao": {
+    "keywords": ["安哥拉","旗","国家","国家","旗帜"],
+    "char": "🇦🇴",
+    "category": "flags"
+  },
+  "frame_with_picture": {
+    "keywords": "[]",
+    "char": "🖼",
+    "category": "objects"
+  },
+  "bookmark": {
+    "keywords": ["喜爱","标签","保存"],
+    "char": "🔖",
+    "category": "objects"
+  },
+  "mahjong": {
+    "keywords": ["游戏","玩","中文","汉子"],
+    "char": "🀄",
+    "category": "symbols"
+  },
+  "diamonds": {
+    "keywords": ["扑克","牌","魔法","西装"],
+    "char": "♦️",
+    "category": "symbols"
+  },
+  "umbrella_on_ground": {
+    "keywords": ["天气","夏季"],
+    "char": "⛱",
+    "category": "objects"
+  },
+  "world_map": {
+    "keywords": ["位置","方向"],
+    "char": "🗺",
+    "category": "objects"
+  },
+  "right_anger_bubble": {
+    "keywords": ["标题","言语","思维","狂"],
+    "char": "🗯",
+    "category": "symbols"
+  },
+  "left_speech_bubble": {
+    "keywords": ["话","信息","谈论","聊天的"],
+    "char": "🗨",
+    "category": "symbols"
+  },
+  "clock2": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕑",
+    "category": "symbols"
+  },
+  "balloon": {
+    "keywords": ["派对","庆典","生日","马戏团"],
+    "char": "🎈",
+    "category": "objects"
+  },
+  "clock230": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕝",
+    "category": "symbols"
+  },
+  "shopping_bags": {
+    "keywords": ["购物中心","购买","采购"],
+    "char": "🛍",
+    "category": "objects"
+  },
+  "door": {
+    "keywords": ["屋","条目","出口"],
+    "char": "🚪",
+    "category": "objects"
+  },
+  "clock430": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕟",
+    "category": "symbols"
+  },
+  "clock630": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕡",
+    "category": "symbols"
+  },
+  "clock6": {
+    "keywords": ["时间","晚了","早","时间表","黎明","黄昏"],
+    "char": "🕕",
+    "category": "symbols"
+  },
+  "clock4": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕓",
+    "category": "symbols"
+  },
+  "aq": {
+    "keywords": ["南极洲","旗","国家","国家","旗帜"],
+    "char": "🇦🇶",
+    "category": "flags"
+  },
+  "ai": {
+    "keywords": ["安圭拉","旗","国家","国家","旗帜"],
+    "char": "🇦🇮",
+    "category": "flags"
+  },
+  "confetti_ball": {
+    "keywords": ["节","派对","生日","马戏团"],
+    "char": "🎊",
+    "category": "objects"
+  },
+  "am": {
+    "keywords": ["亚美尼亚","旗","国家","国家","旗帜"],
+    "char": "🇦🇲",
+    "category": "flags"
+  },
+  "gift": {
+    "keywords": ["当下","生日","圣诞","圣诞节"],
+    "char": "🎁",
+    "category": "objects"
+  },
+  "al": {
+    "keywords": ["阿尔巴尼亚","旗","国家","国家","旗帜"],
+    "char": "🇦🇱",
+    "category": "flags"
+  },
+  "envelope": {
+    "keywords": ["信","邮政","收件箱","通讯"],
+    "char": "✉️",
+    "category": "objects"
+  },
+  "envelope_with_arrow": {
+    "keywords": ["电子邮件","通讯"],
+    "char": "📩",
+    "category": "objects"
+  },
+  "izakaya_lantern": {
+    "keywords": ["光","纸","万圣节","幽灵般的"],
+    "char": "🏮",
+    "category": "objects"
+  },
+  "incoming_envelope": {
+    "keywords": ["电子邮件","收件箱"],
+    "char": "📨",
+    "category": "objects"
+  },
+  "email": {
+    "keywords": ["通讯","收件箱"],
+    "char": "📧",
+    "category": "objects"
+  },
+  "mailbox": {
+    "keywords": ["电子邮件","收件箱","通讯"],
+    "char": "📫",
+    "category": "objects"
+  },
+  "mailbox_with_mail": {
+    "keywords": ["电子邮件","收件箱","通讯"],
+    "char": "📬",
+    "category": "objects"
+  },
+  "tf": {
+    "keywords": ["法国","南部的","地区","旗","国家","国家","旗帜"],
+    "char": "🇹🇫",
+    "category": "flags"
+  },
+  "postal_horn": {
+    "keywords": ["仪器","音乐"],
+    "char": "📯",
+    "category": "objects"
+  },
+  "outbox_tray": {
+    "keywords": ["收件箱","电子邮件"],
+    "char": "📤",
+    "category": "objects"
+  },
+  "inbox_tray": {
+    "keywords": ["电子邮件","文件"],
+    "char": "📥",
+    "category": "objects"
+  },
+  "bar_chart": {
+    "keywords": ["图形","介绍","统计"],
+    "char": "📊",
+    "category": "objects"
+  },
+  "scroll": {
+    "keywords": ["文件","古","历史","纸"],
+    "char": "📜",
+    "category": "objects"
+  },
+  "bookmark_tabs": {
+    "keywords": ["喜爱","保存","订购","整洁"],
+    "char": "📑",
+    "category": "objects"
+  },
+  "package": {
+    "keywords": ["邮件","礼品","纸板","框","移动"],
+    "char": "📦",
+    "category": "objects"
+  },
+  "chart_with_upwards_trend": {
+    "keywords": ["图形","介绍","统计","复苏","商业","经济学","钱","销售","好","成功"],
+    "char": "📈",
+    "category": "objects"
+  },
+  "ballot_box_with_ballot": {
+    "keywords": ["选举","投票"],
+    "char": "🗳",
+    "category": "objects"
+  },
+  "card_index": {
+    "keywords": ["商业","文具"],
+    "char": "📇",
+    "category": "objects"
+  },
+  "newspaper": {
+    "keywords": ["按","标题"],
+    "char": "📰",
+    "category": "objects"
+  },
+  "file_folder": {
+    "keywords": ["文件","商业","办公室"],
+    "char": "📁",
+    "category": "objects"
+  },
+  "ledger": {
+    "keywords": ["笔记","纸"],
+    "char": "📒",
+    "category": "objects"
+  },
+  "notebook": {
+    "keywords": ["文具","记录","笔记","纸","研究"],
+    "char": "📓",
+    "category": "objects"
+  },
+  "file_cabinet": {
+    "keywords": ["备案","组织"],
+    "char": "🗄",
+    "category": "objects"
+  },
+  "spiral_note_pad": {
+    "keywords": ["备忘录","文具"],
+    "char": "🗒",
+    "category": "objects"
+  },
+  "green_book": {
+    "keywords": ["读","图书馆","知识","研究"],
+    "char": "📗",
+    "category": "objects"
+  },
+  "blue_book": {
+    "keywords": ["读","图书馆","知识","学习","研究"],
+    "char": "📘",
+    "category": "objects"
+  },
+  "orange_book": {
+    "keywords": ["读","图书馆","知识","教科书","研究"],
+    "char": "📙",
+    "category": "objects"
+  },
+  "paperclip": {
+    "keywords": ["文件","文具"],
+    "char": "📎",
+    "category": "objects"
+  },
+  "book": {
+    "keywords": ["打开书","读","图书馆","知识","文学","学习","研究"],
+    "char": "📖",
+    "category": "objects"
+  },
+  "notebook_with_decorative_cover": {
+    "keywords": ["课堂","笔记","记录","纸","研究"],
+    "char": "📔",
+    "category": "objects"
+  },
+  "u6709": {
+    "keywords": ["橙方","中文","有","汉子"],
+    "char": "🈶",
+    "category": "symbols"
+  },
+  "white_flower": {
+    "keywords": ["日本","弹簧"],
+    "char": "💮",
+    "category": "symbols"
+  },
+  "closed_lock_with_key": {
+    "keywords": ["安全","隐私"],
+    "char": "🔐",
+    "category": "objects"
+  },
+  "unlock": {
+    "keywords": ["隐私","安全"],
+    "char": "🔓",
+    "category": "objects"
+  },
+  "round_pushpin": {
+    "keywords": ["文具","位置","地图","这里"],
+    "char": "📍",
+    "category": "objects"
+  },
+  "lower_left_ballpoint_pen": {
+    "keywords": ["文具","写作","写"],
+    "char": "🖊",
+    "category": "objects"
+  },
+  "lock": {
+    "keywords": ["安全","密码","挂锁"],
+    "char": "🔒",
+    "category": "objects"
+  },
+  "black_nib": {
+    "keywords": ["钢笔","文具","写作","写"],
+    "char": "✒️",
+    "category": "objects"
+  },
+  "lock_with_ink_pen": {
+    "keywords": ["安全","秘密"],
+    "char": "🔏",
+    "category": "objects"
+  },
+  "lower_left_fountain_pen": {
+    "keywords": ["文具","写作","写"],
+    "char": "🖋",
+    "category": "objects"
+  },
+  "lower_left_paintbrush": {
+    "keywords": ["画画","创造力","艺术"],
+    "char": "🖌",
+    "category": "objects"
+  },
+  "mag": {
+    "keywords": ["搜索","放大","找","侦探"],
+    "char": "🔍",
+    "category": "objects"
+  },
+  "pencil2": {
+    "keywords": ["文具","写","纸","写作","学校","研究"],
+    "char": "✏️",
+    "category": "objects"
+  },
+  "green_heart": {
+    "keywords": ["爱","喜欢","感情","情人节礼物"],
+    "char": "💚",
+    "category": "symbols"
+  },
+  "high_brightness": {
+    "keywords": ["太阳","光"],
+    "char": "🔆",
+    "category": "symbols"
+  },
+  "heavy_heart_exclamation_mark_ornament": {
+    "keywords": ["装饰","爱"],
+    "char": "❣",
+    "category": "symbols"
+  },
+  "sparkling_heart": {
+    "keywords": ["爱","喜欢","感情","情人节礼物"],
+    "char": "💖",
+    "category": "symbols"
+  },
+  "ideograph_advantage": {
+    "keywords": ["中文","汉子","获得","得到","圈"],
+    "char": "🉐",
+    "category": "symbols"
+  },
+  "secret": {
+    "keywords": ["隐私","中文","sshh","汉子","红色圈"],
+    "char": "㊙️",
+    "category": "symbols"
+  },
+  "broken_heart": {
+    "keywords": ["美国","抱歉","打破"],
+    "char": "💔",
+    "category": "symbols"
+  },
+  "revolving_hearts": {
+    "keywords": ["爱","喜欢","感情","情人节礼物"],
+    "char": "💞",
+    "category": "symbols"
+  },
+  "purple_heart": {
+    "keywords": ["爱","喜欢","感情","情人节礼物"],
+    "char": "💜",
+    "category": "symbols"
+  },
+  "gift_heart": {
+    "keywords": ["爱","情人节礼物"],
+    "char": "💝",
+    "category": "symbols"
+  },
+  "diamond_shape_with_a_dot_inside": {
+    "keywords": ["宝","蓝色","宝石","水晶","幻想"],
+    "char": "💠",
+    "category": "symbols"
+  },
+  "om_symbol": {
+    "keywords": ["印度教","佛教","锡克教","耆那教"],
+    "char": "🕉",
+    "category": "symbols"
+  },
+  "heartbeat": {
+    "keywords": ["爱","喜欢","感情","情人节礼物","粉"],
+    "char": "💓",
+    "category": "symbols"
+  },
+  "cupid": {
+    "keywords": ["爱","喜欢","心","感情","情人节礼物"],
+    "char": "💘",
+    "category": "symbols"
+  },
+  "atm": {
+    "keywords": ["钱","销售","现金","蓝方","付款","银行"],
+    "char": "🏧",
+    "category": "symbols"
+  },
+  "star_and_crescent": {
+    "keywords": "[]",
+    "char": "☪",
+    "category": "symbols"
+  },
+  "peace_symbol": {
+    "keywords": "[]",
+    "char": "☮",
+    "category": "symbols"
+  },
+  "star_of_david": {
+    "keywords": "[]",
+    "char": "✡",
+    "category": "symbols"
+  },
+  "latin_cross": {
+    "keywords": "[]",
+    "char": "✝",
+    "category": "symbols"
+  },
+  "sa": {
+    "keywords": ["日本","蓝方","片假名"],
+    "char": "🈂️",
+    "category": "symbols"
+  },
+  "menorah_with_nine_branches": {
+    "keywords": ["光明节","蜡烛","犹"],
+    "char": "🕎",
+    "category": "symbols"
+  },
+  "place_of_worship": {
+    "keywords": ["宗教","教会","寺庙","祷告"],
+    "char": "🛐",
+    "category": "symbols"
+  },
+  "aries": {
+    "keywords": ["标志","紫方","生肖","占星术"],
+    "char": "♈",
+    "category": "symbols"
+  },
+  "loop": {
+    "keywords": ["胶带","暗盒"],
+    "char": "➿",
+    "category": "symbols"
+  },
+  "up": {
+    "keywords": ["蓝方","以上","高"],
+    "char": "🆙",
+    "category": "symbols"
+  },
+  "cool": {
+    "keywords": ["话","蓝方"],
+    "char": "🆒",
+    "category": "symbols"
+  },
+  "heart_decoration": {
+    "keywords": ["紫方","爱","喜欢"],
+    "char": "💟",
+    "category": "symbols"
+  },
+  "cyclone": {
+    "keywords": ["天气","漩涡","蓝色","云","涡流","螺旋","涡流","纺"],
+    "char": "🌀",
+    "category": "symbols"
+  },
+  "globe_with_meridians": {
+    "keywords": ["地球","国际","世界","互联网","interweb","国际化"],
+    "char": "🌐",
+    "category": "symbols"
+  },
+  "baggage_claim": {
+    "keywords": ["蓝方","飞机场","运输"],
+    "char": "🛄",
+    "category": "symbols"
+  },
+  "m": {
+    "keywords": ["字母","蓝圈","信"],
+    "char": "Ⓜ️",
+    "category": "symbols"
+  },
+  "no_smoking": {
+    "keywords": ["香烟","蓝方","闻","抽烟"],
+    "char": "🚭",
+    "category": "symbols"
+  },
+  "baby_symbol": {
+    "keywords": ["橙方","儿童"],
+    "char": "🚼",
+    "category": "symbols"
+  },
+  "left_luggage": {
+    "keywords": ["蓝方","旅行"],
+    "char": "🛅",
+    "category": "symbols"
+  },
+  "wheelchair": {
+    "keywords": ["蓝方","残","A11Y","无障碍"],
+    "char": "♿",
+    "category": "symbols"
+  },
+  "restroom": {
+    "keywords": ["蓝方","厕所","刷新","厕所","性别"],
+    "char": "🚻",
+    "category": "symbols"
+  },
+  "womens": {
+    "keywords": ["紫方","女人","女","厕所","至","卫生间","性别"],
+    "char": "🚺",
+    "category": "symbols"
+  },
+  "passport_control": {
+    "keywords": ["习俗","蓝方"],
+    "char": "🛂",
+    "category": "symbols"
+  },
+  "capricorn": {
+    "keywords": ["标志","生肖","紫方","占星术"],
+    "char": "♑",
+    "category": "symbols"
+  },
+  "black_square_for_stop": {
+    "keywords": "[]",
+    "char": "⏹",
+    "category": "symbols"
+  },
+  "scorpius": {
+    "keywords": ["标志","生肖","紫方","占星术","天蝎座"],
+    "char": "♏",
+    "category": "symbols"
+  },
+  "arrow_up_small": {
+    "keywords": ["蓝方","三角形","方向","点","前锋","最佳"],
+    "char": "🔼",
+    "category": "symbols"
+  },
+  "u5272": {
+    "keywords": ["切","划分","中文","汉子","粉红色的方"],
+    "char": "🈹",
+    "category": "symbols"
+  },
+  "signal_strength": {
+    "keywords": ["蓝方","招待会","电话","互联网","连接","无线上网","蓝牙","酒吧"],
+    "char": "📶",
+    "category": "symbols"
+  },
+  "keycap_star": {
+    "keywords": "[]",
+    "char": "*⃣",
+    "category": "symbols"
+  },
+  "arrow_backward": {
+    "keywords": ["蓝方","剩下","方向"],
+    "char": "◀️",
+    "category": "symbols"
+  },
+  "arrow_upper_left": {
+    "keywords": ["蓝方","点","方向","对角线","西北"],
+    "char": "↖️",
+    "category": "symbols"
+  },
+  "arrow_upper_right": {
+    "keywords": ["蓝方","点","方向","对角线","东北"],
+    "char": "↗️",
+    "category": "symbols"
+  },
+  "double_vertical_bar": {
+    "keywords": ["暂停","蓝方"],
+    "char": "⏸",
+    "category": "symbols"
+  },
+  "arrow_down": {
+    "keywords": ["蓝方","方向","底部"],
+    "char": "⬇️",
+    "category": "symbols"
+  },
+  "arrow_lower_right": {
+    "keywords": ["蓝方","方向","对角线","东南"],
+    "char": "↘️",
+    "category": "symbols"
+  },
+  "arrow_lower_left": {
+    "keywords": ["蓝方","方向","对角线","西南"],
+    "char": "↙️",
+    "category": "symbols"
+  },
+  "small_orange_diamond": {
+    "keywords": ["形状","宝","宝石"],
+    "char": "🔸",
+    "category": "symbols"
+  },
+  "large_orange_diamond": {
+    "keywords": ["形状","宝","宝石"],
+    "char": "🔶",
+    "category": "symbols"
+  },
+  "red_circle": {
+    "keywords": ["形状","错误","危险"],
+    "char": "🔴",
+    "category": "symbols"
+  },
+  "black_small_square": {
+    "keywords": ["形状","图标"],
+    "char": "▪️",
+    "category": "symbols"
+  },
+  "twisted_rightwards_arrows": {
+    "keywords": ["蓝方","拖曳","音乐","随机"],
+    "char": "🔀",
+    "category": "symbols"
+  },
+  "arrow_down_small": {
+    "keywords": ["蓝方","方向","底部"],
+    "char": "🔽",
+    "category": "symbols"
+  },
+  "white_small_square": {
+    "keywords": ["形状","图标"],
+    "char": "▫️",
+    "category": "symbols"
+  },
+  "large_blue_circle": {
+    "keywords": ["形状","图标","按键"],
+    "char": "🔵",
+    "category": "symbols"
+  },
+  "black_medium_small_square": {
+    "keywords": ["图标","形状","按键"],
+    "char": "◾",
+    "category": "symbols"
+  },
+  "black_medium_square": {
+    "keywords": ["形状","按键","图标"],
+    "char": "◼️",
+    "category": "symbols"
+  },
+  "small_red_triangle_down": {
+    "keywords": ["形状","方向","底部"],
+    "char": "🔻",
+    "category": "symbols"
+  },
+  "black_square_button": {
+    "keywords": ["形状","输入","帧"],
+    "char": "🔲",
+    "category": "symbols"
+  },
+  "loud_sound": {
+    "keywords": ["卷","噪声","嘈杂","扬声器","广播"],
+    "char": "🔊",
+    "category": "symbols"
+  },
+  "clock7": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕖",
+    "category": "symbols"
+  },
+  "mega": {
+    "keywords": ["声音","扬声器","卷"],
+    "char": "📣",
+    "category": "symbols"
+  },
+  "clock1030": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕥",
+    "category": "symbols"
+  },
+  "clock1130": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕦",
+    "category": "symbols"
+  },
+  "clock1230": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕧",
+    "category": "symbols"
+  },
+  "clock12": {
+    "keywords": ["时间","中午","午夜","正午","晚了","早","时间表"],
+    "char": "🕛",
+    "category": "symbols"
+  },
+  "fast_forward": {
+    "keywords": ["蓝方","玩","速度","继续"],
+    "char": "⏩",
+    "category": "symbols"
+  },
+  "clock10": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕙",
+    "category": "symbols"
+  },
+  "af": {
+    "keywords": ["阿富汗","旗","国家","国家","旗帜"],
+    "char": "🇦🇫",
+    "category": "flags"
+  },
+  "aw": {
+    "keywords": ["阿鲁巴","旗","国家","国家","旗帜"],
+    "char": "🇦🇼",
+    "category": "flags"
+  },
+  "part_alternation_mark": {
+    "keywords": ["图形","介绍","统计","商业","经济学","坏"],
+    "char": "〽️",
+    "category": "symbols"
+  },
+  "at": {
+    "keywords": ["奥地利","旗","国家","国家","旗帜"],
+    "char": "🇦🇹",
+    "category": "flags"
+  },
+  "children_crossing": {
+    "keywords": ["学校","警告","危险","标志","主动","黄钻"],
+    "char": "🚸",
+    "category": "symbols"
+  },
+  "au": {
+    "keywords": ["澳大利亚","旗","国家","国家","旗帜"],
+    "char": "🇦🇺",
+    "category": "flags"
+  },
+  "bh": {
+    "keywords": ["巴林","旗","国家","国家","旗帜"],
+    "char": "🇧🇭",
+    "category": "flags"
+  },
+  "bd": {
+    "keywords": ["孟加拉国","旗","国家","国家","旗帜"],
+    "char": "🇧🇩",
+    "category": "flags"
+  },
+  "bj": {
+    "keywords": ["贝宁","旗","国家","国家","旗帜"],
+    "char": "🇧🇯",
+    "category": "flags"
+  },
+  "bz": {
+    "keywords": ["伯利兹","旗","国家","国家","旗帜"],
+    "char": "🇧🇿",
+    "category": "flags"
+  },
+  "bo": {
+    "keywords": ["玻利维亚","旗","国家","国家","旗帜"],
+    "char": "🇧🇴",
+    "category": "flags"
+  },
+  "br": {
+    "keywords": ["巴西","旗","国家","国家","旗帜"],
+    "char": "🇧🇷",
+    "category": "flags"
+  },
+  "heavy_dollar_sign": {
+    "keywords": ["钱","销售","付款","货币","雄鹿"],
+    "char": "💲",
+    "category": "symbols"
+  },
+  "bg": {
+    "keywords": ["保加利亚","旗","国家","国家","旗帜"],
+    "char": "🇧🇬",
+    "category": "flags"
+  },
+  "bi": {
+    "keywords": ["布隆迪","旗","国家","国家","旗帜"],
+    "char": "🇧🇮",
+    "category": "flags"
+  },
+  "ca": {
+    "keywords": ["加拿大","旗","国家","国家","旗帜"],
+    "char": "🇨🇦",
+    "category": "flags"
+  },
+  "ba": {
+    "keywords": ["波斯尼亚","黑塞哥维那","旗","国家","国家","旗帜"],
+    "char": "🇧🇦",
+    "category": "flags"
+  },
+  "cx": {
+    "keywords": ["圣诞","岛","旗","国家","国家","旗帜"],
+    "char": "🇨🇽",
+    "category": "flags"
+  },
+  "cm": {
+    "keywords": ["喀麦隆","旗","国家","国家","旗帜"],
+    "char": "🇨🇲",
+    "category": "flags"
+  },
+  "az": {
+    "keywords": ["阿塞拜疆","旗","国家","国家","旗帜"],
+    "char": "🇦🇿",
+    "category": "flags"
+  },
+  "cg": {
+    "keywords": ["刚果","旗","国家","国家","旗帜"],
+    "char": "🇨🇬",
+    "category": "flags"
+  },
+  "kh": {
+    "keywords": ["柬埔寨","旗","国家","国家","旗帜"],
+    "char": "🇰🇭",
+    "category": "flags"
+  },
+  "td": {
+    "keywords": ["乍得","旗","国家","国家","旗帜"],
+    "char": "🇹🇩",
+    "category": "flags"
+  },
+  "cn": {
+    "keywords": ["中国","中文","中国","旗","国家","国家","旗帜"],
+    "char": "🇨🇳",
+    "category": "flags"
+  },
+  "km": {
+    "keywords": ["科摩罗","旗","国家","国家","旗帜"],
+    "char": "🇰🇲",
+    "category": "flags"
+  },
+  "chile": {
+    "keywords": ["旗","国家","国家","旗帜"],
+    "char": "🇨🇱",
+    "category": "flags"
+  },
+  "ck": {
+    "keywords": ["厨师","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇨🇰",
+    "category": "flags"
+  },
+  "cu": {
+    "keywords": ["古巴","旗","国家","国家","旗帜"],
+    "char": "🇨🇺",
+    "category": "flags"
+  },
+  "cv": {
+    "keywords": ["披肩","绿","旗","国家","国家","旗帜"],
+    "char": "🇨🇻",
+    "category": "flags"
+  },
+  "hr": {
+    "keywords": ["克罗地亚","旗","国家","国家","旗帜"],
+    "char": "🇭🇷",
+    "category": "flags"
+  },
+  "dk": {
+    "keywords": ["丹麦","旗","国家","国家","旗帜"],
+    "char": "🇩🇰",
+    "category": "flags"
+  },
+  "cr": {
+    "keywords": ["哥斯达黎加","哥斯达黎加","旗","国家","国家","旗帜"],
+    "char": "🇨🇷",
+    "category": "flags"
+  },
+  "cz": {
+    "keywords": ["捷克共和国","旗","国家","国家","旗帜"],
+    "char": "🇨🇿",
+    "category": "flags"
+  },
+  "dm": {
+    "keywords": ["多米尼加","旗","国家","国家","旗帜"],
+    "char": "🇩🇲",
+    "category": "flags"
+  },
+  "do": {
+    "keywords": ["多明尼加","共和国","旗","国家","国家","旗帜"],
+    "char": "🇩🇴",
+    "category": "flags"
+  },
+  "ec": {
+    "keywords": ["厄瓜多尔","旗","国家","国家","旗帜"],
+    "char": "🇪🇨",
+    "category": "flags"
+  },
+  "sv": {
+    "keywords": ["该","萨尔瓦多","旗","国家","国家","旗帜"],
+    "char": "🇸🇻",
+    "category": "flags"
+  },
+  "gq": {
+    "keywords": ["赤道","几内亚","旗","国家","国家","旗帜"],
+    "char": "🇬🇶",
+    "category": "flags"
+  },
+  "ee": {
+    "keywords": ["爱沙尼亚","旗","国家","国家","旗帜"],
+    "char": "🇪🇪",
+    "category": "flags"
+  },
+  "fk": {
+    "keywords": ["福克兰","岛屿","马尔维纳斯群岛","旗","国家","国家","旗帜"],
+    "char": "🇫🇰",
+    "category": "flags"
+  },
+  "eg": {
+    "keywords": ["埃及","旗","国家","国家","旗帜"],
+    "char": "🇪🇬",
+    "category": "flags"
+  },
+  "fi": {
+    "keywords": ["芬兰","旗","国家","国家","旗帜"],
+    "char": "🇫🇮",
+    "category": "flags"
+  },
+  "gf": {
+    "keywords": ["法国","圭亚那","旗","国家","国家","旗帜"],
+    "char": "🇬🇫",
+    "category": "flags"
+  },
+  "fr": {
+    "keywords": ["旗帜","旗","国家","法国","法国","国家"],
+    "char": "🇫🇷",
+    "category": "flags"
+  },
+  "ge": {
+    "keywords": ["格鲁吉亚","旗","国家","国家","旗帜"],
+    "char": "🇬🇪",
+    "category": "flags"
+  },
+  "pf": {
+    "keywords": ["法国","波利尼西亚","旗","国家","国家","旗帜"],
+    "char": "🇵🇫",
+    "category": "flags"
+  },
+  "gh": {
+    "keywords": ["加纳","旗","国家","国家","旗帜"],
+    "char": "🇬🇭",
+    "category": "flags"
+  },
+  "gr": {
+    "keywords": ["希腊","旗","国家","国家","旗帜"],
+    "char": "🇬🇷",
+    "category": "flags"
+  },
+  "gi": {
+    "keywords": ["直布罗陀","旗","国家","国家","旗帜"],
+    "char": "🇬🇮",
+    "category": "flags"
+  },
+  "gm": {
+    "keywords": ["冈比亚","旗","国家","国家","旗帜"],
+    "char": "🇬🇲",
+    "category": "flags"
+  },
+  "gu": {
+    "keywords": ["关岛","旗","国家","国家","旗帜"],
+    "char": "🇬🇺",
+    "category": "flags"
+  },
+  "gl": {
+    "keywords": ["格陵兰","旗","国家","国家","旗帜"],
+    "char": "🇬🇱",
+    "category": "flags"
+  },
+  "gg": {
+    "keywords": ["根西岛","旗","国家","国家","旗帜"],
+    "char": "🇬🇬",
+    "category": "flags"
+  },
+  "gt": {
+    "keywords": ["危地马拉","旗","国家","国家","旗帜"],
+    "char": "🇬🇹",
+    "category": "flags"
+  },
+  "indonesia": {
+    "keywords": ["旗","国家","国家","旗帜"],
+    "char": "🇮🇩",
+    "category": "flags"
+  },
+  "is": {
+    "keywords": ["冰岛","旗","国家","国家","旗帜"],
+    "char": "🇮🇸",
+    "category": "flags"
+  },
+  "gy": {
+    "keywords": ["圭亚那","旗","国家","国家","旗帜"],
+    "char": "🇬🇾",
+    "category": "flags"
+  },
+  "ht": {
+    "keywords": ["海地","旗","国家","国家","旗帜"],
+    "char": "🇭🇹",
+    "category": "flags"
+  },
+  "hn": {
+    "keywords": ["洪都拉斯","旗","国家","国家","旗帜"],
+    "char": "🇭🇳",
+    "category": "flags"
+  },
+  "hu": {
+    "keywords": ["匈牙利","旗","国家","国家","旗帜"],
+    "char": "🇭🇺",
+    "category": "flags"
+  },
+  "it": {
+    "keywords": ["意大利","旗","国家","国家","旗帜"],
+    "char": "🇮🇹",
+    "category": "flags"
+  },
+  "il": {
+    "keywords": ["以色列","旗","国家","国家","旗帜"],
+    "char": "🇮🇱",
+    "category": "flags"
+  },
+  "jm": {
+    "keywords": ["牙买加","旗","国家","国家","旗帜"],
+    "char": "🇯🇲",
+    "category": "flags"
+  },
+  "jo": {
+    "keywords": ["约旦","旗","国家","国家","旗帜"],
+    "char": "🇯🇴",
+    "category": "flags"
+  },
+  "ke": {
+    "keywords": ["肯尼亚","旗","国家","国家","旗帜"],
+    "char": "🇰🇪",
+    "category": "flags"
+  },
+  "ci": {
+    "keywords": ["象牙","滨","旗","国家","国家","旗帜"],
+    "char": "🇨🇮",
+    "category": "flags"
+  },
+  "xk": {
+    "keywords": ["科索沃","旗","国家","国家","旗帜"],
+    "char": "🇽🇰",
+    "category": "flags"
+  },
+  "kz": {
+    "keywords": ["哈萨克斯坦","旗","国家","国家","旗帜"],
+    "char": "🇰🇿",
+    "category": "flags"
+  },
+  "kw": {
+    "keywords": ["科威特","旗","国家","国家","旗帜"],
+    "char": "🇰🇼",
+    "category": "flags"
+  },
+  "lt": {
+    "keywords": ["立陶宛","旗","国家","国家","旗帜"],
+    "char": "🇱🇹",
+    "category": "flags"
+  },
+  "lb": {
+    "keywords": ["黎巴嫩","旗","国家","国家","旗帜"],
+    "char": "🇱🇧",
+    "category": "flags"
+  },
+  "li": {
+    "keywords": ["列支敦士登","旗","国家","国家","旗帜"],
+    "char": "🇱🇮",
+    "category": "flags"
+  },
+  "lu": {
+    "keywords": ["卢森堡","旗","国家","国家","旗帜"],
+    "char": "🇱🇺",
+    "category": "flags"
+  },
+  "mk": {
+    "keywords": ["马其顿，","旗","国家","国家","旗帜"],
+    "char": "🇲🇰",
+    "category": "flags"
+  },
+  "ly": {
+    "keywords": ["利比亚","旗","国家","国家","旗帜"],
+    "char": "🇱🇾",
+    "category": "flags"
+  },
+  "mw": {
+    "keywords": ["马拉维","旗","国家","国家","旗帜"],
+    "char": "🇲🇼",
+    "category": "flags"
+  },
+  "mg": {
+    "keywords": ["马达加斯加","旗","国家","国家","旗帜"],
+    "char": "🇲🇬",
+    "category": "flags"
+  },
+  "mv": {
+    "keywords": ["马尔代夫","旗","国家","国家","旗帜"],
+    "char": "🇲🇻",
+    "category": "flags"
+  },
+  "yt": {
+    "keywords": ["马约特","旗","国家","国家","旗帜"],
+    "char": "🇾🇹",
+    "category": "flags"
+  },
+  "mq": {
+    "keywords": ["马提尼克","旗","国家","国家","旗帜"],
+    "char": "🇲🇶",
+    "category": "flags"
+  },
+  "my": {
+    "keywords": ["马来西亚","旗","国家","国家","旗帜"],
+    "char": "🇲🇾",
+    "category": "flags"
+  },
+  "mx": {
+    "keywords": ["墨西哥","旗","国家","国家","旗帜"],
+    "char": "🇲🇽",
+    "category": "flags"
+  },
+  "mr": {
+    "keywords": ["毛里塔尼亚","旗","国家","国家","旗帜"],
+    "char": "🇲🇷",
+    "category": "flags"
+  },
+  "mn": {
+    "keywords": ["蒙古","旗","国家","国家","旗帜"],
+    "char": "🇲🇳",
+    "category": "flags"
+  },
+  "me": {
+    "keywords": ["黑山","旗","国家","国家","旗帜"],
+    "char": "🇲🇪",
+    "category": "flags"
+  },
+  "mc": {
+    "keywords": ["摩纳哥","旗","国家","国家","旗帜"],
+    "char": "🇲🇨",
+    "category": "flags"
+  },
+  "ml": {
+    "keywords": ["马里","旗","国家","国家","旗帜"],
+    "char": "🇲🇱",
+    "category": "flags"
+  },
+  "mu": {
+    "keywords": ["毛里求斯","旗","国家","国家","旗帜"],
+    "char": "🇲🇺",
+    "category": "flags"
+  },
+  "md": {
+    "keywords": ["摩尔多瓦","共和国","旗","国家","国家","旗帜"],
+    "char": "🇲🇩",
+    "category": "flags"
+  },
+  "ma": {
+    "keywords": ["摩洛哥","旗","国家","国家","旗帜"],
+    "char": "🇲🇦",
+    "category": "flags"
+  },
+  "mm": {
+    "keywords": ["缅甸","旗","国家","国家","旗帜"],
+    "char": "🇲🇲",
+    "category": "flags"
+  },
+  "na": {
+    "keywords": ["纳米比亚","旗","国家","国家","旗帜"],
+    "char": "🇳🇦",
+    "category": "flags"
+  },
+  "nc": {
+    "keywords": ["新","喀里多尼亚","旗","国家","国家","旗帜"],
+    "char": "🇳🇨",
+    "category": "flags"
+  },
+  "nigeria": {
+    "keywords": ["旗","国家","国家","旗帜"],
+    "char": "🇳🇬",
+    "category": "flags"
+  },
+  "nl": {
+    "keywords": ["荷兰","旗","国家","国家","旗帜"],
+    "char": "🇳🇱",
+    "category": "flags"
+  },
+  "mp": {
+    "keywords": ["北方","马里亚纳","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇲🇵",
+    "category": "flags"
+  },
+  "no": {
+    "keywords": ["挪威","旗","国家","国家","旗帜"],
+    "char": "🇳🇴",
+    "category": "flags"
+  },
+  "ne": {
+    "keywords": ["尼日尔","旗","国家","国家","旗帜"],
+    "char": "🇳🇪",
+    "category": "flags"
+  },
+  "pw": {
+    "keywords": ["帕劳","旗","国家","国家","旗帜"],
+    "char": "🇵🇼",
+    "category": "flags"
+  },
+  "ni": {
+    "keywords": ["尼加拉瓜","旗","国家","国家","旗帜"],
+    "char": "🇳🇮",
+    "category": "flags"
+  },
+  "pk": {
+    "keywords": ["巴基斯坦","旗","国家","国家","旗帜"],
+    "char": "🇵🇰",
+    "category": "flags"
+  },
+  "pn": {
+    "keywords": ["皮特凯恩","旗","国家","国家","旗帜"],
+    "char": "🇵🇳",
+    "category": "flags"
+  },
+  "pg": {
+    "keywords": ["巴布亚","新","几内亚","旗","国家","国家","旗帜"],
+    "char": "🇵🇬",
+    "category": "flags"
+  },
+  "pa": {
+    "keywords": ["巴拿马","旗","国家","国家","旗帜"],
+    "char": "🇵🇦",
+    "category": "flags"
+  },
+  "ph": {
+    "keywords": ["菲律宾","旗","国家","国家","旗帜"],
+    "char": "🇵🇭",
+    "category": "flags"
+  },
+  "pl": {
+    "keywords": ["波兰","旗","国家","国家","旗帜"],
+    "char": "🇵🇱",
+    "category": "flags"
+  },
+  "pt": {
+    "keywords": ["葡萄牙","旗","国家","国家","旗帜"],
+    "char": "🇵🇹",
+    "category": "flags"
+  },
+  "ws": {
+    "keywords": ["萨摩亚","旗","国家","国家","旗帜"],
+    "char": "🇼🇸",
+    "category": "flags"
+  },
+  "bl": {
+    "keywords": ["圣","圣巴泰勒米","旗","国家","国家","旗帜"],
+    "char": "🇧🇱",
+    "category": "flags"
+  },
+  "rw": {
+    "keywords": ["卢旺达","旗","国家","国家","旗帜"],
+    "char": "🇷🇼",
+    "category": "flags"
+  },
+  "re": {
+    "keywords": ["会议","旗","国家","国家","旗帜"],
+    "char": "🇷🇪",
+    "category": "flags"
+  },
+  "vc": {
+    "keywords": ["圣","文森特","格林纳丁斯","旗","国家","国家","旗帜"],
+    "char": "🇻🇨",
+    "category": "flags"
+  },
+  "lc": {
+    "keywords": ["圣","圣卢西亚","旗","国家","国家","旗帜"],
+    "char": "🇱🇨",
+    "category": "flags"
+  },
+  "pm": {
+    "keywords": ["圣","石","密克隆群岛","旗","国家","国家","旗帜"],
+    "char": "🇵🇲",
+    "category": "flags"
+  },
+  "saudi_arabia": {
+    "keywords": ["旗","国家","国家","旗帜"],
+    "char": "🇸🇦",
+    "category": "flags"
+  },
+  "ro": {
+    "keywords": ["罗马尼亚","旗","国家","国家","旗帜"],
+    "char": "🇷🇴",
+    "category": "flags"
+  },
+  "kn": {
+    "keywords": ["圣","基茨","尼维斯","旗","国家","国家","旗帜"],
+    "char": "🇰🇳",
+    "category": "flags"
+  },
+  "sn": {
+    "keywords": ["塞内加尔","旗","国家","国家","旗帜"],
+    "char": "🇸🇳",
+    "category": "flags"
+  },
+  "sg": {
+    "keywords": ["新加坡","旗","国家","国家","旗帜"],
+    "char": "🇸🇬",
+    "category": "flags"
+  },
+  "rs": {
+    "keywords": ["塞尔维亚","旗","国家","国家","旗帜"],
+    "char": "🇷🇸",
+    "category": "flags"
+  },
+  "sx": {
+    "keywords": ["圣","马腾","荷兰人","旗","国家","国家","旗帜"],
+    "char": "🇸🇽",
+    "category": "flags"
+  },
+  "si": {
+    "keywords": ["斯洛文尼亚","旗","国家","国家","旗帜"],
+    "char": "🇸🇮",
+    "category": "flags"
+  },
+  "sb": {
+    "keywords": ["所罗门","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇸🇧",
+    "category": "flags"
+  },
+  "so": {
+    "keywords": ["索马里","旗","国家","国家","旗帜"],
+    "char": "🇸🇴",
+    "category": "flags"
+  },
+  "clapper": {
+    "keywords": ["电影","电影","记录"],
+    "char": "🎬",
+    "category": "activity"
+  },
+  "card_index_dividers": {
+    "keywords": ["组织","商业","文具"],
+    "char": "🗂",
+    "category": "objects"
+  },
+  "kr": {
+    "keywords": ["南","韩国","国家","旗","国家","旗帜"],
+    "char": "🇰🇷",
+    "category": "flags"
+  },
+  "guitar": {
+    "keywords": ["音乐","仪器"],
+    "char": "🎸",
+    "category": "activity"
+  },
+  "ss": {
+    "keywords": ["南","苏丹","旗","国家","国家","旗帜"],
+    "char": "🇸🇸",
+    "category": "flags"
+  },
+  "turkmenistan": {
+    "keywords": ["旗","国家","国家","旗帜"],
+    "char": "🇹🇲",
+    "category": "flags"
+  },
+  "es": {
+    "keywords": ["西班牙","旗","国家","国家","旗帜"],
+    "char": "🇪🇸",
+    "category": "flags"
+  },
+  "sz": {
+    "keywords": ["斯威士兰","旗","国家","国家","旗帜"],
+    "char": "🇸🇿",
+    "category": "flags"
+  },
+  "ch": {
+    "keywords": ["瑞士","旗","国家","国家","旗帜"],
+    "char": "🇨🇭",
+    "category": "flags"
+  },
+  "tuvalu": {
+    "keywords": ["旗","国家","国家","旗帜"],
+    "char": "🇹🇻",
+    "category": "flags"
+  },
+  "tz": {
+    "keywords": ["坦桑尼亚，","联合的","共和国","旗","国家","国家","旗帜"],
+    "char": "🇹🇿",
+    "category": "flags"
+  },
+  "fire_engine": {
+    "keywords": ["运输","汽车","车辆"],
+    "char": "🚒",
+    "category": "travel_and_places"
+  },
+  "uy": {
+    "keywords": ["乌拉圭","旗","国家","国家","旗帜"],
+    "char": "🇺🇾",
+    "category": "flags"
+  },
+  "bowtie": {
+    "keywords": ["面对","正式","时尚","适合","优雅","魔法","马戏团"],
+    "char": null,
+    "category": "_custom"
+  },
+  "ambulance": {
+    "keywords": ["健康","911","醫院"],
+    "char": "🚑",
+    "category": "travel_and_places"
+  },
+  "trolleybus": {
+    "keywords": ["巴特","运输","车辆"],
+    "char": "🚎",
+    "category": "travel_and_places"
+  },
+  "neckbeard": {
+    "keywords": ["书呆子","面对","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "car": {
+    "keywords": ["红","运输","车辆"],
+    "char": "🚗",
+    "category": "travel_and_places"
+  },
+  "th": {
+    "keywords": ["泰国","旗","国家","国家","旗帜"],
+    "char": "🇹🇭",
+    "category": "flags"
+  },
+  "tt": {
+    "keywords": ["特立尼达","多巴哥","旗","国家","国家","旗帜"],
+    "char": "🇹🇹",
+    "category": "flags"
+  },
+  "fu": {
+    "keywords": ["他妈的","手指","反感","不看好","不赞成","没有","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "racing_car": {
+    "keywords": ["体育","种族","快速","式","F1"],
+    "char": "🏎",
+    "category": "travel_and_places"
+  },
+  "uz": {
+    "keywords": ["乌兹别克斯坦","旗","国家","国家","旗帜"],
+    "char": "🇺🇿",
+    "category": "flags"
+  },
+  "tw": {
+    "keywords": ["台湾","旗","国家","国家","旗帜"],
+    "char": "🇹🇼",
+    "category": "flags"
+  },
+  "vi": {
+    "keywords": ["处女","岛屿","我们","旗","国家","国家","旗帜"],
+    "char": "🇻🇮",
+    "category": "flags"
+  },
+  "lk": {
+    "keywords": ["斯里兰卡","斯里兰卡","旗","国家","国家","旗帜"],
+    "char": "🇱🇰",
+    "category": "flags"
+  },
+  "ua": {
+    "keywords": ["乌克兰","旗","国家","国家","旗帜"],
+    "char": "🇺🇦",
+    "category": "flags"
+  },
+  "oncoming_automobile": {
+    "keywords": ["汽车","车辆","运输"],
+    "char": "🚘",
+    "category": "travel_and_places"
+  },
+  "sd": {
+    "keywords": ["苏丹","旗","国家","国家","旗帜"],
+    "char": "🇸🇩",
+    "category": "flags"
+  },
+  "feelsgood": {
+    "keywords": ["厄运","老套"],
+    "char": null,
+    "category": "_custom"
+  },
+  "finnadie": {
+    "keywords": ["厄运","老套"],
+    "char": null,
+    "category": "_custom"
+  },
+  "station": {
+    "keywords": ["运输","车辆","上市"],
+    "char": "🚉",
+    "category": "travel_and_places"
+  },
+  "rage4": {
+    "keywords": ["愤怒","狂","讨厌","讨厌"],
+    "char": null,
+    "category": "_custom"
+  },
+  "vu": {
+    "keywords": ["瓦努阿图","旗","国家","国家","旗帜"],
+    "char": "🇻🇺",
+    "category": "flags"
+  },
+  "train": {
+    "keywords": ["运输","车辆","运输","上市","旅行"],
+    "char": "🚋",
+    "category": "travel_and_places"
+  },
+  "zm": {
+    "keywords": ["赞比亚","旗","国家","国家","旗帜"],
+    "char": "🇿🇲",
+    "category": "flags"
+  },
+  "eh": {
+    "keywords": ["西","撒哈拉","旗","国家","国家","旗帜"],
+    "char": "🇪🇭",
+    "category": "flags"
+  },
+  "hurtrealbad": {
+    "keywords": ["狂","受伤","厄运","老套","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "tl": {
+    "keywords": ["帝","东","旗","国家","国家","旗帜"],
+    "char": "🇹🇱",
+    "category": "flags"
+  },
+  "rage2": {
+    "keywords": ["愤怒","狂","讨厌","讨厌"],
+    "char": null,
+    "category": "_custom"
+  },
+  "ae": {
+    "keywords": ["联合的","阿拉伯","酋长国","旗","国家","国家","旗帜"],
+    "char": "🇦🇪",
+    "category": "flags"
+  },
+  "ye": {
+    "keywords": ["也门","旗","国家","国家","旗帜"],
+    "char": "🇾🇪",
+    "category": "flags"
+  },
+  "cityscape": {
+    "keywords": ["照片","夜生活","城市的"],
+    "char": "🏙",
+    "category": "travel_and_places"
+  },
+  "us": {
+    "keywords": ["联合的","状态","美国","旗","国家","国家","旗帜"],
+    "char": "🇺🇸",
+    "category": "flags"
+  },
+  "metro": {
+    "keywords": ["运输","蓝方","损伤","地下","管"],
+    "char": "🚇",
+    "category": "travel_and_places"
+  },
+  "tr": {
+    "keywords": ["火鸡","旗","国家","国家","旗帜"],
+    "char": "🇹🇷",
+    "category": "flags"
+  },
+  "va": {
+    "keywords": ["教廷","市","旗","国家","国家","旗帜"],
+    "char": "🇻🇦",
+    "category": "flags"
+  },
+  "tc": {
+    "keywords": ["土耳其人","凯科斯","岛屿","旗","国家","国家","旗帜"],
+    "char": "🇹🇨",
+    "category": "flags"
+  },
+  "zw": {
+    "keywords": ["津巴布韦","旗","国家","国家","旗帜"],
+    "char": "🇿🇼",
+    "category": "flags"
+  },
+  "godmode": {
+    "keywords": ["厄运","老套"],
+    "char": null,
+    "category": "_custom"
+  },
+  "metal": {
+    "keywords": ["手指","摇滚乐","音乐会","带","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "vn": {
+    "keywords": ["越南","南","旗","国家","国家","旗帜"],
+    "char": "🇻🇳",
+    "category": "flags"
+  },
+  "trollface": {
+    "keywords": ["互联网","米姆","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "suspect": {
+    "keywords": ["狂","custom_"],
+    "char": null,
+    "category": "_custom"
+  },
+  "rage3": {
+    "keywords": ["愤怒","狂","讨厌","讨厌"],
+    "char": null,
+    "category": "_custom"
+  },
+  "articulated_lorry": {
+    "keywords": ["车辆","汽车","运输","表现"],
+    "char": "🚛",
+    "category": "travel_and_places"
+  },
+  "racing_motorcycle": {
+    "keywords": ["种族","体育","快速"],
+    "char": "🏍",
+    "category": "travel_and_places"
+  },
+  "carousel_horse": {
+    "keywords": ["照片","狂欢"],
+    "char": "🎠",
+    "category": "travel_and_places"
+  },
+  "tram": {
+    "keywords": ["运输","车辆"],
+    "char": "🚊",
+    "category": "travel_and_places"
+  },
+  "name_badge": {
+    "keywords": ["火","禁止"],
+    "char": "📛",
+    "category": "symbols"
+  },
+  "no_entry_sign": {
+    "keywords": ["禁止","停止","限制","否认","不允许","圈"],
+    "char": "🚫",
+    "category": "symbols"
+  },
+  "bangbang": {
+    "keywords": ["感叹","惊"],
+    "char": "‼️",
+    "category": "symbols"
+  },
+  "grey_question": {
+    "keywords": ["疑惑","灰色","呵呵","困惑"],
+    "char": "❔",
+    "category": "symbols"
+  },
+  "tv": {
+    "keywords": ["技术","程序","老套","显示","电视"],
+    "char": "📺",
+    "category": "objects"
+  },
+  "computer": {
+    "keywords": ["技术","笔记本电脑","屏幕","显示","监控"],
+    "char": "💻",
+    "category": "objects"
+  },
+  "mens": {
+    "keywords": ["厕所","卫生间","厕所","蓝方","性别","男"],
+    "char": "🚹",
+    "category": "symbols"
+  },
+  "eight_spoked_asterisk": {
+    "keywords": ["星","火花","绿色的方"],
+    "char": "✳️",
+    "category": "symbols"
+  },
+  "top": {
+    "keywords": ["话","蓝方"],
+    "char": "🔝",
+    "category": "symbols"
+  },
+  "left_right_arrow": {
+    "keywords": ["形状","方向","横","侧身"],
+    "char": "↔️",
+    "category": "symbols"
+  },
+  "cinema": {
+    "keywords": ["蓝方","记录","电影","电影","窗帘","阶段","剧院"],
+    "char": "🎦",
+    "category": "symbols"
+  },
+  "zero": {
+    "keywords": ["0","数字","蓝方","空值"],
+    "char": "0️⃣",
+    "category": "symbols"
+  },
+  "nut_and_bolt": {
+    "keywords": ["便利","工具","固定"],
+    "char": "🔩",
+    "category": "objects"
+  },
+  "scissors": {
+    "keywords": ["文具","切"],
+    "char": "✂️",
+    "category": "objects"
+  },
+  "heavy_minus_sign": {
+    "keywords": ["数学","计算","减去","减"],
+    "char": "➖",
+    "category": "symbols"
+  },
+  "dz": {
+    "keywords": ["阿尔及利亚","旗","国家","国家","旗帜"],
+    "char": "🇩🇿",
+    "category": "flags"
+  },
+  "barber": {
+    "keywords": ["头发","沙龙","样式"],
+    "char": "💈",
+    "category": "objects"
+  },
+  "label": {
+    "keywords": ["拍卖","标签"],
+    "char": "🏷",
+    "category": "objects"
+  },
+  "shower": {
+    "keywords": ["清洁","水","浴室"],
+    "char": "🚿",
+    "category": "objects"
+  },
+  "toilet": {
+    "keywords": ["卫生间","厕所","卫生间","浴室","便壶"],
+    "char": "🚽",
+    "category": "objects"
+  },
+  "crystal_ball": {
+    "keywords": ["磁盘","派对","魔法","马戏团","算命者"],
+    "char": "🔮",
+    "category": "objects"
+  },
+  "clock3": {
+    "keywords": ["时间","晚了","早","时间表"],
+    "char": "🕒",
+    "category": "symbols"
+  },
+  "busstop": {
+    "keywords": ["运输","等待"],
+    "char": "🚏",
+    "category": "travel_and_places"
+  },
+  "motor_boat": {
+    "keywords": "[]",
+    "char": "🛥",
+    "category": "travel_and_places"
+  },
+  "bus": {
+    "keywords": ["汽车","车辆","运输"],
+    "char": "🚌",
+    "category": "travel_and_places"
+  },
+  "game_die": {
+    "keywords": ["他说，","随机","tabbletop","玩","运气"],
+    "char": "🎲",
+    "category": "activity"
+  },
+  "tractor": {
+    "keywords": ["车辆","汽车","农业","农业"],
+    "char": "🚜",
+    "category": "travel_and_places"
+  },
+  "seat": {
+    "keywords": ["坐","飞机","运输","总线","飞行","飞"],
+    "char": "💺",
+    "category": "travel_and_places"
+  },
+  "ferris_wheel": {
+    "keywords": ["照片","狂欢","伦敦眼"],
+    "char": "🎡",
+    "category": "travel_and_places"
+  },
+  "straight_ruler": {
+    "keywords": ["文具","计算","长度","数学","学校","画画","建筑师","草图"],
+    "char": "📏",
+    "category": "objects"
+  },
+  "funeral_urn": {
+    "keywords": ["死","该","死亡","安息","灰烬"],
+    "char": "⚱",
+    "category": "objects"
+  },
+  "alembic": {
+    "keywords": ["蒸馏","科学","实验"],
+    "char": "⚗",
+    "category": "objects"
+  },
+  "prayer_beads": {
+    "keywords": ["dhikr的","宗教"],
+    "char": "📿",
+    "category": "objects"
+  },
+  "arrow_double_up": {
+    "keywords": ["蓝方","方向","最佳"],
+    "char": "⏫",
+    "category": "symbols"
+  },
+  "speech_balloon": {
+    "keywords": ["泡沫","话","信息","谈论","聊天的"],
+    "char": "💬",
+    "category": "symbols"
+  },
+  "ar": {
+    "keywords": ["阿根廷","旗","国家","国家","旗帜"],
+    "char": "🇦🇷",
+    "category": "flags"
+  }
+}
