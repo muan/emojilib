@@ -2000,7 +2000,7 @@
     "category": "food_and_drink"
   },
   "candy": {
-    "keywords": ["snack", "dessert", "sweet"],
+    "keywords": ["snack", "dessert", "sweet", "lolly"],
     "char": "🍬",
     "category": "food_and_drink"
   },
