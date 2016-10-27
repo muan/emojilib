@@ -100,7 +100,7 @@
     "category": "people"
   },
   "kissing_closed_eyes": {
-    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "kidd"],
+    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "kiss"],
     "char": "😚",
     "category": "people"
   },
@@ -1915,7 +1915,7 @@
     "category": "food_and_drink"
   },
   "ramen": {
-    "keywords": ["food", "japanese", "noodle", "chipsticks"],
+    "keywords": ["food", "japanese", "noodle", "chopsticks"],
     "char": "🍜",
     "category": "food_and_drink"
   },
@@ -2265,7 +2265,7 @@
     "category": "activity"
   },
   "reminder_ribbon": {
-    "keywords": ["sports", "cause", "supprt", "awareness"],
+    "keywords": ["sports", "cause", "support", "awareness"],
     "char": "🎗",
     "category": "activity"
   },
@@ -2360,7 +2360,7 @@
     "category": "activity"
   },
   "game_die": {
-    "keywords": ["dice", "random", "tabbletop", "play", "luck"],
+    "keywords": ["dice", "random", "tabletop", "play", "luck"],
     "char": "🎲",
     "category": "activity"
   },
@@ -2645,7 +2645,7 @@
     "category": "travel_and_places"
   },
   "checkered_flag": {
-    "keywords": ["contest", "finishline", "rase", "gokart"],
+    "keywords": ["contest", "finishline", "race", "gokart"],
     "char": "🏁",
     "category": "travel_and_places"
   },
@@ -2895,7 +2895,7 @@
     "category": "travel_and_places"
   },
   "hotel": {
-    "keywords": ["building", "whotel", "accomodation", "checkin"],
+    "keywords": ["building", "hotel", "accomodation", "checkin"],
     "char": "🏨",
     "category": "travel_and_places"
   },
@@ -4710,7 +4710,7 @@
     "category": "symbols"
   },
   "arrow_right_hook": {
-    "keywords": ["blue-square", "return", "rotade", "direction"],
+    "keywords": ["blue-square", "return", "rotate", "direction"],
     "char": "↪️",
     "category": "symbols"
   },
