@@ -2895,7 +2895,7 @@
     "category": "travel_and_places"
   },
   "hotel": {
-    "keywords": ["building", "hotel", "accomodation", "checkin"],
+    "keywords": ["building", "accomodation", "checkin"],
     "char": "🏨",
     "category": "travel_and_places"
   },
