@@ -155,20 +155,12 @@
     "category": "people"
   },
   "expressionless": {
-    "keywords": ["face"
-          ,"indifferent
-          , "-_-"
-          , "meh"
-          , "deadpan"],
+    "keywords": ["face", "indifferent", "-_-", "meh", "deadpan"],
     "char": "😑",
     "category": "people"
   },
   "unamused": {
-    "keywords": ["indifference"
-    , "bored"
-    , "straight face"
-    , "serious"
-    ,"sarcasm"],
+    "keywords": ["indifference", "bored", "straight face", "serious","sarcasm"],
     "char": "😒",
     "category": "people"
   },
