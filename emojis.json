@@ -15,12 +15,12 @@
     "category": "people"
   },
   "joy": {
-    "keywords": ["face", "cry", "tears", "weep", "happy", "haha"],
+    "keywords": ["face", "cry", "tears", "weep", "happy", "happytears", "haha"],
     "char": "😂",
     "category": "people"
   },
   "smiley": {
-    "keywords": ["face", "happy", "joy", "haha", ":D", ":)", "smile"],
+    "keywords": ["face", "happy", "joy", "haha", ":D", ":)", "smile", "funny"],
     "char": "😃",
     "category": "people"
   },
@@ -30,7 +30,7 @@
     "category": "people"
   },
   "sweat_smile": {
-    "keywords": ["face", "hot", "happy", "laugh", "sweat", "smile"],
+    "keywords": ["face", "hot", "happy", "laugh", "sweat", "smile", "relief"],
     "char": "😅",
     "category": "people"
   },
@@ -155,12 +155,12 @@
     "category": "people"
   },
   "expressionless": {
-    "keywords": ["face", "indifferent", "-_-", "meh"],
+    "keywords": ["face", "indifferent", "-_-", "meh", "deadpan"],
     "char": "😑",
     "category": "people"
   },
   "unamused": {
-    "keywords": ["indifference", "bored", "straight face", "serious"],
+    "keywords": ["indifference", "bored", "straight face", "serious","sarcasm"],
     "char": "😒",
     "category": "people"
   },
@@ -1965,7 +1965,7 @@
     "category": "food_and_drink"
   },
   "dango": {
-    "keywords": ["food", "dessert", "sweet", "japanese"],
+    "keywords": ["food", "dessert", "sweet", "japanese", "barbecue", "meat"],
     "char": "🍡",
     "category": "food_and_drink"
   },
@@ -3290,7 +3290,7 @@
     "category": "objects"
   },
   "smoking": {
-    "keywords": ["kills", "tobacco", "cigarette", "joint"],
+    "keywords": ["kills", "tobacco", "cigarette", "joint", "smoke"],
     "char": "🚬",
     "category": "objects"
   },
@@ -3865,7 +3865,7 @@
     "category": "symbols"
   },
   "broken_heart": {
-    "keywords": ["sad", "sorry", "break"],
+    "keywords": ["sad", "sorry", "break" , "heart" , "heartbreak"],
     "char": "💔",
     "category": "symbols"
   },
@@ -3875,7 +3875,7 @@
     "category": "symbols"
   },
   "two_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines" , "heart"],
     "char": "💕",
     "category": "symbols"
   },
@@ -3885,7 +3885,7 @@
     "category": "symbols"
   },
   "heartbeat": {
-    "keywords": ["love", "like", "affection", "valentines", "pink"],
+    "keywords": ["love", "like", "affection", "valentines", "pink" , "heart"],
     "char": "💓",
     "category": "symbols"
   },
