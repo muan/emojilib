@@ -160,7 +160,7 @@
     "category": "people"
   },
   "unamused": {
-    "keywords": ["indifference", "bored", "straight face", "serious","sarcasm"],
+    "keywords": ["indifference", "bored", "straight face", "serious", "sarcasm"],
     "char": "😒",
     "category": "people"
   },
@@ -3865,7 +3865,7 @@
     "category": "symbols"
   },
   "broken_heart": {
-    "keywords": ["sad", "sorry", "break" , "heart" , "heartbreak"],
+    "keywords": ["sad", "sorry", "break", "heart", "heartbreak"],
     "char": "💔",
     "category": "symbols"
   },
@@ -3875,7 +3875,7 @@
     "category": "symbols"
   },
   "two_hearts": {
-    "keywords": ["love", "like", "affection", "valentines" , "heart"],
+    "keywords": ["love", "like", "affection", "valentines", "heart"],
     "char": "💕",
     "category": "symbols"
   },
@@ -3885,7 +3885,7 @@
     "category": "symbols"
   },
   "heartbeat": {
-    "keywords": ["love", "like", "affection", "valentines", "pink" , "heart"],
+    "keywords": ["love", "like", "affection", "valentines", "pink", "heart"],
     "char": "💓",
     "category": "symbols"
   },
