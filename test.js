@@ -60,7 +60,7 @@ console.log('TEST: Correct number of emojis in each category')
 
 var categories = {
   people: 204,
-  animals_and_nature: 147,
+  animals_and_nature: 148,
   food_and_drink: 67,
   activity: 57,
   travel_and_places: 115,
