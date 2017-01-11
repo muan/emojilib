@@ -5599,8 +5599,8 @@
     "char": "🇹🇩",
     "category": "flags"
   },
-  "chile": {
-    "keywords": ["flag", "nation", "country", "banner"],
+  "cl": {
+    "keywords": ["chile", "flag", "nation", "country", "banner"],
     "char": "🇨🇱",
     "category": "flags"
   },
@@ -5634,8 +5634,8 @@
     "char": "🇨🇬",
     "category": "flags"
   },
-  "drc": {
-    "keywords": ["congo", "democratic", "republic", "flag", "nation", "country", "banner"],
+  "cd": {
+    "keywords": ["congo", "democratic", "republic", "flag", "nation", "country", "banner", "drc"],
     "char": "🇨🇩",
     "category": "flags"
   },
@@ -5884,8 +5884,8 @@
     "char": "🇮🇳",
     "category": "flags"
   },
-  "indonesia": {
-    "keywords": ["flag", "nation", "country", "banner"],
+  "id": {
+    "keywords": ["indonesia", "flag", "nation", "country", "banner"],
     "char": "🇮🇩",
     "category": "flags"
   },
@@ -6174,8 +6174,8 @@
     "char": "🇳🇪",
     "category": "flags"
   },
-  "nigeria": {
-    "keywords": ["flag", "nation", "country", "banner"],
+  "ng": {
+    "keywords": ["nigeria", "flag", "nation", "country", "banner"],
     "char": "🇳🇬",
     "category": "flags"
   },
@@ -6339,8 +6339,8 @@
     "char": "🇸🇹",
     "category": "flags"
   },
-  "saudi_arabia": {
-    "keywords": ["flag", "nation", "country", "banner"],
+  "sa": {
+    "keywords": ["saudi", "arabia", "flag", "nation", "country", "banner"],
     "char": "🇸🇦",
     "category": "flags"
   },
@@ -6509,8 +6509,8 @@
     "char": "🇹🇷",
     "category": "flags"
   },
-  "turkmenistan": {
-    "keywords": ["flag", "nation", "country", "banner"],
+  "tm": {
+    "keywords": ["turkmenistan", "flag", "nation", "country", "banner"],
     "char": "🇹🇲",
     "category": "flags"
   },
@@ -6519,8 +6519,8 @@
     "char": "🇹🇨",
     "category": "flags"
   },
-  "tuvalu": {
-    "keywords": ["flag", "nation", "country", "banner"],
+  "tv": {
+    "keywords": ["tuvalu", "flag", "nation", "country", "banner"],
     "char": "🇹🇻",
     "category": "flags"
   },
