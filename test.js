@@ -59,12 +59,12 @@ if (orderd_keys.length !== emojiNumber) {
 console.log('TEST: Correct number of emojis in each category')
 
 var categories = {
-  people: 204,
+  people: 232,
   animals_and_nature: 148,
   food_and_drink: 67,
-  activity: 57,
+  activity: 65,
   travel_and_places: 115,
-  objects: 178,
+  objects: 179,
   symbols: 269,
   flags: 247
 }
