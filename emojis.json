@@ -1099,6 +1099,11 @@
     "char": "🐵",
     "category": "animals_and_nature"
   },
+  "gorilla": {
+    "keywords": ["animal", "nature", "circus"],
+    "char": "🦍",
+    "category": "animals_and_nature"
+  },
   "see_no_evil": {
     "keywords": ["monkey", "animal", "nature", "haha"],
     "char": "🙈",
