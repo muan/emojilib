@@ -1184,6 +1184,11 @@
     "char": "🐰",
     "category": "animals_and_nature"
   },
+  "fox": {
+    "keywords": ["animal", "nature", "face"],
+    "char": "🦊",
+    "category": "animals_and_nature"
+  },
   "bear": {
     "keywords": ["animal", "nature", "wild"],
     "char": "🐻",
@@ -1229,9 +1234,19 @@
     "char": "🐸",
     "category": "animals_and_nature"
   },
+  "squid": {
+    "keywords": ["animal", "nature", "ocean", "sea"],
+    "char": "🦑",
+    "category": "animals_and_nature"
+  },
   "octopus": {
     "keywords": ["animal", "creature", "ocean", "sea", "nature", "beach"],
     "char": "🐙",
+    "category": "animals_and_nature"
+  },
+  "shrimp": {
+    "keywords": ["animal", "ocean", "nature", "seafood"],
+    "char": "🦐",
     "category": "animals_and_nature"
   },
   "monkey_face": {
@@ -1294,6 +1309,26 @@
     "char": "🐥",
     "category": "animals_and_nature"
   },
+  "duck": {
+    "keywords": ["animal", "nature", "bird", "mallard"],
+    "char": "🦆",
+    "category": "animals_and_nature"
+  },
+  "eagle": {
+    "keywords": ["animal", "nature", "bird"],
+    "char": "🦅",
+    "category": "animals_and_nature"
+  },
+  "owl": {
+    "keywords": ["animal", "nature", "bird", "hoot"],
+    "char": "🦉",
+    "category": "animals_and_nature"
+  },
+  "bat": {
+    "keywords": ["animal", "nature", "blind", "vampire"],
+    "char": "🦇",
+    "category": "animals_and_nature"
+  },
   "wolf": {
     "keywords": ["animal", "nature", "wild"],
     "char": "🐺",
@@ -1322,6 +1357,11 @@
   "bug": {
     "keywords": ["animal", "insect", "nature", "worm"],
     "char": "🐛",
+    "category": "animals_and_nature"
+  },
+  "butterfly": {
+    "keywords": ["animal", "insect", "nature", "caterpillar"],
+    "char": "🦋",
     "category": "animals_and_nature"
   },
   "snail": {
@@ -1359,6 +1399,11 @@
     "char": "🐍",
     "category": "animals_and_nature"
   },
+  "lizard": {
+    "keywords": ["animal", "nature", "reptile"],
+    "char": "🦎",
+    "category": "animals_and_nature"
+  },
   "turtle": {
     "keywords": ["animal", "slow", "nature", "tortoise"],
     "char": "🐢",
@@ -1382,6 +1427,11 @@
   "dolphin": {
     "keywords": ["animal", "nature", "fish", "sea", "ocean", "flipper", "fins", "beach"],
     "char": "🐬",
+    "category": "animals_and_nature"
+  },
+  "shark": {
+    "keywords": ["animal", "nature", "fish", "sea", "ocean", "jaws", "fins", "beach"],
+    "char": "🦈",
     "category": "animals_and_nature"
   },
   "whale": {
@@ -1424,6 +1474,11 @@
     "char": "🐄",
     "category": "animals_and_nature"
   },
+  "deer": {
+    "keywords": ["animal", "nature", "horns", "venison"],
+    "char": "🦌",
+    "category": "animals_and_nature"
+  },
   "dromedary_camel": {
     "keywords": ["animal", "hot", "desert", "hump"],
     "char": "🐪",
@@ -1437,6 +1492,11 @@
   "elephant": {
     "keywords": ["animal", "nature", "nose", "thailand", "circus"],
     "char": "🐘",
+    "category": "animals_and_nature"
+  },
+  "rhinoceros": {
+    "keywords": ["animal", "nature", "horn"],
+    "char": "🦏",
     "category": "animals_and_nature"
   },
   "goat": {
@@ -1617,6 +1677,11 @@
   "rose": {
     "keywords": ["flowers", "valentines", "love", "spring"],
     "char": "🌹",
+    "category": "animals_and_nature"
+  },
+  "wilted_rose": {
+    "keywords": ["plant", "nature", "flower"],
+    "char": "🥀",
     "category": "animals_and_nature"
   },
   "tulip": {
