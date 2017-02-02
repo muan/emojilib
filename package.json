@@ -1,6 +1,6 @@
 {
   "name": "emojilib",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Emoji keyword library.",
   "main": "index.js",
   "files": [
