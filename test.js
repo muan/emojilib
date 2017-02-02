@@ -3,7 +3,6 @@
 var fs = require('fs')
 var rawData = fs.read('emojis.json').toString()
 var buildFailed = false
-var escapeStr = require('escape-string-regexp')
 var passed = function () { console.log('\x1B[92mPASSED\x1B[0m\n') }
 var failed = function () {
   console.log('\x1B[91mFAILED\x1B[0m\n')
