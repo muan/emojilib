@@ -19,6 +19,21 @@ var reveal = function () {
   }
 }
 
+var categories = {
+  people: 237,
+  animals_and_nature: 161,
+  food_and_drink: 67,
+  activity: 65,
+  travel_and_places: 115,
+  objects: 179,
+  symbols: 269,
+  flags: 247,
+  _custom: 17
+}
+
+// Calculate numbeer of emojis from categories
+var numberOfEmojis = Object.keys(categories).map(function (key) { return categories[key] }).reduce(function (a, b) { return a + b })
+
 //
 console.log('\nTEST: Correct JSON format')
 
@@ -36,10 +51,8 @@ try {
 //
 console.log('TEST: Correct number of emojis')
 
-var emojiNumber = 1357 // 1340(from all categories) + 17(custom)
-
-if (keys.length !== emojiNumber) {
-  console.log('There are ' + emojiNumber + ' emojis, but emojis.json has ' + keys.length + ' entries.')
+if (keys.length !== numberOfEmojis) {
+  console.log('There are ' + numberOfEmojis + ' emojis, but emojis.json has ' + keys.length + ' entries.')
   failed()
 } else {
   passed()
@@ -48,8 +61,8 @@ if (keys.length !== emojiNumber) {
 //
 console.log('TEST: Ordered keys are up to date')
 
-if (orderd_keys.length !== emojiNumber) {
-  console.log('There are ' + emojiNumber + ' emojis, but keys contains ' + orderd_keys.length + ' emojis.')
+if (orderd_keys.length !== numberOfEmojis) {
+  console.log('There are ' + numberOfEmojis + ' emojis, but keys contains ' + orderd_keys.length + ' emojis.')
   failed()
 } else {
   passed()
@@ -57,17 +70,6 @@ if (orderd_keys.length !== emojiNumber) {
 
 //
 console.log('TEST: Correct number of emojis in each category')
-
-var categories = {
-  people: 237,
-  animals_and_nature: 161,
-  food_and_drink: 67,
-  activity: 65,
-  travel_and_places: 115,
-  objects: 179,
-  symbols: 269,
-  flags: 247
-}
 
 var counter = []
 
