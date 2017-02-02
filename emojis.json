@@ -779,6 +779,26 @@
     "char": "🙇",
     "category": "people"
   },
+  "person_facepalming": {
+    "keywords": ["man", "male", "boy", "disbelief"],
+    "char": "🤦",
+    "category": "people"
+  },
+  "woman_facepalming": {
+    "keywords": ["woman", "female", "girl", "disbelief"],
+    "char": "🤦‍♀️",
+    "category": "people"
+  },
+  "person_shrugging": {
+    "keywords": ["woman", "female", "girl", "confused", "indifferent", "doubt"],
+    "char": "🤷",
+    "category": "people"
+  },
+  "man_shrugging": {
+    "keywords": ["man", "male", "boy", "confused", "indifferent", "doubt"],
+    "char": "🤷‍♂️",
+    "category": "people"
+  },
   "information_desk_person": {
     "keywords": ["female", "girl", "woman", "human", "information"],
     "char": "💁",
