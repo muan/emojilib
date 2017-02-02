@@ -539,6 +539,11 @@
     "char": "🤘",
     "category": "people"
   },
+  "fingers_crossed": {
+    "keywords": ["good", "lucky"],
+    "char": "🤞",
+    "category": "people"
+  },
   "vulcan_salute": {
     "keywords": ["hand", "fingers", "spock", "star trek"],
     "char": "🖖",
