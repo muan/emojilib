@@ -21,7 +21,7 @@ var reveal = function () {
 var categories = {
   people: 237,
   animals_and_nature: 161,
-  food_and_drink: 67,
+  food_and_drink: 85,
   activity: 65,
   travel_and_places: 115,
   objects: 179,
