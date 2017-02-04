@@ -2109,8 +2109,8 @@
     "char": "🍤",
     "category": "food_and_drink"
   },
-  "egg": {
-    "keywords": ["food", "breakfast", "kitchen"],
+  "cooking": {
+    "keywords": ["food", "breakfast", "kitchen", "egg"],
     "char": "🍳",
     "category": "food_and_drink"
   },
