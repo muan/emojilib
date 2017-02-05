@@ -22,7 +22,7 @@ var categories = {
   people: 237,
   animals_and_nature: 161,
   food_and_drink: 67,
-  activity: 65,
+  activity: 83,
   travel_and_places: 115,
   objects: 179,
   symbols: 269,
