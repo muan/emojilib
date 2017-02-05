@@ -484,6 +484,11 @@
     "char": "👋",
     "category": "people"
   },
+  "call_me": {
+    "keywords": ["hands", "gesture"],
+    "char": "🤙",
+    "category": "people"
+  },
   "+1": {
     "keywords": ["thumbsup", "yes", "awesome", "good", "agree", "accept", "cool", "hand", "like"],
     "char": "👍",
@@ -504,6 +509,16 @@
     "char": "✊",
     "category": "people"
   },
+  "left_facing_fist": {
+    "keywords": ["hand", "fistbump"],
+    "char": "🤛",
+    "category": "people"
+  },
+  "right_facing_fist": {
+    "keywords": ["hand", "fistbump"],
+    "char": "🤜",
+    "category": "people"
+  },
   "v": {
     "keywords": ["fingers", "ohyeah", "hand", "peace", "victory", "two"],
     "char": "✌️",
@@ -519,6 +534,11 @@
     "char": "✋",
     "category": "people"
   },
+  "back_of_hand": {
+    "keywords": ["fingers", "raised", "backhand"],
+    "char": "🤚",
+    "category": "people"
+  },
   "open_hands": {
     "keywords": ["fingers", "butterfly", "hands", "open"],
     "char": "👐",
@@ -532,6 +552,11 @@
   "pray": {
     "keywords": ["please", "hope", "wish", "namaste", "highfive"],
     "char": "🙏",
+    "category": "people"
+  },
+  "handshake": {
+    "keywords": ["agreement", "shake"],
+    "char": "🤝",
     "category": "people"
   },
   "point_up": {
