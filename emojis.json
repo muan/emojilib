@@ -614,6 +614,11 @@
     "char": "✍",
     "category": "people"
   },
+  "selfie": {
+    "keywords": ["camera", "phone"],
+    "char": "🤳",
+    "category": "people"
+  },
   "nail_care": {
     "keywords": ["beauty", "manicure", "finger", "fashion", "nail"],
     "char": "💅",
@@ -764,6 +769,171 @@
     "char": "🕵",
     "category": "people"
   },
+  "female_health_worker": {
+    "keywords": ["doctor", "nurse", "therapist", "healthcare", "woman", "human"],
+    "char": "👩‍⚕️",
+    "category": "people"
+  },
+  "male_health_worker": {
+    "keywords": ["doctor", "nurse", "therapist", "healthcare", "man", "human"],
+    "char": "👨‍⚕️",
+    "category": "people"
+  },
+  "female_farmer": {
+    "keywords": ["rancher", "gardener", "woman", "human"],
+    "char": "👩‍🌾",
+    "category": "people"
+  },
+  "male_farmer": {
+    "keywords": ["rancher", "gardener", "man", "human"],
+    "char": "👨‍🌾",
+    "category": "people"
+  },
+  "female_cook": {
+    "keywords": ["chef", "woman", "human"],
+    "char": "👩‍🍳",
+    "category": "people"
+  },
+  "male_cook": {
+    "keywords": ["chef", "man", "human"],
+    "char": "👨‍🍳",
+    "category": "people"
+  },
+  "female_student": {
+    "keywords": ["graduate", "woman", "human"],
+    "char": "👩‍🎓",
+    "category": "people"
+  },
+  "male_student": {
+    "keywords": ["graduate", "man", "human"],
+    "char": "👨‍🎓",
+    "category": "people"
+  },
+  "female_singer": {
+    "keywords": ["rockstar", "entertainer", "woman", "human"],
+    "char": "👩‍🎤",
+    "category": "people"
+  },
+  "male_singer": {
+    "keywords": ["rockstar", "entertainer", "man", "human"],
+    "char": "👨‍🎤",
+    "category": "people"
+  },
+  "female_teacher": {
+    "keywords": ["instructor", "professor", "woman", "human"],
+    "char": "👩‍🏫",
+    "category": "people"
+  },
+  "male_teacher": {
+    "keywords": ["instructor", "professor", "man", "human"],
+    "char": "👨‍🏫",
+    "category": "people"
+  },
+  "female_factory_worker": {
+    "keywords": ["assembly", "industrial", "woman", "human"],
+    "char": "👩‍🏭",
+    "category": "people"
+  },
+  "male_factory_worker": {
+    "keywords": ["assembly", "industrial", "man", "human"],
+    "char": "👨‍🏭",
+    "category": "people"
+  },
+  "female_technologist": {
+    "keywords": ["coder", "developer", "engineer", "programmer", "software", "woman", "human"],
+    "char": "👩‍💻",
+    "category": "people"
+  },
+  "male_technologist": {
+    "keywords": ["coder", "developer", "engineer", "programmer", "software", "man", "human"],
+    "char": "👨‍💻",
+    "category": "people"
+  },
+  "female_office_worker": {
+    "keywords": ["business", "manager", "woman", "human"],
+    "char": "👩‍💼",
+    "category": "people"
+  },
+  "male_office_worker": {
+    "keywords": ["business", "manager", "man", "human"],
+    "char": "👨‍💼",
+    "category": "people"
+  },
+  "female_mechanic": {
+    "keywords": ["plumber", "woman", "human"],
+    "char": "👩‍🔧",
+    "category": "people"
+  },
+  "male_mechanic": {
+    "keywords": ["plumber", "man", "human"],
+    "char": "👨‍🔧",
+    "category": "people"
+  },
+  "female_scientist": {
+    "keywords": ["biologist", "chemist", "engineer", "physicist", "woman", "human"],
+    "char": "👩‍🔬",
+    "category": "people"
+  },
+  "male_scientist": {
+    "keywords": ["biologist", "chemist", "engineer", "physicist", "man", "human"],
+    "char": "👨‍🔬",
+    "category": "people"
+  },
+  "female_artist": {
+    "keywords": ["painter", "woman", "human"],
+    "char": "👩‍🎨",
+    "category": "people"
+  },
+  "male_artist": {
+    "keywords": ["painter", "man", "human"],
+    "char": "👨‍🎨",
+    "category": "people"
+  },
+  "female_firefighter": {
+    "keywords": ["fireman", "woman", "human"],
+    "char": "👩‍🚒",
+    "category": "people"
+  },
+  "male_firefighter": {
+    "keywords": ["fireman", "man", "human"],
+    "char": "👨‍🚒",
+    "category": "people"
+  },
+  "female_pilot": {
+    "keywords": ["aviator", "plane", "woman", "human"],
+    "char": "👩‍✈️",
+    "category": "people"
+  },
+  "male_pilot": {
+    "keywords": ["aviator", "plane", "man", "human"],
+    "char": "👨‍✈️",
+    "category": "people"
+  },
+  "female_astronaut": {
+    "keywords": ["space", "rocket", "woman", "human"],
+    "char": "👩‍🚀",
+    "category": "people"
+  },
+  "male_astronaut": {
+    "keywords": ["space", "rocket", "man", "human"],
+    "char": "👨‍🚀",
+    "category": "people"
+  },
+  "female_judge": {
+    "keywords": ["justice", "court", "woman", "human"],
+    "char": "👩‍⚖️",
+    "category": "people"
+  },
+  "male_judge": {
+    "keywords": ["justice", "court", "man", "human"],
+    "char": "👨‍⚖️",
+    "category": "people"
+  },
+  "mrs_claus": {
+    "keywords": ["woman", "female", "xmas", "mother christmas"],
+    "char": "🤶",
+    "category": "people"
+  },
   "santa": {
     "keywords": ["festival", "man", "male", "xmas", "father christmas"],
     "char": "🎅",
@@ -774,14 +944,29 @@
     "char": "👼",
     "category": "people"
   },
+  "pregnant_woman": {
+    "keywords": ["baby"],
+    "char": "🤰",
+    "category": "people"
+  },
   "princess": {
     "keywords": ["girl", "woman", "female", "blond", "crown", "royal", "queen"],
     "char": "👸",
     "category": "people"
   },
+  "prince": {
+    "keywords": ["boy", "man", "male", "crown", "royal", "king"],
+    "char": "🤴",
+    "category": "people"
+  },
   "bride_with_veil": {
     "keywords": ["couple", "marriage", "wedding", "woman", "bride"],
     "char": "👰",
+    "category": "people"
+  },
+  "man_in_tuxedo": {
+    "keywords": ["couple", "marriage", "wedding", "groom"],
+    "char": "🤵",
     "category": "people"
   },
   "woman_running": {
@@ -807,6 +992,11 @@
   "dancer": {
     "keywords": ["female", "girl", "woman", "fun"],
     "char": "💃",
+    "category": "people"
+  },
+  "man_dancing": {
+    "keywords": ["male", "boy", "fun", "dancer"],
+    "char": "🕺",
     "category": "people"
   },
   "dancers": {
