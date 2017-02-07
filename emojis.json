@@ -4169,6 +4169,11 @@
     "char": "🛍",
     "category": "objects"
   },
+  "shopping_cart": {
+    "keywords": ["trolley"],
+    "char": "🛒",
+    "category": "objects"
+  },
   "balloon": {
     "keywords": ["party", "celebration", "birthday", "circus"],
     "char": "🎈",
@@ -4589,6 +4594,11 @@
     "char": "💜",
     "category": "symbols"
   },
+  "black_heart": {
+    "keywords": ["evil"],
+    "char": "🖤",
+    "category": "symbols"
+  },
   "broken_heart": {
     "keywords": ["sad", "sorry", "break", "heart", "heartbreak"],
     "char": "💔",
@@ -4927,6 +4937,11 @@
   "o": {
     "keywords": ["circle", "round"],
     "char": "⭕",
+    "category": "symbols"
+  },
+  "octagonal_sign": {
+    "keywords": ["stop"],
+    "char": "🛑",
     "category": "symbols"
   },
   "anger": {
