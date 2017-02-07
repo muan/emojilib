@@ -2729,6 +2729,11 @@
     "char": "🏸",
     "category": "activity"
   },
+  "goal_net": {
+    "keywords": ["sports"],
+    "char": "🥅",
+    "category": "activity"
+  },
   "ice_hockey": {
     "keywords": ["sports"],
     "char": "🏒",
@@ -2759,6 +2764,41 @@
     "char": "🏂",
     "category": "activity"
   },
+  "fencer": {
+    "keywords": ["sports", "fencing", "sword"],
+    "char": "🤺",
+    "category": "activity"
+  },
+  "women_wrestling": {
+    "keywords": ["sports", "wrestlers"],
+    "char": "🤼‍♀️",
+    "category": "activity"
+  },
+  "men_wrestling": {
+    "keywords": ["sports", "wrestlers"],
+    "char": "🤼‍♂️",
+    "category": "activity"
+  },
+  "woman_doing_cartwheel": {
+    "keywords": ["gymnastics"],
+    "char": "🤸‍♀️",
+    "category": "activity"
+  },
+  "man_doing_cartwheel": {
+    "keywords": ["gymnastics"],
+    "char": "🤸‍♂️",
+    "category": "activity"
+  },
+  "woman_playing_handball": {
+    "keywords": ["sports"],
+    "char": "🤾‍♀️",
+    "category": "activity"
+  },
+  "man_playing_handball": {
+    "keywords": ["sports"],
+    "char": "🤾‍♂️",
+    "category": "activity"
+  },
   "ice_skate": {
     "keywords": ["sports"],
     "char": "⛸",
@@ -2772,6 +2812,16 @@
   "fishing_pole_and_fish": {
     "keywords": ["food", "hobby", "summer"],
     "char": "🎣",
+    "category": "activity"
+  },
+  "boxing_glove": {
+    "keywords": ["sports", "fighting"],
+    "char": "🥊",
+    "category": "activity"
+  },
+  "martial_arts_uniform": {
+    "keywords": ["judo", "karate", "taekwondo"],
+    "char": "🥋",
     "category": "activity"
   },
   "woman_rowing_boat": {
@@ -2792,6 +2842,16 @@
   "swimmer": {
     "keywords": ["sports", "exercise", "human", "athlete", "water", "summer"],
     "char": "🏊",
+    "category": "activity"
+  },
+  "woman_playing_water_polo": {
+    "keywords": ["sports", "pool"],
+    "char": "🤽‍♀️",
+    "category": "activity"
+  },
+  "man_playing_water_polo": {
+    "keywords": ["sports", "pool"],
+    "char": "🤽‍♂️",
     "category": "activity"
   },
   "woman_surfing": {
@@ -2879,6 +2939,21 @@
     "char": "🎖",
     "category": "activity"
   },
+  "gold_medal": {
+    "keywords": ["award", "winning", "first"],
+    "char": "🥇",
+    "category": "activity"
+  },
+  "silver_medal": {
+    "keywords": ["award", "second"],
+    "char": "🥈",
+    "category": "activity"
+  },
+  "bronze_medal": {
+    "keywords": ["award", "third"],
+    "char": "🥉",
+    "category": "activity"
+  },
   "reminder_ribbon": {
     "keywords": ["sports", "cause", "support", "awareness"],
     "char": "🎗",
@@ -2914,6 +2989,16 @@
     "char": "🎪",
     "category": "activity"
   },
+  "woman_juggling": {
+    "keywords": ["juggle", "balance", "skill", "multitask"],
+    "char": "🤹‍♀️",
+    "category": "activity"
+  },
+  "man_juggling": {
+    "keywords": ["juggle", "balance", "skill", "multitask"],
+    "char": "🤹‍♂️",
+    "category": "activity"
+  },
   "microphone": {
     "keywords": ["sound", "music", "PA"],
     "char": "🎤",
@@ -2932,6 +3017,11 @@
   "musical_keyboard": {
     "keywords": ["piano", "instrument"],
     "char": "🎹",
+    "category": "activity"
+  },
+  "drum": {
+    "keywords": ["music", "instrument", "drumsticks"],
+    "char": "🥁",
     "category": "activity"
   },
   "saxophone": {
