@@ -2804,6 +2804,11 @@
     "char": "🚜",
     "category": "travel_and_places"
   },
+  "scooter": {
+    "keywords": ["vehicle", "kick", "razor"],
+    "char": "🛴",
+    "category": "travel_and_places"
+  },
   "racing_motorcycle": {
     "keywords": ["race", "sports", "fast"],
     "char": "🏍",
@@ -2812,6 +2817,11 @@
   "bike": {
     "keywords": ["sports", "bicycle", "exercise", "hipster"],
     "char": "🚲",
+    "category": "travel_and_places"
+  },
+  "motor_scooter": {
+    "keywords": ["vehicle", "vespa", "sasha"],
+    "char": "🛵",
     "category": "travel_and_places"
   },
   "rotating_light": {
@@ -2977,6 +2987,11 @@
   "seat": {
     "keywords": ["sit", "airplane", "transport", "bus", "flight", "fly"],
     "char": "💺",
+    "category": "travel_and_places"
+  },
+  "canoe": {
+    "keywords": ["boat", "paddle", "water", "ship"],
+    "char": "🛶",
     "category": "travel_and_places"
   },
   "anchor": {
