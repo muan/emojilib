@@ -2054,6 +2054,16 @@
     "char": "🍍",
     "category": "food_and_drink"
   },
+  "kiwi": {
+    "keywords": ["fruit", "food"],
+    "char": "🥝",
+    "category": "food_and_drink"
+  },
+  "avocado": {
+    "keywords": ["fruit", "food"],
+    "char": "🥑",
+    "category": "food_and_drink"
+  },
   "tomato": {
     "keywords": ["fruit", "vegetable", "nature", "food"],
     "char": "🍅",
@@ -2064,9 +2074,24 @@
     "char": "🍆",
     "category": "food_and_drink"
   },
+  "cucumber": {
+    "keywords": ["fruit", "food", "pickle"],
+    "char": "🥒",
+    "category": "food_and_drink"
+  },
+  "carrot": {
+    "keywords": ["vegetable", "food", "orange"],
+    "char": "🥕",
+    "category": "food_and_drink"
+  },
   "hot_pepper": {
     "keywords": ["food", "spicy", "chilli", "chili"],
     "char": "🌶",
+    "category": "food_and_drink"
+  },
+  "potato": {
+    "keywords": ["food", "tuber", "vegatable", "starch"],
+    "char": "🥔",
     "category": "food_and_drink"
   },
   "corn": {
@@ -2079,9 +2104,19 @@
     "char": "🍠",
     "category": "food_and_drink"
   },
+  "peanuts": {
+    "keywords": ["food", "nut"],
+    "char": "🥜",
+    "category": "food_and_drink"
+  },
   "honey_pot": {
     "keywords": ["bees", "sweet", "kitchen"],
     "char": "🍯",
+    "category": "food_and_drink"
+  },
+  "croissant": {
+    "keywords": ["food", "bread", "french"],
+    "char": "🥐",
     "category": "food_and_drink"
   },
   "bread": {
@@ -2089,9 +2124,29 @@
     "char": "🍞",
     "category": "food_and_drink"
   },
+  "baguette": {
+    "keywords": ["food", "bread", "french"],
+    "char": "🥖",
+    "category": "food_and_drink"
+  },
   "cheese_wedge": {
     "keywords": ["food", "chadder"],
     "char": "🧀",
+    "category": "food_and_drink"
+  },
+  "egg": {
+    "keywords": ["food", "chicken", "breakfast"],
+    "char": "🥚",
+    "category": "food_and_drink"
+  },
+  "bacon": {
+    "keywords": ["food", "breakfast", "pork", "pig", "meat"],
+    "char": "🥓",
+    "category": "food_and_drink"
+  },
+  "pancakes": {
+    "keywords": ["food", "breakfast", "flapjacks", "hotcakes"],
+    "char": "🥞",
     "category": "food_and_drink"
   },
   "poultry_leg": {
@@ -2109,8 +2164,8 @@
     "char": "🍤",
     "category": "food_and_drink"
   },
-  "egg": {
-    "keywords": ["food", "breakfast", "kitchen"],
+  "cooking": {
+    "keywords": ["food", "breakfast", "kitchen", "egg"],
     "char": "🍳",
     "category": "food_and_drink"
   },
@@ -2122,6 +2177,11 @@
   "fries": {
     "keywords": ["chips", "snack", "fast food"],
     "char": "🍟",
+    "category": "food_and_drink"
+  },
+  "pita_sandwich": {
+    "keywords": ["food", "flatbread", "stuffed", "gyro"],
+    "char": "🥙",
     "category": "food_and_drink"
   },
   "hot_dog": {
@@ -2147,6 +2207,16 @@
   "burrito": {
     "keywords": ["food", "mexican"],
     "char": "🌯",
+    "category": "food_and_drink"
+  },
+  "green_salad": {
+    "keywords": ["food", "healthy", "lettuce"],
+    "char": "🥗",
+    "category": "food_and_drink"
+  },
+  "pan_of_food": {
+    "keywords": ["food", "cooking", "casserole", "paella"],
+    "char": "🥘",
     "category": "food_and_drink"
   },
   "ramen": {
@@ -2264,6 +2334,11 @@
     "char": "🍪",
     "category": "food_and_drink"
   },
+  "glass_of_milk": {
+    "keywords": ["beverage", "drink", "cow"],
+    "char": "🥛",
+    "category": "food_and_drink"
+  },
   "beer": {
     "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
     "char": "🍺",
@@ -2274,9 +2349,19 @@
     "char": "🍻",
     "category": "food_and_drink"
   },
+  "clinking_glasses": {
+    "keywords": ["beverage", "drink", "party", "alcohol", "celebrate", "cheers"],
+    "char": "🥂",
+    "category": "food_and_drink"
+  },
   "wine_glass": {
     "keywords": ["drink", "beverage", "drunk", "alcohol", "booze"],
     "char": "🍷",
+    "category": "food_and_drink"
+  },
+  "tumbler_glass": {
+    "keywords": ["drink", "beverage", "drunk", "alcohol", "liquor", "booze", "bourbon", "scotch", "whisky", "glass", "shot"],
+    "char": "🥃",
     "category": "food_and_drink"
   },
   "cocktail": {
@@ -2312,6 +2397,11 @@
   "baby_bottle": {
     "keywords": ["food", "container", "milk"],
     "char": "🍼",
+    "category": "food_and_drink"
+  },
+  "spoon": {
+    "keywords": ["cutlery", "kitchen", "tableware"],
+    "char": "🥄",
     "category": "food_and_drink"
   },
   "fork_and_knife": {
