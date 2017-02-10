@@ -3326,37 +3326,37 @@
   "women_wrestling": {
     "keywords": ["sports", "wrestlers"],
     "char": "🤼‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "men_wrestling": {
     "keywords": ["sports", "wrestlers"],
     "char": "🤼‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "woman_doing_cartwheel": {
     "keywords": ["gymnastics"],
     "char": "🤸‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "man_doing_cartwheel": {
     "keywords": ["gymnastics"],
     "char": "🤸‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "woman_playing_handball": {
     "keywords": ["sports"],
     "char": "🤾‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "man_playing_handball": {
     "keywords": ["sports"],
     "char": "🤾‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "ice_skate": {
@@ -3416,13 +3416,13 @@
   "woman_playing_water_polo": {
     "keywords": ["sports", "pool"],
     "char": "🤽‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "man_playing_water_polo": {
     "keywords": ["sports", "pool"],
     "char": "🤽‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "woman_surfing": {
@@ -3590,13 +3590,13 @@
   "woman_juggling": {
     "keywords": ["juggle", "balance", "skill", "multitask"],
     "char": "🤹‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "man_juggling": {
     "keywords": ["juggle", "balance", "skill", "multitask"],
     "char": "🤹‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "microphone": {
