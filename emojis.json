@@ -8594,86 +8594,103 @@
   "octocat": {
     "keywords": ["animal", "octopus", "github", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "shipit": {
     "keywords": ["squirrel", "detective", "animal", "sherlock", "inspector", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "bowtie": {
     "keywords": ["face", "formal", "fashion", "suit", "classy", "magic", "circus"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "neckbeard": {
     "keywords": ["nerdy", "face", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "metal": {
     "keywords": ["fingers", "rocknroll", "concert", "band", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "fu": {
     "keywords": ["fuck", "finger", "dislike", "thumbsdown", "disapprove", "no", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "trollface": {
     "keywords": ["internet", "meme", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "godmode": {
     "keywords": ["doom", "oldschool"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "goberserk": {
     "keywords": ["doom", "rage", "bloody", "hurt"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "finnadie": {
     "keywords": ["doom", "oldschool"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "feelsgood": {
     "keywords": ["doom", "oldschool"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "rage1": {
     "keywords": ["angry", "mad", "hate", "despise"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "rage2": {
     "keywords": ["angry", "mad", "hate", "despise"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "rage3": {
     "keywords": ["angry", "mad", "hate", "despise"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "rage4": {
     "keywords": ["angry", "mad", "hate", "despise"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "suspect": {
     "keywords": ["mad", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   },
   "hurtrealbad": {
     "keywords": ["mad", "injured", "doom", "oldschool", "custom_"],
     "char": null,
+    "fitzpatrick_scale": false,
     "category": "_custom"
   }
 }
