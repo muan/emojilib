@@ -25,11 +25,13 @@ npm install emojilib --save
   "grinning": {
     "keywords": ["face", "smile", "happy", "joy"],
     "char": "😀",
+    "fitzpatrick_scale": false,
     "category": "people"
   },
   "grin": {
     "keywords": ["face", "happy", "smile", "joy"],
     "char": "😁",
+    "fitzpatrick_scale": false,
     "category": "people"
   },
   ...
@@ -37,6 +39,18 @@ npm install emojilib --save
 
 > emoji.ordered
 [ 'grinning', 'grimacing', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
+
+> emoji.fitzpatrick_scale_modifiers
+[ '🏻', '🏼', '🏽', '🏾', '🏿' ]
+
+> emoji.lib.v.fitzpatrick_scale
+true
+
+> emoji.lib.turtle.fitzpatrick_scale
+false
+
+> emoji.lib.v.char + emoji.fitzpatrick_scale_modifiers[4]
+'✌🏿'
 ```
 
 ## :electric_plug: Powered by emojilib
