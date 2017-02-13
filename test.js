@@ -176,4 +176,24 @@ if (offenses.length > 0) {
   passed()
 }
 
+//
+console.log('TEST: Properties')
+
+var properties = ["keywords", "char", "fitzpatrick_scale", "category"]
+var emojiWithWrongKeys = []
+keys.forEach(function (key) {
+  if (Object.keys(data[key]).join() !== properties.join()) {
+    emojiWithWrongKeys.push(key)
+  }
+})
+if (emojiWithWrongKeys.length > 0) {
+  emojiWithWrongKeys.forEach(function (emoji) {
+    console.log(emoji + ' has keys "' + Object.keys(data[emoji]).join(', ') + '", expect: "' + properties.join(', ') + '"')
+  })
+
+  failed()
+} else {
+  passed()
+}
+
 reveal()
