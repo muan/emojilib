@@ -12,7 +12,7 @@
     "category": "people"
   },
   "grin": {
-    "keywords": ["face", "happy", "smile", "joy", "kawaii"],
+    "keywords": ["face", "happy", "smile", "excited", "joy", "kawaii"],
     "char": "😁",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -36,13 +36,13 @@
     "category": "people"
   },
   "smile": {
-    "keywords": ["face", "happy", "joy", "funny", "haha", "laugh", "like", ":D", ":)"],
+    "keywords": ["face", "happy", "joy", "funny", "excited", "haha", "laugh", "like", ":D", ":)"],
     "char": "😄",
     "fitzpatrick_scale": false,
     "category": "people"
   },
   "sweat_smile": {
-    "keywords": ["face", "hot", "happy", "laugh", "sweat", "smile", "relief"],
+    "keywords": ["face", "hot", "happy", "laugh", "sweat", "nervous", "smile", "relief"],
     "char": "😅",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -54,13 +54,13 @@
     "category": "people"
   },
   "innocent": {
-    "keywords": ["face", "angel", "heaven", "halo"],
+    "keywords": ["face", "angel", "heaven", "halo", "innocent"],
     "char": "😇",
     "fitzpatrick_scale": false,
     "category": "people"
   },
   "wink": {
-    "keywords": ["face", "happy", "mischievous", "secret", ";)", "smile"],
+    "keywords": ["face", "happy", "mischievous", " naughty" , "secret", ";)", "smile"],
     "char": "😉",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -216,7 +216,7 @@
     "category": "people"
   },
   "rolling_eyes": {
-    "keywords": ["face", "eyeroll", "frustrated"],
+    "keywords": ["face", "eyeroll", "frustrated", "annoyed"],
     "char": "🙄",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -234,7 +234,7 @@
     "category": "people"
   },
   "flushed": {
-    "keywords": ["face", "blush", "shy", "flattered"],
+    "keywords": ["face", "blush", "shy", "flattered", "shocked"],
     "char": "😳",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -336,13 +336,13 @@
     "category": "people"
   },
   "cold_sweat": {
-    "keywords": ["face", "nervous", "sweat"],
+    "keywords": ["face", "nervous", "sweat", "scared"],
     "char": "😰",
     "fitzpatrick_scale": false,
     "category": "people"
   },
   "hushed": {
-    "keywords": ["face", "woo", "shh"],
+    "keywords": ["face", "woo", "shh", "amazed"],
     "char": "😯",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -365,6 +365,8 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  
+  
   "disappointed_relieved": {
     "keywords": ["face", "phew", "sweat", "nervous"],
     "char": "😥",
@@ -372,7 +374,7 @@
     "category": "people"
   },
   "drooling": {
-    "keywords": ["face"],
+    "keywords": ["face", "silly"],
     "char": "🤤",
     "fitzpatrick_scale": false,
     "category": "people"
