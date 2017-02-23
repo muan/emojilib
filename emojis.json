@@ -60,7 +60,7 @@
     "category": "people"
   },
   "wink": {
-    "keywords": ["face", "happy", "mischievous", "secret", ";)", "smile"],
+    "keywords": ["face", "happy", "mischievous", "secret", ";)", "smile", "winking eye", "stuck-out tongue"],
     "char": "😉",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -90,7 +90,7 @@
     "category": "people"
   },
   "yum": {
-    "keywords": ["happy", "joy", "tongue", "smile", "face", "silly", "yummy", "nom"],
+    "keywords": ["happy", "joy", "tongue", "smile", "face", "silly", "yummy", "nom", "delicious food", "savouring"],
     "char": "😋",
     "fitzpatrick_scale": false,
     "category": "people"
