@@ -150,7 +150,7 @@
     "category": "people"
   },
   "neutral_face": {
-    "keywords": ["indifference", "meh", ":|", "neutral"],
+    "keywords": ["indifference", "meh", ":|", "neutral", "straight face"],
     "char": "😐",
     "category": "people"
   },
@@ -170,7 +170,7 @@
     "category": "people"
   },
   "thinking": {
-    "keywords": ["face", "hmmm", "think", "consider"],
+    "keywords": ["face", "hmmm", "think", "consider", "chin thumb"],
     "char": "🤔",
     "category": "people"
   },
@@ -190,7 +190,7 @@
     "category": "people"
   },
   "angry": {
-    "keywords": ["mad", "face", "annoyed", "frustrated"],
+    "keywords": ["mad", "face", "annoyed", "frustrated", "grumpy face"],
     "char": "😠",
     "category": "people"
   },
@@ -200,7 +200,7 @@
     "category": "people"
   },
   "pensive": {
-    "keywords": ["face", "sad", "depressed", "okay", "upset"],
+    "keywords": ["face", "sad", "depressed", "okay", "upset", "sorrowful", "remorseful"],
     "char": "😔",
     "category": "people"
   },
