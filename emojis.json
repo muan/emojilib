@@ -1241,7 +1241,7 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
-  "person_facepalming": {
+  "man_facepalming": {
     "keywords": ["man", "male", "boy", "disbelief"],
     "char": "🤦",
     "fitzpatrick_scale": true,
@@ -1253,7 +1253,7 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
-  "person_shrugging": {
+  "woman_shrugging": {
     "keywords": ["woman", "female", "girl", "confused", "indifferent", "doubt"],
     "char": "🤷",
     "fitzpatrick_scale": true,
