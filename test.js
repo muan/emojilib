@@ -101,10 +101,22 @@ var dups = []
 var keysFromRawData = rawData.match(/\".+\": {/g)
 
 keysFromRawData.forEach(function (key) {
+  key = key.replace(/\"|\:|\s|\{/g, '')
   if (arr.indexOf(key) < 0) {
     arr.push(key)
   } else {
-    dups.push(key.replace(/\"|\:|\s|\{/g, ''))
+    dups.push(key)
+  }
+})
+
+var charsFromRawData = rawData.match(/"char": ".+"/g)
+
+charsFromRawData.forEach(function (character) {
+  character = character.replace(/:|"|(char)|\s/g, '')
+  if (arr.indexOf(character) < 0) {
+    arr.push(character)
+  } else {
+    dups.push(character)
   }
 })
 
