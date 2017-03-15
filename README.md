@@ -1,16 +1,16 @@
-# :book: emojilib [![Travis CI](https://travis-ci.org/muan/emojilib.svg?branch=master)](https://travis-ci.org/muan/emojilib) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+# :book: emojilib [![Travis CI build status](https://img.shields.io/travis/muan/emojilib.svg?style=flat-square)](https://travis-ci.org/muan/emojilib) [![NPM](https://img.shields.io/npm/dt/emojilib.svg?style=flat-square&colorB=fd7463)](https://www.npmjs.com/package/emojilib) [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square&colorB=f1d04a)](https://github.com/feross/standard)
 
 Emoji keyword library.
 
 ## Install
 
-### :bird: Bower
+### :bird: Bower<br>![](https://img.shields.io/bower/v/emojilib.svg?style=flat-square)
 
 ```
 bower install emojilib
 ```
 
-### :package: NPM
+### :package: NPM<br>![](https://img.shields.io/npm/v/emojilib.svg?style=flat-square)
 
 ```
 npm install emojilib --save
