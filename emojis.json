@@ -414,13 +414,13 @@
     "category": "people"
   },
   "nauseated_face": {
-    "keywords": ["face", "vomit"],
+    "keywords": ["face", "vomit", "gross", "green", "sick", "throw up", "ill"],
     "char": "🤢",
     "fitzpatrick_scale": false,
     "category": "people"
   },
   "sneezing_face": {
-    "keywords": ["face", "gesundheit", "sneeze"],
+    "keywords": ["face", "gesundheit", "sneeze", "sick", "allergy"],
     "char": "🤧",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -432,7 +432,7 @@
     "category": "people"
   },
   "face_with_thermometer": {
-    "keywords": ["sick", "temperature", "thermometer", "cold"],
+    "keywords": ["sick", "temperature", "thermometer", "cold", "fever"],
     "char": "🤒",
     "fitzpatrick_scale": false,
     "category": "people"
