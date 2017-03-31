@@ -26,3 +26,13 @@ Thanks for thinking about contributing to this project. :heart_eyes:
 - Include at least one emoji in your pull request description.
 
 - There are [tests](https://github.com/muan/emojilib/blob/master/test.js) for `emojis.json`, please do your best to fix the errors if any. You should be able to see your branch's test status on https://travis-ci.org/muan/emojilib/pull_requests
+
+---
+
+## Publishing
+
+1. Run `npm run build` and commit the changes
+2. Update version in `bower.json` and `package.json` and commit with changes
+3. `git tag [new version number]`
+4. `git push --tags`
+5. `npm publish`
