@@ -11,9 +11,10 @@
     "package.json"
   ],
   "scripts": {
-    "build": "node build.js",
+    "build": "rimraf dist && mkdirp dist && node ./scripts/build.js",
     "prepublish": "npm run build",
-    "test": "phantomjs test.js"
+    "test": "phantomjs test.js",
+    "transform": "node ./scripts/merge-translated-into-new.js"
   },
   "repository": {
     "type": "git",
@@ -32,7 +33,19 @@
   "homepage": "https://github.com/muan/emojilib#readme",
   "devDependencies": {
     "JSONStream": "^1.0.4",
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
     "format-json-stream": "^0.1.5",
-    "phantomjs": "^1.9.17"
-  }
+    "fs-extra": "^2.1.2",
+    "ietf-language-tag-regex": "^0.0.5",
+    "mkdirp": "^0.5.1",
+    "nodemon": "^1.11.0",
+    "phantomjs": "^1.9.17",
+    "rimraf": "^2.6.1"
+  },
+  "dependencies": {}
 }
