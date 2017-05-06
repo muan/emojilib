@@ -1,7 +1,9 @@
 /* global phantom */
+var pathEmojis = './lib/emojis.json'
+var pathOrdered = './lib/ordered.json'
 
 var fs = require('fs')
-var rawData = fs.read('emojis.json').toString()
+var rawData = fs.read(pathEmojis).toString()
 var buildFailed = false
 var passed = function () { console.log('\x1B[92mPASSED\x1B[0m\n') }
 var failed = function () {
@@ -37,8 +39,8 @@ var numberOfEmojis = Object.keys(categories).map(function (key) { return categor
 console.log('\nTEST: Correct JSON format')
 
 try {
-  var data = JSON.parse(fs.read('emojis.json'))
-  var orderd_keys = JSON.parse(fs.read('ordered.json'))
+  var data = JSON.parse(fs.read(pathEmojis))
+  var orderd_keys = JSON.parse(fs.read(pathOrdered))
   var keys = Object.keys(data)
   passed()
 } catch (e) {
@@ -98,9 +100,7 @@ console.log('TEST: No duplicated entries')
 
 var arr = []
 var dups = []
-var keysFromRawData = rawData.match(/\".+\": {/g)
-
-keysFromRawData.forEach(function (key) {
+keys.forEach(function (key) {
   key = key.replace(/\"|\:|\s|\{/g, '')
   if (arr.indexOf(key) < 0) {
     arr.push(key)
@@ -109,7 +109,14 @@ keysFromRawData.forEach(function (key) {
   }
 })
 
-var charsFromRawData = rawData.match(/"char": ".+"/g)
+var charsFromRawData = keys.map(function (key) {
+  var char = data[key].char
+  if (!char) {
+    console.log('Emoji "' + key + '" has no character.')
+  }
+  return char
+})
+.filter(function (char) { return char !== null })
 
 charsFromRawData.forEach(function (character) {
   character = character.replace(/:|"|(char)|\s/g, '')
@@ -136,13 +143,16 @@ var unnecessities = []
 var unnecessitiesInKeywords = []
 
 keys.forEach(function (key) {
-  data[key]['keywords'].forEach(function (keyword) {
+  var emojiKeywords = Object.keys(data[key]['keywords']).reduce(function (all, locale) {
+    return [].concat(all, data[key]['keywords'][locale])
+  }, [])
+  emojiKeywords.forEach(function (keyword) {
     if (key === keyword) {
       unnecessities.push([key, keyword])
     }
 
-    var otherKeywords = data[key]['keywords'].slice()
-    otherKeywords.splice(data[key]['keywords'].indexOf(keyword), 1)
+    var otherKeywords = emojiKeywords.slice()
+    otherKeywords.splice(emojiKeywords.indexOf(keyword), 1)
 
     otherKeywords.forEach(function (otherKeyword) {
       if (otherKeyword === keyword) {

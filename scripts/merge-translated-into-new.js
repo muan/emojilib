@@ -50,6 +50,11 @@ Object.keys(newEmojis).forEach((name) => {
   }
 })
 
-fs.writeFile(distFilePath, JSON.stringify(emojis, null, 2), () => {
+fs.writeFile(distFilePath, JSON.stringify(emojis, (value) => {
+  if (Array.isArray(value)) {
+    return JSON.stringify(value, null, 0)
+  }
+  return JSON.stringify(value, null, 2)
+}, 2), () => {
   console.log('Finished')
 })
