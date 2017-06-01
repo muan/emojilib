@@ -65,3 +65,4 @@ false
 * [commemoji](https://www.npmjs.com/package/commemoji) - [martellaj/commemoji](https://github.com/martellaj/commemoji)
 * [Emoji Stream](https://www.npmjs.com/package/emoji-stream) – [johnelliott/emoji-stream](https://github.com/johnelliott/emoji-stream)
 * [EmojiPanel for Twitter](http://bit.ly/emojipanel) - [danbovey/EmojiPanel](https://github.com/danbovey/EmojiPanel)
+* [mojibrag](https://mojibrag.firebaseapp.com/) - [notwaldorf/mojibrag](https://github.com/notwaldorf/mojibrag)
