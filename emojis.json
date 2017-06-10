@@ -6108,7 +6108,7 @@
     "category": "symbols"
   },
   "white_check_mark": {
-    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer"],
+    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer", "tick"],
     "char": "✅",
     "fitzpatrick_scale": false,
     "category": "symbols"
@@ -6720,7 +6720,7 @@
     "category": "symbols"
   },
   "ballot_box_with_check": {
-    "keywords": ["ok", "agree", "confirm", "black-square", "vote", "election", "yes"],
+    "keywords": ["ok", "agree", "confirm", "black-square", "vote", "election", "yes", "tick"],
     "char": "☑️",
     "fitzpatrick_scale": false,
     "category": "symbols"
