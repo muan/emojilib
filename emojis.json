@@ -576,7 +576,7 @@
     "category": "people"
   },
   "wave": {
-    "keywords": ["hands", "gesture", "goodbye", "solong", "farewell", "hello", "palm"],
+    "keywords": ["hands", "gesture", "goodbye", "solong", "farewell", "hello", "hi", "palm"],
     "char": "👋",
     "fitzpatrick_scale": true,
     "category": "people"
