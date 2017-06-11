@@ -504,7 +504,7 @@
     "category": "people"
   },
   "robot": {
-    "keywords": ["computer", "machine"],
+    "keywords": ["computer", "machine", "bot"],
     "char": "🤖",
     "fitzpatrick_scale": false,
     "category": "people"
