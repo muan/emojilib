@@ -450,7 +450,7 @@
     "category": "people"
   },
   "zzz": {
-    "keywords": ["sleepy", "tired"],
+    "keywords": ["sleepy", "tired", "dream"],
     "char": "💤",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -732,7 +732,7 @@
     "category": "people"
   },
   "writing_hand": {
-    "keywords": ["lower_left_ballpoint_pen", "stationery", "write"],
+    "keywords": ["lower_left_ballpoint_pen", "stationery", "write", "compose"],
     "char": "✍",
     "fitzpatrick_scale": true,
     "category": "people"
@@ -798,7 +798,7 @@
     "category": "people"
   },
   "speaking_head": {
-    "keywords": ["user", "person", "human"],
+    "keywords": ["user", "person", "human", "sing", "say", "talk"],
     "char": "🗣",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -3600,7 +3600,7 @@
     "category": "activity"
   },
   "microphone": {
-    "keywords": ["sound", "music", "PA"],
+    "keywords": ["sound", "music", "PA", "sing", "talkshow"],
     "char": "🎤",
     "fitzpatrick_scale": false,
     "category": "activity"
@@ -3612,13 +3612,13 @@
     "category": "activity"
   },
   "musical_score": {
-    "keywords": ["treble", "clef"],
+    "keywords": ["treble", "clef", "compose"],
     "char": "🎼",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
   "musical_keyboard": {
-    "keywords": ["piano", "instrument"],
+    "keywords": ["piano", "instrument", "compose"],
     "char": "🎹",
     "fitzpatrick_scale": false,
     "category": "activity"
@@ -4572,7 +4572,7 @@
     "category": "objects"
   },
   "studio_microphone": {
-    "keywords": ["singer", "recording", "artist"],
+    "keywords": ["sing", "recording", "artist", "talkshow"],
     "char": "🎙",
     "fitzpatrick_scale": false,
     "category": "objects"
@@ -5448,7 +5448,7 @@
     "category": "objects"
   },
   "memo": {
-    "keywords": ["write", "documents", "stationery", "pencil", "paper", "writing", "legal", "exam", "quiz", "test", "study"],
+    "keywords": ["write", "documents", "stationery", "pencil", "paper", "writing", "legal", "exam", "quiz", "test", "study", "compose"],
     "char": "📝",
     "fitzpatrick_scale": false,
     "category": "objects"
@@ -6942,7 +6942,7 @@
     "category": "symbols"
   },
   "thought_balloon": {
-    "keywords": ["bubble", "cloud", "speech", "thinking"],
+    "keywords": ["bubble", "cloud", "speech", "thinking", "dream"],
     "char": "💭",
     "fitzpatrick_scale": false,
     "category": "symbols"
