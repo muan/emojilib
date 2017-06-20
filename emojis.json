@@ -1008,13 +1008,13 @@
     "category": "people"
   },
   "woman_technologist": {
-    "keywords": ["coder", "developer", "engineer", "programmer", "software", "woman", "human"],
+    "keywords": ["coder", "developer", "engineer", "programmer", "software", "woman", "human", "laptop", "computer"],
     "char": "👩‍💻",
     "fitzpatrick_scale": false,
     "category": "people"
   },
   "man_technologist": {
-    "keywords": ["coder", "developer", "engineer", "programmer", "software", "man", "human"],
+    "keywords": ["coder", "developer", "engineer", "programmer", "software", "man", "human", "laptop", "computer"],
     "char": "👨‍💻",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -1032,13 +1032,13 @@
     "category": "people"
   },
   "woman_mechanic": {
-    "keywords": ["plumber", "woman", "human"],
+    "keywords": ["plumber", "woman", "human", "wrench"],
     "char": "👩‍🔧",
     "fitzpatrick_scale": false,
     "category": "people"
   },
   "man_mechanic": {
-    "keywords": ["plumber", "man", "human"],
+    "keywords": ["plumber", "man", "human", "wrench"],
     "char": "👨‍🔧",
     "fitzpatrick_scale": false,
     "category": "people"
