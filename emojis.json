@@ -486,7 +486,7 @@
     "category": "people"
   },
   "skull": {
-    "keywords": ["dead", "skeleton", "creepy"],
+    "keywords": ["dead", "skeleton", "creepy", "death"],
     "char": "💀",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -4818,13 +4818,13 @@
     "category": "objects"
   },
   "skull_and_crossbones": {
-    "keywords": ["poison", "danger", "deadly", "scary"],
+    "keywords": ["poison", "danger", "deadly", "scary", "death", "pirate", "evil"],
     "char": "☠",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "coffin": {
-    "keywords": ["vampire", "dead", "die", "death", "rip", "graveyard", "cemetery"],
+    "keywords": ["vampire", "dead", "die", "death", "rip", "graveyard", "cemetery", "casket", "funeral", "box"],
     "char": "⚰",
     "fitzpatrick_scale": false,
     "category": "objects"
