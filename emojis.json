@@ -4860,13 +4860,13 @@
     "category": "objects"
   },
   "alembic": {
-    "keywords": ["distilling", "science", "experiment"],
+    "keywords": ["distilling", "science", "experiment", "chemistry"],
     "char": "⚗",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "telescope": {
-    "keywords": ["stars", "space", "zoom"],
+    "keywords": ["stars", "space", "zoom", "science", "astronomy"],
     "char": "🔭",
     "fitzpatrick_scale": false,
     "category": "objects"
@@ -5730,7 +5730,7 @@
     "category": "symbols"
   },
   "atom_symbol": {
-    "keywords": ["science"],
+    "keywords": ["science", "physics", "chemistry"],
     "char": "⚛",
     "fitzpatrick_scale": false,
     "category": "symbols"
