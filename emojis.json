@@ -2976,7 +2976,7 @@
     "category": "food_and_drink"
   },
   "fish_cake": {
-    "keywords": ["food", "japan", "sea", "beach"],
+    "keywords": ["food", "japan", "sea", "beach", "narutomaki", "pink", "swirl", "kamaboko", "surimi", "ramen"],
     "char": "🍥",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
@@ -6120,7 +6120,7 @@
     "category": "symbols"
   },
   "cyclone": {
-    "keywords": ["weather", "swirl", "blue", "cloud", "vortex", "spiral", "whirlpool", "spin"],
+    "keywords": ["weather", "swirl", "blue", "cloud", "vortex", "spiral", "whirlpool", "spin", "tornado", "hurricane", "typhoon"],
     "char": "🌀",
     "fitzpatrick_scale": false,
     "category": "symbols"
