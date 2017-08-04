@@ -1692,7 +1692,7 @@
     "category": "people"
   },
   "briefcase": {
-    "keywords": ["business", "documents", "work", "law", "legal"],
+    "keywords": ["business", "documents", "work", "law", "legal", "job", "career"],
     "char": "💼",
     "fitzpatrick_scale": false,
     "category": "people"
