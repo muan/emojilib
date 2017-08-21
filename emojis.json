@@ -668,7 +668,7 @@
   "handshake": {
     "keywords": ["agreement", "shake"],
     "char": "🤝",
-    "fitzpatrick_scale": true,
+    "fitzpatrick_scale": false,
     "category": "people"
   },
   "point_up": {
@@ -836,7 +836,7 @@
   "blonde_woman": {
     "keywords": ["woman", "female", "girl", "blonde", "person"],
     "char": "👱‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "blonde_man": {
@@ -866,7 +866,7 @@
   "woman_with_turban": {
     "keywords": ["female", "indian", "hinduism", "arabs", "woman"],
     "char": "👳‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_with_turban": {
@@ -878,7 +878,7 @@
   "policewoman": {
     "keywords": ["woman", "police", "law", "legal", "enforcement", "arrest", "911", "female"],
     "char": "👮‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "policeman": {
@@ -890,7 +890,7 @@
   "construction_worker_woman": {
     "keywords": ["female", "human", "wip", "build", "construction", "worker", "labor", "woman"],
     "char": "👷‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "construction_worker_man": {
@@ -902,7 +902,7 @@
   "guardswoman": {
     "keywords": ["uk", "gb", "british", "female", "royal", "woman"],
     "char": "💂‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "guardsman": {
@@ -914,7 +914,7 @@
   "female_detective": {
     "keywords": ["human", "spy", "detective", "female", "woman"],
     "char": "🕵️‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "male_detective": {
@@ -926,193 +926,193 @@
   "woman_health_worker": {
     "keywords": ["doctor", "nurse", "therapist", "healthcare", "woman", "human"],
     "char": "👩‍⚕️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_health_worker": {
     "keywords": ["doctor", "nurse", "therapist", "healthcare", "man", "human"],
     "char": "👨‍⚕️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_farmer": {
     "keywords": ["rancher", "gardener", "woman", "human"],
     "char": "👩‍🌾",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_farmer": {
     "keywords": ["rancher", "gardener", "man", "human"],
     "char": "👨‍🌾",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_cook": {
     "keywords": ["chef", "woman", "human"],
     "char": "👩‍🍳",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_cook": {
     "keywords": ["chef", "man", "human"],
     "char": "👨‍🍳",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_student": {
     "keywords": ["graduate", "woman", "human"],
     "char": "👩‍🎓",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_student": {
     "keywords": ["graduate", "man", "human"],
     "char": "👨‍🎓",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_singer": {
     "keywords": ["rockstar", "entertainer", "woman", "human"],
     "char": "👩‍🎤",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_singer": {
     "keywords": ["rockstar", "entertainer", "man", "human"],
     "char": "👨‍🎤",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_teacher": {
     "keywords": ["instructor", "professor", "woman", "human"],
     "char": "👩‍🏫",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_teacher": {
     "keywords": ["instructor", "professor", "man", "human"],
     "char": "👨‍🏫",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_factory_worker": {
     "keywords": ["assembly", "industrial", "woman", "human"],
     "char": "👩‍🏭",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_factory_worker": {
     "keywords": ["assembly", "industrial", "man", "human"],
     "char": "👨‍🏭",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_technologist": {
     "keywords": ["coder", "developer", "engineer", "programmer", "software", "woman", "human", "laptop", "computer"],
     "char": "👩‍💻",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_technologist": {
     "keywords": ["coder", "developer", "engineer", "programmer", "software", "man", "human", "laptop", "computer"],
     "char": "👨‍💻",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_office_worker": {
     "keywords": ["business", "manager", "woman", "human"],
     "char": "👩‍💼",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_office_worker": {
     "keywords": ["business", "manager", "man", "human"],
     "char": "👨‍💼",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_mechanic": {
     "keywords": ["plumber", "woman", "human", "wrench"],
     "char": "👩‍🔧",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_mechanic": {
     "keywords": ["plumber", "man", "human", "wrench"],
     "char": "👨‍🔧",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_scientist": {
     "keywords": ["biologist", "chemist", "engineer", "physicist", "woman", "human"],
     "char": "👩‍🔬",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_scientist": {
     "keywords": ["biologist", "chemist", "engineer", "physicist", "man", "human"],
     "char": "👨‍🔬",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_artist": {
     "keywords": ["painter", "woman", "human"],
     "char": "👩‍🎨",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_artist": {
     "keywords": ["painter", "man", "human"],
     "char": "👨‍🎨",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_firefighter": {
     "keywords": ["fireman", "woman", "human"],
     "char": "👩‍🚒",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_firefighter": {
     "keywords": ["fireman", "man", "human"],
     "char": "👨‍🚒",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_pilot": {
     "keywords": ["aviator", "plane", "woman", "human"],
     "char": "👩‍✈️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_pilot": {
     "keywords": ["aviator", "plane", "man", "human"],
     "char": "👨‍✈️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_astronaut": {
     "keywords": ["space", "rocket", "woman", "human"],
     "char": "👩‍🚀",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_astronaut": {
     "keywords": ["space", "rocket", "man", "human"],
     "char": "👨‍🚀",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_judge": {
     "keywords": ["justice", "court", "woman", "human"],
     "char": "👩‍⚖️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_judge": {
     "keywords": ["justice", "court", "man", "human"],
     "char": "👨‍⚖️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "mrs_claus": {
@@ -1166,7 +1166,7 @@
   "running_woman": {
     "keywords": ["woman", "walking", "exercise", "race", "running", "female"],
     "char": "🏃‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "running_man": {
@@ -1178,7 +1178,7 @@
   "walking_woman": {
     "keywords": ["human", "feet", "steps", "woman", "female"],
     "char": "🚶‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "walking_man": {
@@ -1208,7 +1208,7 @@
   "dancing_men": {
     "keywords": ["male", "bunny", "men", "boys"],
     "char": "👯‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "couple": {
@@ -1232,7 +1232,7 @@
   "bowing_woman": {
     "keywords": ["woman", "female", "girl"],
     "char": "🙇‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "bowing_man": {
@@ -1250,7 +1250,7 @@
   "woman_facepalming": {
     "keywords": ["woman", "female", "girl", "disbelief"],
     "char": "🤦‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "woman_shrugging": {
@@ -1262,7 +1262,7 @@
   "man_shrugging": {
     "keywords": ["man", "male", "boy", "confused", "indifferent", "doubt"],
     "char": "🤷‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "tipping_hand_woman": {
@@ -1274,7 +1274,7 @@
   "tipping_hand_man": {
     "keywords": ["male", "boy", "man", "human", "information"],
     "char": "💁‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "no_good_woman": {
@@ -1286,7 +1286,7 @@
   "no_good_man": {
     "keywords": ["male", "boy", "man", "nope"],
     "char": "🙅‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "ok_woman": {
@@ -1298,7 +1298,7 @@
   "ok_man": {
     "keywords": ["men", "boy", "male", "blue", "human", "man"],
     "char": "🙆‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "raising_hand_woman": {
@@ -1310,7 +1310,7 @@
   "raising_hand_man": {
     "keywords": ["male", "boy", "man"],
     "char": "🙋‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "pouting_woman": {
@@ -1322,7 +1322,7 @@
   "pouting_man": {
     "keywords": ["male", "boy", "man"],
     "char": "🙎‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "frowning_woman": {
@@ -1334,7 +1334,7 @@
   "frowning_man": {
     "keywords": ["male", "boy", "man", "sad", "depressed", "discouraged", "unhappy"],
     "char": "🙍‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "haircut_woman": {
@@ -1346,7 +1346,7 @@
   "haircut_man": {
     "keywords": ["male", "boy", "man"],
     "char": "💇‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "massage_woman": {
@@ -1358,7 +1358,7 @@
   "massage_man": {
     "keywords": ["male", "boy", "man", "head"],
     "char": "💆‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "couple_with_heart_woman_man": {
