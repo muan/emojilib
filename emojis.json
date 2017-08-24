@@ -264,7 +264,7 @@
     "category": "people"
   },
   "pensive": {
-    "keywords": ["face", "sad", "depressed", "okay", "upset"],
+    "keywords": ["face", "sad", "depressed", "upset"],
     "char": "😔",
     "fitzpatrick_scale": false,
     "category": "people"
@@ -630,7 +630,7 @@
     "category": "people"
   },
   "ok_hand": {
-    "keywords": ["fingers", "limbs", "perfect", "ok"],
+    "keywords": ["fingers", "limbs", "perfect", "ok", "okay"],
     "char": "👌",
     "fitzpatrick_scale": true,
     "category": "people"
