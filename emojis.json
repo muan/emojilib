@@ -1652,7 +1652,7 @@
   "rescue_worker_helmet": {
     "keywords": ["construction", "build"],
     "char": "⛑",
-    "fitzpatrick_scale": true,
+    "fitzpatrick_scale": false,
     "category": "people"
   },
   "mortar_board": {
