@@ -22,4 +22,3 @@ fs.readFile(path.join(__dirname, 'emoji_words.json'), 'utf8', (err, data) => {
   .pipe(format())
   .pipe(cnEmojis)
 });
-  
