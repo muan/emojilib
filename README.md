@@ -18,6 +18,8 @@ npm install emojilib --save
 
 ## Usage
 
+### English
+
 ```javascript
 > var emoji = require("emojilib")
 > emoji.lib
@@ -53,6 +55,28 @@ false
 '✌🏿'
 ```
 
+### Chinese
+
+```javascript
+> var emoji = require("emojilib")
+> emoji.lib_cn
+{
+  "relaxed": {
+    "keywords": ["face", "blush", "massage", "happiness", "微笑", "表情", "开心", "笑臉", "開心", "笑脸"],
+    "char": "☺️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "yum": {
+    "keywords": ["happy", "joy", "tongue", "smile", "face", "silly", "yummy", "nom", "delicious", "savouring", "表情", "眼馋", "眼饞", "吐舌头", "嘴馋", "嘴饞", "吐舌頭"],
+    "char": "😋",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  ...
+}
+```
+
 ## :electric_plug: Powered by emojilib
 
 * [Emoji Searcher](http://emoji.muan.co) – [muan/emoji](https://github.com/muan/emoji)
@@ -66,3 +90,4 @@ false
 * [Emoji Stream](https://www.npmjs.com/package/emoji-stream) – [johnelliott/emoji-stream](https://github.com/johnelliott/emoji-stream)
 * [EmojiPanel for Twitter](http://bit.ly/emojipanel) - [danbovey/EmojiPanel](https://github.com/danbovey/EmojiPanel)
 * [mojibrag](https://mojibrag.firebaseapp.com/) - [notwaldorf/mojibrag](https://github.com/notwaldorf/mojibrag)
+* [Get Emoji](http://emoji.svend.cc/) - [gee1k/emoji](https://github.com/gee1k/emoji)
