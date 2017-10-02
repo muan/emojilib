@@ -9,7 +9,7 @@
     "ordered.json",
     "LICENSE",
     "package.json",
-    "zh-cn"
+    "zh-cn/"
   ],
   "scripts": {
     "build": "node build.js",
