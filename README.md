@@ -66,3 +66,4 @@ false
 * [Emoji Stream](https://www.npmjs.com/package/emoji-stream) – [johnelliott/emoji-stream](https://github.com/johnelliott/emoji-stream)
 * [EmojiPanel for Twitter](http://bit.ly/emojipanel) - [danbovey/EmojiPanel](https://github.com/danbovey/EmojiPanel)
 * [mojibrag](https://mojibrag.firebaseapp.com/) - [notwaldorf/mojibrag](https://github.com/notwaldorf/mojibrag)
+* [Emoji Alfred Workflow](https://www.npmjs.com/package/emoji-alfred-workflow) - [janclarin/emoji-alfred-workflow](https://github.com/janclarin/emoji-alfred-workflow)
