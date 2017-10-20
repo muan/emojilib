@@ -16,6 +16,17 @@ bower install emojilib
 npm install emojilib --save
 ```
 
+## Images
+
+images are extracted by using `gemoji` gem.
+
+```bash
+gem install gemoji
+gemoji extract --size 96 temp
+mv temp/unicode imgs
+rm -rf temp
+```
+
 ## Usage
 
 ```javascript
