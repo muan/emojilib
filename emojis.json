@@ -3672,7 +3672,7 @@
     "category": "activity"
   },
   "dart": {
-    "keywords": ["game", "play", "bar"],
+    "keywords": ["game", "play", "bar", "target", "bullseye"],
     "char": "🎯",
     "fitzpatrick_scale": false,
     "category": "activity"
