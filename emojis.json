@@ -3624,7 +3624,7 @@
     "category": "activity"
   },
   "drum": {
-    "keywords": ["music", "instrument", "drumsticks"],
+    "keywords": ["music", "instrument", "drumsticks", "snare"],
     "char": "🥁",
     "fitzpatrick_scale": false,
     "category": "activity"
