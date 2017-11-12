@@ -137,6 +137,24 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "zany": {
+    "keywords": ["face", "goofy", "crazy"],
+    "char": "🤪",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "raised_eyebrow": {
+    "keywords": ["face", "distrust", "scepticism", "disapproval", "disbelief", "surprise"],
+    "char": "🤨",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "monocle": {
+    "keywords": ["face", "stuffy", "wealthy"],
+    "char": "🧐 ",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "stuck_out_tongue_closed_eyes": {
     "keywords": ["face", "prank", "playful", "mischievous", "smile", "tongue"],
     "char": "😝",
@@ -164,6 +182,12 @@
   "sunglasses": {
     "keywords": ["face", "cool", "smile", "summer", "beach", "sunglass"],
     "char": "😎",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "star_struck": {
+    "keywords": ["face", "smile", "starry", "eyes", "grinning"],
+    "char": "🤩",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -230,6 +254,30 @@
   "lying_face": {
     "keywords": ["face", "lie", "pinocchio"],
     "char": "🤥",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "hand_over_mouth": {
+    "keywords": ["face", "whoops", "shock", "surprise"],
+    "char": "🤭",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "shushing": {
+    "keywords": ["face", "quiet", "shhh"],
+    "char": "🤫",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "symbols_over_mouth": {
+    "keywords": ["face", "swearing", "cursing", "cussing", "profanity", "expletive"],
+    "char": "🤬",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "exploding_head": {
+    "keywords": ["face", "shocked", "mind", "blown"],
+    "char": "🤯",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -422,6 +470,12 @@
   "sneezing_face": {
     "keywords": ["face", "gesundheit", "sneeze", "sick", "allergy"],
     "char": "🤧",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "vomiting": {
+    "keywords": ["face", "sick"],
+    "char": "🤮",
     "fitzpatrick_scale": false,
     "category": "people"
   },
