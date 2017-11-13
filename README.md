@@ -16,6 +16,17 @@ bower install emojilib
 npm install emojilib --save
 ```
 
+## Images
+
+images are extracted by using `gemoji` gem.
+
+```bash
+gem install gemoji
+gemoji extract --size 96 temp
+mv temp/unicode imgs
+rm -rf temp
+```
+
 ## Usage
 
 ```javascript
@@ -67,3 +78,4 @@ false
 * [EmojiPanel for Twitter](http://bit.ly/emojipanel) - [danbovey/EmojiPanel](https://github.com/danbovey/EmojiPanel)
 * [mojibrag](https://mojibrag.firebaseapp.com/) - [notwaldorf/mojibrag](https://github.com/notwaldorf/mojibrag)
 * [Emoji Alfred Workflow](https://www.npmjs.com/package/emoji-alfred-workflow) - [janclarin/emoji-alfred-workflow](https://github.com/janclarin/emoji-alfred-workflow)
+* [Yet Another Alfred Emoji Workflow](https://github.com/fate-lovely/alfred-emoji-workflow)
