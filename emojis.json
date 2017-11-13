@@ -3695,6 +3695,12 @@
     "fitzpatrick_scale": false,
     "category": "activity"
   },
+  "lawnmower": {
+    "keywords": ["lawnmower", "mower", "mow-lawn", "Husqvarna", "Zero-turn", "Lawn-boy", "Simplicity", "Auto-mower"],
+    "char": null,
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
   "red_car": {
     "keywords": ["red", "transportation", "vehicle"],
     "char": "🚗",
