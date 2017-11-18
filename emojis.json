@@ -881,6 +881,12 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "child": {
+    "keywords": ["gender-neutral", "young"],
+    "char": "🧒",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "boy": {
     "keywords": ["man", "male", "guy", "teenager"],
     "char": "👦",
@@ -890,6 +896,12 @@
   "girl": {
     "keywords": ["female", "woman", "teenager"],
     "char": "👧",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "adult": {
+    "keywords": ["gender-neutral", "person"],
+    "char": "🧑",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -914,6 +926,12 @@
   "blonde_man": {
     "keywords": ["man", "male", "boy", "blonde", "guy", "person"],
     "char": "👱",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "older_adult": {
+    "keywords": ["human", "elder", "senior", "gender-neutral"],
+    "char": "🧓",
     "fitzpatrick_scale": true,
     "category": "people"
   },
