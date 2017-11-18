@@ -617,6 +617,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "palms_up": {
+    "keywords": ["hands", "gesture", "cupped", "prayer"],
+    "char": "🤲",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "raised_hands": {
     "keywords": ["gesture", "hooray", "yea", "celebration", "hands"],
     "char": "🙌",
@@ -767,6 +773,12 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "love_you": {
+    "keywords": ["hand", "fingers", "gesture"],
+    "char": "🤟",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "metal": {
     "keywords": ["hand", "fingers", "evil_eye", "sign_of_horns", "rock_on"],
     "char": "🤘",
@@ -836,6 +848,12 @@
   "eyes": {
     "keywords": ["look", "watch", "stalk", "peek", "see"],
     "char": "👀",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "brain": {
+    "keywords": ["smart", "intelligent"],
+    "char": "🧠",
     "fitzpatrick_scale": false,
     "category": "people"
   },
