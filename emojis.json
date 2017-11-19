@@ -1751,6 +1751,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "coat": {
+    "keywords": ["jacket"],
+    "char": "🧥",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "womans_clothes": {
     "keywords": ["fashion", "shopping_bags", "female"],
     "char": "👚",
@@ -1841,6 +1847,24 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "socks": {
+    "keywords": ["stockings", "clothes"],
+    "char": "🧦",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "gloves": {
+    "keywords": ["hands", "winter", "clothes"],
+    "char": "🧤",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "scarf": {
+    "keywords": ["neck", "winter", "clothes"],
+    "char": "🧣",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "womans_hat": {
     "keywords": ["fashion", "accessories", "female", "lady", "spring"],
     "char": "👒",
@@ -1850,6 +1874,12 @@
   "tophat": {
     "keywords": ["magic", "gentleman", "classy", "circus"],
     "char": "🎩",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "billed_hat": {
+    "keywords": ["cap", "baseball"],
+    "char": "🧢",
     "fitzpatrick_scale": false,
     "category": "people"
   },
