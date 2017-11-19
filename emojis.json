@@ -3635,6 +3635,18 @@
     "fitzpatrick_scale": true,
     "category": "activity"
   },
+  "climbing_woman": {
+    "keywords": ["sports", "hobby", "woman", "female", "rock"],
+    "char": "🧗‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "climbing_man": {
+    "keywords": ["sports", "hobby", "man", "male", "rock"],
+    "char": "🧗‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
   "swimming_woman": {
     "keywords": ["sports", "exercise", "human", "athlete", "water", "summer", "woman", "female"],
     "char": "🏊‍♀️",
@@ -3656,6 +3668,18 @@
   "man_playing_water_polo": {
     "keywords": ["sports", "pool"],
     "char": "🤽‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "woman_in_lotus_position": {
+    "keywords": ["woman", "female", "meditation", "yoga", "serenity", "zen", "mindfulness"],
+    "char": "🧘‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "man_in_lotus_position": {
+    "keywords": ["man", "male", "meditation", "yoga", "serenity", "zen", "mindfulness"],
+    "char": "🧘‍♂️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
