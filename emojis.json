@@ -929,6 +929,12 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "bearded_person": {
+    "keywords": ["person", "bewhiskered"],
+    "char": "🧔",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "older_adult": {
     "keywords": ["human", "elder", "senior", "gender-neutral"],
     "char": "🧓",
@@ -950,6 +956,12 @@
   "man_with_gua_pi_mao": {
     "keywords": ["male", "boy", "chinese"],
     "char": "👲",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_with_headscarf": {
+    "keywords": ["female", "hijab", "mantilla", "tichel"],
+    "char": "🧕",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1217,6 +1229,90 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "sorceress": {
+    "keywords": ["woman", "female", "mage", "witch"],
+    "char": "🧙‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "wizard": {
+    "keywords": ["man", "male", "mage", "sorcerer"],
+    "char": "🧙‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_elf": {
+    "keywords": ["woman", "female"],
+    "char": "🧝‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_elf": {
+    "keywords": ["man", "male"],
+    "char": "🧝‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_vampire": {
+    "keywords": ["woman", "female"],
+    "char": "🧛‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_vampire": {
+    "keywords": ["man", "male", "dracula"],
+    "char": "🧛‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_zombie": {
+    "keywords": ["woman", "female", "undead", "walking dead"],
+    "char": "🧟‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "man_zombie": {
+    "keywords": ["man", "male", "dracula", "undead", "walking dead"],
+    "char": "🧟‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "woman_genie": {
+    "keywords": ["woman", "female"],
+    "char": "🧞‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "man_genie": {
+    "keywords": ["man", "male"],
+    "char": "🧞‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "mermaid": {
+    "keywords": ["woman", "female", "merwoman", "ariel"],
+    "char": "🧜‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "merman": {
+    "keywords": ["man", "male", "triton"],
+    "char": "🧜‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "woman_fairy": {
+    "keywords": ["woman", "female"],
+    "char": "🧚‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "man_fairy": {
+    "keywords": ["man", "male"],
+    "char": "🧚‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "angel": {
     "keywords": ["heaven", "wings", "halo"],
     "char": "👼",
@@ -1226,6 +1322,12 @@
   "pregnant_woman": {
     "keywords": ["baby"],
     "char": "🤰",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "breastfeeding": {
+    "keywords": ["nursing", "baby"],
+    "char": "🤱",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1448,6 +1550,18 @@
   "massage_man": {
     "keywords": ["male", "boy", "man", "head"],
     "char": "💆‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_in_steamy_room": {
+    "keywords": ["female", "woman", "spa", "steamroom", "sauna"],
+    "char": "🧖‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_in_steamy_room": {
+    "keywords": ["male", "man", "spa", "steamroom", "sauna"],
+    "char": "🧖‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
