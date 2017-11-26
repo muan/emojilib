@@ -19,10 +19,10 @@ var reveal = function () {
 }
 
 var categories = {
-  people: 287,
+  people: 326,
   animals_and_nature: 161,
   food_and_drink: 85,
-  activity: 83,
+  activity: 87,
   travel_and_places: 118,
   objects: 180,
   symbols: 271,

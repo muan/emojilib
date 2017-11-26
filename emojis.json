@@ -137,6 +137,24 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "zany": {
+    "keywords": ["face", "goofy", "crazy"],
+    "char": "🤪",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "raised_eyebrow": {
+    "keywords": ["face", "distrust", "scepticism", "disapproval", "disbelief", "surprise"],
+    "char": "🤨",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "monocle": {
+    "keywords": ["face", "stuffy", "wealthy"],
+    "char": "🧐 ",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "stuck_out_tongue_closed_eyes": {
     "keywords": ["face", "prank", "playful", "mischievous", "smile", "tongue"],
     "char": "😝",
@@ -164,6 +182,12 @@
   "sunglasses": {
     "keywords": ["face", "cool", "smile", "summer", "beach", "sunglass"],
     "char": "😎",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "star_struck": {
+    "keywords": ["face", "smile", "starry", "eyes", "grinning"],
+    "char": "🤩",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -230,6 +254,30 @@
   "lying_face": {
     "keywords": ["face", "lie", "pinocchio"],
     "char": "🤥",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "hand_over_mouth": {
+    "keywords": ["face", "whoops", "shock", "surprise"],
+    "char": "🤭",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "shushing": {
+    "keywords": ["face", "quiet", "shhh"],
+    "char": "🤫",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "symbols_over_mouth": {
+    "keywords": ["face", "swearing", "cursing", "cussing", "profanity", "expletive"],
+    "char": "🤬",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "exploding_head": {
+    "keywords": ["face", "shocked", "mind", "blown"],
+    "char": "🤯",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -425,6 +473,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "vomiting": {
+    "keywords": ["face", "sick"],
+    "char": "🤮",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "mask": {
     "keywords": ["face", "sick", "ill", "disease"],
     "char": "😷",
@@ -561,6 +615,12 @@
     "keywords": ["animal", "cats"],
     "char": "😾",
     "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "palms_up": {
+    "keywords": ["hands", "gesture", "cupped", "prayer"],
+    "char": "🤲",
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "raised_hands": {
@@ -713,6 +773,12 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "love_you": {
+    "keywords": ["hand", "fingers", "gesture"],
+    "char": "🤟",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "metal": {
     "keywords": ["hand", "fingers", "evil_eye", "sign_of_horns", "rock_on"],
     "char": "🤘",
@@ -785,6 +851,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "brain": {
+    "keywords": ["smart", "intelligent"],
+    "char": "🧠",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "bust_in_silhouette": {
     "keywords": ["user", "person", "human"],
     "char": "👤",
@@ -809,6 +881,12 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "child": {
+    "keywords": ["gender-neutral", "young"],
+    "char": "🧒",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "boy": {
     "keywords": ["man", "male", "guy", "teenager"],
     "char": "👦",
@@ -818,6 +896,12 @@
   "girl": {
     "keywords": ["female", "woman", "teenager"],
     "char": "👧",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "adult": {
+    "keywords": ["gender-neutral", "person"],
+    "char": "🧑",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -845,6 +929,18 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "bearded_person": {
+    "keywords": ["person", "bewhiskered"],
+    "char": "🧔",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "older_adult": {
+    "keywords": ["human", "elder", "senior", "gender-neutral"],
+    "char": "🧓",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "older_man": {
     "keywords": ["human", "male", "men", "old", "elder", "senior"],
     "char": "👴",
@@ -860,6 +956,12 @@
   "man_with_gua_pi_mao": {
     "keywords": ["male", "boy", "chinese"],
     "char": "👲",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_with_headscarf": {
+    "keywords": ["female", "hijab", "mantilla", "tichel"],
+    "char": "🧕",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1127,6 +1229,90 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "sorceress": {
+    "keywords": ["woman", "female", "mage", "witch"],
+    "char": "🧙‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "wizard": {
+    "keywords": ["man", "male", "mage", "sorcerer"],
+    "char": "🧙‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_elf": {
+    "keywords": ["woman", "female"],
+    "char": "🧝‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_elf": {
+    "keywords": ["man", "male"],
+    "char": "🧝‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_vampire": {
+    "keywords": ["woman", "female"],
+    "char": "🧛‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_vampire": {
+    "keywords": ["man", "male", "dracula"],
+    "char": "🧛‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_zombie": {
+    "keywords": ["woman", "female", "undead", "walking dead"],
+    "char": "🧟‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "man_zombie": {
+    "keywords": ["man", "male", "dracula", "undead", "walking dead"],
+    "char": "🧟‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "woman_genie": {
+    "keywords": ["woman", "female"],
+    "char": "🧞‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "man_genie": {
+    "keywords": ["man", "male"],
+    "char": "🧞‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "mermaid": {
+    "keywords": ["woman", "female", "merwoman", "ariel"],
+    "char": "🧜‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "merman": {
+    "keywords": ["man", "male", "triton"],
+    "char": "🧜‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "woman_fairy": {
+    "keywords": ["woman", "female"],
+    "char": "🧚‍♀️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "man_fairy": {
+    "keywords": ["man", "male"],
+    "char": "🧚‍♂️",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "angel": {
     "keywords": ["heaven", "wings", "halo"],
     "char": "👼",
@@ -1136,6 +1322,12 @@
   "pregnant_woman": {
     "keywords": ["baby"],
     "char": "🤰",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "breastfeeding": {
+    "keywords": ["nursing", "baby"],
+    "char": "🤱",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1361,6 +1553,18 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "woman_in_steamy_room": {
+    "keywords": ["female", "woman", "spa", "steamroom", "sauna"],
+    "char": "🧖‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_in_steamy_room": {
+    "keywords": ["male", "man", "spa", "steamroom", "sauna"],
+    "char": "🧖‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "couple_with_heart_woman_man": {
     "keywords": ["pair", "love", "like", "affection", "human", "dating", "valentines", "marriage"],
     "char": "💑",
@@ -1547,6 +1751,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "coat": {
+    "keywords": ["jacket"],
+    "char": "🧥",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "womans_clothes": {
     "keywords": ["fashion", "shopping_bags", "female"],
     "char": "👚",
@@ -1637,6 +1847,24 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "socks": {
+    "keywords": ["stockings", "clothes"],
+    "char": "🧦",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "gloves": {
+    "keywords": ["hands", "winter", "clothes"],
+    "char": "🧤",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "scarf": {
+    "keywords": ["neck", "winter", "clothes"],
+    "char": "🧣",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "womans_hat": {
     "keywords": ["fashion", "accessories", "female", "lady", "spring"],
     "char": "👒",
@@ -1646,6 +1874,12 @@
   "tophat": {
     "keywords": ["magic", "gentleman", "classy", "circus"],
     "char": "🎩",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "billed_hat": {
+    "keywords": ["cap", "baseball"],
+    "char": "🧢",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -3401,6 +3635,18 @@
     "fitzpatrick_scale": true,
     "category": "activity"
   },
+  "climbing_woman": {
+    "keywords": ["sports", "hobby", "woman", "female", "rock"],
+    "char": "🧗‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "climbing_man": {
+    "keywords": ["sports", "hobby", "man", "male", "rock"],
+    "char": "🧗‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
   "swimming_woman": {
     "keywords": ["sports", "exercise", "human", "athlete", "water", "summer", "woman", "female"],
     "char": "🏊‍♀️",
@@ -3422,6 +3668,18 @@
   "man_playing_water_polo": {
     "keywords": ["sports", "pool"],
     "char": "🤽‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "woman_in_lotus_position": {
+    "keywords": ["woman", "female", "meditation", "yoga", "serenity", "zen", "mindfulness"],
+    "char": "🧘‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "man_in_lotus_position": {
+    "keywords": ["man", "male", "meditation", "yoga", "serenity", "zen", "mindfulness"],
+    "char": "🧘‍♂️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
