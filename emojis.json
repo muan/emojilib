@@ -3713,6 +3713,18 @@
     "fitzpatrick_scale": false,
     "category": "activity"
   },
+  "curling_stone": {
+    "keywords": ["sports"],
+    "char": "🥌",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
+  "sled": {
+    "keywords": ["sleigh", "luge", "toboggan"],
+    "char": "🛷",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
   "bow_and_arrow": {
     "keywords": ["sports"],
     "char": "🏹",
