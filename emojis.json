@@ -4289,6 +4289,12 @@
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
+  "flying_saucer": {
+    "keywords": ["transportation", "vehicle", "ufo"],
+    "char": "🛸",
+    "fitzpatrick_scale": false,
+    "category": "travel_and_places"
+  },
   "helicopter": {
     "keywords": ["transportation", "vehicle", "fly"],
     "char": "🚁",

@@ -23,7 +23,7 @@ var categories = {
   animals_and_nature: 167,
   food_and_drink: 98,
   activity: 87,
-  travel_and_places: 118,
+  travel_and_places: 119,
   objects: 180,
   symbols: 273,
   flags: 247,
