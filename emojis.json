@@ -2219,6 +2219,12 @@
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
+  "grasshopper": {
+    "keywords": ["animal", "cricket", "chirp"],
+    "char": "🦗",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
   "spider": {
     "keywords": ["animal", "arachnid"],
     "char": "🕷",
@@ -2246,6 +2252,18 @@
   "lizard": {
     "keywords": ["animal", "nature", "reptile"],
     "char": "🦎",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "t-rex": {
+    "keywords": ["animal", "nature", "dinosaur", "tyrannosaurus", "extinct"],
+    "char": "🦖",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "sauropod": {
+    "keywords": ["animal", "nature", "dinosaur", "brachiosaurus", "brontosaurus", "diplodocus", "extinct"],
+    "char": "🦕",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -2309,6 +2327,12 @@
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
+  "zebra": {
+    "keywords": ["animal", "nature", "stripes", "safari"],
+    "char": "🦓",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
   "tiger2": {
     "keywords": ["animal", "nature", "roar"],
     "char": "🐅",
@@ -2348,6 +2372,12 @@
   "camel": {
     "keywords": ["animal", "nature", "hot", "desert", "hump"],
     "char": "🐫",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "giraffe": {
+    "keywords": ["animal", "nature", "spots", "safari"],
+    "char": "🦒",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -2450,6 +2480,12 @@
   "chipmunk": {
     "keywords": ["animal", "nature", "rodent", "squirrel"],
     "char": "🐿",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "hedgehog": {
+    "keywords": ["animal", "nature", "spiny"],
+    "char": "🦔",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
