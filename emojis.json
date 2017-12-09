@@ -5861,6 +5861,12 @@
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
+  "orange_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "🧡",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
   "yellow_heart": {
     "keywords": ["love", "like", "affection", "valentines"],
     "char": "💛",
@@ -6740,6 +6746,12 @@
   "1234": {
     "keywords": ["numbers", "blue-square"],
     "char": "🔢",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "eject_button": {
+    "keywords": ["blue-square"],
+    "char": "⏏️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
