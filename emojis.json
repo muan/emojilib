@@ -8915,6 +8915,24 @@
     "fitzpatrick_scale": false,
     "category": "flags"
   },
+  "england": {
+    "keywords": ["flag", "english"],
+    "char": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+  "scotland": {
+    "keywords": ["flag", "scottish"],
+    "char": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+  "wales": {
+    "keywords": ["flag", "welsh"],
+    "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
   "us": {
     "keywords": ["united", "states", "america", "flag", "nation", "country", "banner"],
     "char": "🇺🇸",
