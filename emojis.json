@@ -2999,6 +2999,12 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "coconut": {
+    "keywords": ["fruit", "nature", "food", "palm"],
+    "char": "🥥",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "kiwi_fruit": {
     "keywords": ["fruit", "food"],
     "char": "🥝",
@@ -3008,6 +3014,12 @@
   "avocado": {
     "keywords": ["fruit", "food"],
     "char": "🥑",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "broccoli": {
+    "keywords": ["fruit", "food", "vegetable"],
+    "char": "🥦",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3089,6 +3101,12 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "pretzel": {
+    "keywords": ["food", "bread", "twisted"],
+    "char": "🥨",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "cheese": {
     "keywords": ["food", "chadder"],
     "char": "🧀",
@@ -3104,6 +3122,12 @@
   "bacon": {
     "keywords": ["food", "breakfast", "pork", "pig", "meat"],
     "char": "🥓",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "steak": {
+    "keywords": ["food", "cow", "meat", "cut", "chop", "lambchop", "porkchop"],
+    "char": "🥩",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3167,6 +3191,18 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "sandwich": {
+    "keywords": ["food", "lunch", "bread"],
+    "char": "🥪",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "canned_food": {
+    "keywords": ["food", "soup"],
+    "char": "🥫",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "spaghetti": {
     "keywords": ["food", "italian", "noodle"],
     "char": "🍝",
@@ -3212,6 +3248,12 @@
   "fish_cake": {
     "keywords": ["food", "japan", "sea", "beach", "narutomaki", "pink", "swirl", "kamaboko", "surimi", "ramen"],
     "char": "🍥",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "fortune_cookie": {
+    "keywords": ["food", "prophecy"],
+    "char": "🥠",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3281,6 +3323,12 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "pie": {
+    "keywords": ["food", "dessert", "pastry"],
+    "char": "🥧",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "cake": {
     "keywords": ["food", "dessert"],
     "char": "🍰",
@@ -3320,6 +3368,12 @@
   "popcorn": {
     "keywords": ["food", "movie theater", "films", "snack"],
     "char": "🍿",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "dumpling": {
+    "keywords": ["food", "empanada", "pierogi", "potsticker"],
+    "char": "🥟",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3401,6 +3455,12 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "cup_with_straw": {
+    "keywords": ["drink", "soda"],
+    "char": "🥤",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "coffee": {
     "keywords": ["beverage", "caffeine", "latte", "espresso"],
     "char": "☕",
@@ -3428,6 +3488,24 @@
   "plate_with_cutlery": {
     "keywords": ["food", "eat", "meal", "lunch", "dinner", "restaurant"],
     "char": "🍽",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "bowl_with_spoon": {
+    "keywords": ["food", "breakfast", "cereal", "oatmeal", "porridge"],
+    "char": "🥣",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "takeout_box": {
+    "keywords": ["food", "leftovers"],
+    "char": "🥡",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "chopsticks": {
+    "keywords": ["food"],
+    "char": "🥢",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
