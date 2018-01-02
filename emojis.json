@@ -3713,6 +3713,18 @@
     "fitzpatrick_scale": false,
     "category": "activity"
   },
+  "curling_stone": {
+    "keywords": ["sports"],
+    "char": "🥌",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
+  "sled": {
+    "keywords": ["sleigh", "luge", "toboggan"],
+    "char": "🛷",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
   "bow_and_arrow": {
     "keywords": ["sports"],
     "char": "🏹",
@@ -4286,6 +4298,12 @@
   "station": {
     "keywords": ["transportation", "vehicle", "public"],
     "char": "🚉",
+    "fitzpatrick_scale": false,
+    "category": "travel_and_places"
+  },
+  "flying_saucer": {
+    "keywords": ["transportation", "vehicle", "ufo"],
+    "char": "🛸",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -8894,6 +8912,24 @@
   "uk": {
     "keywords": ["united", "kingdom", "great", "britain", "northern", "ireland", "flag", "nation", "country", "banner", "british", "UK", "english", "england", "union jack"],
     "char": "🇬🇧",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+  "england": {
+    "keywords": ["flag", "english"],
+    "char": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+  "scotland": {
+    "keywords": ["flag", "scottish"],
+    "char": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+  "wales": {
+    "keywords": ["flag", "welsh"],
+    "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
     "fitzpatrick_scale": false,
     "category": "flags"
   },
