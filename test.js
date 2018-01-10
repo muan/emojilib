@@ -60,8 +60,12 @@ if (keys.length !== numberOfEmojis) {
 //
 console.log('TEST: Ordered keys are up to date')
 
+ordered_keys_not_in_keys = orderd_keys.filter(function(key) { return keys.indexOf(key) < 0})
 if (orderd_keys.length !== numberOfEmojis) {
   console.log('There are ' + numberOfEmojis + ' emojis, but keys contains ' + orderd_keys.length + ' emojis.')
+  failed()
+} else if (ordered_keys_not_in_keys.length > 0) {
+  console.log('Failed to find ' + ordered_keys_not_in_keys.join(', ') + ' in emojis.json.')
   failed()
 } else {
   passed()
