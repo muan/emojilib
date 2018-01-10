@@ -8,7 +8,8 @@
     "index.js",
     "ordered.json",
     "LICENSE",
-    "package.json"
+    "package.json",
+    "simplemap.json"
   ],
   "scripts": {
     "build": "node build.js",
