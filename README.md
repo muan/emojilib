@@ -67,3 +67,4 @@ false
 * [EmojiPanel for Twitter](http://bit.ly/emojipanel) - [danbovey/EmojiPanel](https://github.com/danbovey/EmojiPanel)
 * [mojibrag](https://mojibrag.firebaseapp.com/) - [notwaldorf/mojibrag](https://github.com/notwaldorf/mojibrag)
 * [Emoji Alfred Workflow](https://www.npmjs.com/package/emoji-alfred-workflow) - [janclarin/emoji-alfred-workflow](https://github.com/janclarin/emoji-alfred-workflow)
+* [(Another) Alfred Workflow for Emoji](https://www.alfredforum.com/topic/11126-alfred-emoji-search-emojis-by-name-or-keyword/) - [jsumners/alfred-emoji](https://github.com/jsumners/alfred-emoji)
