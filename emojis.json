@@ -3444,7 +3444,7 @@
     "category": "food_and_drink"
   },
   "clinking_glasses": {
-    "keywords": ["beverage", "drink", "party", "alcohol", "celebrate", "cheers"],
+    "keywords": ["beverage", "drink", "party", "alcohol", "celebrate", "cheers", "wine", "champagne", "toast"],
     "char": "🥂",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
