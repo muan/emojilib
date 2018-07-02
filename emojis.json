@@ -1304,13 +1304,13 @@
   "woman_fairy": {
     "keywords": ["woman", "female"],
     "char": "🧚‍♀️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_fairy": {
     "keywords": ["man", "male"],
     "char": "🧚‍♂️",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "people"
   },
   "angel": {
@@ -3662,7 +3662,7 @@
   "snowboarder": {
     "keywords": ["sports", "winter"],
     "char": "🏂",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "activity"
   },
   "person_fencing": {
