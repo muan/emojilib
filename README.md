@@ -4,12 +4,6 @@ Emoji keyword library.
 
 ## Install
 
-### :bird: Bower<br>![](https://img.shields.io/bower/v/emojilib.svg?style=flat-square)
-
-```
-bower install emojilib
-```
-
 ### :package: NPM<br>![](https://img.shields.io/npm/v/emojilib.svg?style=flat-square)
 
 ```
