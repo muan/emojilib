@@ -1835,6 +1835,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "labcoat": {
+    "keywords": ["doctor", "experiment", "scientist", "chemist"],
+    "char": "🥼",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "womans_clothes": {
     "keywords": ["fashion", "shopping_bags", "female"],
     "char": "👚",
@@ -1895,6 +1901,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "flat_shoe": {
+    "keywords": ["ballet", "slip-on", "slipper"],
+    "char": "🥿",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "high_heel": {
     "keywords": ["fashion", "shoes", "female", "pumps", "stiletto"],
     "char": "👠",
@@ -1922,6 +1934,12 @@
   "athletic_shoe": {
     "keywords": ["shoes", "sports", "sneakers"],
     "char": "👟",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "hiking_boot": {
+    "keywords": ["backpacking", "camping", "hiking"],
+    "char": "🥾",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -2018,6 +2036,12 @@
   "dark_sunglasses": {
     "keywords": ["face", "cool", "accessories"],
     "char": "🕶",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "goggles": {
+    "keywords": ["eyes", "protection", "safety"],
+    "char": "🥽",
     "fitzpatrick_scale": false,
     "category": "people"
   },
