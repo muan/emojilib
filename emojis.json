@@ -29,6 +29,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "partying": {
+    "keywords": ["face", "celebration", "woohoo"],
+    "char": "🥳",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "smiley": {
     "keywords": ["face", "happy", "joy", "haha", ":D", ":)", "smile", "funny"],
     "char": "😃",
@@ -104,6 +110,12 @@
   "heart_eyes": {
     "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "crush", "heart"],
     "char": "😍",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "smiling_face_with_three_hearts": {
+    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "crush", "hearts", "adore"],
+    "char": "🥰",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -359,6 +371,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "pleading": {
+    "keywords": ["face", "begging", "mercy"],
+    "char": "🥺",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "triumph": {
     "keywords": ["face", "gas", "phew", "proud", "pride"],
     "char": "😤",
@@ -437,6 +455,18 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "hot": {
+    "keywords": ["face", "feverish", "heat", "red", "sweating"],
+    "char": "🥵",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "cold": {
+    "keywords": ["face", "blue", "freezing", "frozen", "frostbite", "icicles"],
+    "char": "🥶",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "sob": {
     "keywords": ["face", "cry", "tears", "sad", "upset", "depressed"],
     "char": "😭",
@@ -494,6 +524,12 @@
   "face_with_head_bandage": {
     "keywords": ["injured", "clumsy", "bandage", "hurt"],
     "char": "🤕",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "woozy": {
+    "keywords": ["face", "dizzy", "intoxicated", "tipsy", "wavy"],
+    "char": "🥴",
     "fitzpatrick_scale": false,
     "category": "people"
   },
