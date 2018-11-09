@@ -761,6 +761,18 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "foot": {
+    "keywords": ["kick", "stomp"],
+    "char": "🦶",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "leg": {
+    "keywords": ["kick", "limb"],
+    "char": "🦵",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "handshake": {
     "keywords": ["agreement", "shake"],
     "char": "🤝",
@@ -854,6 +866,12 @@
   "lips": {
     "keywords": ["mouth", "kiss"],
     "char": "👄",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "tooth": {
+    "keywords": ["teeth", "dentist"],
+    "char": "🦷",
     "fitzpatrick_scale": false,
     "category": "people"
   },
