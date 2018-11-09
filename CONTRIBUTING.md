@@ -11,11 +11,11 @@ Thanks for thinking about contributing to this project. :heart_eyes:
     :x: `'a'`<br>
     :o: `"a"`
 
-  - A space follwing comma and colon:<br>
+  - A space following comma and colon:<br>
     :x: `"horse":["animal","unicorn"],`<br>
     :o: `"horse": ["animal", "unicorn"],`
 
-## Commiting, sending the pull request
+## Committing, sending the pull request
 
 - It's preferred that when adding a keyword to one specific emoji, you use that emoji or a relevant emoji as the commit message. For example: [`2a34a84`](https://github.com/muan/emojilib/commit/2a34a84576ec1565587bb78ff465844c835819ad)
 
