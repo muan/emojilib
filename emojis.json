@@ -1253,6 +1253,30 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "woman_superhero": {
+    "keywords": ["woman", "female", "good", "heroine", "superpowers"],
+    "char": "🦸‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_superhero": {
+    "keywords": ["man", "male", "good", "hero", "superpowers"],
+    "char": "🦸‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_supervillain": {
+    "keywords": ["woman", "female", "evil", "bad", "criminal", "heroine", "superpowers"],
+    "char": "🦹‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_supervillain": {
+    "keywords": ["man", "male", "evil", "bad", "criminal", "hero", "superpowers"],
+    "char": "🦹‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "mrs_claus": {
     "keywords": ["woman", "female", "xmas", "mother christmas"],
     "char": "🤶",

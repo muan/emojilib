@@ -19,7 +19,7 @@ var reveal = function () {
 }
 
 var categories = {
-  people: 332,
+  people: 336,
   animals_and_nature: 167,
   food_and_drink: 98,
   activity: 89,
