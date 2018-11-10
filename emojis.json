@@ -6312,7 +6312,7 @@
     "category": "symbols"
   },
   "x": {
-    "keywords": ["no", "delete", "remove", "cancel"],
+    "keywords": ["no", "delete", "remove", "cancel", "red"],
     "char": "❌",
     "fitzpatrick_scale": false,
     "category": "symbols"
