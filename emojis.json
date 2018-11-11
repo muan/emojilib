@@ -7061,6 +7061,12 @@
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
+  "infinity": {
+    "keywords": ["forever"],
+    "char": "♾",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
   "heavy_dollar_sign": {
     "keywords": ["money", "sales", "payment", "currency", "buck"],
     "char": "💲",

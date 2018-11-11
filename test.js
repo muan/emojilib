@@ -25,7 +25,7 @@ var categories = {
   activity: 89,
   travel_and_places: 119,
   objects: 180,
-  symbols: 273,
+  symbols: 274,
   flags: 250
 }
 
