@@ -9010,5 +9010,17 @@
     "char": "🇿🇼",
     "fitzpatrick_scale": false,
     "category": "flags"
+  },
+  "united_nations": {
+    "keywords": ["un", "flag", "banner"],
+    "char": "🇺🇳",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+  "pirate_flag": {
+    "keywords": ["skull", "crossbones", "flag", "banner"],
+    "char": "🏴‍☠️",
+    "fitzpatrick_scale": false,
+    "category": "flags"
   }
 }
