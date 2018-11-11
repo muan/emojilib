@@ -2489,6 +2489,66 @@
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
+  "raccoon": {
+    "keywords": ["animal", "nature"],
+    "char": "🦝",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "llama": {
+    "keywords": ["animal", "nature", "alpaca"],
+    "char": "🦙",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "hippopotamus": {
+    "keywords": ["animal", "nature"],
+    "char": "🦛",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "kangaroo": {
+    "keywords": ["animal", "nature", "australia", "joey", "hop", "marsupial"],
+    "char": "🦘",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "badger": {
+    "keywords": ["animal", "nature", "honey"],
+    "char": "🦡",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "swan": {
+    "keywords": ["animal", "nature", "bird"],
+    "char": "🦢",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "peacock": {
+    "keywords": ["animal", "nature", "peahen", "bird"],
+    "char": "🦚",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "parrot": {
+    "keywords": ["animal", "nature", "bird", "pirate", "talk"],
+    "char": "🦜",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "lobster": {
+    "keywords": ["animal", "nature", "bisque", "claws", "seafood"],
+    "char": "🦞",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "mosquito": {
+    "keywords": ["animal", "nature", "insect", "malaria"],
+    "char": "🦟",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
   "paw_prints": {
     "keywords": ["animal", "tracking", "footprints", "dog", "cat", "pet", "feet"],
     "char": "🐾",
