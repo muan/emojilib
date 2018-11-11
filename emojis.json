@@ -1829,6 +1829,18 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "yarn": {
+    "keywords": ["ball", "crochet", "knit"],
+    "char": "🧶",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "thread": {
+    "keywords": ["needle", "sewing", "spool", "string"],
+    "char": "🧵",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "coat": {
     "keywords": ["jacket"],
     "char": "🧥",
@@ -2000,6 +2012,12 @@
   "school_satchel": {
     "keywords": ["student", "education", "bag", "backpack"],
     "char": "🎒",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "luggage": {
+    "keywords": ["packing", "travel"],
+    "char": "🧳",
     "fitzpatrick_scale": false,
     "category": "people"
   },
