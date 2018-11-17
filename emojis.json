@@ -3731,6 +3731,12 @@
     "fitzpatrick_scale": false,
     "category": "activity"
   },
+  "softball": {
+    "keywords": ["sports", "balls"],
+    "char": "🥎",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
   "tennis": {
     "keywords": ["sports", "balls", "green"],
     "char": "🎾",
@@ -3746,6 +3752,12 @@
   "rugby_football": {
     "keywords": ["sports", "team"],
     "char": "🏉",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
+  "flying_disc": {
+    "keywords": ["sports", "frisbee", "ultimate"],
+    "char": "🥏",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -3800,6 +3812,12 @@
   "field_hockey": {
     "keywords": ["sports"],
     "char": "🏑",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
+  "lacrosse": {
+    "keywords": ["sports", "ball", "stick"],
+    "char": "🥍",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -3878,6 +3896,12 @@
   "curling_stone": {
     "keywords": ["sports"],
     "char": "🥌",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
+  "skateboard": {
+    "keywords": ["board"],
+    "char": "🛹",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -4229,9 +4253,21 @@
     "fitzpatrick_scale": false,
     "category": "activity"
   },
+  "chess_pawn": {
+    "keywords": ["expendable"],
+    "char": "♟",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
   "slot_machine": {
     "keywords": ["bet", "gamble", "vegas", "fruit machine", "luck", "casino"],
     "char": "🎰",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
+  "jigsaw": {
+    "keywords": ["interlocking", "puzzle", "piece"],
+    "char": "🧩",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
