@@ -19,14 +19,14 @@ var reveal = function () {
 }
 
 var categories = {
-  people: 326,
+  people: 346,
   animals_and_nature: 167,
-  food_and_drink: 98,
+  food_and_drink: 105,
   activity: 89,
   travel_and_places: 119,
   objects: 202,
   symbols: 274,
-  flags: 250
+  flags: 252
 }
 
 // Calculate numbeer of emojis from categories
