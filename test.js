@@ -26,7 +26,7 @@ var categories = {
   travel_and_places: 119,
   objects: 180,
   symbols: 273,
-  flags: 250
+  flags: 252
 }
 
 // Calculate numbeer of emojis from categories
