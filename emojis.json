@@ -29,6 +29,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "partying": {
+    "keywords": ["face", "celebration", "woohoo"],
+    "char": "🥳",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "smiley": {
     "keywords": ["face", "happy", "joy", "haha", ":D", ":)", "smile", "funny"],
     "char": "😃",
@@ -104,6 +110,12 @@
   "heart_eyes": {
     "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "crush", "heart"],
     "char": "😍",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "smiling_face_with_three_hearts": {
+    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "crush", "hearts", "adore"],
+    "char": "🥰",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -359,6 +371,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "pleading": {
+    "keywords": ["face", "begging", "mercy"],
+    "char": "🥺",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "triumph": {
     "keywords": ["face", "gas", "phew", "proud", "pride"],
     "char": "😤",
@@ -437,6 +455,18 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "hot": {
+    "keywords": ["face", "feverish", "heat", "red", "sweating"],
+    "char": "🥵",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "cold": {
+    "keywords": ["face", "blue", "freezing", "frozen", "frostbite", "icicles"],
+    "char": "🥶",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "sob": {
     "keywords": ["face", "cry", "tears", "sad", "upset", "depressed"],
     "char": "😭",
@@ -494,6 +524,12 @@
   "face_with_head_bandage": {
     "keywords": ["injured", "clumsy", "bandage", "hurt"],
     "char": "🤕",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "woozy": {
+    "keywords": ["face", "dizzy", "intoxicated", "tipsy", "wavy"],
+    "char": "🥴",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -725,6 +761,18 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "foot": {
+    "keywords": ["kick", "stomp"],
+    "char": "🦶",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "leg": {
+    "keywords": ["kick", "limb"],
+    "char": "🦵",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "handshake": {
     "keywords": ["agreement", "shake"],
     "char": "🤝",
@@ -818,6 +866,12 @@
   "lips": {
     "keywords": ["mouth", "kiss"],
     "char": "👄",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "tooth": {
+    "keywords": ["teeth", "dentist"],
+    "char": "🦷",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -1214,6 +1268,30 @@
   "man_judge": {
     "keywords": ["justice", "court", "man", "human"],
     "char": "👨‍⚖️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_superhero": {
+    "keywords": ["woman", "female", "good", "heroine", "superpowers"],
+    "char": "🦸‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_superhero": {
+    "keywords": ["man", "male", "good", "hero", "superpowers"],
+    "char": "🦸‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_supervillain": {
+    "keywords": ["woman", "female", "evil", "bad", "criminal", "heroine", "superpowers"],
+    "char": "🦹‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_supervillain": {
+    "keywords": ["man", "male", "evil", "bad", "criminal", "hero", "superpowers"],
+    "char": "🦹‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1751,9 +1829,27 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "yarn": {
+    "keywords": ["ball", "crochet", "knit"],
+    "char": "🧶",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "thread": {
+    "keywords": ["needle", "sewing", "spool", "string"],
+    "char": "🧵",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "coat": {
     "keywords": ["jacket"],
     "char": "🧥",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "labcoat": {
+    "keywords": ["doctor", "experiment", "scientist", "chemist"],
+    "char": "🥼",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -1817,6 +1913,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "flat_shoe": {
+    "keywords": ["ballet", "slip-on", "slipper"],
+    "char": "🥿",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "high_heel": {
     "keywords": ["fashion", "shoes", "female", "pumps", "stiletto"],
     "char": "👠",
@@ -1844,6 +1946,12 @@
   "athletic_shoe": {
     "keywords": ["shoes", "sports", "sneakers"],
     "char": "👟",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "hiking_boot": {
+    "keywords": ["backpacking", "camping", "hiking"],
+    "char": "🥾",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -1907,6 +2015,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "luggage": {
+    "keywords": ["packing", "travel"],
+    "char": "🧳",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "pouch": {
     "keywords": ["bag", "accessories", "shopping"],
     "char": "👝",
@@ -1940,6 +2054,12 @@
   "dark_sunglasses": {
     "keywords": ["face", "cool", "accessories"],
     "char": "🕶",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "goggles": {
+    "keywords": ["eyes", "protection", "safety"],
+    "char": "🥽",
     "fitzpatrick_scale": false,
     "category": "people"
   },
