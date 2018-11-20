@@ -14,7 +14,7 @@
   "scripts": {
     "build": "node build.js",
     "prepublish": "npm run build",
-    "test": "phantomjs test.js"
+    "test": "node test.js | tap-spec"
   },
   "repository": {
     "type": "git",
@@ -34,6 +34,8 @@
   "devDependencies": {
     "JSONStream": "^1.0.4",
     "format-json-stream": "^0.1.5",
-    "phantomjs": "^1.9.17"
-  }
+    "tap-spec": "^5.0.0",
+    "tape": "^4.9.1"
+  },
+  "dependencies": {}
 }
