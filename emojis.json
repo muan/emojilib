@@ -971,6 +971,30 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "curly_hair_woman": {
+    "keywords": ["woman", "female", "girl", "curly", "afro", "braids", "ringlets"],
+    "char": "👩‍🦱",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "curly_hair_man": {
+    "keywords": ["man", "male", "boy", "guy", "curly", "afro", "braids", "ringlets"],
+    "char": "👨‍🦱",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "red_hair_woman": {
+    "keywords": ["woman", "female", "girl", "ginger", "redhead"],
+    "char": "👩‍🦰",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "red_hair_man": {
+    "keywords": ["man", "male", "boy", "guy", "ginger", "redhead"],
+    "char": "👨‍🦰",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "blonde_woman": {
     "keywords": ["woman", "female", "girl", "blonde", "person"],
     "char": "👱‍♀️",
@@ -980,6 +1004,30 @@
   "blonde_man": {
     "keywords": ["man", "male", "boy", "blonde", "guy", "person"],
     "char": "👱",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "white_hair_woman": {
+    "keywords": ["woman", "female", "girl", "gray", "old", "white"],
+    "char": "👩‍🦳",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "white_hair_man": {
+    "keywords": ["man", "male", "boy", "guy", "gray", "old", "white"],
+    "char": "👨‍🦳",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "bald_woman": {
+    "keywords": ["woman", "female", "girl", "bald", "chemotherapy", "hairless", "shaven"],
+    "char": "👩‍🦲",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "bald_man": {
+    "keywords": ["man", "male", "boy", "guy", "bald", "chemotherapy", "hairless", "shaven"],
+    "char": "👨‍🦲",
     "fitzpatrick_scale": true,
     "category": "people"
   },
