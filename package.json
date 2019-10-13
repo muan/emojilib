@@ -34,9 +34,11 @@
   "devDependencies": {
     "JSONStream": "^1.0.4",
     "format-json-stream": "^0.1.5",
+    "prettier": "^1.18.2",
+    "prompts": "^2.2.1",
     "tap-spec": "^5.0.0",
     "tape": "^4.9.1",
-    "unicode-emoji-json": "0.0.1"
+    "unicode-emoji-json": "0.0.2"
   },
   "dependencies": {}
 }
