@@ -1003,7 +1003,7 @@
   },
   "blonde_man": {
     "keywords": ["man", "male", "boy", "blonde", "guy", "person"],
-    "char": "👱",
+    "char": "👱‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1051,7 +1051,7 @@
   },
   "man_with_turban": {
     "keywords": ["male", "indian", "hinduism", "arabs"],
-    "char": "👳",
+    "char": "👳‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1063,7 +1063,7 @@
   },
   "policeman": {
     "keywords": ["man", "police", "law", "legal", "enforcement", "arrest", "911"],
-    "char": "👮",
+    "char": "👮‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1075,7 +1075,7 @@
   },
   "construction_worker_man": {
     "keywords": ["male", "human", "wip", "guy", "build", "construction", "worker", "labor"],
-    "char": "👷",
+    "char": "👷‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1087,7 +1087,7 @@
   },
   "guardsman": {
     "keywords": ["uk", "gb", "british", "male", "guy", "royal"],
-    "char": "💂",
+    "char": "💂‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1465,13 +1465,13 @@
   },
   "bowing_man": {
     "keywords": ["man", "male", "boy"],
-    "char": "🙇",
+    "char": "🙇‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
   "tipping_hand_woman": {
     "keywords": ["female", "girl", "woman", "human", "information"],
-    "char": "💁",
+    "char": "💁‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1483,7 +1483,7 @@
   },
   "no_good_woman": {
     "keywords": ["female", "girl", "woman", "nope"],
-    "char": "🙅",
+    "char": "🙅‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1495,7 +1495,7 @@
   },
   "ok_woman": {
     "keywords": ["women", "girl", "female", "pink", "human", "woman"],
-    "char": "🙆",
+    "char": "🙆‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1507,7 +1507,7 @@
   },
   "raising_hand_woman": {
     "keywords": ["female", "girl", "woman"],
-    "char": "🙋",
+    "char": "🙋‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1531,7 +1531,7 @@
   },
   "woman_shrugging": {
     "keywords": ["woman", "female", "girl", "confused", "indifferent", "doubt"],
-    "char": "🤷",
+    "char": "🤷‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1543,7 +1543,7 @@
   },
   "pouting_woman": {
     "keywords": ["female", "girl", "woman"],
-    "char": "🙎",
+    "char": "🙎‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1555,7 +1555,7 @@
   },
   "frowning_woman": {
     "keywords": ["female", "girl", "woman", "sad", "depressed", "discouraged", "unhappy"],
-    "char": "🙍",
+    "char": "🙍‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1567,7 +1567,7 @@
   },
   "haircut_woman": {
     "keywords": ["female", "girl", "woman"],
-    "char": "💇",
+    "char": "💇‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1579,7 +1579,7 @@
   },
   "massage_woman": {
     "keywords": ["female", "girl", "woman", "head"],
-    "char": "💆",
+    "char": "💆‍♀️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1627,7 +1627,7 @@
   },
   "dancing_women": {
     "keywords": ["female", "bunny", "women", "girls"],
-    "char": "👯",
+    "char": "👯‍♀️",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -1651,7 +1651,7 @@
   },
   "walking_man": {
     "keywords": ["human", "feet", "steps"],
-    "char": "🚶",
+    "char": "🚶‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1663,7 +1663,7 @@
   },
   "running_man": {
     "keywords": ["man", "walking", "exercise", "race", "running"],
-    "char": "🏃",
+    "char": "🏃‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -4015,7 +4015,7 @@
   },
   "rowing_man": {
     "keywords": ["sports", "hobby", "water", "ship"],
-    "char": "🚣",
+    "char": "🚣‍♂️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -4039,7 +4039,7 @@
   },
   "swimming_man": {
     "keywords": ["sports", "exercise", "human", "athlete", "water", "summer"],
-    "char": "🏊",
+    "char": "🏊‍♂️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -4075,7 +4075,7 @@
   },
   "surfing_man": {
     "keywords": ["sports", "ocean", "sea", "summer", "beach"],
-    "char": "🏄",
+    "char": "🏄‍♂️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -4111,7 +4111,7 @@
   },
   "biking_man": {
     "keywords": ["sports", "bike", "exercise", "hipster"],
-    "char": "🚴",
+    "char": "🚴‍♂️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -4123,7 +4123,7 @@
   },
   "mountain_biking_man": {
     "keywords": ["transportation", "sports", "human", "race", "bike"],
-    "char": "🚵",
+    "char": "🚵‍♂️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
