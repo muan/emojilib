@@ -35,7 +35,8 @@
     "JSONStream": "^1.0.4",
     "format-json-stream": "^0.1.5",
     "tap-spec": "^5.0.0",
-    "tape": "^4.9.1"
+    "tape": "^4.9.1",
+    "unicode-emoji-json": "0.0.1"
   },
   "dependencies": {}
 }
