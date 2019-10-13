@@ -235,7 +235,7 @@
   },
   "frowning_face": {
     "keywords": ["face", "sad", "upset", "frown"],
-    "char": "☹",
+    "char": "☹️",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -583,7 +583,7 @@
   },
   "skull_and_crossbones": {
     "keywords": ["poison", "danger", "deadly", "scary", "death", "pirate", "evil"],
-    "char": "☠",
+    "char": "☠️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -739,7 +739,7 @@
   },
   "v": {
     "keywords": ["fingers", "ohyeah", "hand", "peace", "victory", "two"],
-    "char": "✌",
+    "char": "✌️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -775,7 +775,7 @@
   },
   "point_up": {
     "keywords": ["hand", "fingers", "direction", "up"],
-    "char": "☝",
+    "char": "☝️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -805,7 +805,7 @@
   },
   "raised_hand_with_fingers_splayed": {
     "keywords": ["hand", "fingers", "palm"],
-    "char": "🖐",
+    "char": "🖐️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -841,7 +841,7 @@
   },
   "writing_hand": {
     "keywords": ["lower_left_ballpoint_pen", "stationery", "write", "compose"],
-    "char": "✍",
+    "char": "✍️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -919,7 +919,7 @@
   },
   "eye": {
     "keywords": ["face", "look", "see", "watch", "stare"],
-    "char": "👁",
+    "char": "👁️",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -937,7 +937,7 @@
   },
   "speaking_head": {
     "keywords": ["user", "person", "human", "sing", "say", "talk"],
-    "char": "🗣",
+    "char": "🗣️",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -1099,7 +1099,7 @@
   },
   "male_detective": {
     "keywords": ["human", "spy", "detective"],
-    "char": "🕵",
+    "char": "🕵️",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1639,7 +1639,7 @@
   },
   "business_suit_levitating": {
     "keywords": ["suit", "business", "levitate", "hover", "jump"],
-    "char": "🕴",
+    "char": "🕴️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -2023,7 +2023,7 @@
   },
   "rescue_worker_helmet": {
     "keywords": ["construction", "build"],
-    "char": "⛑",
+    "char": "⛑️",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -2077,7 +2077,7 @@
   },
   "dark_sunglasses": {
     "keywords": ["face", "cool", "accessories"],
-    "char": "🕶",
+    "char": "🕶️",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -2353,13 +2353,13 @@
   },
   "spider": {
     "keywords": ["animal", "arachnid"],
-    "char": "🕷",
+    "char": "🕷️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
   "spider_web": {
     "keywords": ["animal", "insect", "arachnid", "silk"],
-    "char": "🕸",
+    "char": "🕸️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -2653,7 +2653,7 @@
   },
   "dove": {
     "keywords": ["animal", "bird"],
-    "char": "🕊",
+    "char": "🕊️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -2689,7 +2689,7 @@
   },
   "chipmunk": {
     "keywords": ["animal", "nature", "rodent", "squirrel"],
-    "char": "🐿",
+    "char": "🐿️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -2761,7 +2761,7 @@
   },
   "shamrock": {
     "keywords": ["vegetable", "plant", "nature", "irish", "clover"],
-    "char": "☘",
+    "char": "☘️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -2989,7 +2989,7 @@
   },
   "comet": {
     "keywords": ["space"],
-    "char": "☄",
+    "char": "☄️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3001,7 +3001,7 @@
   },
   "sun_behind_small_cloud": {
     "keywords": ["weather"],
-    "char": "🌤",
+    "char": "🌤️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3013,13 +3013,13 @@
   },
   "sun_behind_large_cloud": {
     "keywords": ["weather"],
-    "char": "🌥",
+    "char": "🌥️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
   "sun_behind_rain_cloud": {
     "keywords": ["weather"],
-    "char": "🌦",
+    "char": "🌦️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3031,19 +3031,19 @@
   },
   "cloud_with_rain": {
     "keywords": ["weather"],
-    "char": "🌧",
+    "char": "🌧️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
   "cloud_with_lightning_and_rain": {
     "keywords": ["weather", "lightning"],
-    "char": "⛈",
+    "char": "⛈️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
   "cloud_with_lightning": {
     "keywords": ["weather", "thunder"],
-    "char": "🌩",
+    "char": "🌩️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3073,7 +3073,7 @@
   },
   "cloud_with_snow": {
     "keywords": ["weather"],
-    "char": "🌨",
+    "char": "🌨️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3085,13 +3085,13 @@
   },
   "snowman_with_snow": {
     "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "frozen"],
-    "char": "☃",
+    "char": "☃️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
   "wind_face": {
     "keywords": ["gust", "air"],
-    "char": "🌬",
+    "char": "🌬️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3103,19 +3103,19 @@
   },
   "tornado": {
     "keywords": ["weather", "cyclone", "twister"],
-    "char": "🌪",
+    "char": "🌪️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
   "fog": {
     "keywords": ["weather"],
-    "char": "🌫",
+    "char": "🌫️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
   "open_umbrella": {
     "keywords": ["weather", "spring"],
-    "char": "☂",
+    "char": "☂️",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3277,7 +3277,7 @@
   },
   "hot_pepper": {
     "keywords": ["food", "spicy", "chilli", "chili"],
-    "char": "🌶",
+    "char": "🌶️",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3751,7 +3751,7 @@
   },
   "plate_with_cutlery": {
     "keywords": ["food", "eat", "meal", "lunch", "dinner", "restaurant"],
-    "char": "🍽",
+    "char": "🍽️",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3853,7 +3853,7 @@
   },
   "golfing_man": {
     "keywords": ["sports", "business"],
-    "char": "🏌",
+    "char": "🏌️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -3907,7 +3907,7 @@
   },
   "skier": {
     "keywords": ["sports", "winter", "snow"],
-    "char": "⛷",
+    "char": "⛷️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -3961,7 +3961,7 @@
   },
   "ice_skate": {
     "keywords": ["sports"],
-    "char": "⛸",
+    "char": "⛸️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -4087,7 +4087,7 @@
   },
   "basketball_man": {
     "keywords": ["sports", "human"],
-    "char": "⛹",
+    "char": "⛹️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -4099,7 +4099,7 @@
   },
   "weight_lifting_man": {
     "keywords": ["sports", "training", "exercise"],
-    "char": "🏋",
+    "char": "🏋️",
     "fitzpatrick_scale": true,
     "category": "activity"
   },
@@ -4153,7 +4153,7 @@
   },
   "medal_military": {
     "keywords": ["award", "winning", "army"],
-    "char": "🎖",
+    "char": "🎖️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -4177,13 +4177,13 @@
   },
   "reminder_ribbon": {
     "keywords": ["sports", "cause", "support", "awareness"],
-    "char": "🎗",
+    "char": "🎗️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
   "rosette": {
     "keywords": ["flower", "decoration", "military"],
-    "char": "🏵",
+    "char": "🏵️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -4195,7 +4195,7 @@
   },
   "tickets": {
     "keywords": ["sports", "concert", "entrance"],
-    "char": "🎟",
+    "char": "🎟️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -4309,7 +4309,7 @@
   },
   "chess_pawn": {
     "keywords": ["expendable"],
-    "char": "♟",
+    "char": "♟️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },
@@ -4363,7 +4363,7 @@
   },
   "racing_car": {
     "keywords": ["sports", "race", "fast", "formula", "f1"],
-    "char": "🏎",
+    "char": "🏎️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4417,7 +4417,7 @@
   },
   "motorcycle": {
     "keywords": ["race", "sports", "fast"],
-    "char": "🏍",
+    "char": "🏍️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4567,7 +4567,7 @@
   },
   "small_airplane": {
     "keywords": ["flight", "transportation", "fly", "vehicle"],
-    "char": "🛩",
+    "char": "🛩️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4597,7 +4597,7 @@
   },
   "motor_boat": {
     "keywords": ["ship"],
-    "char": "🛥",
+    "char": "🛥️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4609,13 +4609,13 @@
   },
   "ferry": {
     "keywords": ["boat", "ship", "yacht"],
-    "char": "⛴",
+    "char": "⛴️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
   "passenger_ship": {
     "keywords": ["yacht", "cruise", "ferry"],
-    "char": "🛳",
+    "char": "🛳️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4627,7 +4627,7 @@
   },
   "artificial_satellite": {
     "keywords": ["communication", "gps", "orbit", "spaceflight", "NASA", "ISS"],
-    "char": "🛰",
+    "char": "🛰️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4705,7 +4705,7 @@
   },
   "building_construction": {
     "keywords": ["wip", "working", "progress"],
-    "char": "🏗",
+    "char": "🏗️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4741,13 +4741,13 @@
   },
   "mountain": {
     "keywords": ["photo", "nature", "environment"],
-    "char": "⛰",
+    "char": "⛰️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
   "mountain_snow": {
     "keywords": ["photo", "nature", "environment", "winter", "cold"],
-    "char": "🏔",
+    "char": "🏔️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4771,7 +4771,7 @@
   },
   "camping": {
     "keywords": ["photo", "outdoors", "tent"],
-    "char": "🏕",
+    "char": "🏕️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4783,19 +4783,19 @@
   },
   "national_park": {
     "keywords": ["photo", "environment", "nature"],
-    "char": "🏞",
+    "char": "🏞️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
   "motorway": {
     "keywords": ["road", "cupertino", "interstate", "highway"],
-    "char": "🛣",
+    "char": "🛣️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
   "railway_track": {
     "keywords": ["train", "transportation"],
-    "char": "🛤",
+    "char": "🛤️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4813,19 +4813,19 @@
   },
   "desert": {
     "keywords": ["photo", "warm", "saharah"],
-    "char": "🏜",
+    "char": "🏜️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
   "beach_umbrella": {
     "keywords": ["weather", "summer", "sunny", "sand", "mojito"],
-    "char": "🏖",
+    "char": "🏖️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
   "desert_island": {
     "keywords": ["photo", "tropical", "mojito"],
-    "char": "🏝",
+    "char": "🏝️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4843,7 +4843,7 @@
   },
   "cityscape": {
     "keywords": ["photo", "night life", "urban"],
-    "char": "🏙",
+    "char": "🏙️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4891,7 +4891,7 @@
   },
   "houses": {
     "keywords": ["buildings", "photo"],
-    "char": "🏘",
+    "char": "🏘️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4909,7 +4909,7 @@
   },
   "stadium": {
     "keywords": ["photo", "place", "sports", "concert", "venue"],
-    "char": "🏟",
+    "char": "🏟️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -4933,7 +4933,7 @@
   },
   "derelict_house": {
     "keywords": ["abandon", "evict", "broken", "building"],
-    "char": "🏚",
+    "char": "🏚️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -5005,7 +5005,7 @@
   },
   "classical_building": {
     "keywords": ["art", "culture", "history"],
-    "char": "🏛",
+    "char": "🏛️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -5035,7 +5035,7 @@
   },
   "shinto_shrine": {
     "keywords": ["temple", "japan", "kyoto"],
-    "char": "⛩",
+    "char": "⛩️",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -5065,43 +5065,43 @@
   },
   "keyboard": {
     "keywords": ["technology", "computer", "type", "input", "text"],
-    "char": "⌨",
+    "char": "⌨️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "desktop_computer": {
     "keywords": ["technology", "computing", "screen"],
-    "char": "🖥",
+    "char": "🖥️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "printer": {
     "keywords": ["paper", "ink"],
-    "char": "🖨",
+    "char": "🖨️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "computer_mouse": {
     "keywords": ["click"],
-    "char": "🖱",
+    "char": "🖱️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "trackball": {
     "keywords": ["technology", "trackpad"],
-    "char": "🖲",
+    "char": "🖲️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "joystick": {
     "keywords": ["game", "play"],
-    "char": "🕹",
+    "char": "🕹️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "clamp": {
     "keywords": ["tool"],
-    "char": "🗜",
+    "char": "🗜️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5161,13 +5161,13 @@
   },
   "film_projector": {
     "keywords": ["video", "tape", "record", "movie"],
-    "char": "📽",
+    "char": "📽️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "film_strip": {
     "keywords": ["movie"],
-    "char": "🎞",
+    "char": "🎞️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5209,19 +5209,19 @@
   },
   "studio_microphone": {
     "keywords": ["sing", "recording", "artist", "talkshow"],
-    "char": "🎙",
+    "char": "🎙️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "level_slider": {
     "keywords": ["scale"],
-    "char": "🎚",
+    "char": "🎚️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "control_knobs": {
     "keywords": ["dial"],
-    "char": "🎛",
+    "char": "🎛️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5233,13 +5233,13 @@
   },
   "stopwatch": {
     "keywords": ["time", "deadline"],
-    "char": "⏱",
+    "char": "⏱️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "timer_clock": {
     "keywords": ["alarm"],
-    "char": "⏲",
+    "char": "⏲️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5251,7 +5251,7 @@
   },
   "mantelpiece_clock": {
     "keywords": ["time"],
-    "char": "🕰",
+    "char": "🕰️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5299,7 +5299,7 @@
   },
   "candle": {
     "keywords": ["fire", "wax"],
-    "char": "🕯",
+    "char": "🕯️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5311,13 +5311,13 @@
   },
   "wastebasket": {
     "keywords": ["bin", "trash", "rubbish", "garbage", "toss"],
-    "char": "🗑",
+    "char": "🗑️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "oil_drum": {
     "keywords": ["barrell"],
-    "char": "🛢",
+    "char": "🛢️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5371,7 +5371,7 @@
   },
   "balance_scale": {
     "keywords": ["law", "fairness", "weight"],
-    "char": "⚖",
+    "char": "⚖️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5395,19 +5395,19 @@
   },
   "hammer_and_pick": {
     "keywords": ["tools", "build", "create"],
-    "char": "⚒",
+    "char": "⚒️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "hammer_and_wrench": {
     "keywords": ["tools", "build", "create"],
-    "char": "🛠",
+    "char": "🛠️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "pick": {
     "keywords": ["tools", "dig"],
-    "char": "⛏",
+    "char": "⛏️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5419,7 +5419,7 @@
   },
   "gear": {
     "keywords": ["cog"],
-    "char": "⚙",
+    "char": "⚙️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5431,7 +5431,7 @@
   },
   "chains": {
     "keywords": ["lock", "arrest"],
-    "char": "⛓",
+    "char": "⛓️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5467,19 +5467,19 @@
   },
   "dagger": {
     "keywords": ["weapon"],
-    "char": "🗡",
+    "char": "🗡️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "crossed_swords": {
     "keywords": ["weapon"],
-    "char": "⚔",
+    "char": "⚔️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "shield": {
     "keywords": ["protection", "security"],
-    "char": "🛡",
+    "char": "🛡️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5491,13 +5491,13 @@
   },
   "coffin": {
     "keywords": ["vampire", "dead", "die", "death", "rip", "graveyard", "cemetery", "casket", "funeral", "box"],
-    "char": "⚰",
+    "char": "⚰️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "funeral_urn": {
     "keywords": ["dead", "die", "death", "rip", "ashes"],
-    "char": "⚱",
+    "char": "⚱️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5533,7 +5533,7 @@
   },
   "alembic": {
     "keywords": ["distilling", "science", "experiment", "chemistry"],
-    "char": "⚗",
+    "char": "⚗️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5551,7 +5551,7 @@
   },
   "hole": {
     "keywords": ["embarrassing"],
-    "char": "🕳",
+    "char": "🕳️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5593,7 +5593,7 @@
   },
   "thermometer": {
     "keywords": ["weather", "temperature", "hot", "cold"],
-    "char": "🌡",
+    "char": "🌡️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5617,7 +5617,7 @@
   },
   "label": {
     "keywords": ["sale", "tag"],
-    "char": "🏷",
+    "char": "🏷️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5677,13 +5677,13 @@
   },
   "old_key": {
     "keywords": ["lock", "door", "password"],
-    "char": "🗝",
+    "char": "🗝️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "couch_and_lamp": {
     "keywords": ["read", "chill"],
-    "char": "🛋",
+    "char": "🛋️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5695,7 +5695,7 @@
   },
   "bed": {
     "keywords": ["sleep", "rest"],
-    "char": "🛏",
+    "char": "🛏️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5707,7 +5707,7 @@
   },
   "bellhop_bell": {
     "keywords": ["service"],
-    "char": "🛎",
+    "char": "🛎️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5719,19 +5719,19 @@
   },
   "framed_picture": {
     "keywords": ["photography"],
-    "char": "🖼",
+    "char": "🖼️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "world_map": {
     "keywords": ["location", "direction"],
-    "char": "🗺",
+    "char": "🗺️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "parasol_on_ground": {
     "keywords": ["weather", "summer"],
-    "char": "⛱",
+    "char": "⛱️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5743,7 +5743,7 @@
   },
   "shopping": {
     "keywords": ["mall", "buy", "purchase"],
-    "char": "🛍",
+    "char": "🛍️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5965,7 +5965,7 @@
   },
   "spiral_calendar": {
     "keywords": ["date", "schedule", "planning"],
-    "char": "🗓",
+    "char": "🗓️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -5977,19 +5977,19 @@
   },
   "card_file_box": {
     "keywords": ["business", "stationery"],
-    "char": "🗃",
+    "char": "🗃️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "ballot_box": {
     "keywords": ["election", "vote"],
-    "char": "🗳",
+    "char": "🗳️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "file_cabinet": {
     "keywords": ["filing", "organizing"],
-    "char": "🗄",
+    "char": "🗄️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -6001,7 +6001,7 @@
   },
   "spiral_notepad": {
     "keywords": ["memo", "stationery"],
-    "char": "🗒",
+    "char": "🗒️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -6019,13 +6019,13 @@
   },
   "card_index_dividers": {
     "keywords": ["organizing", "business", "stationery"],
-    "char": "🗂",
+    "char": "🗂️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "newspaper_roll": {
     "keywords": ["press", "headline"],
-    "char": "🗞",
+    "char": "🗞️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -6109,7 +6109,7 @@
   },
   "paperclips": {
     "keywords": ["documents", "stationery"],
-    "char": "🖇",
+    "char": "🖇️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -6175,13 +6175,13 @@
   },
   "pen": {
     "keywords": ["stationery", "writing", "write"],
-    "char": "🖊",
+    "char": "🖊️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "fountain_pen": {
     "keywords": ["stationery", "writing", "write"],
-    "char": "🖋",
+    "char": "🖋️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -6205,13 +6205,13 @@
   },
   "crayon": {
     "keywords": ["drawing", "creativity"],
-    "char": "🖍",
+    "char": "🖍️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
   "paintbrush": {
     "keywords": ["drawing", "creativity", "art"],
-    "char": "🖌",
+    "char": "🖌️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -6277,7 +6277,7 @@
   },
   "heavy_heart_exclamation": {
     "keywords": ["decoration", "love"],
-    "char": "❣",
+    "char": "❣️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -6331,37 +6331,37 @@
   },
   "peace_symbol": {
     "keywords": ["hippie"],
-    "char": "☮",
+    "char": "☮️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "latin_cross": {
     "keywords": ["christianity"],
-    "char": "✝",
+    "char": "✝️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "star_and_crescent": {
     "keywords": ["islam"],
-    "char": "☪",
+    "char": "☪️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "om": {
     "keywords": ["hinduism", "buddhism", "sikhism", "jainism"],
-    "char": "🕉",
+    "char": "🕉️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "wheel_of_dharma": {
     "keywords": ["hinduism", "buddhism", "sikhism", "jainism"],
-    "char": "☸",
+    "char": "☸️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "star_of_david": {
     "keywords": ["judaism"],
-    "char": "✡",
+    "char": "✡️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -6379,13 +6379,13 @@
   },
   "yin_yang": {
     "keywords": ["balance"],
-    "char": "☯",
+    "char": "☯️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "orthodox_cross": {
     "keywords": ["suppedaneum", "religion"],
-    "char": "☦",
+    "char": "☦️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -6481,7 +6481,7 @@
   },
   "atom_symbol": {
     "keywords": ["science", "physics", "chemistry"],
-    "char": "⚛",
+    "char": "⚛️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -6499,13 +6499,13 @@
   },
   "radioactive": {
     "keywords": ["nuclear", "danger"],
-    "char": "☢",
+    "char": "☢️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "biohazard": {
     "keywords": ["danger"],
-    "char": "☣",
+    "char": "☣️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -6793,7 +6793,7 @@
   },
   "fleur_de_lis": {
     "keywords": ["decorative", "scout"],
-    "char": "⚜",
+    "char": "⚜️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -7117,7 +7117,7 @@
   },
   "asterisk": {
     "keywords": ["star", "keycap"],
-    "char": "*⃣",
+    "char": "*️⃣",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -7141,37 +7141,37 @@
   },
   "pause_button": {
     "keywords": ["pause", "blue-square"],
-    "char": "⏸",
+    "char": "⏸️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "next_track_button": {
     "keywords": ["forward", "next", "blue-square"],
-    "char": "⏭",
+    "char": "⏭️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "stop_button": {
     "keywords": ["blue-square"],
-    "char": "⏹",
+    "char": "⏹️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "record_button": {
     "keywords": ["blue-square"],
-    "char": "⏺",
+    "char": "⏺️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "play_or_pause_button": {
     "keywords": ["blue-square", "play", "pause"],
-    "char": "⏯",
+    "char": "⏯️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "previous_track_button": {
     "keywords": ["backward"],
-    "char": "⏮",
+    "char": "⏮️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -7423,7 +7423,7 @@
   },
   "infinity": {
     "keywords": ["forever"],
-    "char": "♾",
+    "char": "♾️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -7717,7 +7717,7 @@
   },
   "right_anger_bubble": {
     "keywords": ["caption", "speech", "thinking", "mad"],
-    "char": "🗯",
+    "char": "🗯️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -7729,7 +7729,7 @@
   },
   "left_speech_bubble": {
     "keywords": ["words", "message", "talk", "chatting"],
-    "char": "🗨",
+    "char": "🗨️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -7879,7 +7879,7 @@
   },
   "white_flag": {
     "keywords": ["losing", "loser", "lost", "surrender", "give up", "fail"],
-    "char": "🏳",
+    "char": "🏳️",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
