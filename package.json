@@ -38,7 +38,7 @@
     "prompts": "^2.2.1",
     "tap-spec": "^5.0.0",
     "tape": "^4.9.1",
-    "unicode-emoji-json": "0.0.2"
+    "unicode-emoji-json": "^0.1.0"
   },
   "dependencies": {}
 }
