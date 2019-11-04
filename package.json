@@ -6,14 +6,10 @@
   "files": [
     "emojis.json",
     "index.js",
-    "ordered.json",
     "LICENSE",
     "package.json",
-    "simplemap.json"
   ],
   "scripts": {
-    "build": "node build.js",
-    "prepublish": "npm run build",
     "test": "node test.js | tap-spec"
   },
   "repository": {
