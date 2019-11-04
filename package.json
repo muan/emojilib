@@ -6,9 +6,7 @@
   "files": [
     "dist"
   ],
-  "scripts": {
-    "test": "node test.js | tap-spec"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/muan/emojilib.git"
@@ -25,12 +23,8 @@
   },
   "homepage": "https://github.com/muan/emojilib#readme",
   "devDependencies": {
-    "JSONStream": "^1.0.4",
-    "format-json-stream": "^0.1.5",
     "prettier": "^1.18.2",
     "prompts": "^2.2.1",
-    "tap-spec": "^5.0.0",
-    "tape": "^4.9.1",
     "unicode-emoji-json": "^0.1.0"
   },
   "dependencies": {}
