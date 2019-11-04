@@ -4,10 +4,7 @@
   "description": "Emoji keyword library.",
   "main": "dist/emoji-en-US.json",
   "files": [
-    "dist",
-    "index.js",
-    "LICENSE",
-    "package.json",
+    "dist"
   ],
   "scripts": {
     "test": "node test.js | tap-spec"
