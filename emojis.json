@@ -1524,13 +1524,13 @@
     "category": "people"
   },
   "woman_shrugging": {
-    "keywords": ["woman", "female", "girl", "confused", "indifferent", "doubt"],
+    "keywords": ["woman", "female", "girl", "confused", "indifferent", "doubt", "idk"],
     "char": "🤷",
     "fitzpatrick_scale": true,
     "category": "people"
   },
   "man_shrugging": {
-    "keywords": ["man", "male", "boy", "confused", "indifferent", "doubt"],
+    "keywords": ["man", "male", "boy", "confused", "indifferent", "doubt", "idk"],
     "char": "🤷‍♂️",
     "fitzpatrick_scale": true,
     "category": "people"
