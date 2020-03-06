@@ -678,7 +678,7 @@
     "category": "people"
   },
   "call_me_hand": {
-    "keywords": ["hands", "gesture"],
+    "keywords": ["hands", "gesture", "shaka"],
     "char": "🤙",
     "fitzpatrick_scale": true,
     "category": "people"
