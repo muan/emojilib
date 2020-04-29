@@ -64,3 +64,4 @@ false
 * [(Another) Alfred Workflow for Emoji](https://www.alfredforum.com/topic/11126-alfred-emoji-search-emojis-by-name-or-keyword/) - [jsumners/alfred-emoji](https://github.com/jsumners/alfred-emoji)
 * [Emojipasta Generator](http://erikyangs.com/emojipastagenerator/) - [erikyangs/emojipastagenerator](https://github.com/erikyangs/emojipastagenerator)
 * [Emoji Picker](https://emojipicker.app) - [joeattardi/emoji-picker](https://github.com/joeattardi/emoji-picker)
+* [Emoji for R and RMarkdown](https://github.com/hadley/emo/)
