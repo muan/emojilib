@@ -1568,5 +1568,10 @@
   "western_sahara",
   "yemen",
   "zambia",
-  "zimbabwe"
+  "zimbabwe",
+  "dollar_sign",
+  "euro_sign",
+  "pound_sign",
+  "indian_rupee_sign",
+  "yen_sign"
 ]

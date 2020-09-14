@@ -9418,5 +9418,35 @@
     "char": "🏴‍☠️",
     "fitzpatrick_scale": false,
     "category": "flags"
+  },
+  "pound_sign": {
+    "keywords": ["gbp", "british", "pound", "sterling", "currency"],
+    "char": "£",
+    "fitzpatrick_scale": false,
+    "category": "currency"
+  },
+  "euro_sign": {
+    "keywords": ["euro", "eur", "currency"],
+    "char": "€",
+    "fitzpatrick_scale": false,
+    "category": "currency"
+  },
+  "indian_rupee_sign": {
+    "keywords": ["inr", "rupee", "currency"],
+    "char": "₹",
+    "fitzpatrick_scale": false,
+    "category": "currency"
+  },
+  "yen_sign": {
+    "keywords": ["jpy", "yuan", "yen", "chinese", "japanese", "japan", "china", "currency"],
+    "char":"¥",
+    "fitzpatrick_scale": false,
+    "category": "currency"
+  },
+  "dollar_sign": {
+    "keywords": ["dollar", "usd", "sgd", "currency"],
+    "char": "$",
+    "fitzpatrick_scale": false,
+    "category": "currency"
   }
 }
