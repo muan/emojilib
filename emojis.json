@@ -3269,6 +3269,18 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "garlic": {
+    "keywords": ["food", "garlic"],
+    "char": "🧄",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "onion": {
+    "keywords": ["food", "onion"],
+    "char": "🧅",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "hot_pepper": {
     "keywords": ["food", "spicy", "chilli", "chili"],
     "char": "🌶",
