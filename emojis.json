@@ -3270,13 +3270,13 @@
     "category": "food_and_drink"
   },
   "garlic": {
-    "keywords": ["food", "garlic"],
+    "keywords": ["food"],
     "char": "🧄",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
   "onion": {
-    "keywords": ["food", "onion"],
+    "keywords": ["food"],
     "char": "🧅",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
