@@ -32,7 +32,7 @@ npm install emojilib --save
 }
 ```
 
-If you are looking for the unicode emoji dataset, including version, grouping, ordering, skin tone suppoer, check out [`unicode-emoji-json`](https://github.com/muan/unicode-emoji-json).
+If you are looking for the unicode emoji dataset, including version, grouping, ordering, and skin tone support flag, check out [`unicode-emoji-json`](https://github.com/muan/unicode-emoji-json).
 
 ## Development
 
