@@ -7,8 +7,9 @@
     "dist"
   ],
   "scripts": {
-    "test": "node test.js | tap-summary",
-    "upgrade": "node upgrade.js"
+    "test": "node scripts/test.js | tap-summary",
+    "upgrade": "node scripts/upgrade.js",
+    "i18n": "node scripts/i18n.js"
   },
   "repository": {
     "type": "git",
