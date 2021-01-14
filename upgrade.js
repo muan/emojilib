@@ -14,6 +14,7 @@ async function upgrade() {
       if (Object.keys(content).indexOf(key) < 0) {
         notFound.push(key)
         content[key] = await getKeywords(key, data[key]['name'])
+        console.log(`[saved] ${key}: ${content[key].join(', ')}\n`)
         fs.writeFileSync(fullPath, JSON.stringify(content, null, 2))
       }
     }
@@ -30,7 +31,6 @@ async function getKeywords(key, name) {
       default: ''
     })
     if (text) keywords.push(text)
-    console.log(`${key}: ${keywords.join(', ')}`)
   }
   return keywords
 }
