@@ -1,20 +1,38 @@
 const fs = require('fs')
 const files = fs.readdirSync('dist')
 const data = require('unicode-emoji-json')
+const promptly = require('promptly')
 
-for (const path of files) {
-  const fullPath = `./dist/${path}`
-  console.log(`checking ${fullPath}`)
-  const content = require(fullPath)
+async function upgrade() {
+  for (const path of files) {
+    const fullPath = `./dist/${path}`
+    console.log(`checking ${fullPath}`)
+    const content = require(fullPath)
 
-  const notFound = []
-  for (const key of Object.keys(data)) {
-    if (Object.keys(content).indexOf(key) < 0) {
-      notFound.push(key)
-      content[key] = [data[key]['name'].replace(/_/, ' '), '// todo']
+    const notFound = []
+    for (const key of Object.keys(data)) {
+      if (Object.keys(content).indexOf(key) < 0) {
+        notFound.push(key)
+        content[key] = await getKeywords(key, data[key]['name'])
+        fs.writeFileSync(fullPath, JSON.stringify(content, null, 2))
+      }
     }
+    console.log(`added ${notFound.length}: ${notFound.join(', ')}.`)
   }
-  const newContent = JSON.stringify(content, null, 2)
-  console.log(`added ${notFound.length}: ${notFound.join(', ')}.`)
-  fs.writeFileSync(fullPath, newContent)
 }
+
+async function getKeywords(key, name) {
+  const keywords = [name.replace(/_/g, ' ')]
+  let text = null
+  while (text !== '') {
+    text = await promptly.prompt(`Enter a keyword for ${key}(${name}), leave it blank to go to the next one.`, {
+      retry: false,
+      default: ''
+    })
+    if (text) keywords.push(text)
+    console.log(`${key}: ${keywords.join(', ')}`)
+  }
+  return keywords
+}
+
+upgrade()

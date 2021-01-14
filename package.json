@@ -27,6 +27,7 @@
   "homepage": "https://github.com/muan/emojilib#readme",
   "devDependencies": {
     "prettier": "^1.18.2",
+    "promptly": "^3.2.0",
     "prompts": "^2.2.1",
     "tap-summary": "^4.0.0",
     "tape": "^5.1.1",
