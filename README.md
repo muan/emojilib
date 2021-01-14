@@ -39,4 +39,4 @@ If you are looking for the unicode emoji dataset, including version, grouping, o
 - **Test** with `npm test`.
 - **Add new emoji** by upgrading `unicode-emoji-json`, and running `npm run upgrade` to add keywords to each new emoji.
 - **Translate dataset** starts with creating a new file via `npm run i18n [language-code]`, and updating the file content.
-- **Improve dataset** with `npm run work [language-code]` to improve emoji with insufficent keywords.
+- **Improve dataset** with `npm run improve [language-code]` to improve emoji with insufficent keywords.
