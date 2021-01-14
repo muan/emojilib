@@ -10,7 +10,7 @@ async function upgrade() {
     const content = require(fullPath)
 
     const notFound = []
-    for (const key of Object.keys(data)) {
+    for (const key in data) {
       if (Object.keys(content).indexOf(key) < 0) {
         notFound.push(key)
         content[key] = await getKeywords(key, data[key]['name'])
