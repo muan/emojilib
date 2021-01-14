@@ -6,7 +6,10 @@
   "files": [
     "dist"
   ],
-  "scripts": {},
+  "scripts": {
+    "test": "node test.js | tap-summary",
+    "upgrade": "node upgrade.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/muan/emojilib.git"
@@ -25,7 +28,9 @@
   "devDependencies": {
     "prettier": "^1.18.2",
     "prompts": "^2.2.1",
-    "unicode-emoji-json": "^0.1.0"
+    "tap-summary": "^4.0.0",
+    "tape": "^5.1.1",
+    "unicode-emoji-json": "^0.2.0"
   },
   "dependencies": {}
 }
