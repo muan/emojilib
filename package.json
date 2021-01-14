@@ -9,7 +9,8 @@
   "scripts": {
     "test": "node scripts/test.js | tap-summary",
     "upgrade": "node scripts/upgrade.js",
-    "i18n": "node scripts/i18n.js"
+    "i18n": "node scripts/i18n.js",
+    "improve": "node scripts/improve.js"
   },
   "repository": {
     "type": "git",
