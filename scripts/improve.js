@@ -15,9 +15,6 @@ async function start() {
   const file = require(`../${path}`)
   for (const emoji in file) {
     const kws = file[emoji]
-    // Remove todo comment
-    const todo = kws.indexOf('// TODO')
-    if (todo >= 0) kws.splice(todo, 1)
     
     if (needsWork(kws)) {
       const hint = kws.length > 0 ? `: ${kws.join(', ')}` : `(${data[emoji]['name']})`
@@ -40,7 +37,6 @@ async function start() {
 }
 
 function needsWork(keywords) {
-  if (keywords.length <= 1) return true
-  if (keywords.includes('// TODO')) return true
+  if (keywords.length < 1) return true
   return false
 }

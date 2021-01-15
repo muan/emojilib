@@ -14,9 +14,7 @@ for (const path of files) {
     )
     const notFound = []
     for (const key of expectedKeys) {
-      if (content[key]) {
-        t.notOk(content[key].includes('// todo'), `${key} needs a keyword.`)
-      } else {
+      if (!content[key]) {
         notFound.push(key)
       }
     }
