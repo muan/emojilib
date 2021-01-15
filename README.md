@@ -143,3 +143,4 @@ false
 - **Add new emoji** by upgrading `unicode-emoji-json`, and running `npm run upgrade` to add keywords to each new emoji.
 - **Translate dataset** starts with creating a new file via `npm run i18n [language-code]`, and updating the file content.
 - **Improve dataset** with `npm run improve [language-code]` to improve emoji with insufficent keywords.
+- **Review dataset** with `npm run review [language-code]` to remove or edit keywords for each emoji.
