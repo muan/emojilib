@@ -5,9 +5,9 @@ const promptly = require('promptly')
 
 async function upgrade() {
   for (const path of files) {
-    const fullPath = `../dist/${path}`
+    const fullPath = `dist/${path}`
     console.log(`checking ${fullPath}`)
-    const content = require(fullPath)
+    const content = require(`../${fullPath}`)
 
     const notFound = []
     for (const key in data) {
@@ -15,7 +15,7 @@ async function upgrade() {
         notFound.push(key)
         content[key] = await getKeywords(key, data[key]['name'])
         console.log(`[saved] ${key}: ${content[key].join(', ')}\n`)
-        fs.writeFileSync(fullPath, JSON.stringify(content, null, 2))
+        fs.writeFileSync(`./${fullPath}`, JSON.stringify(content, null, 2))
       }
     }
     if (notFound.length > 0) console.log(`added ${notFound.length}: ${notFound.join(', ')}.`)

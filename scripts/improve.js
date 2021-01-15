@@ -1,6 +1,7 @@
 const fs = require('fs')
 const lang = process.argv[2]
 const promptly = require('promptly')
+const data = require('unicode-emoji-json')
 if (!lang) {
   const files = fs.readdirSync('dist')
   const langs = files.map(tag => tag.match(/-(.+)\./)[1])
@@ -19,7 +20,8 @@ async function start() {
     if (todo >= 0) kws.splice(todo, 1)
     
     if (needsWork(kws)) {
-      console.log(`${emoji}: ${kws.join(', ')}`)
+      const hint = kws.length > 0 ? `: ${kws.join(', ')}` : `(${data[emoji]['name']})`
+      console.log(`${emoji}${hint}`)
       let kw = null
       while (kw !== '') {
         kw = await promptly.prompt('Add a keyword:', {default: ''})
