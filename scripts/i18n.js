@@ -6,10 +6,10 @@ const basefilePath = require('../package.json')['main']
 const lang = process.argv[2]
 const cldrLang = process.argv[3]
 
-if (!lang || !lang.match(/-/) || !cldrLang) {
+if (!lang || !cldrLang) {
   console.log(`npm run i18n [language-code] [cldr-language code]
 
-Language code required, which must be made of [primary language subtag]-[region subtag].
+Language code required, which should be made of [primary language subtag]-[region subtag].
 For example, use en-GB for English within United Kingdom, and use zh-TW for Chinese used in Taiwan.\nSee https://en.wikipedia.org/wiki/IETF_language_tag for more information.
 `)
 
