@@ -1720,13 +1720,15 @@
   ],
   "🧏‍♂️": [
     "deaf_man",
-    "a11y"
+    "accessibility"
   ],
   "🧏‍♀️": [
-    "deaf_woman"
+    "deaf_woman",
+    "accessibility"
   ],
   "🙇": [
-    "person_bowing"
+    "person_bowing",
+    "respectiful"
   ],
   "🙇‍♂️": [
     "man_bowing",
@@ -1741,7 +1743,8 @@
     "girl"
   ],
   "🤦": [
-    "person_facepalming"
+    "person_facepalming",
+    "disappointed"
   ],
   "🤦‍♂️": [
     "man_facepalming",
@@ -1758,7 +1761,8 @@
     "disbelief"
   ],
   "🤷": [
-    "person_shrugging"
+    "person_shrugging",
+    "regardless"
   ],
   "🤷‍♂️": [
     "man_shrugging",
@@ -1779,7 +1783,8 @@
     "doubt"
   ],
   "🧑‍⚕️": [
-    "health_worker"
+    "health_worker",
+    "hospital"
   ],
   "👨‍⚕️": [
     "man_health_worker",
@@ -1800,7 +1805,8 @@
     "human"
   ],
   "🧑‍🎓": [
-    "student"
+    "student",
+    "learn"
   ],
   "👨‍🎓": [
     "man_student",
@@ -1815,7 +1821,8 @@
     "human"
   ],
   "🧑‍🏫": [
-    "teacher"
+    "teacher",
+    "professor"
   ],
   "👨‍🏫": [
     "man_teacher",
@@ -1832,7 +1839,8 @@
     "human"
   ],
   "🧑‍⚖️": [
-    "judge"
+    "judge",
+    "law"
   ],
   "👨‍⚖️": [
     "man_judge",
@@ -1849,7 +1857,8 @@
     "human"
   ],
   "🧑‍🌾": [
-    "farmer"
+    "farmer",
+    "crops"
   ],
   "👨‍🌾": [
     "man_farmer",
@@ -1866,7 +1875,10 @@
     "human"
   ],
   "🧑‍🍳": [
-    "cook"
+    "cook",
+    "food",
+    "kitchen",
+    "culinary"
   ],
   "👨‍🍳": [
     "man_cook",
@@ -1881,7 +1893,9 @@
     "human"
   ],
   "🧑‍🔧": [
-    "mechanic"
+    "mechanic",
+    "worker",
+    "technician"
   ],
   "👨‍🔧": [
     "man_mechanic",
@@ -1898,7 +1912,8 @@
     "wrench"
   ],
   "🧑‍🏭": [
-    "factory_worker"
+    "factory_worker",
+    "labor"
   ],
   "👨‍🏭": [
     "man_factory_worker",
@@ -1915,7 +1930,8 @@
     "human"
   ],
   "🧑‍💼": [
-    "office_worker"
+    "office_worker",
+    "business"
   ],
   "👨‍💼": [
     "man_office_worker",
@@ -1932,7 +1948,8 @@
     "human"
   ],
   "🧑‍🔬": [
-    "scientist"
+    "scientist",
+    "chemistry"
   ],
   "👨‍🔬": [
     "man_scientist",
@@ -1953,7 +1970,8 @@
     "human"
   ],
   "🧑‍💻": [
-    "technologist"
+    "technologist",
+    "computer"
   ],
   "👨‍💻": [
     "man_technologist",
@@ -1980,7 +1998,10 @@
     "computer"
   ],
   "🧑‍🎤": [
-    "singer"
+    "singer",
+    "song",
+    "artist",
+    "performer"
   ],
   "👨‍🎤": [
     "man_singer",
@@ -1997,7 +2018,10 @@
     "human"
   ],
   "🧑‍🎨": [
-    "artist"
+    "artist",
+    "painting",
+    "draw",
+    "creativity"
   ],
   "👨‍🎨": [
     "man_artist",
@@ -2012,7 +2036,10 @@
     "human"
   ],
   "🧑‍✈️": [
-    "pilot"
+    "pilot",
+    "fly",
+    "plane",
+    "airplane"
   ],
   "👨‍✈️": [
     "man_pilot",
@@ -2029,7 +2056,8 @@
     "human"
   ],
   "🧑‍🚀": [
-    "astronaut"
+    "astronaut",
+    "outerspace"
   ],
   "👨‍🚀": [
     "man_astronaut",
@@ -2046,7 +2074,8 @@
     "human"
   ],
   "🧑‍🚒": [
-    "firefighter"
+    "firefighter",
+    "fire"
   ],
   "👨‍🚒": [
     "man_firefighter",
@@ -2061,7 +2090,8 @@
     "human"
   ],
   "👮": [
-    "police_officer"
+    "police_officer",
+    "cop"
   ],
   "👮‍♂️": [
     "man_police_officer",
@@ -2091,7 +2121,8 @@
     "detective"
   ],
   "🕵️‍♂️": [
-    "man_detective"
+    "man_detective",
+    "crime"
   ],
   "🕵️‍♀️": [
     "woman_detective",
@@ -2102,7 +2133,8 @@
     "woman"
   ],
   "💂": [
-    "guard"
+    "guard",
+    "protect"
   ],
   "💂‍♂️": [
     "man_guard",
@@ -2123,7 +2155,9 @@
     "woman"
   ],
   "👷": [
-    "construction_worker"
+    "construction_worker",
+    "labor",
+    "build"
   ],
   "👷‍♂️": [
     "man_construction_worker",
@@ -2167,7 +2201,8 @@
     "queen"
   ],
   "👳": [
-    "person_wearing_turban"
+    "person_wearing_turban",
+    "headdress"
   ],
   "👳‍♂️": [
     "man_wearing_turban",
@@ -2243,7 +2278,8 @@
     "mother christmas"
   ],
   "🦸": [
-    "superhero"
+    "superhero",
+    "marvel"
   ],
   "🦸‍♂️": [
     "man_superhero",
@@ -2262,7 +2298,8 @@
     "superpowers"
   ],
   "🦹": [
-    "supervillain"
+    "supervillain",
+    "marvel"
   ],
   "🦹‍♂️": [
     "man_supervillain",
@@ -2285,7 +2322,8 @@
     "superpowers"
   ],
   "🧙": [
-    "mage"
+    "mage",
+    "magic"
   ],
   "🧙‍♂️": [
     "man_mage",
@@ -2302,7 +2340,9 @@
     "witch"
   ],
   "🧚": [
-    "fairy"
+    "fairy",
+    "wings",
+    "magical"
   ],
   "🧚‍♂️": [
     "man_fairy",
@@ -2315,7 +2355,9 @@
     "female"
   ],
   "🧛": [
-    "vampire"
+    "vampire",
+    "blood",
+    "twilight"
   ],
   "🧛‍♂️": [
     "man_vampire",
@@ -2329,7 +2371,8 @@
     "female"
   ],
   "🧜": [
-    "merperson"
+    "merperson",
+    "sea"
   ],
   "🧜‍♂️": [
     "merman",
@@ -2345,7 +2388,8 @@
     "ariel"
   ],
   "🧝": [
-    "elf"
+    "elf",
+    "magical"
   ],
   "🧝‍♂️": [
     "man_elf",
@@ -2358,7 +2402,9 @@
     "female"
   ],
   "🧞": [
-    "genie"
+    "genie",
+    "magical",
+    "wishes"
   ],
   "🧞‍♂️": [
     "man_genie",
@@ -2371,7 +2417,8 @@
     "female"
   ],
   "🧟": [
-    "zombie"
+    "zombie",
+    "dead"
   ],
   "🧟‍♂️": [
     "man_zombie",
@@ -2389,7 +2436,8 @@
     "walking dead"
   ],
   "💆": [
-    "person_getting_massage"
+    "person_getting_massage",
+    "relax"
   ],
   "💆‍♂️": [
     "man_getting_massage",
@@ -2406,7 +2454,8 @@
     "head"
   ],
   "💇": [
-    "person_getting_haircut"
+    "person_getting_haircut",
+    "hairstyle"
   ],
   "💇‍♂️": [
     "man_getting_haircut",
@@ -2421,7 +2470,8 @@
     "woman"
   ],
   "🚶": [
-    "person_walking"
+    "person_walking",
+    "move"
   ],
   "🚶‍♂️": [
     "man_walking",
@@ -2438,52 +2488,77 @@
     "female"
   ],
   "🧍": [
-    "person_standing"
+    "person_standing",
+    "still"
   ],
   "🧍‍♂️": [
-    "man_standing"
+    "man_standing",
+    "still"
   ],
   "🧍‍♀️": [
-    "woman_standing"
+    "woman_standing",
+    "still"
   ],
   "🧎": [
-    "person_kneeling"
+    "person_kneeling",
+    "pray",
+    "respectful"
   ],
   "🧎‍♂️": [
-    "man_kneeling"
+    "man_kneeling",
+    "pray",
+    "respectful"
   ],
   "🧎‍♀️": [
-    "woman_kneeling"
+    "woman_kneeling",
+    "respectful",
+    "pray"
   ],
   "🧑‍🦯": [
-    "person_with_probing_cane"
+    "person_with_probing_cane",
+    "blind"
   ],
   "👨‍🦯": [
-    "man_with_probing_cane"
+    "man_with_probing_cane",
+    "blind"
   ],
   "👩‍🦯": [
-    "woman_with_probing_cane"
+    "woman_with_probing_cane",
+    "blind"
   ],
   "🧑‍🦼": [
-    "person_in_motorized_wheelchair"
+    "person_in_motorized_wheelchair",
+    "disability",
+    "accessibility"
   ],
   "👨‍🦼": [
-    "man_in_motorized_wheelchair"
+    "man_in_motorized_wheelchair",
+    "disability",
+    "accessibility"
   ],
   "👩‍🦼": [
-    "woman_in_motorized_wheelchair"
+    "woman_in_motorized_wheelchair",
+    "disability",
+    "accessibility"
   ],
   "🧑‍🦽": [
-    "person_in_manual_wheelchair"
+    "person_in_manual_wheelchair",
+    "disability",
+    "accessibility"
   ],
   "👨‍🦽": [
-    "man_in_manual_wheelchair"
+    "man_in_manual_wheelchair",
+    "disability",
+    "accessibility"
   ],
   "👩‍🦽": [
-    "woman_in_manual_wheelchair"
+    "woman_in_manual_wheelchair",
+    "disability",
+    "accessibility"
   ],
   "🏃": [
-    "person_running"
+    "person_running",
+    "move"
   ],
   "🏃‍♂️": [
     "man_running",
@@ -2525,7 +2600,9 @@
     "jump"
   ],
   "👯": [
-    "people_with_bunny_ears"
+    "people_with_bunny_ears",
+    "perform",
+    "costume"
   ],
   "👯‍♂️": [
     "men_with_bunny_ears",
@@ -2542,7 +2619,9 @@
     "girls"
   ],
   "🧖": [
-    "person_in_steamy_room"
+    "person_in_steamy_room",
+    "relax",
+    "spa"
   ],
   "🧖‍♂️": [
     "man_in_steamy_room",
@@ -2561,7 +2640,8 @@
     "sauna"
   ],
   "🧗": [
-    "person_climbing"
+    "person_climbing",
+    "sport"
   ],
   "🧗‍♂️": [
     "man_climbing",
@@ -2610,7 +2690,8 @@
     "business"
   ],
   "🏌️‍♂️": [
-    "man_golfing"
+    "man_golfing",
+    "sport"
   ],
   "🏌️‍♀️": [
     "woman_golfing",
@@ -2620,7 +2701,9 @@
     "female"
   ],
   "🏄": [
-    "person_surfing"
+    "person_surfing",
+    "sport",
+    "sea"
   ],
   "🏄‍♂️": [
     "man_surfing",
@@ -2641,7 +2724,9 @@
     "female"
   ],
   "🚣": [
-    "person_rowing_boat"
+    "person_rowing_boat",
+    "sport",
+    "move"
   ],
   "🚣‍♂️": [
     "man_rowing_boat",
@@ -2660,7 +2745,9 @@
     "female"
   ],
   "🏊": [
-    "person_swimming"
+    "person_swimming",
+    "sport",
+    "pool"
   ],
   "🏊‍♂️": [
     "man_swimming",
@@ -2688,7 +2775,8 @@
     "human"
   ],
   "⛹️‍♂️": [
-    "man_bouncing_ball"
+    "man_bouncing_ball",
+    "sport"
   ],
   "⛹️‍♀️": [
     "woman_bouncing_ball",
@@ -2704,7 +2792,8 @@
     "exercise"
   ],
   "🏋️‍♂️": [
-    "man_lifting_weights"
+    "man_lifting_weights",
+    "sport"
   ],
   "🏋️‍♀️": [
     "woman_lifting_weights",
@@ -2715,7 +2804,9 @@
     "female"
   ],
   "🚴": [
-    "person_biking"
+    "person_biking",
+    "sport",
+    "move"
   ],
   "🚴‍♂️": [
     "man_biking",
@@ -2734,7 +2825,9 @@
     "female"
   ],
   "🚵": [
-    "person_mountain_biking"
+    "person_mountain_biking",
+    "sport",
+    "move"
   ],
   "🚵‍♂️": [
     "man_mountain_biking",
@@ -2755,7 +2848,9 @@
     "female"
   ],
   "🤸": [
-    "person_cartwheeling"
+    "person_cartwheeling",
+    "sport",
+    "gymnastic"
   ],
   "🤸‍♂️": [
     "man_cartwheeling",
@@ -2766,7 +2861,8 @@
     "gymnastics"
   ],
   "🤼": [
-    "people_wrestling"
+    "people_wrestling",
+    "sport"
   ],
   "🤼‍♂️": [
     "men_wrestling",
@@ -2779,7 +2875,8 @@
     "wrestlers"
   ],
   "🤽": [
-    "person_playing_water_polo"
+    "person_playing_water_polo",
+    "sport"
   ],
   "🤽‍♂️": [
     "man_playing_water_polo",
@@ -2792,7 +2889,8 @@
     "pool"
   ],
   "🤾": [
-    "person_playing_handball"
+    "person_playing_handball",
+    "sport"
   ],
   "🤾‍♂️": [
     "man_playing_handball",
@@ -2803,7 +2901,9 @@
     "sports"
   ],
   "🤹": [
-    "person_juggling"
+    "person_juggling",
+    "performance",
+    "balance"
   ],
   "🤹‍♂️": [
     "man_juggling",
@@ -2820,7 +2920,8 @@
     "multitask"
   ],
   "🧘": [
-    "person_in_lotus_position"
+    "person_in_lotus_position",
+    "meditate"
   ],
   "🧘‍♂️": [
     "man_in_lotus_position",
@@ -2854,7 +2955,8 @@
     "rest"
   ],
   "🧑‍🤝‍🧑": [
-    "people_holding_hands"
+    "people_holding_hands",
+    "friendship"
   ],
   "👭": [
     "women_holding_hands",
@@ -2901,7 +3003,8 @@
     "marriage"
   ],
   "👩‍❤️‍💋‍👨": [
-    "kiss_woman_man"
+    "kiss_woman_man",
+    "love"
   ],
   "👨‍❤️‍💋‍👨": [
     "kiss_man_man",
@@ -2933,7 +3036,8 @@
     "marriage"
   ],
   "👩‍❤️‍👨": [
-    "couple_with_heart_woman_man"
+    "couple_with_heart_woman_man",
+    "love"
   ],
   "👨‍❤️‍👨": [
     "couple_with_heart_man_man",
@@ -2970,7 +3074,8 @@
     "human"
   ],
   "👨‍👩‍👦": [
-    "family_man_woman_boy"
+    "family_man_woman_boy",
+    "love"
   ],
   "👨‍👩‍👧": [
     "family_man_woman_girl",
@@ -3214,7 +3319,8 @@
     "circus"
   ],
   "🦧": [
-    "orangutan"
+    "orangutan",
+    "animal"
   ],
   "🐶": [
     "dog_face",
@@ -3236,10 +3342,14 @@
     "faithful"
   ],
   "🦮": [
-    "guide_dog"
+    "guide_dog",
+    "animal",
+    "blind"
   ],
   "🐕‍🦺": [
-    "service_dog"
+    "service_dog",
+    "blind",
+    "animal"
   ],
   "🐩": [
     "poodle",
@@ -3534,13 +3644,16 @@
     "panda"
   ],
   "🦥": [
-    "sloth"
+    "sloth",
+    "animal"
   ],
   "🦦": [
-    "otter"
+    "otter",
+    "animal"
   ],
   "🦨": [
-    "skunk"
+    "skunk",
+    "animal"
   ],
   "🦘": [
     "kangaroo",
@@ -3652,7 +3765,8 @@
     "hoot"
   ],
   "🦩": [
-    "flamingo"
+    "flamingo",
+    "animal"
   ],
   "🦚": [
     "peacock",
@@ -4207,10 +4321,16 @@
     "vegetable"
   ],
   "🧄": [
-    "garlic"
+    "garlic",
+    "food",
+    "spice",
+    "cook"
   ],
   "🧅": [
-    "onion"
+    "onion",
+    "cook",
+    "food",
+    "spice"
   ],
   "🍄": [
     "mushroom",
@@ -4267,7 +4387,9 @@
     "hotcakes"
   ],
   "🧇": [
-    "waffle"
+    "waffle",
+    "food",
+    "breakfast"
   ],
   "🧀": [
     "cheese_wedge",
@@ -4356,7 +4478,8 @@
     "gyro"
   ],
   "🧆": [
-    "falafel"
+    "falafel",
+    "food"
   ],
   "🥚": [
     "egg",
@@ -4406,7 +4529,9 @@
     "snack"
   ],
   "🧈": [
-    "butter"
+    "butter",
+    "food",
+    "cook"
   ],
   "🧂": [
     "salt",
@@ -4556,7 +4681,8 @@
     "sea"
   ],
   "🦪": [
-    "oyster"
+    "oyster",
+    "food"
   ],
   "🍦": [
     "soft_ice_cream",
@@ -4777,13 +4903,19 @@
     "soda"
   ],
   "🧃": [
-    "beverage_box"
+    "beverage_box",
+    "drink"
   ],
   "🧉": [
-    "mate"
+    "mate",
+    "drink",
+    "tea",
+    "beverage"
   ],
   "🧊": [
-    "ice"
+    "ice",
+    "water",
+    "cold"
   ],
   "🥢": [
     "chopsticks",
@@ -5091,7 +5223,8 @@
     "minaret"
   ],
   "🛕": [
-    "hindu_temple"
+    "hindu_temple",
+    "religion"
   ],
   "🕍": [
     "synagogue",
@@ -5403,13 +5536,17 @@
     "sasha"
   ],
   "🦽": [
-    "manual_wheelchair"
+    "manual_wheelchair",
+    "accessibility"
   ],
   "🦼": [
-    "motorized_wheelchair"
+    "motorized_wheelchair",
+    "accessibility"
   ],
   "🛺": [
-    "auto_rickshaw"
+    "auto_rickshaw",
+    "move",
+    "transportation"
   ],
   "🚲": [
     "bicycle",
@@ -5565,7 +5702,9 @@
     "boarding"
   ],
   "🪂": [
-    "parachute"
+    "parachute",
+    "fly",
+    "glide"
   ],
   "💺": [
     "seat",
@@ -6000,7 +6139,8 @@
     "sky"
   ],
   "🪐": [
-    "ringed_planet"
+    "ringed_planet",
+    "outerspace"
   ],
   "⭐": [
     "star",
@@ -6495,7 +6635,9 @@
     "summer"
   ],
   "🤿": [
-    "diving_mask"
+    "diving_mask",
+    "sport",
+    "ocean"
   ],
   "🎽": [
     "running_shirt",
@@ -6528,10 +6670,13 @@
     "bullseye"
   ],
   "🪀": [
-    "yo_yo"
+    "yo_yo",
+    "toy"
   ],
   "🪁": [
-    "kite"
+    "kite",
+    "wind",
+    "fly"
   ],
   "🎱": [
     "pool_8_ball",
@@ -6706,7 +6851,8 @@
     "chemist"
   ],
   "🦺": [
-    "safety_vest"
+    "safety_vest",
+    "protection"
   ],
   "👔": [
     "necktie",
@@ -6766,16 +6912,20 @@
     "japanese"
   ],
   "🥻": [
-    "sari"
+    "sari",
+    "dress"
   ],
   "🩱": [
-    "one_piece_swimsuit"
+    "one_piece_swimsuit",
+    "fashion"
   ],
   "🩲": [
-    "briefs"
+    "briefs",
+    "clothing"
   ],
   "🩳": [
-    "shorts"
+    "shorts",
+    "clothing"
   ],
   "👙": [
     "bikini",
@@ -6865,7 +7015,8 @@
     "flip flops"
   ],
   "🩰": [
-    "ballet_shoes"
+    "ballet_shoes",
+    "dance"
   ],
   "👢": [
     "woman_s_boot",
@@ -7093,7 +7244,9 @@
     "symphony"
   ],
   "🪕": [
-    "banjo"
+    "banjo",
+    "music",
+    "instructment"
   ],
   "🥁": [
     "drum",
@@ -7312,7 +7465,8 @@
     "spooky"
   ],
   "🪔": [
-    "diya_lamp"
+    "diya_lamp",
+    "lighting"
   ],
   "📔": [
     "notebook_with_decorative_cover",
@@ -7836,7 +7990,10 @@
     "create"
   ],
   "🪓": [
-    "axe"
+    "axe",
+    "tool",
+    "chop",
+    "cut"
   ],
   "⛏️": [
     "pick",
@@ -7908,7 +8065,8 @@
     "weight"
   ],
   "🦯": [
-    "probing_cane"
+    "probing_cane",
+    "accessibility"
   ],
   "🔗": [
     "link",
@@ -7995,7 +8153,11 @@
     "nurse"
   ],
   "🩸": [
-    "drop_of_blood"
+    "drop_of_blood",
+    "period",
+    "hurt",
+    "harm",
+    "wound"
   ],
   "💊": [
     "pill",
@@ -8006,10 +8168,12 @@
     "drug"
   ],
   "🩹": [
-    "adhesive_bandage"
+    "adhesive_bandage",
+    "heal"
   ],
   "🩺": [
-    "stethoscope"
+    "stethoscope",
+    "health"
   ],
   "🚪": [
     "door",
@@ -8028,7 +8192,9 @@
     "chill"
   ],
   "🪑": [
-    "chair"
+    "chair",
+    "sit",
+    "furniture"
   ],
   "🚽": [
     "toilet",
@@ -8051,7 +8217,8 @@
     "bathroom"
   ],
   "🪒": [
-    "razor"
+    "razor",
+    "cut"
   ],
   "🧴": [
     "lotion_bottle",
@@ -8160,7 +8327,6 @@
     "wheelchair_symbol",
     "blue-square",
     "disabled",
-    "a11y",
     "accessibility"
   ],
   "🚹": [
@@ -8757,13 +8923,22 @@
     "quiet"
   ],
   "♀️": [
-    "female_sign"
+    "female_sign",
+    "woman",
+    "women",
+    "lady",
+    "girl"
   ],
   "♂️": [
-    "male_sign"
+    "male_sign",
+    "man",
+    "boy",
+    "men"
   ],
   "⚕️": [
-    "medical_symbol"
+    "medical_symbol",
+    "health",
+    "hospital"
   ],
   "♾️": [
     "infinity",
@@ -9337,13 +9512,16 @@
     "danger"
   ],
   "🟠": [
-    "orange_circle"
+    "orange_circle",
+    "round"
   ],
   "🟡": [
-    "yellow_circle"
+    "yellow_circle",
+    "round"
   ],
   "🟢": [
-    "green_circle"
+    "green_circle",
+    "round"
   ],
   "🔵": [
     "blue_circle",
@@ -9352,10 +9530,12 @@
     "button"
   ],
   "🟣": [
-    "purple_circle"
+    "purple_circle",
+    "round"
   ],
   "🟤": [
-    "brown_circle"
+    "brown_circle",
+    "round"
   ],
   "⚫": [
     "black_circle",
@@ -9831,7 +10011,8 @@
     "banner"
   ],
   "🇧🇻": [
-    "flag_bouvet_island"
+    "flag_bouvet_island",
+    "norway"
   ],
   "🇧🇼": [
     "flag_botswana",
