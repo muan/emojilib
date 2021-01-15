@@ -1,38 +1,75 @@
 # CONTRIBUTING
 
-Thanks for thinking about contributing to this project. :heart_eyes:
+- **Test** with `npm test`.
 
-## Adding keywords
+```
+$ npm test
 
-- Make sure the new word is not already part of the keyword array. For example: in `"hocho": ["cut", "cutlery"]`, `cut` is part of `cutlery`, so by adding `cutlery`, you should remove `cut` from the keyword array.
+# Tests
 
-- Make sure that the format matches all other lines. The rules are the following:
-  - Double quote the words:<br>
-    :x: `'a'`<br>
-    :o: `"a"`
+✔ checking dist/emoji-en-US.json [pass: 1807, fail: 0, duration: 60ms]
 
-  - A space following comma and colon:<br>
-    :x: `"horse":["animal","unicorn"],`<br>
-    :o: `"horse": ["animal", "unicorn"],`
+# Summary
 
-## Committing, sending the pull request
+duration: 60ms
+planned: 1807
+assertions: 1807
+pass: 1807
+fail: 0
+```
 
-- It's preferred that when adding a keyword to one specific emoji, you use that emoji or a relevant emoji as the commit message. For example: [`2a34a84`](https://github.com/muan/emojilib/commit/2a34a84576ec1565587bb78ff465844c835819ad)
+- **Add new emoji** by upgrading `unicode-emoji-json`, and running `npm run upgrade` to add keywords to each new emoji.
 
-- Make sure you have a good description in the pull request if your changes contain more than keyword changes.<br>
-  :x: `Update html`<br>
-  :o: `Change a typo in the toggle text button`
+```
+$ npm run upgrade
 
-- Include at least one emoji in your pull request description.
+checking dist/emoji-en-US.json
+Enter a keyword for 🪤(mouse trap), leave it blank to go to the next one. cheese
+Enter a keyword for 🪤(mouse trap), leave it blank to go to the next one. 
+[saved] 🪤: mouse trap, cheese
 
-- There are [tests](https://github.com/muan/emojilib/blob/master/test.js) for `emojis.json`, please do your best to fix the errors if any. You should be able to see your branch's test status on https://travis-ci.org/muan/emojilib/pull_requests
+Enter a keyword for 🪣(bucket), leave it blank to go to the next one. water
+Enter a keyword for 🪣(bucket), leave it blank to go to the next one. container
+Enter a keyword for 🪣(bucket), leave it blank to go to the next one. 
+[saved] 🪣: bucket, water, container
 
----
+added 2: 🪤, 🪣.
+```
 
-## Publishing
+- **Translate dataset** by creating a new file via `npm run i18n [language-code]`, and updating the file content.
 
-1. Run `npm run build` and commit the changes
-2. Update version in `bower.json` and `package.json` and commit with changes
-3. `git tag [new version number]`
-4. `git push --tags`
-5. `npm publish`
+```
+$ npm run i18n zh-TW      
+
+> emojilib@3.0.0 i18n /Users/muan/Code/emojilib
+> node scripts/i18n.js "zh-TW"
+
+[created] ./dist/emoji-zh-TW.json | add keywords with `npm run improve zh-TW`.
+```
+
+- **Improve dataset** with `npm run improve [language-code]` to improve emoji with insufficent keywords.
+
+```
+$ npm run improve en-US
+
+😀: 
+Add a keyword: happy
+Add a keyword: 
+[saved] 😀: happy
+```
+
+- **Review dataset** with `npm run review [language-code]` to remove or edit keywords for each emoji.
+
+```
+$ npm run review en-US
+
+[current] 😀: grinning_face, face, smile, happy, joy, :D, grin
+Is "grinning_face" a suitable keyword for 😀? (y/n/e) e
+What should "grinning_face" be changed to? grinning face
+Is "face" a suitable keyword for 😀? (y/n/e) y
+Is "smile" a suitable keyword for 😀? (y/n/e) y
+Is "happy" a suitable keyword for 😀? (y/n/e) y
+Is "joy" a suitable keyword for 😀? (y/n/e) y
+Is ":D" a suitable keyword for 😀? (y/n/e) n
+[saved] 😀: grinning face, face, smile, happy, joy, grin
+```

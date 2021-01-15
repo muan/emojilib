@@ -14,5 +14,7 @@ function createFile() {
   for (const emoji in fileContent) {
     fileContent[emoji] = ['// TODO']
   }
-  fs.writeFileSync(`./dist/emoji-${lang}.json`, JSON.stringify(fileContent, null, 2))
+  const fileName = `./dist/emoji-${lang}.json`
+  fs.writeFileSync(fileName, JSON.stringify(fileContent, null, 2))
+  console.log(`[created] ${fileName} | add keywords with \`npm run improve ${lang}\`.`)
 }
