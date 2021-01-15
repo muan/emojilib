@@ -34,6 +34,109 @@ npm install emojilib --save
 
 If you are looking for the unicode emoji dataset, including version, grouping, ordering, and skin tone support flag, check out [`unicode-emoji-json`](https://github.com/muan/unicode-emoji-json).
 
+## Migrating from 2.x
+
+
+Previously:
+
+```js
+> var emoji = require("emojilib")
+> emoji.lib
+{
+  "grinning": {
+    "keywords": ["face", "smile", "happy", "joy"],
+    "char": "😀",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  ...
+}
+```
+
+Now, merge keywords with other metadata from `unicode-emoji-json`:
+
+```js
+> var data = require('unicode-emoji-json')
+> var keywordSet = require('emojilib')
+> for (const emoji in data) {
+data[emoji]['keywords'] = keywordSet[emoji]
+}
+> data['😀']
+{
+  name: 'grinning face',
+  slug: 'grinning_face',
+  group: 'Smileys & Emotion',
+  emoji_version: '1.0',
+  unicode_version: '1.0',
+  skin_tone_support: false,
+  keywords: [ 'grinning_face', 'face', 'smile', 'happy', 'joy', ':D', 'grin' ]
+}
+```
+
+---
+
+Previously:
+
+```js
+> var emoji = require("emojilib")
+> emoji.ordered
+[ 'grinning', 'grimacing', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
+```
+
+Now this data can be found in `unicode-emoji-json`:
+
+```js
+> var orderedEmoji = require('unicode-emoji-json/data-ordered-emoji')
+['😀', '😃', '😄', '😁', '😆', '😅',...]
+```
+
+---
+
+Previously:
+
+```js
+> var emoji = require("emojilib")
+> emoji.fitzpatrick_scale_modifiers
+[ '🏻', '🏼', '🏽', '🏾', '🏿' ]
+```
+
+Now this data can be found in `unicode-emoji-json`:
+
+```js
+> require('unicode-emoji-json/data-emoji-components')
+{
+  light_skin_tone: '🏻',
+  medium_light_skin_tone: '🏼',
+  medium_skin_tone: '🏽',
+  medium_dark_skin_tone: '🏾',
+  dark_skin_tone: '🏿',
+  red_hair: '🦰',
+  curly_hair: '🦱',
+  white_hair: '🦳',
+  bald: '🦲'
+}
+```
+
+Previously:
+
+```js
+> require("emojilib").lib['v'].fitzpatrick_scale
+true
+
+> require("emojilib").lib['turtle'].fitzpatrick_scale
+false
+```
+
+Now this data can be found in `unicode-emoji-json`:
+
+```js
+> require('unicode-emoji-json')['✌️'].skin_tone_support
+true
+> require('unicode-emoji-json')['🐢'].skin_tone_support
+false
+```
+
+
 ## Development
 
 - **Test** with `npm test`.
