@@ -1268,14 +1268,16 @@
     "accept",
     "cool",
     "hand",
-    "like"
+    "like",
+    "+1"
   ],
   "👎": [
     "thumbs_down",
     "thumbsdown",
     "no",
     "dislike",
-    "hand"
+    "hand",
+    "-1"
   ],
   "✊": [
     "raised_fist",
