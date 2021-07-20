@@ -7,7 +7,7 @@
     "dist"
   ],
   "scripts": {
-    "test": "node scripts/test.js | tap-summary",
+    "test": "node scripts/test.js",
     "upgrade": "node scripts/upgrade.js",
     "i18n": "node scripts/i18n.js",
     "improve": "node scripts/improve.js",
@@ -31,7 +31,6 @@
   "devDependencies": {
     "prettier": "^1.18.2",
     "promptly": "^3.2.0",
-    "tap-summary": "^4.0.0",
     "tape": "^5.1.1",
     "unicode-emoji-json": "^0.2.1",
     "xml2json": "^0.12.0"
