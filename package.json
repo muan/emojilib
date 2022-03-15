@@ -1,6 +1,6 @@
 {
   "name": "emojilib",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "description": "Emoji keyword library.",
   "main": "dist/emoji-en-US.json",
   "files": [
@@ -32,7 +32,7 @@
     "prettier": "^1.18.2",
     "promptly": "^3.2.0",
     "tape": "^5.1.1",
-    "unicode-emoji-json": "^0.3.0",
+    "unicode-emoji-json": "0.3.1",
     "xml2json": "^0.12.0"
   }
 }
