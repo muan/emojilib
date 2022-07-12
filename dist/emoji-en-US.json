@@ -9743,6 +9743,9 @@
     "flag",
     "banner"
   ],
+  "🇦": [
+    "a"
+  ],
   "🇦🇨": [
     "flag_ascension_island"
   ],
@@ -9894,6 +9897,9 @@
     "country",
     "banner",
     "azerbaijan"
+  ],
+  "🇧": [
+    "b"
   ],
   "🇧🇦": [
     "flag_bosnia_herzegovina",
@@ -10083,6 +10089,9 @@
     "banner",
     "belize"
   ],
+  "🇨": [
+    "c"
+  ],
   "🇨🇦": [
     "flag_canada",
     "ca",
@@ -10269,6 +10278,9 @@
     "banner",
     "czechia"
   ],
+  "🇩": [
+    "d" 
+  ],
   "🇩🇪": [
     "flag_germany",
     "german",
@@ -10326,6 +10338,9 @@
     "country",
     "banner",
     "algeria"
+  ],
+  "🇪": [
+    "e"
   ],
   "🇪🇦": [
     "flag_ceuta_melilla"
@@ -10401,6 +10416,9 @@
     "flag",
     "banner"
   ],
+  "🇫": [
+    "f"
+  ],
   "🇫🇮": [
     "flag_finland",
     "fi",
@@ -10460,6 +10478,9 @@
     "french",
     "country",
     "france"
+  ],
+  "🇬": [
+    "g"
   ],
   "🇬🇦": [
     "flag_gabon",
@@ -10648,6 +10669,9 @@
     "banner",
     "guyana"
   ],
+  "🇭": [
+    "h"
+   ],
   "🇭🇰": [
     "flag_hong_kong_sar_china",
     "hong",
@@ -10696,6 +10720,9 @@
     "country",
     "banner",
     "hungary"
+  ],
+  "🇮": [
+    "i"
   ],
   "🇮🇨": [
     "flag_canary_islands",
@@ -10802,6 +10829,9 @@
     "banner",
     "italy"
   ],
+  "🇯": [
+    "j"
+  ],
   "🇯🇪": [
     "flag_jersey",
     "je",
@@ -10837,6 +10867,9 @@
     "country",
     "banner",
     "japan"
+  ],
+  "🇰": [
+    "k"
   ],
   "🇰🇪": [
     "flag_kenya",
@@ -10942,6 +10975,9 @@
     "banner",
     "kazakhstan"
   ],
+  "🇱": [
+    "🇱"
+  ],
   "🇱🇦": [
     "flag_laos",
     "lao",
@@ -11044,6 +11080,9 @@
     "country",
     "banner",
     "libya"
+  ],
+  "🇲": [
+    "m"
   ],
   "🇲🇦": [
     "flag_morocco",
@@ -11250,6 +11289,9 @@
     "banner",
     "mozambique"
   ],
+  "🇳": [
+    "n"
+  ],
   "🇳🇦": [
     "flag_namibia",
     "na",
@@ -11360,6 +11402,9 @@
     "banner",
     "new_zealand"
   ],
+  "🇴": [
+    "o"
+  ],
   "🇴🇲": [
     "flag_oman",
     "om_symbol",
@@ -11368,6 +11413,9 @@
     "country",
     "banner",
     "oman"
+  ],
+  "🇵": [
+    "p"
   ],
   "🇵🇦": [
     "flag_panama",
@@ -11503,6 +11551,9 @@
     "banner",
     "paraguay"
   ],
+  "🇶": [
+    "q"
+  ],
   "🇶🇦": [
     "flag_qatar",
     "qa",
@@ -11511,6 +11562,9 @@
     "country",
     "banner",
     "qatar"
+  ],
+  "🇷": [
+    "r"
   ],
   "🇷🇪": [
     "flag_reunion",
@@ -11557,6 +11611,9 @@
     "country",
     "banner",
     "rwanda"
+  ],
+  "🇸": [
+    "s"
   ],
   "🇸🇦": [
     "flag_saudi_arabia",
@@ -11755,6 +11812,9 @@
     "banner",
     "eswatini"
   ],
+  "🇹": [
+    "t"
+  ],
   "🇹🇦": [
     "flag_tristan_da_cunha"
   ],
@@ -11908,6 +11968,9 @@
     "banner",
     "tanzania"
   ],
+  "🇺": [
+    "u"
+  ],
   "🇺🇦": [
     "flag_ukraine",
     "ua",
@@ -11963,6 +12026,9 @@
     "country",
     "banner",
     "uzbekistan"
+  ],
+  "🇻": [
+    "v"
   ],
   "🇻🇦": [
     "flag_vatican_city",
@@ -12038,6 +12104,9 @@
     "banner",
     "vanuatu"
   ],
+  "🇼": [
+    "w"
+  ],
   "🇼🇫": [
     "flag_wallis_futuna",
     "wallis",
@@ -12057,6 +12126,9 @@
     "banner",
     "samoa"
   ],
+  "🇽": [
+    "x"
+  ],
   "🇽🇰": [
     "flag_kosovo",
     "xk",
@@ -12065,6 +12137,9 @@
     "country",
     "banner",
     "kosovo"
+  ],
+  "🇾": [
+    "y"
   ],
   "🇾🇪": [
     "flag_yemen",
@@ -12083,6 +12158,9 @@
     "country",
     "banner",
     "mayotte"
+  ],
+  "🇿": [
+    "z"
   ],
   "🇿🇦": [
     "flag_south_africa",
