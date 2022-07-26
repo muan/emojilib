@@ -395,7 +395,8 @@
     "face",
     "sick",
     "ill",
-    "disease"
+    "disease",
+    "covid"
   ],
   "🤒": [
     "face_with_thermometer",
@@ -403,7 +404,8 @@
     "temperature",
     "thermometer",
     "cold",
-    "fever"
+    "fever",
+    "covid"
   ],
   "🤕": [
     "face_with_head_bandage",
@@ -4010,7 +4012,8 @@
     "amoeba",
     "bacteria",
     "germs",
-    "virus"
+    "virus",
+    "covid"
   ],
   "💐": [
     "bouquet",
@@ -4584,7 +4587,8 @@
     "food",
     "japanese",
     "noodle",
-    "chopsticks"
+    "chopsticks",
+    "ramen"
   ],
   "🍝": [
     "spaghetti",
@@ -10836,7 +10840,9 @@
     "flag",
     "country",
     "banner",
-    "japan"
+    "japan",
+    "jp",
+    "ja"
   ],
   "🇰🇪": [
     "flag_kenya",
