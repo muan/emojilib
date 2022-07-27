@@ -395,7 +395,8 @@
     "face",
     "sick",
     "ill",
-    "disease"
+    "disease",
+    "covid"
   ],
   "🤒": [
     "face_with_thermometer",
@@ -403,7 +404,8 @@
     "temperature",
     "thermometer",
     "cold",
-    "fever"
+    "fever",
+    "covid"
   ],
   "🤕": [
     "face_with_head_bandage",
@@ -4013,7 +4015,8 @@
     "amoeba",
     "bacteria",
     "germs",
-    "virus"
+    "virus",
+    "covid"
   ],
   "💐": [
     "bouquet",
@@ -4374,37 +4377,46 @@
     "baguette_bread",
     "food",
     "bread",
-    "french"
+    "french",
+    "france",
+    "bakery"
   ],
   "🥨": [
     "pretzel",
     "food",
     "bread",
-    "twisted"
+    "twisted",
+    "germany",
+    "bakery"
   ],
   "🥯": [
     "bagel",
     "food",
     "bread",
     "bakery",
-    "schmear"
+    "schmear",
+    "jewish",
+    "bakery"
   ],
   "🥞": [
     "pancakes",
     "food",
     "breakfast",
     "flapjacks",
-    "hotcakes"
+    "hotcakes",
+    "brunch"
   ],
   "🧇": [
     "waffle",
     "food",
-    "breakfast"
+    "breakfast",
+    "brunch"
   ],
   "🧀": [
     "cheese_wedge",
     "food",
-    "chadder"
+    "chadder",
+    "swiss"
   ],
   "🍖": [
     "meat_on_bone",
@@ -4437,7 +4449,8 @@
     "breakfast",
     "pork",
     "pig",
-    "meat"
+    "meat",
+    "brunch"
   ],
   "🍔": [
     "hamburger",
@@ -4452,23 +4465,28 @@
     "french_fries",
     "chips",
     "snack",
-    "fast food"
+    "fast food",
+    "potato"
   ],
   "🍕": [
     "pizza",
     "food",
-    "party"
+    "party",
+    "italy"
   ],
   "🌭": [
     "hot_dog",
     "food",
-    "frankfurter"
+    "frankfurter",
+    "america"
   ],
   "🥪": [
     "sandwich",
     "food",
     "lunch",
-    "bread"
+    "bread",
+    "toast",
+    "bakery"
   ],
   "🌮": [
     "taco",
@@ -4485,11 +4503,13 @@
     "food",
     "flatbread",
     "stuffed",
-    "gyro"
+    "gyro",
+    "mediterranean"
   ],
   "🧆": [
     "falafel",
-    "food"
+    "food",
+    "mediterranean"
   ],
   "🥚": [
     "egg",
@@ -4502,20 +4522,23 @@
     "food",
     "breakfast",
     "kitchen",
-    "egg"
+    "egg",
+    "skillet"
   ],
   "🥘": [
     "shallow_pan_of_food",
     "food",
     "cooking",
     "casserole",
-    "paella"
+    "paella",
+    "skillet"
   ],
   "🍲": [
     "pot_of_food",
     "food",
     "meat",
-    "soup"
+    "soup",
+    "hot pot"
   ],
   "🥣": [
     "bowl_with_spoon",
@@ -4529,14 +4552,16 @@
     "green_salad",
     "food",
     "healthy",
-    "lettuce"
+    "lettuce",
+    "vegetable"
   ],
   "🍿": [
     "popcorn",
     "food",
     "movie theater",
     "films",
-    "snack"
+    "snack",
+    "drama"
   ],
   "🧈": [
     "butter",
@@ -4551,18 +4576,21 @@
   "🥫": [
     "canned_food",
     "food",
-    "soup"
+    "soup",
+    "tomatoes"
   ],
   "🍱": [
     "bento_box",
     "food",
     "japanese",
-    "box"
+    "box",
+    "lunch"
   ],
   "🍘": [
     "rice_cracker",
     "food",
-    "japanese"
+    "japanese",
+    "snack"
   ],
   "🍙": [
     "rice_ball",
@@ -4572,7 +4600,6 @@
   "🍚": [
     "cooked_rice",
     "food",
-    "china",
     "asian"
   ],
   "🍛": [
@@ -4587,18 +4614,21 @@
     "food",
     "japanese",
     "noodle",
-    "chopsticks"
+    "chopsticks",
+    "ramen"
   ],
   "🍝": [
     "spaghetti",
     "food",
     "italian",
+    "pasta",
     "noodle"
   ],
   "🍠": [
     "roasted_sweet_potato",
     "food",
-    "nature"
+    "nature",
+    "plant"
   ],
   "🍢": [
     "oden",
@@ -4635,7 +4665,8 @@
   "🥮": [
     "moon_cake",
     "food",
-    "autumn"
+    "autumn",
+    "dessert"
   ],
   "🍡": [
     "dango",
@@ -4651,12 +4682,14 @@
     "food",
     "empanada",
     "pierogi",
-    "potsticker"
+    "potsticker",
+    "gyoza"
   ],
   "🥠": [
     "fortune_cookie",
     "food",
-    "prophecy"
+    "prophecy",
+    "dessert"
   ],
   "🥡": [
     "takeout_box",
@@ -10839,7 +10872,9 @@
     "flag",
     "country",
     "banner",
-    "japan"
+    "japan",
+    "jp",
+    "ja"
   ],
   "🇰🇪": [
     "flag_kenya",
@@ -12285,7 +12320,8 @@
   "🫓": [
     "flatbread",
     "flour",
-    "food"
+    "food",
+    "bakery"
   ],
   "🫔": [
     "tamale",
