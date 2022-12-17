@@ -574,7 +574,11 @@
     "pleading_face",
     "face",
     "begging",
-    "mercy"
+    "mercy",
+    "cry",
+    "tears",
+    "sad",
+    "grievance"
   ],
   "😦": [
     "frowning_face_with_open_mouth",
@@ -593,9 +597,7 @@
     "face",
     "scared",
     "terrified",
-    "nervous",
-    "oops",
-    "huh"
+    "nervous"
   ],
   "😰": [
     "anxious_face_with_sweat",
