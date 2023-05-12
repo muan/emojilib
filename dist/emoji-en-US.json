@@ -2818,20 +2818,27 @@
   ],
   "🚴": [
     "person_biking",
+    "bicycle",
+    "bike",
+    "cyclist",
     "sport",
     "move"
   ],
   "🚴‍♂️": [
     "man_biking",
-    "sports",
+    "bicycle",
     "bike",
+    "cyclist",
+    "sports",
     "exercise",
     "hipster"
   ],
   "🚴‍♀️": [
     "woman_biking",
-    "sports",
+    "bicycle",
     "bike",
+    "cyclist",
+    "sports",
     "exercise",
     "hipster",
     "woman",
@@ -2839,24 +2846,31 @@
   ],
   "🚵": [
     "person_mountain_biking",
+    "bicycle",
+    "bike",
+    "cyclist",
     "sport",
     "move"
   ],
   "🚵‍♂️": [
     "man_mountain_biking",
+    "bicycle",
+    "bike",
+    "cyclist",
     "transportation",
     "sports",
     "human",
-    "race",
-    "bike"
+    "race"
   ],
   "🚵‍♀️": [
     "woman_mountain_biking",
+    "bicycle",
+    "bike",
+    "cyclist",
     "transportation",
     "sports",
     "human",
     "race",
-    "bike",
     "woman",
     "female"
   ],
@@ -5598,8 +5612,8 @@
   ],
   "🚲": [
     "bicycle",
+    "bike",
     "sports",
-    "bicycle",
     "exercise",
     "hipster"
   ],
@@ -8591,6 +8605,9 @@
   ],
   "🚳": [
     "no_bicycles",
+    "no_bikes",
+    "bicycle",
+    "bike",
     "cyclist",
     "prohibited",
     "circle"
