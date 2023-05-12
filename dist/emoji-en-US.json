@@ -772,8 +772,7 @@
     "creepy",
     "devil",
     "demon",
-    "japanese",
-    "ogre"
+    "japanese_ogre"
   ],
   "👺": [
     "goblin",
@@ -783,8 +782,7 @@
     "monster",
     "scary",
     "creepy",
-    "japanese",
-    "goblin"
+    "japanese_goblin"
   ],
   "👻": [
     "ghost",
@@ -1060,7 +1058,6 @@
     "bomb",
     "explode",
     "explosion",
-    "collision",
     "blown"
   ],
   "💫": [
@@ -1459,7 +1456,6 @@
   ],
   "👄": [
     "mouth",
-    "mouth",
     "kiss"
   ],
   "👶": [
@@ -1489,8 +1485,7 @@
   ],
   "🧑": [
     "person",
-    "gender-neutral",
-    "person"
+    "gender-neutral"
   ],
   "👱": [
     "person_blond_hair",
@@ -2130,8 +2125,7 @@
   "🕵️": [
     "detective",
     "human",
-    "spy",
-    "detective"
+    "spy"
   ],
   "🕵️‍♂️": [
     "man_detective",
@@ -3653,8 +3647,7 @@
   "🐼": [
     "panda",
     "animal",
-    "nature",
-    "panda"
+    "nature"
   ],
   "🦥": [
     "sloth",
@@ -3985,7 +3978,6 @@
   "🦗": [
     "cricket",
     "animal",
-    "cricket",
     "chirp"
   ],
   "🕷️": [
@@ -4398,8 +4390,7 @@
     "bread",
     "bakery",
     "schmear",
-    "jewish",
-    "bakery"
+    "jewish_bakery"
   ],
   "🥞": [
     "pancakes",
@@ -5599,7 +5590,6 @@
   "🚲": [
     "bicycle",
     "sports",
-    "bicycle",
     "exercise",
     "hipster"
   ],
@@ -7029,8 +7019,7 @@
     "backpack",
     "student",
     "education",
-    "bag",
-    "backpack"
+    "bag"
   ],
   "👞": [
     "man_s_shoe",
@@ -7326,8 +7315,7 @@
     "telephone",
     "technology",
     "communication",
-    "dial",
-    "telephone"
+    "dial"
   ],
   "📞": [
     "telephone_receiver",
@@ -7360,7 +7348,6 @@
   "💻": [
     "laptop",
     "technology",
-    "laptop",
     "screen",
     "display",
     "monitor"
@@ -7454,8 +7441,7 @@
     "technology",
     "program",
     "oldschool",
-    "show",
-    "television"
+    "show"
   ],
   "📷": [
     "camera",
@@ -7879,7 +7865,6 @@
   ],
   "📅": [
     "calendar",
-    "calendar",
     "schedule"
   ],
   "📆": [
@@ -8079,7 +8064,6 @@
     "pistol",
     "violence",
     "weapon",
-    "pistol",
     "revolver"
   ],
   "🏹": [
@@ -8323,7 +8307,6 @@
     "cigarette",
     "kills",
     "tobacco",
-    "cigarette",
     "joint",
     "smoke"
   ],
@@ -8351,8 +8334,7 @@
   "🗿": [
     "moai",
     "rock",
-    "easter island",
-    "moai"
+    "easter island"
   ],
   "🏧": [
     "atm_sign",
@@ -8792,8 +8774,7 @@
     "sign",
     "zodiac",
     "purple-square",
-    "astrology",
-    "scorpio"
+    "astrology"
   ],
   "♐": [
     "sagittarius",
@@ -10234,8 +10215,7 @@
     "flag",
     "country",
     "nation",
-    "banner",
-    "china"
+    "banner"
   ],
   "🇨🇴": [
     "flag_colombia",
@@ -10428,8 +10408,7 @@
     "flag",
     "nation",
     "country",
-    "banner",
-    "spain"
+    "banner"
   ],
   "🇪🇹": [
     "flag_ethiopia",
@@ -10484,8 +10463,7 @@
     "flag",
     "nation",
     "country",
-    "banner",
-    "micronesia"
+    "banner"
   ],
   "🇫🇴": [
     "flag_faroe_islands",
@@ -10504,8 +10482,7 @@
     "nation",
     "france",
     "french",
-    "country",
-    "france"
+    "country"
   ],
   "🇬🇦": [
     "flag_gabon",
@@ -10827,8 +10804,7 @@
     "flag",
     "nation",
     "country",
-    "banner",
-    "iran"
+    "banner"
   ],
   "🇮🇸": [
     "flag_iceland",
@@ -10845,8 +10821,7 @@
     "flag",
     "nation",
     "country",
-    "banner",
-    "italy"
+    "banner"
   ],
   "🇯🇪": [
     "flag_jersey",
@@ -11118,8 +11093,7 @@
     "flag",
     "nation",
     "country",
-    "banner",
-    "moldova"
+    "banner"
   ],
   "🇲🇪": [
     "flag_montenegro",
@@ -11915,8 +11889,7 @@
     "flag",
     "nation",
     "country",
-    "banner",
-    "turkey"
+    "banner"
   ],
   "🇹🇹": [
     "flag_trinidad_tobago",
@@ -11953,8 +11926,7 @@
     "flag",
     "nation",
     "country",
-    "banner",
-    "tanzania"
+    "banner"
   ],
   "🇺🇦": [
     "flag_ukraine",
