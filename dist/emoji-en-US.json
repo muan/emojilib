@@ -1365,11 +1365,13 @@
   ],
   "💅": [
     "nail_polish",
+    "nail_care",
     "beauty",
     "manicure",
     "finger",
     "fashion",
-    "nail"
+    "nail",
+    "slay"
   ],
   "🤳": [
     "selfie",
@@ -4819,7 +4821,9 @@
   "🍮": [
     "custard",
     "dessert",
-    "food"
+    "food",
+    "pudding",
+    "flan"
   ],
   "🍯": [
     "honey_pot",
@@ -9887,12 +9891,8 @@
     "pride",
     "gay",
     "lgbt",
-    "glbt",
     "queer",
-    "homosexual",
-    "lesbian",
-    "bisexual",
-    "transgender"
+    "homosexual"
   ],
   "🏴‍☠️": [
     "pirate_flag",
@@ -12595,10 +12595,14 @@
   ],
   "⚧️": [
     "transgender symbol",
+    "transgender",
     "lgbtq"
   ],
   "🏳️‍⚧️": [
     "transgender flag",
+    "transgender",
+    "flag",
+    "pride",
     "lgbtq"
   ],
   "😶‍🌫️": [
