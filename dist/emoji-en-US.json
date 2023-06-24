@@ -9338,81 +9338,96 @@
     "0",
     "numbers",
     "blue-square",
-    "null"
+    "null",
+    "zero"
   ],
   "1️⃣": [
     "keycap_1",
     "blue-square",
     "numbers",
-    "1"
+    "1",
+    "one"
   ],
   "2️⃣": [
     "keycap_2",
     "numbers",
     "2",
     "prime",
-    "blue-square"
+    "blue-square",
+    "two"
   ],
   "3️⃣": [
     "keycap_3",
     "3",
     "numbers",
     "prime",
-    "blue-square"
+    "blue-square",
+    "three"
   ],
   "4️⃣": [
     "keycap_4",
     "4",
     "numbers",
-    "blue-square"
+    "blue-square",
+    "four"
   ],
   "5️⃣": [
     "keycap_5",
     "5",
     "numbers",
     "blue-square",
-    "prime"
+    "prime",
+    "five"
   ],
   "6️⃣": [
     "keycap_6",
     "6",
     "numbers",
-    "blue-square"
+    "blue-square",
+    "six"
   ],
   "7️⃣": [
     "keycap_7",
     "7",
     "numbers",
     "blue-square",
-    "prime"
+    "prime",
+    "seven"
   ],
   "8️⃣": [
     "keycap_8",
     "8",
     "blue-square",
-    "numbers"
+    "numbers",
+    "eight"
   ],
   "9️⃣": [
     "keycap_9",
     "blue-square",
     "numbers",
-    "9"
+    "9",
+    "nine"
   ],
   "🔟": [
     "keycap_10",
     "numbers",
     "10",
-    "blue-square"
+    "blue-square",
+    "ten"
   ],
   "🔠": [
     "input_latin_uppercase",
     "alphabet",
     "words",
+    "letters",
+    "uppercase",
     "blue-square"
   ],
   "🔡": [
     "input_latin_lowercase",
     "blue-square",
+    "letters",
+    "lowercase",
     "alphabet"
   ],
   "🔢": [
