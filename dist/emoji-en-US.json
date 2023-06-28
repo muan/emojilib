@@ -302,7 +302,8 @@
     "indifference",
     "meh",
     ":|",
-    "neutral"
+    "neutral",
+    "bruh"
   ],
   "😑": [
     "expressionless_face",
@@ -314,8 +315,7 @@
   ],
   "😶": [
     "face_without_mouth",
-    "face",
-    "hellokitty"
+    "face"
   ],
   "😏": [
     "smirking_face",
@@ -623,6 +623,7 @@
   ],
   "😭": [
     "loudly_crying_face",
+    "sobbing",
     "face",
     "cry",
     "tears",
@@ -738,7 +739,9 @@
     "dead",
     "skeleton",
     "creepy",
-    "death"
+    "death",
+    "dead",
+    "ong"
   ],
   "☠️": [
     "skull_and_crossbones",
@@ -1136,6 +1139,7 @@
   ],
   "👋": [
     "waving_hand",
+    "wave",
     "hands",
     "gesture",
     "goodbye",
