@@ -4604,12 +4604,15 @@
     "rice_cracker",
     "food",
     "japanese",
-    "snack"
+    "snack",
+    "senbei"
   ],
   "🍙": [
     "rice_ball",
     "food",
-    "japanese"
+    "japanese",
+    "onigiri",
+    "omusubi"
   ],
   "🍚": [
     "cooked_rice",
@@ -4646,6 +4649,7 @@
   ],
   "🍢": [
     "oden",
+    "skewer",
     "food",
     "japanese"
   ],
