@@ -295,7 +295,8 @@
     "scepticism",
     "disapproval",
     "disbelief",
-    "surprise"
+    "surprise",
+    "suspicious"
   ],
   "😐": [
     "neutral_face",
@@ -314,8 +315,7 @@
   ],
   "😶": [
     "face_without_mouth",
-    "face",
-    "hellokitty"
+    "face"
   ],
   "😏": [
     "smirking_face",
@@ -336,6 +336,7 @@
     "unimpressed",
     "skeptical",
     "dubious",
+    "ugh",
     "side_eye"
   ],
   "🙄": [
@@ -623,6 +624,7 @@
   ],
   "😭": [
     "loudly_crying_face",
+    "sobbing",
     "face",
     "cry",
     "tears",
@@ -738,7 +740,8 @@
     "dead",
     "skeleton",
     "creepy",
-    "death"
+    "death",
+    "dead"
   ],
   "☠️": [
     "skull_and_crossbones",
@@ -1046,7 +1049,8 @@
     "quiz",
     "test",
     "pass",
-    "hundred"
+    "hundred",
+    "100"
   ],
   "💢": [
     "anger_symbol",
@@ -1136,6 +1140,7 @@
   ],
   "👋": [
     "waving_hand",
+    "wave",
     "hands",
     "gesture",
     "goodbye",
@@ -1365,11 +1370,13 @@
   ],
   "💅": [
     "nail_polish",
+    "nail_care",
     "beauty",
     "manicure",
     "finger",
     "fashion",
-    "nail"
+    "nail",
+    "slay"
   ],
   "🤳": [
     "selfie",
@@ -4598,12 +4605,15 @@
     "rice_cracker",
     "food",
     "japanese",
-    "snack"
+    "snack",
+    "senbei"
   ],
   "🍙": [
     "rice_ball",
     "food",
-    "japanese"
+    "japanese",
+    "onigiri",
+    "omusubi"
   ],
   "🍚": [
     "cooked_rice",
@@ -4640,6 +4650,7 @@
   ],
   "🍢": [
     "oden",
+    "skewer",
     "food",
     "japanese"
   ],
@@ -4819,7 +4830,9 @@
   "🍮": [
     "custard",
     "dessert",
-    "food"
+    "food",
+    "pudding",
+    "flan"
   ],
   "🍯": [
     "honey_pot",
@@ -5011,6 +5024,7 @@
     "globe_showing_europe_africa",
     "globe",
     "world",
+    "earth",
     "international"
   ],
   "🌎": [
@@ -5018,6 +5032,7 @@
     "globe",
     "world",
     "USA",
+    "earth",
     "international"
   ],
   "🌏": [
@@ -5025,6 +5040,7 @@
     "globe",
     "world",
     "east",
+    "earth",
     "international"
   ],
   "🌐": [
@@ -6436,7 +6452,8 @@
     "thunder",
     "weather",
     "lightning bolt",
-    "fast"
+    "fast",
+    "zap"
   ],
   "❄️": [
     "snowflake",
@@ -9334,81 +9351,96 @@
     "0",
     "numbers",
     "blue-square",
-    "null"
+    "null",
+    "zero"
   ],
   "1️⃣": [
     "keycap_1",
     "blue-square",
     "numbers",
-    "1"
+    "1",
+    "one"
   ],
   "2️⃣": [
     "keycap_2",
     "numbers",
     "2",
     "prime",
-    "blue-square"
+    "blue-square",
+    "two"
   ],
   "3️⃣": [
     "keycap_3",
     "3",
     "numbers",
     "prime",
-    "blue-square"
+    "blue-square",
+    "three"
   ],
   "4️⃣": [
     "keycap_4",
     "4",
     "numbers",
-    "blue-square"
+    "blue-square",
+    "four"
   ],
   "5️⃣": [
     "keycap_5",
     "5",
     "numbers",
     "blue-square",
-    "prime"
+    "prime",
+    "five"
   ],
   "6️⃣": [
     "keycap_6",
     "6",
     "numbers",
-    "blue-square"
+    "blue-square",
+    "six"
   ],
   "7️⃣": [
     "keycap_7",
     "7",
     "numbers",
     "blue-square",
-    "prime"
+    "prime",
+    "seven"
   ],
   "8️⃣": [
     "keycap_8",
     "8",
     "blue-square",
-    "numbers"
+    "numbers",
+    "eight"
   ],
   "9️⃣": [
     "keycap_9",
     "blue-square",
     "numbers",
-    "9"
+    "9",
+    "nine"
   ],
   "🔟": [
     "keycap_10",
     "numbers",
     "10",
-    "blue-square"
+    "blue-square",
+    "ten"
   ],
   "🔠": [
     "input_latin_uppercase",
     "alphabet",
     "words",
+    "letters",
+    "uppercase",
     "blue-square"
   ],
   "🔡": [
     "input_latin_lowercase",
     "blue-square",
+    "letters",
+    "lowercase",
     "alphabet"
   ],
   "🔢": [
@@ -9887,12 +9919,8 @@
     "pride",
     "gay",
     "lgbt",
-    "glbt",
     "queer",
-    "homosexual",
-    "lesbian",
-    "bisexual",
-    "transgender"
+    "homosexual"
   ],
   "🏴‍☠️": [
     "pirate_flag",
@@ -12595,10 +12623,14 @@
   ],
   "⚧️": [
     "transgender symbol",
+    "transgender",
     "lgbtq"
   ],
   "🏳️‍⚧️": [
     "transgender flag",
+    "transgender",
+    "flag",
+    "pride",
     "lgbtq"
   ],
   "😶‍🌫️": [
