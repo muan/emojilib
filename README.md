@@ -36,7 +36,6 @@ If you are looking for the unicode emoji dataset, including version, grouping, o
 
 ## Migrating from 2.x
 
-
 Previously:
 
 ```js
