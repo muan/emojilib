@@ -33,7 +33,7 @@
     "prettier": "^1.18.2",
     "promptly": "^3.2.0",
     "tape": "^5.1.1",
-    "unicode-emoji-json": "0.5.0",
+    "unicode-emoji-json": "0.6.0",
     "xml2json": "^0.7.1"
   }
 }
