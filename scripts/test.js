@@ -4,6 +4,7 @@ const files = fs.readdirSync('dist')
 const expectedKeys = require('unicode-emoji-json/data-ordered-emoji.json')
 
 for (const path of files) {
+  if (!path.endsWith('.json')) continue
   test(`checking dist/${path}`, {objectPrintDepth: 1}, t => {
     const content = require(`../dist/${path}`)
     const containedKeys = Object.keys(content)
