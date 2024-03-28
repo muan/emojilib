@@ -19,7 +19,7 @@ for (const path of files) {
         notFound.push(key)
       }
     }
-    t.ok(notFound.length === 0, `${notFound.join(', ')} were not found.`)
+    t.ok(notFound.length === 0, `expected all keywords found, ${notFound.join(', ') || 'none'} were missing.`)
     t.end()
   })
 }
