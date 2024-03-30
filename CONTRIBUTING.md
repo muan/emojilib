@@ -83,3 +83,10 @@ Is "joy" a suitable keyword for 😀? (y/n/e) y
 Is ":D" a suitable keyword for 😀? (y/n/e) n
 [saved] 😀: grinning face, face, smile, happy, joy, grin
 ```
+
+- **Augment dataset** with `npm run augment [en-US]` to bring in keywords used in common emoji platforms
+
+```
+$ npm run augment en-US
+Augmented 123 emoji with a total of 456 keyword(s)
+```

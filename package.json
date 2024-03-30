@@ -7,6 +7,7 @@
     "dist"
   ],
   "scripts": {
+    "augment": "node scripts/augment.js",
     "test": "node scripts/test.js",
     "upgrade": "node scripts/upgrade.js",
     "i18n": "node scripts/i18n.js",
@@ -29,6 +30,8 @@
   },
   "homepage": "https://github.com/muan/emojilib#readme",
   "devDependencies": {
+    "change-case": "^5.4.3",
+    "emoji-platform-data": "^0.1.0",
     "prettier": "^1.18.2",
     "promptly": "^3.2.0",
     "tape": "^5.1.1",
