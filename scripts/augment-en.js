@@ -1,15 +1,9 @@
 const fs = require('fs')
-const lang = process.argv[2]
-if (!lang) {
-  const files = fs.readdirSync('dist')
-  const langs = files.map(tag => tag.match(/-(.+)\./)[1])
-  console.log(`Please provide a language tag: ${langs.join(', ')}`)
-} else {
-  start()
-}
+  
+start()
 
 async function start() {
-  const path = `dist/emoji-${lang}.json`
+  const path = `dist/emoji-en-US.json`
   const allEmojiData = require(`../${path}`)
   const missing = await generateAugmentations(allEmojiData)
   let addedCounts = {}

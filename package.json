@@ -7,7 +7,7 @@
     "dist"
   ],
   "scripts": {
-    "augment": "node scripts/augment.js",
+    "augment-en": "node scripts/augment-en.js",
     "test": "node scripts/test.js",
     "upgrade": "node scripts/upgrade.js",
     "i18n": "node scripts/i18n.js",
