@@ -18950,5 +18950,158 @@
     "internet",
     "contactless",
     "signal"
+  ],
+  "🙂‍↔️": [
+    "head shaking horizontally",
+    "disapprove",
+    "indiffernt",
+    "left"
+  ],
+  "🙂‍↕️": [
+    "head shaking vertically",
+    "down",
+    "nod"
+  ],
+  "🚶‍➡️": [
+    "person walking facing right",
+    "peerson",
+    "exercise"
+  ],
+  "🚶‍♀️‍➡️": [
+    "woman walking facing right",
+    "person",
+    "exercise"
+  ],
+  "🚶‍♂️‍➡️": [
+    "man walking facing right",
+    "person",
+    "exercise"
+  ],
+  "🧎‍➡️": [
+    "person kneeling facing right",
+    "pray"
+  ],
+  "🧎‍♀️‍➡️": [
+    "woman kneeling facing right",
+    "pray",
+    "worship"
+  ],
+  "🧎‍♂️‍➡️": [
+    "man kneeling facing right",
+    "pray",
+    "worship"
+  ],
+  "🧑‍🦯‍➡️": [
+    "person with white cane facing right",
+    "walk",
+    "walk",
+    "visually impaired",
+    "blind"
+  ],
+  "👨‍🦯‍➡️": [
+    "man with white cane facing right",
+    "visually impaired",
+    "blind",
+    "walk",
+    "stick"
+  ],
+  "👩‍🦯‍➡️": [
+    "woman with white cane facing right",
+    "stick",
+    "visually impaired",
+    "blind"
+  ],
+  "🧑‍🦼‍➡️": [
+    "person in motorized wheelchair facing right",
+    "accessibility",
+    "disability"
+  ],
+  "👨‍🦼‍➡️": [
+    "man in motorized wheelchair facing right",
+    "disability",
+    "accessibility",
+    "mobility"
+  ],
+  "👩‍🦼‍➡️": [
+    "woman in motorized wheelchair facing right",
+    "mobility",
+    "accessibility",
+    "disability"
+  ],
+  "🧑‍🦽‍➡️": [
+    "person in manual wheelchair facing right",
+    "mobility",
+    "accessibility",
+    "disability"
+  ],
+  "👨‍🦽‍➡️": [
+    "man in manual wheelchair facing right",
+    "mobility",
+    "accessibility",
+    "disability"
+  ],
+  "👩‍🦽‍➡️": [
+    "woman in manual wheelchair facing right",
+    "disability",
+    "mobility",
+    "accessibility"
+  ],
+  "🏃‍➡️": [
+    "person running facing right",
+    "exercise",
+    "jog"
+  ],
+  "🏃‍♀️‍➡️": [
+    "woman running facing right",
+    "exercise",
+    "jog"
+  ],
+  "🏃‍♂️‍➡️": [
+    "man running facing right",
+    "jog",
+    "exercise"
+  ],
+  "🧑‍🧑‍🧒": [
+    "family adult, adult, child",
+    "kid",
+    "parents"
+  ],
+  "🧑‍🧑‍🧒‍🧒": [
+    "family adult, adult, child, child",
+    "children",
+    "parents"
+  ],
+  "🧑‍🧒": [
+    "family adult, child",
+    "parent",
+    "kid"
+  ],
+  "🧑‍🧒‍🧒": [
+    "family adult, child, child",
+    "parent",
+    "children"
+  ],
+  "🐦‍🔥": [
+    "phoenix",
+    "immortal",
+    "bird",
+    "mythtical",
+    "reborn"
+  ],
+  "🍋‍🟩": [
+    "lime",
+    "fruit",
+    "acidic",
+    "citric"
+  ],
+  "🍄‍🟫": [
+    "brown mushroom",
+    "toadstool",
+    "fungus"
+  ],
+  "⛓️‍💥": [
+    "broken chain",
+    "constraint",
+    "break"
   ]
 }

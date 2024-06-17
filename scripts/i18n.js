@@ -48,11 +48,11 @@ function createFileFromCldr() {
 }
 
 function parse(content) {
-  const parser = require('xml2json')
+  const parser = new (require('fast-xml-parser')).XMLParser()
   const data = require(`../${basefilePath}`)
   Object.keys(data).forEach(k => (data[k] = []))
   
-  for (const group of JSON.parse(parser.toJson(content)).ldml.annotations.annotation) {
+  for (const group of parser.parse(content).ldml.annotations.annotation) {
     const emoji = group.cp
     const emojiWithOptionalVariation16 = data[emoji] ? emoji : emoji + VARIATION_16
     if (!data[emojiWithOptionalVariation16]) continue
