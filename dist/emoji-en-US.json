@@ -766,8 +766,8 @@
     "stuffy",
     "wealthy",
     "rich",
-    "data_exploration",
-    "data_inspection"
+    "exploration",
+    "inspection"
   ],
   "😕": [
     "confused_face",
@@ -1161,7 +1161,7 @@
     "monster",
     "poop",
     "smiling",
-    "bad_code",
+    "bad",
     "needs_improvement"
   ],
   "🤡": [
@@ -1233,7 +1233,7 @@
     "fantasy",
     "monster",
     "tale",
-    "external_api",
+    "external",
   ],
   "👾": [
     "alien_monster",
@@ -1410,8 +1410,7 @@
     "not",
     "no speaking",
     "prohibited",
-    "add_gitignore",
-    "update_gitignore"
+    "ignore"
   ],
   "💋": [
     "kiss_mark",
@@ -1577,8 +1576,7 @@
     "like",
     "affection",
     "valentines",
-    "nct",
-    "fix_ci_build"
+    "nct"
   ],
   "💙": [
     "blue_heart",
@@ -1650,7 +1648,7 @@
     "red",
     "spark",
     "symbol",
-    "breaking_changes"
+    "break"
   ],
   "💫": [
     "dizzy",
@@ -1661,10 +1659,8 @@
     "circle",
     "comic",
     "symbol",
-    "add_animations",
-    "update_animations",
-    "add_transitions",
-    "update_transitions",
+    "animations",
+    "transitions"
   ],
   "💦": [
     "sweat_droplets",
@@ -1719,10 +1715,8 @@
     "comic",
     "comment",
     "dialog",
-    "add_text",
-    "update_text",
-    "add_literals",
-    "update_literals"
+    "text",
+    "literals"
   ],
   "👁️‍🗨️": [
     "eye_in_speech_bubble",
@@ -3282,7 +3276,7 @@
     "laptop",
     "software",
     "technology",
-    "improve_developer_experience"
+    "developer"
   ],
   "👨‍💻": [
     "man_technologist",
@@ -5513,8 +5507,7 @@
     "silhouettes",
     "two",
     "users",
-    "add_contributors",
-    "update_contributor"
+    "contributors"
   ],
   "👣": [
     "footprints",
@@ -6521,8 +6514,7 @@
     "sprout",
     "sprouting",
     "young",
-    "add_seed_files",
-    "update_seed_files"
+    "seed"
   ],
   "🌲": [
     "evergreen_tree",
@@ -7094,8 +7086,7 @@
     "food",
     "chicken",
     "breakfast",
-    "update_easter_egg",
-    "add_easter_egg"
+    "easter_egg"
   ],
   "🍳": [
     "cooking",
@@ -7180,8 +7171,7 @@
     "japanese",
     "box",
     "lunch",
-    "add_assets",
-    "update_assets"
+    "assets"
   ],
   "🍘": [
     "rice_cracker",
@@ -7635,8 +7625,7 @@
     "cheers",
     "clink",
     "drinks",
-    "mug",
-    "write_drunkenly"
+    "mug"
   ],
   "🥂": [
     "clinking_glasses",
@@ -7916,7 +7905,7 @@
     "working",
     "progress",
     "crane",
-    "architectural_changes"
+    "architectural"
   ],
   "🧱": [
     "brick",
@@ -7925,7 +7914,7 @@
     "construction",
     "mortar",
     "wall",
-    "infrastructure_changes"
+    "infrastructure"
   ],
   "🏘️": [
     "houses",
@@ -8479,8 +8468,7 @@
     "health",
     "911",
     "hospital",
-    "vehicle",
-    "hotfix"
+    "vehicle"
   ],
   "🚒": [
     "fire_engine",
@@ -8562,8 +8550,7 @@
     "cars",
     "transportation",
     "vehicle",
-    "move_resources",
-    "rename_resources"
+    "resources"
   ],
   "🚛": [
     "articulated_lorry",
@@ -8692,8 +8679,7 @@
     "rotating",
     "siren",
     "vehicle",
-    "fix_compiler_warning",
-    "fix_linter_warning"
+    "warning"
   ],
   "🚥": [
     "horizontal_traffic_light",
@@ -9759,7 +9745,7 @@
     "electricity",
     "sign",
     "thunderbolt",
-    "improve_performance"
+    "speed"
   ],
   "❄️": [
     "snowflake",
@@ -9907,8 +9893,7 @@
     "entertainment",
     "glitter",
     "sparkle",
-    "star",
-    "new_feature"
+    "star"
   ],
   "🎈": [
     "balloon",
@@ -9932,8 +9917,7 @@
     "activity",
     "entertainment",
     "hat",
-    "hooray",
-    "begin_project"
+    "hooray"
   ],
   "🎊": [
     "confetti_ball",
@@ -10289,7 +10273,7 @@
   "🥅": [
     "goal_net",
     "sports",
-    "catch_errors"
+    "catch"
   ],
   "⛳": [
     "flag_in_hole",
@@ -10600,8 +10584,7 @@
     "entertainment",
     "museum",
     "painting",
-    "improve_structure",
-    "improve_format"
+    "improve"
   ],
   "🧵": [
     "thread",
@@ -10609,11 +10592,7 @@
     "sewing",
     "spool",
     "string",
-    "crafts",
-    "add_multithreading",
-    "update_multithreading",
-    "add_concurrency",
-    "update_concurrency"
+    "crafts"
   ],
   "🧶": [
     "yarn",
@@ -10666,9 +10645,7 @@
   "🦺": [
     "safety_vest",
     "protection",
-    "emergency",
-    "add_validation",
-    "update_validation"
+    "emergency"
   ],
   "👔": [
     "necktie",
@@ -10679,9 +10656,7 @@
     "cloth",
     "business",
     "clothing",
-    "tie",
-    "add_business_logic",
-    "update_business_logic"
+    "tie"
   ],
   "👕": [
     "t_shirt",
@@ -11040,8 +11015,7 @@
     "gloss",
     "lip",
     "makeup",
-    "add_style",
-    "update_style"
+    "style"
   ],
   "💍": [
     "ring",
@@ -11077,8 +11051,7 @@
     "mute",
     "off",
     "silent",
-    "stroke",
-    "remove_logs"
+    "stroke"
   ],
   "🔈": [
     "speaker_low_volume",
@@ -11097,9 +11070,7 @@
     "one",
     "reduce",
     "sound",
-    "wave",
-    "add_logs",
-    "update_logs"
+    "wave"
   ],
   "🔊": [
     "speaker_high_volume",
@@ -11575,8 +11546,7 @@
     "gadgets",
     "photo",
     "video",
-    "add_snapshots",
-    "update_snapshots"
+    "snapshots"
   ],
   "📹": [
     "video_camera",
@@ -11620,7 +11590,7 @@
     "magnifier",
     "pointing",
     "tool",
-    "improve_seo"
+    "seo"
   ],
   "🕯️": [
     "candle",
@@ -11634,9 +11604,7 @@
     "electricity",
     "idea",
     "comic",
-    "electric",
-    "add_comments",
-    "update_comments"
+    "electric"
   ],
   "🔦": [
     "flashlight",
@@ -11760,8 +11728,7 @@
     "curled",
     "curly page",
     "document",
-    "add_license",
-    "update_license"
+    "license"
   ],
   "📜": [
     "scroll",
@@ -11815,12 +11782,7 @@
     "save",
     "mark",
     "price",
-    "tag",
-    "release",
-    "release_version",
-    "release_tag",
-    "add_types",
-    "update_types"
+    "tag"
   ],
   "🏷️": [
     "label",
@@ -11905,8 +11867,7 @@
     "fly",
     "flying",
     "losing",
-    "note",
-    "money_related_infrastructure"
+    "note"
   ],
   "💳": [
     "credit_card",
@@ -12038,8 +11999,7 @@
     "communication",
     "parcel",
     "shipping",
-    "add_compiled",
-    "update_compiled"
+    "container"
   ],
   "📫": [
     "closed_mailbox_with_raised_flag",
@@ -12099,7 +12059,7 @@
     "study",
     "lead",
     "pencil2",
-    "fix_typos"
+    "typos"
   ],
   "✒️": [
     "black_nib",
@@ -12166,8 +12126,7 @@
     "document",
     "memorandum",
     "note",
-    "add_documentation",
-    "update_documentation"
+    "documentation"
   ],
   "💼": [
     "briefcase",
@@ -12258,9 +12217,7 @@
     "up",
     "upward",
     "upwards",
-    "add_analytics_code",
-    "update_analytics_code",
-    "track_analytics_code"
+    "analytics"
   ],
   "📉": [
     "chart_decreasing",
@@ -12301,8 +12258,7 @@
     "location",
     "pin",
     "tack",
-    "thumb",
-    "pin_dependencies_to_version"
+    "thumb"
   ],
   "📍": [
     "round_pushpin",
@@ -12361,7 +12317,7 @@
     "card_file_box",
     "business",
     "stationery",
-    "database_changes"
+    "database"
   ],
   "🗄️": [
     "file_cabinet",
@@ -12378,8 +12334,7 @@
     "basket",
     "can",
     "litter",
-    "wastepaper",
-    "deprecate_code"
+    "wastepaper"
   ],
   "🔒": [
     "locked",
@@ -12389,8 +12344,7 @@
     "closed",
     "lock",
     "private",
-    "fix_security",
-    "fix_privacy"
+    "privacy"
   ],
   "🔓": [
     "unlocked",
@@ -12419,8 +12373,7 @@
     "closed",
     "lock",
     "secure",
-    "add_secret",
-    "update_secret"
+    "secret"
   ],
   "🔑": [
     "key",
@@ -12443,9 +12396,7 @@
     "create",
     "claw",
     "handyman",
-    "tool",
-    "add_scripts",
-    "update_scripts"
+    "tool"
   ],
   "🪓": [
     "axe",
@@ -12523,9 +12474,7 @@
     "fix",
     "maintainer",
     "spanner",
-    "tool",
-    "add_configuration",
-    "update_configuration"
+    "tool"
   ],
   "🔩": [
     "nut_and_bolt",
@@ -12613,7 +12562,7 @@
     "lab",
     "science",
     "chemist",
-    "add_failing_test"
+    "test"
   ],
   "🧫": [
     "petri_dish",
@@ -12711,9 +12660,7 @@
     "band",
     "doctor",
     "medicine",
-    "plaster",
-    "simple_fix",
-    "non_critical"
+    "plaster"
   ],
   "🩺": [
     "stethoscope",
@@ -12721,8 +12668,7 @@
     "doctor",
     "heart",
     "medicine",
-    "add_healthcheck",
-    "update_healthcheck"
+    "healthcheck"
   ],
   "🚪": [
     "door",
@@ -12862,7 +12808,7 @@
     "casket",
     "funeral",
     "box",
-    "remove_code"
+    "remove"
   ],
   "⚱️": [
     "funeral_urn",
@@ -13046,8 +12992,8 @@
     "kids",
     "pedestrian",
     "traffic",
-    "improve_experience",
-    "improve_usability"
+    "experience",
+    "usability"
   ],
   "⛔": [
     "no_entry",
@@ -13202,7 +13148,7 @@
     "north",
     "pointing",
     "upwards",
-    "upgrade_dependencies"
+    "upgrade"
   ],
   "↗️": [
     "up_right_arrow",
@@ -13251,7 +13197,7 @@
     "down arrow",
     "pointing",
     "south",
-    "downgrade_dependencies"
+    "downgrade"
   ],
   "↙️": [
     "down_left_arrow",
@@ -13770,8 +13716,7 @@
     "rewind",
     "symbol",
     "triangle",
-    "revert",
-    "revert_changes"
+    "revert"
   ],
   "⏮️": [
     "last_track_button",
@@ -13995,7 +13940,7 @@
     "logo",
     "recycle",
     "universal",
-    "refactor",
+    "reuse",
   ],
   "⚜️": [
     "fleur_de_lis",
@@ -14057,8 +14002,6 @@
     "heavy",
     "symbol",
     "white",
-    "add_tests",
-    "update_tests",
     "pass_tests"
   ],
   "☑️": [
@@ -14124,7 +14067,7 @@
     "increase",
     "heavy",
     "symbol",
-    "add_dependency"
+    "add"
   ],
   "➖": [
     "minus_sign",
@@ -14134,7 +14077,7 @@
     "less",
     "heavy",
     "symbol",
-    "remove_dependency"
+    "remove"
   ],
   "➗": [
     "division_sign",
@@ -15186,9 +15129,7 @@
     "pole",
     "post",
     "red",
-    "add_feature_flags",
-    "update_feature_flags",
-    "remove_feature_flags"
+    "flag"
   ],
   "🎌": [
     "crossed_flags",
