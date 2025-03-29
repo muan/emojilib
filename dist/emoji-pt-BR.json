@@ -1672,7 +1672,10 @@
     "plewds",
     "respingos",
     "símbolo",
-    "dar certo"
+    "dar certo",
+    "lavar",
+    "molhar",
+    "molhado"
   ],
   "💨": [
     "Dashing_away",
@@ -5556,7 +5559,9 @@
     "woof",
     "filhote de cachorro",
     "bicho de estimação",
-    "fiel"
+    "fiel",
+    "cachorro",
+    "cão"
   ],
   "🐕": [
     "cachorro",
@@ -5567,7 +5572,8 @@
     "bicho de estimação",
     "fiel",
     "Dog2",
-    "Doggo"
+    "Doggo",
+    "cão"
   ],
   "🦮": [
     "guide_dog",
@@ -5575,7 +5581,8 @@
     "cego",
     "acessibilidade",
     "olho",
-    "vendo"
+    "vendo",
+    "cachorro"
   ],
   "🐕‍🦺": [
     "Service_Dog",
@@ -5623,7 +5630,8 @@
     "natureza",
     "bicho de estimação",
     "gatinho",
-    "Kitty"
+    "Kitty",
+    "gato"
   ],
   "🐈": [
     "gato",
@@ -5652,7 +5660,8 @@
     "selvagem",
     "natureza",
     "rugido",
-    "bonitinho"
+    "bonitinho",
+    "tigre"
   ],
   "🐅": [
     "tigre",
@@ -5674,7 +5683,8 @@
     "animal",
     "marrom",
     "natureza",
-    "cabeça"
+    "cabeça",
+    "cavalo"
   ],
   "🐎": [
     "cavalo",
@@ -6419,7 +6429,9 @@
     "primavera",
     "flor",
     "plantar",
-    "romance"
+    "romance",
+    "buquê",
+    "bouquet"
   ],
   "🌸": [
     "Cherry_blossom",
@@ -6514,7 +6526,8 @@
     "brotar",
     "brotando",
     "jovem",
-    "semente"
+    "semente",
+    "planta"
   ],
   "🌲": [
     "Evergreen_tree",
@@ -6522,7 +6535,9 @@
     "natureza",
     "abeto",
     "pinho",
-    "madeira"
+    "madeira",
+    "pinheiro",
+    "árvore"
   ],
   "🌳": [
     "decíduo_tree",
@@ -6530,7 +6545,8 @@
     "natureza",
     "arredondado",
     "derramando",
-    "madeira"
+    "madeira",
+    "árvore"
   ],
   "🌴": [
     "palm_tree",
@@ -6541,7 +6557,10 @@
     "praia",
     "Mojito",
     "tropical",
-    "coco"
+    "coco",
+    "palmeira",
+    "árvore",
+    "coqueiro"
   ],
   "🌵": [
     "cacto",
@@ -6558,7 +6577,8 @@
     "orelha",
     "agricultura",
     "grão",
-    "trigo"
+    "trigo",
+    "arroz"
   ],
   "🌿": [
     "erva",
@@ -6578,7 +6598,7 @@
     "natureza",
     "irlandês",
     "trevo",
-    "trevo"
+    "sorte"
   ],
   "🍀": [
     "Four_Leaf_Clover",
@@ -6588,7 +6608,8 @@
     "sortudo",
     "irlandês",
     "Irlanda",
-    "sorte"
+    "sorte",
+    "trevo"
   ],
   "🍁": [
     "Maple_Leaf",
@@ -6599,7 +6620,11 @@
     "cair",
     "Canadá",
     "canadense",
-    "caindo"
+    "caindo",
+    "mapple",
+    "folha",
+    "outono",
+    "bordo"
   ],
   "🍂": [
     "Fallen_Leaf",
@@ -6632,7 +6657,8 @@
     "comida",
     "vinho",
     "uva",
-    "plantar"
+    "plantar",
+    "cacho"
   ],
   "🍈": [
     "Melão",
@@ -6696,7 +6722,8 @@
     "Mac",
     "escola",
     "delicioso",
-    "plantar"
+    "plantar",
+    "maçã"
   ],
   "🍏": [
     "Green_apple",
@@ -6704,9 +6731,9 @@
     "natureza",
     "delicioso",
     "dourado",
-    "avó",
     "plantar",
-    "Smith"
+    "Smith",
+    "maçã"
   ],
   "🍐": [
     "pera",
@@ -6722,7 +6749,8 @@
     "comida",
     "fundo",
     "bunda",
-    "plantar"
+    "plantar",
+    "sexo"
   ],
   "🍒": [
     "cerejas",
@@ -6781,7 +6809,8 @@
     "beringela",
     "fálico",
     "plantar",
-    "roxo"
+    "roxo",
+    "sexo"
   ],
   "🥔": [
     "batata",
@@ -6814,14 +6843,18 @@
     "apimentado",
     "Chilli",
     "Chili",
-    "plantar"
+    "plantar",
+    "sexo",
+    "sex",
+    "quente",
+    "pimenta"
   ],
   "🥒": [
     "pepino",
     "fruta",
     "comida",
     "salmoura",
-    "pepino",
+    "picles",
     "vegetal"
   ],
   "🥬": [
@@ -6836,7 +6869,9 @@
     "chinês",
     "cos",
     "Verdes",
-    "Romaine"
+    "Romaine",
+    "vegetariano",
+    "vegano"
   ],
   "🥦": [
     "brócolis",
@@ -6844,7 +6879,9 @@
     "comida",
     "vegetal",
     "repolho",
-    "selvagem"
+    "selvagem",
+    "vegano",
+    "vegetariano"
   ],
   "🧄": [
     "alho",
@@ -9809,7 +9846,11 @@
     "Comic",
     "derrubar",
     "suor",
-    "clima"
+    "clima",
+    "baba",
+    "lavar",
+    "molhar",
+    "molhado"
   ],
   "🌊": [
     "Water_wave",
@@ -18166,7 +18207,10 @@
     "crescer",
     "planta de casa",
     "nutrir",
-    "inútil"
+    "inútil",
+    "planta",
+    "plantar",
+    "vaso"
   ],
   "🫐": [
     "mirtilos",
