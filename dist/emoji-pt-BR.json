@@ -6560,7 +6560,8 @@
     "coco",
     "palmeira",
     "árvore",
-    "coqueiro"
+    "coqueiro",
+    "praia"
   ],
   "🌵": [
     "cacto",
@@ -7900,7 +7901,8 @@
     "verão",
     "ensolarado",
     "areia",
-    "Mojito"
+    "Mojito",
+    "praia"
   ],
   "🏜️": [
     "deserto",
@@ -7912,7 +7914,9 @@
     "Desert_island",
     "foto",
     "tropical",
-    "Mojito"
+    "Mojito",
+    "praia",
+    "verão"
   ],
   "🏞️": [
     "National_park",
