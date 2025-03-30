@@ -7,7 +7,8 @@
     "alegria",
     ": D",
     "sorriso",
-    "Smiley"
+    "Smiley",
+    "emoji"
   ],
   "😃": [
     "Grinning_face_with_big_eyes",
@@ -124,7 +125,9 @@
     "sorriso",
     "multar",
     "feliz",
-    "esse"
+    "esse",
+    "ok",
+    "emoji"
   ],
   "🙃": [
     "upside_down_face",
@@ -1705,7 +1708,8 @@
     "explodir",
     "explosão",
     "terrorismo",
-    "Comic"
+    "Comic",
+    "problema"
   ],
   "💬": [
     "discurso_ballon",
@@ -2174,7 +2178,10 @@
     "câmera",
     "telefone",
     "braço",
-    "mão"
+    "mão",
+    "smartphone",
+    "app",
+    "aplicativo"
   ],
   "💪": [
     "flexed_biceps",
@@ -3282,8 +3289,8 @@
     "desenvolvedor"
   ],
   "👨‍💻": [
-    "man_technologista",
-    "codificador",
+    "man_technologist",
+    "coder",
     "desenvolvedor",
     "engenheiro",
     "programador",
@@ -3293,25 +3300,30 @@
     "laptop",
     "computador",
     "blogueiro",
-    "macho",
+    "software",
+    "código",
     "homens",
-    "tecnologia"
+    "tecnologia",
+    "influencer",
+    "influenciador"
   ],
   "👩‍💻": [
-    "Mulher_technologista",
-    "codificador",
-    "desenvolvedor",
-    "engenheiro",
-    "programador",
+    "woman_technologist",
+    "coder",
+    "desenvolvedora",
+    "engenheira",
+    "programadora",
     "software",
     "mulher",
     "humano",
     "laptop",
     "computador",
-    "blogueiro",
-    "fêmea",
+    "blogueira",
+    "software",
     "tecnologia",
-    "mulheres"
+    "mulheres",
+    "influencer",
+    "influenciador"
   ],
   "🧑‍🎤": [
     "cantor",
@@ -3501,10 +3513,10 @@
     "policial",
     "macho",
     "homens",
-    "policial"
+    "soldado"
   ],
   "👮‍♀️": [
-    "Mulher_police_officer",
+    "woman_police_officer",
     "mulher",
     "polícia",
     "lei",
@@ -3514,17 +3526,19 @@
     "911",
     "fêmea",
     "policial",
-    "policial",
+    "soldado",
     "mulheres"
   ],
   "🕵️": [
     "detetive",
     "humano",
     "espião",
+    "espiar",
     "olho",
-    "ou",
     "privado",
-    "Sleuth"
+    "Sleuth",
+    "Sherlock",
+    "investigador"
   ],
   "🕵️‍♂️": [
     "Man_Detective",
@@ -3532,17 +3546,24 @@
     "macho",
     "homens",
     "Sleuth",
-    "espião"
+    "espião",
+    "detetive",
+    "espiar",
+    "investigador",
+    "Sherlock"
   ],
   "🕵️‍♀️": [
-    "Mulher_Detective",
+    "Woman_Detective",
     "humano",
     "espião",
     "detetive",
     "fêmea",
     "mulher",
     "Sleuth",
-    "mulheres"
+    "mulheres",
+    "espiar",
+    "detetive",
+    "investigador"
   ],
   "💂": [
     "guarda",
@@ -3557,10 +3578,11 @@
     "GB",
     "britânico",
     "macho",
-    "cara",
+    "guarda",
     "real",
     "Guardsman",
-    "homens"
+    "homens",
+    "inglês"
   ],
   "💂‍♀️": [
     "Mulher_guard",
@@ -3826,7 +3848,7 @@
     "vilão"
   ],
   "🦹‍♀️": [
-    "Mulher_supervillain",
+    "woman_supervillain",
     "mulher",
     "fêmea",
     "mal",
@@ -3876,7 +3898,8 @@
     "fantasia",
     "Oberon",
     "Puck",
-    "Titania"
+    "Titania",
+    "sininho"
   ],
   "🧚‍♂️": [
     "man_fairy",
@@ -3888,12 +3911,12 @@
     "Puck"
   ],
   "🧚‍♀️": [
-    "Mulher_fairy",
+    "woman_fairy",
     "mulher",
     "fêmea",
     "fantasia",
     "Titania",
-    "asas",
+    "sininho",
     "mulheres"
   ],
   "🧛": [
@@ -3902,7 +3925,7 @@
     "crepúsculo",
     "Drácula",
     "fantasia",
-    "mortos -vivos"
+    "mortos-vivos"
   ],
   "🧛‍♂️": [
     "man_vampire",
@@ -3911,14 +3934,14 @@
     "Drácula",
     "fantasia",
     "homens",
-    "mortos -vivos"
+    "mortos-vivos"
   ],
   "🧛‍♀️": [
-    "Mulher_vampire",
+    "woman_vampire",
     "mulher",
     "fêmea",
     "fantasia",
-    "mortos -vivos",
+    "mortos-vivos",
     "UNDED",
     "mulheres"
   ],
@@ -3956,7 +3979,8 @@
     "ouvidos",
     "fantasia",
     "Legolas",
-    "apontado"
+    "pontudas",
+    "elfo"
   ],
   "🧝‍♂️": [
     "man_elf",
@@ -3966,16 +3990,18 @@
     "fantasia",
     "mágico",
     "homens",
-    "apontado"
+    "pontudas",
+    "elfo"
   ],
   "🧝‍♀️": [
-    "Mulher_elf",
+    "woman_elf",
     "mulher",
     "fêmea",
     "ouvidos",
     "fantasia",
     "mágico",
-    "apontado",
+    "pontudas",
+    "elfo",
     "mulheres"
   ],
   "🧞": [
@@ -3985,7 +4011,8 @@
     "Djinn",
     "Djinni",
     "fantasia",
-    "Jinni"
+    "Jinni",
+    "lâmpada"
   ],
   "🧞‍♂️": [
     "man_genie",
@@ -3993,7 +4020,10 @@
     "macho",
     "Djinn",
     "fantasia",
-    "homens"
+    "homens",
+    "gênio",
+    "desejos",
+    "lâmpada"
   ],
   "🧞‍♀️": [
     "Mulher_Genie",
@@ -4001,33 +4031,39 @@
     "fêmea",
     "Djinn",
     "fantasia",
-    "mulheres"
+    "mulheres",
+    "lâmpada",
+    "gênio",
+    "desejos"
   ],
   "🧟": [
     "zumbi",
     "morto",
     "fantasia",
-    "mortos -vivos",
-    "andando"
+    "mortos-vivos",
+    "andando",
+    "morto"
   ],
   "🧟‍♂️": [
     "man_zombie",
     "homem",
     "macho",
     "Drácula",
-    "mortos -vivos",
-    "Mortos-vivos",
+    "mortos-vivos",
+    "morto",
     "fantasia",
-    "homens"
+    "homens",
+    "zumbi"
   ],
   "🧟‍♀️": [
     "Mulher_zombie",
     "mulher",
     "fêmea",
-    "mortos -vivos",
-    "Mortos-vivos",
+    "mortos-vivos",
+    "morto",
     "fantasia",
-    "mulheres"
+    "mulheres",
+    "zumbi"
   ],
   "💆": [
     "PERSON_GETTING_MASSAGE",
@@ -4047,7 +4083,9 @@
     "face",
     "homens",
     "salão",
-    "Spa"
+    "Spa",
+    "massagem",
+    "beleza"
   ],
   "💆‍♀️": [
     "Woman_getting_massage",
@@ -4058,7 +4096,9 @@
     "face",
     "salão",
     "Spa",
-    "mulheres"
+    "mulheres",
+    "massagem",
+    "beleza"
   ],
   "💇": [
     "Person_getting_haircut",
@@ -4078,7 +4118,11 @@
     "barbeiro",
     "beleza",
     "homens",
-    "salão"
+    "salão",
+    "corte",
+    "cabelo",
+    "cabeleireiro",
+    "beleza"
   ],
   "💇‍♀️": [
     "Mulher_getting_haircut",
@@ -4088,7 +4132,10 @@
     "barbeiro",
     "beleza",
     "salão",
-    "mulheres"
+    "mulheres",
+    "cabelo",
+    "cabeleireiro",
+    "beleza"
   ],
   "🚶": [
     "Person_walking",
@@ -4096,7 +4143,8 @@
     "caminhada",
     "pedestre",
     "andar",
-    "Walker"
+    "Walker",
+    "andar"
   ],
   "🚶‍♂️": [
     "Man_walking",
@@ -4104,6 +4152,7 @@
     "pés",
     "passos",
     "caminhada",
+    "caminhar",
     "macho",
     "homens",
     "pedestre",
@@ -4117,6 +4166,7 @@
     "mulher",
     "fêmea",
     "caminhada",
+    "caminhar",
     "pedestre",
     "andar",
     "mulheres"
@@ -4212,14 +4262,18 @@
     "man_in_manual_wheelchair",
     "inabilidade",
     "acessibilidade",
-    "macho",
+    "cadeira de rodas",
+    "deficiência",
+    "paraolímpico",
     "homens"
   ],
   "👩‍🦽": [
     "Mulher_in_manual_wheelchair",
     "inabilidade",
     "acessibilidade",
-    "fêmea",
+    "cadeira de rodas",
+    "deficiência",
+    "paraolímpico",
     "mulheres"
   ],
   "🏃": [
@@ -4262,17 +4316,19 @@
     "dar certo"
   ],
   "💃": [
-    "Mulher_dancing",
+    "woman_dancing",
     "fêmea",
     "garota",
     "mulher",
     "diversão",
     "dança",
-    "dançarino",
+    "dançarina",
     "vestir",
     "vermelho",
     "salsa",
-    "mulheres"
+    "samba",
+    "mulheres",
+    "boate"
   ],
   "🕺": [
     "man_dancing",
@@ -4282,7 +4338,9 @@
     "dançarino",
     "dança",
     "discoteca",
-    "homens"
+    "disco",
+    "homens",
+    "boate"
   ],
   "🕴️": [
     "man_in_suit_levitating",
@@ -4367,15 +4425,17 @@
     "sauna",
     "Hamam",
     "vapor",
-    "Batinho a vapor",
-    "mulheres"
+    "Banho a vapor",
+    "mulheres",
+    "banho"
   ],
   "🧗": [
     "Person_climbing",
     "esporte",
     "Bouldering",
     "alpinista",
-    "pedra"
+    "pedra",
+    "escalar"
   ],
   "🧗‍♂️": [
     "man_climbing",
@@ -4386,7 +4446,10 @@
     "pedra",
     "Bouldering",
     "alpinista",
-    "homens"
+    "homens",
+    "escalar",
+    "montanhismo",
+    "montanhista"
   ],
   "🧗‍♀️": [
     "Mulher_climbing",
@@ -4397,14 +4460,19 @@
     "pedra",
     "Bouldering",
     "alpinista",
-    "mulheres"
+    "mulheres",
+    "escalar",
+    "montanhismo",
+    "montanhista"
   ],
   "🤺": [
     "Person_fencing",
     "esportes",
     "cercar",
     "espada",
-    "esgrimista"
+    "esgrimista",
+    "esgrima",
+    "luta"
   ],
   "🏇": [
     "Horse_Racing",
@@ -4422,7 +4490,9 @@
     "esportes",
     "inverno",
     "neve",
-    "esqui"
+    "esqui",
+    "Bariloche",
+    "Alpes"
   ],
   "🏂": [
     "Snowboarder",
@@ -4440,7 +4510,8 @@
     "bola",
     "clube",
     "golfe",
-    "jogador de golfe"
+    "jogador de golfe",
+    "tacada"
   ],
   "🏌️‍♂️": [
     "man_golfing",
@@ -4449,7 +4520,8 @@
     "golfe",
     "jogador de golfe",
     "macho",
-    "homens"
+    "homens",
+    "tacada"
   ],
   "🏌️‍♀️": [
     "Mulher_golfing",
@@ -4460,14 +4532,17 @@
     "bola",
     "golfe",
     "jogador de golfe",
-    "mulheres"
+    "mulheres",
+    "tacada"
   ],
   "🏄": [
     "Person_surfing",
     "esporte",
     "mar",
     "Surf",
-    "surfista"
+    "surfista",
+    "praia",
+    "litoral"
   ],
   "🏄‍♂️": [
     "man_surfing",
@@ -4475,10 +4550,11 @@
     "oceano",
     "mar",
     "verão",
-    "praia",
     "macho",
     "homens",
-    "surfista"
+    "surfista",
+    "praia",
+    "litoral"
   ],
   "🏄‍♀️": [
     "Mulher_surfing",
@@ -4486,11 +4562,12 @@
     "oceano",
     "mar",
     "verão",
-    "praia",
     "mulher",
     "fêmea",
     "surfista",
-    "mulheres"
+    "mulheres",
+    "praia",
+    "litoral"
   ],
   "🚣": [
     "Person_rowing_boat",
@@ -4554,7 +4631,7 @@
     "mulher",
     "fêmea",
     "nadar",
-    "nadador",
+    "nadadora",
     "mulheres"
   ],
   "⛹️": [
@@ -4570,7 +4647,9 @@
     "basquetebol",
     "macho",
     "homens",
-    "jogador"
+    "jogador",
+    "basquete",
+    "NBA"
   ],
   "⛹️‍♀️": [
     "Mulher_bouning_ball",
@@ -4580,7 +4659,9 @@
     "fêmea",
     "basquetebol",
     "jogador",
-    "mulheres"
+    "mulheres",
+    "basquete",
+    "NBA"
   ],
   "🏋️": [
     "Person_lifting_weights",
@@ -4592,7 +4673,9 @@
     "levantador",
     "peso",
     "levantador de peso",
-    "dar certo"
+    "dar certo",
+    "força",
+    "forte"
   ],
   "🏋️‍♂️": [
     "man_lifting_weights",
@@ -4603,7 +4686,10 @@
     "homens",
     "peso",
     "levantador de peso",
-    "dar certo"
+    "dar certo",
+    "força",
+    "forte",
+    "fisiculturista",
   ],
   "🏋️‍♀️": [
     "Woman_lifting_weights",
@@ -4617,33 +4703,40 @@
     "peso",
     "levantador de peso",
     "mulheres",
-    "dar certo"
+    "dar certo",
+    "força",
+    "forte",
+    "fisiculturista"
   ],
   "🚴": [
     "Person_biking",
     "bicicleta",
-    "bicicleta",
+    "bike",
     "ciclista",
     "esporte",
     "mover",
-    "biciclista"
+    "biciclista",
+    "pedalada",
+    "pedal"
   ],
   "🚴‍♂️": [
     "man_biking",
     "bicicleta",
-    "bicicleta",
+    "bike",
     "ciclista",
     "esportes",
     "exercício",
     "moderno",
     "biciclista",
     "macho",
-    "homens"
+    "homens",
+    "pedalada",
+    "pedal"
   ],
   "🚴‍♀️": [
     "Mulher_biking",
     "bicicleta",
-    "bicicleta",
+    "bike",
     "ciclista",
     "esportes",
     "exercício",
@@ -4651,22 +4744,27 @@
     "mulher",
     "fêmea",
     "biciclista",
-    "mulheres"
+    "mulheres",
+    "pedalada",
+    "pedal"
   ],
   "🚵": [
     "Person_mountain_biking",
     "bicicleta",
-    "bicicleta",
+    "bike",
     "ciclista",
     "esporte",
     "mover",
     "biciclista",
-    "motociclista"
+    "motociclista",
+    "pedalada",
+    "pedal",
+    "montanha"
   ],
   "🚵‍♂️": [
     "man_mountain_biking",
     "bicicleta",
-    "bicicleta",
+    "bike",
     "ciclista",
     "transporte",
     "esportes",
@@ -4675,12 +4773,15 @@
     "biciclista",
     "motociclista",
     "macho",
-    "homens"
+    "homens",
+    "pedalada",
+    "pedal",
+    "montanha"
   ],
   "🚵‍♀️": [
     "Mulher_mountain_biking",
     "bicicleta",
-    "bicicleta",
+    "bike",
     "ciclista",
     "transporte",
     "esportes",
@@ -4690,7 +4791,10 @@
     "fêmea",
     "biciclista",
     "motociclista",
-    "mulheres"
+    "mulheres",
+    "pedalada",
+    "pedal",
+    "montanha"
   ],
   "🤸": [
     "Person_Cartwheeling",
@@ -4699,7 +4803,10 @@
     "roda de carrinho",
     "fazendo",
     "ginasta",
-    "ginástica"
+    "ginástica",
+    "cambalhota",
+    "estrela",
+    "estrelinha"
   ],
   "🤸‍♂️": [
     "man_cartwheeling",
@@ -4707,7 +4814,10 @@
     "roda de carrinho",
     "fazendo",
     "macho",
-    "homens"
+    "homens",
+    "cambalhota",
+    "estrela",
+    "estrelinha"
   ],
   "🤸‍♀️": [
     "Mulher_Cartwheeling",
@@ -4715,7 +4825,10 @@
     "roda de carrinho",
     "fazendo",
     "fêmea",
-    "mulheres"
+    "mulheres",
+    "cambalhota",
+    "estrela",
+    "estrelinha"
   ],
   "🤼": [
     "pessoas_wrestling",
@@ -4736,11 +4849,11 @@
   "🤼‍♀️": [
     "Women_wrestling",
     "esportes",
-    "lutadores",
+    "lutadoras",
     "fêmea",
     "mulher",
     "lutar",
-    "lutador"
+    "lutadora"
   ],
   "🤽": [
     "Person_playing_water_polo",
@@ -4751,14 +4864,20 @@
     "esportes",
     "piscina",
     "macho",
-    "homens"
+    "homens",
+    "polo",
+    "aquático",
+    "biribol"
   ],
   "🤽‍♀️": [
-    "Mulher_playing_water_polo",
+    "Woman_playing_water_polo",
     "esportes",
     "piscina",
     "fêmea",
-    "mulheres"
+    "mulheres",
+    "polo",
+    "aquático",
+    "biribol"
   ],
   "🤾": [
     "Person_playing_handball",
@@ -6275,7 +6394,8 @@
     "praia",
     "Nemo",
     "azul",
-    "amarelo"
+    "amarelo",
+    "aquário"
   ],
   "🐡": [
     "Blowfish",
@@ -6286,7 +6406,8 @@
     "oceano",
     "peixe",
     "fugu",
-    "Pufferfish"
+    "Pufferfish",
+    "baiacu"
   ],
   "🦈": [
     "tubarão",
@@ -6366,7 +6487,7 @@
     "natureza",
     "joaninha",
     "erro",
-    "joaninha"
+    "bug"
   ],
   "🦗": [
     "grilo",
@@ -6560,7 +6681,8 @@
     "coco",
     "palmeira",
     "árvore",
-    "coqueiro"
+    "coqueiro",
+    "praia"
   ],
   "🌵": [
     "cacto",
@@ -7047,12 +7169,15 @@
     "Burger King"
   ],
   "🍟": [
-    "francês_fries",
+    "french_fries",
     "chips",
     "lanche",
     "Fast food",
     "batata",
-    "McDonald's"
+    "McDonald's",
+    "fritas",
+    "batata",
+    "comida"
   ],
   "🍕": [
     "pizza",
@@ -7068,7 +7193,7 @@
     "comida",
     "Frankfurter",
     "América",
-    "cachorro-quente",
+    "hot dog",
     "Redhot",
     "salsicha",
     "Wiener"
@@ -7088,12 +7213,14 @@
   "🌮": [
     "Taco",
     "comida",
-    "mexicano"
+    "mexicano",
+    "mexicana"
   ],
   "🌯": [
     "burrito",
     "comida",
     "mexicano",
+    "mexicana",
     "enrolar"
   ],
   "🥙": [
@@ -7116,14 +7243,15 @@
     "Mediterrâneo",
     "grão de bico",
     "Falfel",
-    "Almôndega"
+    "Almôndega",
+    "árabe"
   ],
   "🥚": [
     "ovo",
     "comida",
     "frango",
     "café da manhã",
-    "ovos de pascoa"
+    "ovos de páscoa"
   ],
   "🍳": [
     "culinária",
@@ -7169,7 +7297,8 @@
     "comida",
     "saudável",
     "alface",
-    "vegetal"
+    "vegetal",
+    "poke"
   ],
   "🍿": [
     "Pipoca",
@@ -7799,7 +7928,9 @@
     "mundo",
     "terra",
     "internacional",
-    "planeta"
+    "planeta",
+    "mundial",
+    "Africa"
   ],
   "🌎": [
     "GLOBE_SHOWING_AMERICAS",
@@ -7808,6 +7939,9 @@
     "EUA",
     "terra",
     "internacional",
+    "planeta",
+    "mundial",
+    "América",
     "planeta"
   ],
   "🌏": [
@@ -7817,7 +7951,8 @@
     "leste",
     "terra",
     "internacional",
-    "planeta"
+    "planeta",
+    "mundial"
   ],
   "🌐": [
     "globe_with_meridians",
@@ -7900,7 +8035,9 @@
     "verão",
     "ensolarado",
     "areia",
-    "Mojito"
+    "Mojito",
+    "praia",
+    "férias"
   ],
   "🏜️": [
     "deserto",
@@ -7912,7 +8049,9 @@
     "Desert_island",
     "foto",
     "tropical",
-    "Mojito"
+    "Mojito",
+    "praia",
+    "verão"
   ],
   "🏞️": [
     "National_park",
@@ -8127,14 +8266,20 @@
     "foto",
     "japonês",
     "Eiffel",
-    "vermelho"
+    "vermelho",
+    "torre",
+    "Paris",
+    "França"
   ],
   "🗽": [
     "estátue_of_liberty",
     "americano",
     "Nova Iorque",
     "novo",
-    "York"
+    "York",
+    "America",
+    "EUA",
+    "USA"
   ],
   "⛪": [
     "igreja",
@@ -8176,7 +8321,8 @@
     "Kami",
     "Michi",
     "não",
-    "religião"
+    "religião",
+    "japonês"
   ],
   "🕋": [
     "Kaaba",
@@ -8211,7 +8357,9 @@
     "ponte de nevoeiro",
     "Karl",
     "sob",
-    "clima"
+    "clima",
+    "San Francisco",
+    "Lisboa"
   ],
   "🌃": [
     "Night_with_stars",
@@ -8284,8 +8432,10 @@
     "foto",
     "Sanfrancisco",
     "portão",
-    "dourado",
-    "clima"
+    "golden",
+    "clima",
+    "ponte",
+    "Lisboa"
   ],
   "♨️": [
     "hot_springs",
@@ -8453,7 +8603,7 @@
     "Mountain_railway",
     "transporte",
     "veículo",
-    "carro",
+    "bonde",
     "funicular",
     "trem"
   ],
@@ -8510,7 +8660,8 @@
   "🚒": [
     "Fire_engine",
     "transporte",
-    "carros",
+    "incêndio",
+    "bombeiro",
     "veículo",
     "departamento",
     "caminhão"
@@ -8519,10 +8670,12 @@
     "Police_Car",
     "veículo",
     "carros",
+    "viatura",
     "transporte",
     "lei",
     "jurídico",
     "Aplicação",
+    "polícia",
     "policial",
     "patrulha",
     "lado"
@@ -8530,6 +8683,9 @@
   "🚔": [
     "INCONTRO_POLICE_CAR",
     "veículo",
+    "viatura",
+    "policial",
+    "polícia",
     "lei",
     "jurídico",
     "Aplicação",
@@ -8634,11 +8790,13 @@
   ],
   "🦽": [
     "manual_wheelchair",
-    "acessibilidade"
+    "acessibilidade",
+    "cadeira de rodas"
   ],
   "🦼": [
     "Motorized_wheelchair",
-    "acessibilidade"
+    "acessibilidade",
+    "cadeira de rodas"
   ],
   "🛺": [
     "Auto_rickshaw",
@@ -8648,23 +8806,27 @@
   ],
   "🚲": [
     "bicicleta",
-    "bicicleta",
+    "bike",
     "esportes",
     "exercício",
     "moderno",
     "empurrar",
-    "veículo"
+    "veículo",
+    "pedalar",
+    "pedalada"
   ],
   "🛴": [
     "Kick_Scooter",
     "veículo",
     "chute",
-    "navalha"
+    "navalha",
+    "patinete"
   ],
   "🛹": [
     "skate",
     "quadro",
-    "patim"
+    "patim",
+    "sk8"
   ],
   "🚏": [
     "BUS_STOP",
@@ -8682,7 +8844,8 @@
   "🛤️": [
     "Railway_track",
     "trem",
-    "transporte"
+    "transporte",
+    "trilho"
   ],
   "🛢️": [
     "Oil_drum",
@@ -8704,12 +8867,12 @@
     "emergência",
     "alerta",
     "erro",
-    "pingado",
+    "alarme",
     "lei",
     "jurídico",
     "baliza",
     "carros",
-    "Carros",
+    "viatura",
     "luz de emergência",
     "piscando",
     "giratório",
@@ -8772,7 +8935,8 @@
     "recorrer",
     "mar",
     "veículo",
-    "iate"
+    "iate",
+    "regata"
   ],
   "🛶": [
     "canoa",
@@ -9702,7 +9866,9 @@
     "nuvem",
     "mãe",
     "natureza",
-    "clima"
+    "clima",
+    "vento",
+    "frio"
   ],
   "🌀": [
     "ciclone",
@@ -9718,7 +9884,8 @@
     "furacão",
     "tufão",
     "tonto",
-    "Twister"
+    "Twister",
+    "galáxia"
   ],
   "🌈": [
     "arco-íris",
@@ -9742,7 +9909,8 @@
     "regue",
     "roupas",
     "guarda -chuva desmaiado",
-    "rosa"
+    "rosa",
+    "sombrinha"
   ],
   "☂️": [
     "guarda-chuva",
@@ -9750,7 +9918,8 @@
     "primavera",
     "roupas",
     "abrir",
-    "chuva"
+    "chuva",
+    "sombrinha"
   ],
   "☔": [
     "Umbrella_with_rain_drops",
@@ -9759,7 +9928,10 @@
     "primavera",
     "roupas",
     "derrubar",
-    "chovendo"
+    "chovendo",
+    "chuva",
+    "sombrinha",
+    "guarda-chuva"
   ],
   "⛱️": [
     "Umbrella_on_ground",
@@ -9767,8 +9939,9 @@
     "verão",
     "praia",
     "Parasol",
-    "chuva",
-    "sol"
+    "sol",
+    "guarda-sol",
+    "férias"
   ],
   "⚡": [
     "High_Voltage",
@@ -9823,7 +9996,9 @@
   ],
   "☄️": [
     "cometa",
-    "espaço"
+    "espaço",
+    "meteorito",
+    "meteoro"
   ],
   "🔥": [
     "fogo",
@@ -9934,7 +10109,13 @@
     "entretenimento",
     "brilho",
     "Sparkle",
-    "estrela"
+    "estrela",
+    "AI",
+    "IA",
+    "inteligência",
+    "artificial",
+    "copilot",
+    "automático"
   ],
   "🎈": [
     "balão",
@@ -10169,7 +10350,9 @@
   "⚽": [
     "Soccer_ball",
     "esportes",
-    "futebol"
+    "futebol",
+    "Copa",
+    "seleção"
   ],
   "⚾": [
     "beisebol",
@@ -10190,6 +10373,7 @@
   ],
   "🏀": [
     "basquetebol",
+    "basquete",
     "esportes",
     "bolas",
     "NBA",
@@ -10199,6 +10383,7 @@
   ],
   "🏐": [
     "voleibol",
+    "volei",
     "esportes",
     "bolas",
     "bola",
@@ -10249,7 +10434,8 @@
     "alfinete",
     "pinos",
     "Skittles",
-    "dez"
+    "dez",
+    "strike"
   ],
   "🏏": [
     "cricket_game",
@@ -10353,7 +10539,8 @@
     "atletismo",
     "maratona",
     "faixa",
-    "Singleto"
+    "Singleto",
+    "regatas"
   ],
   "🎿": [
     "esquis",
@@ -10921,9 +11108,8 @@
     "sapato",
     "fêmea",
     "bombas",
-    "estilete",
+    "navalha",
     "roupas",
-    "salto",
     "salto",
     "mulher"
   ],
@@ -11170,7 +11356,9 @@
     "CHIME",
     "liberdade",
     "Ringer",
-    "casamento"
+    "casamento",
+    "alarme",
+    "alerta"
   ],
   "🔕": [
     "BELL_WITH_SLASH",
@@ -11207,7 +11395,7 @@
     "tom",
     "som",
     "atividade",
-    "sorriu",
+    "partitura",
     "oitavo",
     "entretenimento",
     "música",
@@ -11223,7 +11411,8 @@
     "entretenimento",
     "múltiplo",
     "observação",
-    "cantoria"
+    "cantoria",
+    "partitura"
   ],
   "🎙️": [
     "Studio_microphone",
@@ -11233,17 +11422,21 @@
     "conversas",
     "microfone",
     "música",
-    "podcast"
+    "podcast",
+    "entrevista"
   ],
   "🎚️": [
     "Level_slider",
     "escala",
-    "música"
+    "música",
+    "equalizar"
   ],
   "🎛️": [
     "CONTROL_KNOBS",
     "Dial",
-    "música"
+    "música",
+    "equalizar",
+    "DJ"
   ],
   "🎤": [
     "microfone",
@@ -11268,8 +11461,9 @@
     "fone de ouvido",
     "fones de ouvido",
     "entretenimento",
-    "fones de ouvido",
-    "ipod"
+    "headset",
+    "ipod",
+    "som"
   ],
   "📻": [
     "rádio",
@@ -11290,7 +11484,7 @@
     "blues",
     "atividade",
     "entretenimento",
-    "saxofone"
+    "sax"
   ],
   "🎸": [
     "guitarra",
@@ -11310,7 +11504,8 @@
     "compor",
     "atividade",
     "entretenimento",
-    "música"
+    "música",
+    "teclado"
   ],
   "🎺": [
     "trombeta",
@@ -11349,7 +11544,8 @@
     "música",
     "instrumento",
     "Drumsticks",
-    "laço"
+    "laço",
+    "bateria"
   ],
   "📱": [
     "celular",
@@ -11362,7 +11558,9 @@
     "iPhone",
     "Smartphone",
     "telefone",
-    "Responsive_design"
+    "Responsive_design",
+    "aplicativo",
+    "app"
   ],
   "📲": [
     "celular_phone_with_arrow",
@@ -12040,10 +12238,15 @@
     "comunicação",
     "parcela",
     "envio",
-    "recipiente"
+    "recipiente",
+    "entrega",
+    "recebido",
+    "compra",
+    "encomenda",
+    "delivery"
   ],
   "📫": [
-    "fechado_mailbox_with_raised_flag",
+    "closed_mailbox_with_raised_flag",
     "e-mail",
     "Caixa de entrada",
     "comunicação",
@@ -12051,7 +12254,7 @@
     "PostBox"
   ],
   "📪": [
-    "fechado_mailbox_with_lowered_flag",
+    "closed_mailbox_with_lowered_flag",
     "e-mail",
     "comunicação",
     "Caixa de entrada",
@@ -12082,13 +12285,15 @@
     "envelope",
     "comunicação",
     "correspondência",
-    "caixa de correio"
+    "caixa de correio",
+    "correios"
   ],
   "🗳️": [
     "BALLOT_BOX_WITH_BALLOT",
     "eleição",
     "voto",
-    "votação"
+    "votação",
+    "urna"
   ],
   "✏️": [
     "lápis",
@@ -12100,7 +12305,10 @@
     "estudar",
     "liderar",
     "Pencil2",
-    "erros de digitação"
+    "erros de digitação",
+    "notas",
+    "anotar",
+    "anotação"
   ],
   "✒️": [
     "preto_nib",
@@ -12109,7 +12317,8 @@
     "escrita",
     "escrever",
     "fonte",
-    "✒ Fonte"
+    "✒ Fonte",
+    "notas"
   ],
   "🖋️": [
     "Fountain_pen",
@@ -12118,7 +12327,8 @@
     "escrever",
     "comunicação",
     "esquerda",
-    "mais baixo"
+    "mais baixo",
+    "notas"
   ],
   "🖊️": [
     "caneta",
@@ -12128,7 +12338,9 @@
     "esferográfica",
     "comunicação",
     "esquerda",
-    "mais baixo"
+    "mais baixo",
+    "notas",
+    "anotação"
   ],
   "🖌️": [
     "pincel",
@@ -12147,7 +12359,9 @@
     "criatividade",
     "comunicação",
     "esquerda",
-    "mais baixo"
+    "mais baixo",
+    "giz",
+    "giz de cera"
   ],
   "📝": [
     "memorando",
@@ -12167,7 +12381,10 @@
     "documento",
     "memorando",
     "observação",
-    "documentação"
+    "documentação",
+    "notas",
+    "anotação",
+    "anotar"
   ],
   "💼": [
     "pasta",
@@ -12187,18 +12404,27 @@
     "escritório",
     "fechado",
     "diretório",
-    "Manilla"
+    "Manilla",
+    "pasta",
+    "arquivo",
+    "arquivar"
   ],
   "📂": [
     "open_file_folder",
     "documentos",
-    "carregar"
+    "carregar",
+    "pasta",
+    "arquivo",
+    "arquivar"
   ],
   "🗂️": [
     "Card_index_dividers",
     "organização",
     "negócios",
-    "papelaria"
+    "papelaria",
+    "pasta",
+    "arquivo",
+    "arquivar"
   ],
   "📅": [
     "calendário",
@@ -12207,7 +12433,9 @@
     "dia",
     "Emoji",
     "julho",
-    "mundo"
+    "mundo",
+    "hoje",
+    "compromisso"
   ],
   "📆": [
     "Tear_Off_Calendar",
@@ -12215,21 +12443,27 @@
     "data",
     "planejamento",
     "dia",
-    "mesa"
+    "mesa",
+    "hoje",
+    "compromisso"
   ],
   "🗒️": [
     "Spiral_notepad",
     "memorando",
     "papelaria",
     "observação",
-    "almofada"
+    "anotar",
+    "caderno",
+    "papel"
   ],
   "🗓️": [
     "Spiral_calendar",
     "data",
     "agendar",
     "planejamento",
-    "almofada"
+    "anotar",
+    "caderno",
+    "papel"
   ],
   "📇": [
     "Card_index",
@@ -12315,7 +12549,8 @@
     "Paperclip",
     "documentos",
     "papelaria",
-    "Clippy"
+    "Clippy",
+    "clipe"
   ],
   "🖇️": [
     "Linked_paperClips",
@@ -12323,7 +12558,8 @@
     "papelaria",
     "comunicação",
     "link",
-    "Paperclip"
+    "Paperclip",
+    "clipes"
   ],
   "📏": [
     "STILE_RULER",
@@ -12335,7 +12571,8 @@
     "desenho",
     "arquiteto",
     "esboço",
-    "borda"
+    "borda",
+    "régua"
   ],
   "📐": [
     "Triangular_ruler",
@@ -12344,7 +12581,9 @@
     "arquiteto",
     "esboço",
     "definir",
-    "triângulo"
+    "triângulo",
+    "régua",
+    "esquadro"
   ],
   "✂️": [
     "tesoura",
@@ -13956,10 +14195,14 @@
     "AskLepios",
     "cuidado",
     "doutor",
+    "doutora",
     "medicamento",
     "haste",
     "cobra",
-    "funcionários"
+    "funcionários",
+    "médico",
+    "médica",
+    "medicina"
   ],
   "♾️": [
     "infinidade",
@@ -13981,7 +14224,9 @@
     "logotipo",
     "reciclar",
     "universal",
-    "reutilizar"
+    "reutilizar",
+    "reciclar",
+    "reciclagem"
   ],
   "⚜️": [
     "fleur_de_lis",
@@ -13990,7 +14235,12 @@
     "novo",
     "Orleans",
     "Santos",
-    "Escoteiros"
+    "Escoteiros",
+    "flor-de-lis",
+    "França",
+    "francês",
+    "francesa",
+    "monarquia"
   ],
   "🔱": [
     "trident_emblem",
@@ -14040,10 +14290,16 @@
     "responder",
     "marcação",
     "verde",
-    "pesado",
+    "conferir",
+    "conferido",
+    "sim",
+    "marca",
     "símbolo",
     "branco",
-    "pass_tests"
+    "passar",
+    "visto",
+    "check",
+    "tarefa"
   ],
   "☑️": [
     "check_box_with_check",
@@ -14057,7 +14313,8 @@
     "marcação",
     "voto",
     "Caixa de seleção",
-    "marca"
+    "marca",
+    "tarefa"
   ],
   "✔️": [
     "check_mark",
@@ -14066,7 +14323,8 @@
     "responder",
     "sim",
     "marcação",
-    "pesado"
+    "pesado",
+    "tarefa"
   ],
   "✖️": [
     "Multiplicação_sign",
@@ -14076,7 +14334,9 @@
     "pesado",
     "multiplicar",
     "símbolo",
-    "x"
+    "x",
+    "não",
+    "fechar"
   ],
   "❌": [
     "Cross_Mark",
@@ -14087,7 +14347,8 @@
     "vermelho",
     "multiplicação",
     "multiplicar",
-    "x"
+    "x",
+    "fechar"
   ],
   "❎": [
     "Cross_mark_button",
@@ -14097,7 +14358,8 @@
     "negar",
     "negativo",
     "quadrado",
-    "quadrado"
+    "check",
+    "tarefa"
   ],
   "➕": [
     "Plus_sign",
@@ -14157,18 +14419,21 @@
     "McDonald's"
   ],
   "✳️": [
-    "oito_spoked_asterisk",
+    "eight_spoked_asterisk",
     "estrela",
     "Sparkle",
-    "quadrado verde"
+    "quadrado verde",
+    "asterisco"
   ],
   "✴️": [
-    "oito_pointed_star",
+    "eight_pointed_star",
     "quadrado de laranja",
     "forma",
     "polígono",
     "preto",
-    "laranja"
+    "laranja",
+    "estrela",
+    "asterisco"
   ],
   "❇️": [
     "Sparkle",
@@ -14184,7 +14449,9 @@
     "surpresa",
     "Bangbang",
     "pontuação",
-    "vermelho"
+    "vermelho",
+    "urgente",
+    "emergência"
   ],
   "⁉️": [
     "exclamação_question_mark",
@@ -14201,7 +14468,10 @@
     "preto",
     "ornamento",
     "pontuação",
-    "vermelho"
+    "vermelho",
+    "será",
+    "questão",
+    "pergunta"
   ],
   "❔": [
     "white_question_mark",
@@ -14212,7 +14482,10 @@
     "cinza",
     "ornamento",
     "descrito",
-    "pontuação"
+    "pontuação",
+    "pergunta",
+    "será",
+    "questão"
   ],
   "❕": [
     "white_exclamation_mark",
@@ -14223,7 +14496,8 @@
     "aviso",
     "cinza",
     "ornamento",
-    "descrito"
+    "descrito",
+    "urgente"
   ],
   "❗": [
     "exclamação_mark",
@@ -14235,7 +14509,8 @@
     "aviso",
     "Bang",
     "vermelho",
-    "símbolo"
+    "símbolo",
+    "urgente"
   ],
   "〰️": [
     "wavy_dash",
@@ -14256,7 +14531,11 @@
     "lei",
     "jurídico",
     "c",
-    "sinal"
+    "sinal",
+    "copyright",
+    "marca registrada",
+    "marca",
+    "direitos"
   ],
   "®️": [
     "registrado",
@@ -14285,7 +14564,8 @@
     "número",
     "Octothorpe",
     "libra",
-    "sinal"
+    "sinal",
+    "jogo da velha"
   ],
   "*️⃣": [
     "keycap_",
@@ -15546,10 +15826,11 @@
     "nação",
     "país",
     "bandeira",
-    "brasil",
     "Brasil",
     "brasileiro",
-    "para"
+    "para",
+    "nacional",
+    "seleção"
   ],
   "🇧🇸": [
     "Flag_bahamas",
@@ -18366,7 +18647,10 @@
     "Jandals",
     "sandálias",
     "tiras",
-    "Zōri"
+    "Zōri",
+    "Havaianas",
+    "chinelo",
+    "férias"
   ],
   "🪖": [
     "capacete militar",
@@ -18440,11 +18724,12 @@
     "escalar",
     "Rung",
     "etapa",
-    "ferramenta"
+    "ferramenta",
+    "subir"
   ],
   "🛗": [
     "elevador",
-    "elevador",
+    "subir",
     "acessibilidade",
     "içar"
   ],
@@ -18468,18 +18753,23 @@
   "🪠": [
     "Manger",
     "banheiro",
-    "xícara",
+    "desintupir",
+    "desintupidor",
     "vigor",
     "encanador",
-    "sucção"
+    "sucção",
+    "ralo"
   ],
   "🪤": [
-    "armadilha de mouse",
+    "armadilha de rato",
     "queijo",
     "isca",
     "ratoeira",
     "roedor",
-    "laço"
+    "laço",
+    "captura",
+    "armadilha",
+    "arapuca"
   ],
   "🪣": [
     "balde",
@@ -18487,7 +18777,10 @@
     "recipiente",
     "barril",
     "balde",
-    "cuba"
+    "cuba",
+    "lavar",
+    "limpar",
+    "limpeza"
   ],
   "🪥": [
     "escova de dentes",
@@ -18504,9 +18797,11 @@
     "rasgar",
     "cova",
     "cemitério",
-    "cemitério",
+    "morrer",
+    "sepultura",
+    "túmulo",
     "Halloween",
-    "lápide"
+    "morto"
   ],
   "🪧": [
     "cartaz",
@@ -18851,7 +19146,7 @@
     "transporte",
     "círculo",
     "pneu",
-    "vez"
+    "estrada"
   ],
   "🛟": [
     "bóia do anel",
@@ -18876,7 +19171,9 @@
     "discoteca",
     "dança",
     "festa",
-    "brilho"
+    "brilho",
+    "globo",
+    "boate"
   ],
   "🪫": [
     "Bateria baixa",
@@ -18885,7 +19182,8 @@
     "eletrônico",
     "energia",
     "não",
-    "vermelho"
+    "vermelho",
+    "descarregado"
   ],
   "🩼": [
     "muleta",
@@ -18906,7 +19204,8 @@
     "doutor",
     "médico",
     "raio",
-    "x"
+    "x",
+    "exame"
   ],
   "🫧": [
     "bolhas",
@@ -18916,7 +19215,8 @@
     "espumante",
     "arrotar",
     "limpar",
-    "subaquático"
+    "subaquático",
+    "espuma"
   ],
   "🪪": [
     "cartão de identificação",
@@ -18975,7 +19275,10 @@
   "🫏": [
     "burro",
     "EEYORE",
-    "mula"
+    "mula",
+    "asno",
+    "jumento",
+    "animal"
   ],
   "🪽": [
     "asa",
@@ -19113,24 +19416,28 @@
     "Mulher com bengala branca voltada para a direita",
     "grudar",
     "com deficiência visual",
-    "cego"
+    "cego",
+    "deficiência"
   ],
   "🧑‍🦼‍➡️": [
     "pessoa em cadeira de rodas motorizada voltada para a direita",
     "acessibilidade",
-    "inabilidade"
+    "inabilidade",
+    "deficiência"
   ],
   "👨‍🦼‍➡️": [
     "homem em cadeira de rodas motorizada voltada para a direita",
     "inabilidade",
     "acessibilidade",
-    "mobilidade"
+    "mobilidade",
+    "deficiência"
   ],
   "👩‍🦼‍➡️": [
     "Mulher em cadeira de rodas motorizada voltada para a direita",
     "mobilidade",
     "acessibilidade",
-    "inabilidade"
+    "inabilidade",
+    "deficiência"
   ],
   "🧑‍🦽‍➡️": [
     "pessoa em cadeira de rodas manual voltada para a direita",
