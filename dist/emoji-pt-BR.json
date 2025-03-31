@@ -901,7 +901,8 @@
     "temer",
     "opa",
     "chocado",
-    "surpreso"
+    "surpreso",
+    "medo"
   ],
   "😰": [
     "ansious_face_with_sweat",
@@ -913,7 +914,8 @@
     "rosto preocupado",
     "boca",
     "abrir",
-    "apressado"
+    "apressado",
+    "medo"
   ],
   "😥": [
     "sad_but_relieved_face",
@@ -923,7 +925,9 @@
     "nervoso",
     "desapontado",
     "sobrancelha",
-    "Ufa"
+    "Ufa",
+    "triste",
+    "tristeza"
   ],
   "😢": [
     "CHORY_FACE",
@@ -934,7 +938,11 @@
     "chateado",
     ": '(",
     "chorar",
-    "rasgar"
+    "rasgar",
+    "triste",
+    "lamentar",
+    "desapontado",
+    "tristeza"
   ],
   "😭": [
     "alto_crying_face",
@@ -947,7 +955,9 @@
     "deprimido",
     "bugiganga",
     "soluço",
-    "rasgar"
+    "rasgar",
+    "tristeza",
+    "chorando"
   ],
   "😱": [
     "FACE_SCREAMING_IN_FARE",
@@ -959,8 +969,10 @@
     "medo",
     "lar",
     "horror",
+    "terror",
     "gritar",
-    "chocado"
+    "chocado",
+    "medo"
   ],
   "😖": [
     "Confused_face",
@@ -1342,7 +1354,9 @@
     "horror",
     "oh",
     "gritando",
-    "surpreso"
+    "surpreso",
+    "terror",
+    "susto"
   ],
   "😿": [
     "CHORY_CAT",
@@ -2438,7 +2452,7 @@
     "amarelo"
   ],
   "👩‍🦰": [
-    "Mulher_red_hair",
+    "Woman_red_hair",
     "penteado",
     "adulto",
     "fêmea",
@@ -2456,7 +2470,7 @@
     "não especificado"
   ],
   "👩‍🦱": [
-    "Mulher_curly_hair",
+    "Woman_curly_hair",
     "penteado",
     "adulto",
     "fêmea",
@@ -2472,7 +2486,7 @@
     "não especificado"
   ],
   "👩‍🦳": [
-    "Mulher_white_hair",
+    "Woman_white_hair",
     "velho",
     "Ancião",
     "adulto",
@@ -2490,7 +2504,7 @@
     "não especificado"
   ],
   "👩‍🦲": [
-    "Mulher_bald",
+    "Woman_bald",
     "calvo",
     "adulto",
     "fêmea",
@@ -2508,7 +2522,7 @@
     "não especificado"
   ],
   "👱‍♀️": [
-    "Mulher_blond_hair",
+    "Woman_blond_hair",
     "mulher",
     "fêmea",
     "garota",
@@ -2596,7 +2610,7 @@
     "homens"
   ],
   "🙍‍♀️": [
-    "Mulher_frowning",
+    "Woman_frowning",
     "fêmea",
     "garota",
     "mulher",
@@ -2627,7 +2641,7 @@
     "homens"
   ],
   "🙎‍♀️": [
-    "Mulher_pouting",
+    "Woman_pouting",
     "fêmea",
     "garota",
     "mulher",
@@ -2672,7 +2686,7 @@
     "parar"
   ],
   "🙅‍♀️": [
-    "Mulher_gesturing_no",
+    "Woman_gesturing_no",
     "fêmea",
     "garota",
     "mulher",
@@ -2712,7 +2726,7 @@
     "mão"
   ],
   "🙆‍♀️": [
-    "Mulher_gesturing_ok",
+    "Woman_gesturing_ok",
     "mulheres",
     "garota",
     "fêmea",
@@ -2751,7 +2765,7 @@
     "irreverente"
   ],
   "💁‍♀️": [
-    "Mulher_tipping_hand",
+    "Woman_tipping_hand",
     "fêmea",
     "garota",
     "mulher",
@@ -2784,7 +2798,7 @@
     "criado"
   ],
   "🙋‍♀️": [
-    "Mulher_raing_hand",
+    "Woman_raing_hand",
     "fêmea",
     "garota",
     "mulher",
@@ -2844,7 +2858,7 @@
     "obrigado"
   ],
   "🙇‍♀️": [
-    "Mulher_bewing",
+    "Woman_bewing",
     "mulher",
     "fêmea",
     "garota",
@@ -2869,7 +2883,8 @@
     "batendo",
     "palma",
     "Picard",
-    "smh"
+    "smh",
+    "putz"
   ],
   "🤦‍♂️": [
     "man_facePalming",
@@ -2884,7 +2899,7 @@
     "palma"
   ],
   "🤦‍♀️": [
-    "Mulher_facePalming",
+    "Woman_facePalming",
     "mulher",
     "fêmea",
     "garota",
@@ -2897,12 +2912,14 @@
   ],
   "🤷": [
     "Person_shrugging",
-    "sem considerar",
+    "desconsiderar",
     "dúvida",
     "ignorância",
     "indiferença",
     "ombros",
     "Shruggie",
+    "fazer o quê",
+    "não sei",
     "¯ \\"
   ],
   "🤷‍♂️": [
@@ -2919,7 +2936,7 @@
     "ombros"
   ],
   "🤷‍♀️": [
-    "Mulher_shrugging",
+    "Woman_shrugging",
     "mulher",
     "fêmea",
     "garota",
@@ -2959,7 +2976,7 @@
     "profissional"
   ],
   "👩‍⚕️": [
-    "Mulher_Health_Worker",
+    "Woman_Health_Worker",
     "doutor",
     "enfermeira",
     "terapeuta",
@@ -2994,7 +3011,7 @@
     "escola"
   ],
   "👩‍🎓": [
-    "Mulher_student",
+    "Woman_student",
     "diplomado",
     "mulher",
     "humano",
@@ -3025,7 +3042,7 @@
     "escola"
   ],
   "👩‍🏫": [
-    "Mulher_teacher",
+    "Woman_teacher",
     "instrutor",
     "professor",
     "mulher",
@@ -3055,7 +3072,7 @@
     "escalas"
   ],
   "👩‍⚖️": [
-    "Mulher_Judge",
+    "Woman_Judge",
     "justiça",
     "tribunal",
     "mulher",
@@ -3087,7 +3104,7 @@
     "trabalhador"
   ],
   "👩‍🌾": [
-    "Mulher_farmer",
+    "Woman_farmer",
     "rancheiro",
     "jardineiro",
     "mulher",
@@ -3119,7 +3136,7 @@
     "serviço"
   ],
   "👩‍🍳": [
-    "Mulher_cook",
+    "Woman_cook",
     "Chef",
     "mulher",
     "humano",
@@ -3153,7 +3170,7 @@
     "comerciante"
   ],
   "👩‍🔧": [
-    "Mulher_mechanic",
+    "Woman_mechanic",
     "encanador",
     "mulher",
     "humano",
@@ -3183,7 +3200,7 @@
     "soldador"
   ],
   "👩‍🏭": [
-    "Mulher_Factory_Worker",
+    "Woman_Factory_Worker",
     "conjunto",
     "industrial",
     "mulher",
@@ -3221,7 +3238,7 @@
     "homens"
   ],
   "👩‍💼": [
-    "Mulher_Office_worker",
+    "Woman_Office_worker",
     "negócios",
     "gerente",
     "mulher",
@@ -3264,7 +3281,7 @@
     "técnico"
   ],
   "👩‍🔬": [
-    "Mulher_scientist",
+    "Woman_scientist",
     "biólogo",
     "químico",
     "engenheiro",
@@ -3358,7 +3375,7 @@
     "estrela"
   ],
   "👩‍🎤": [
-    "Mulher_singer",
+    "Woman_singer",
     "Rockstar",
     "artista",
     "mulher",
@@ -3394,7 +3411,7 @@
     "paleta"
   ],
   "👩‍🎨": [
-    "Mulher_artist",
+    "Woman_artist",
     "pintor",
     "mulher",
     "humano",
@@ -3424,7 +3441,7 @@
     "homens"
   ],
   "👩‍✈️": [
-    "Mulher_pilot",
+    "Woman_pilot",
     "aviador",
     "avião",
     "mulher",
@@ -3457,7 +3474,7 @@
     "estrelas"
   ],
   "👩‍🚀": [
-    "Mulher_astronaut",
+    "Woman_astronaut",
     "espaço",
     "foguete",
     "mulher",
@@ -3485,7 +3502,7 @@
     "homens"
   ],
   "👩‍🚒": [
-    "Mulher_firefighter",
+    "Woman_firefighter",
     "bombeiro",
     "mulher",
     "humano",
@@ -3585,7 +3602,7 @@
     "inglês"
   ],
   "💂‍♀️": [
-    "Mulher_guard",
+    "Woman_guard",
     "Reino Unido",
     "GB",
     "britânico",
@@ -3681,7 +3698,7 @@
     "homens"
   ],
   "👳‍♀️": [
-    "Mulher_wearing_turban",
+    "woman_wearing_turban",
     "fêmea",
     "indiano",
     "Hinduísmo",
@@ -3703,7 +3720,7 @@
     "pi"
   ],
   "🧕": [
-    "Mulher_with_headscarf",
+    "Woman_with_headscarf",
     "fêmea",
     "Hijab",
     "mantilha",
@@ -3734,7 +3751,7 @@
     "bebê",
     "fêmea",
     "gravidez",
-    "senhora grávida",
+    "grávida",
     "mulheres"
   ],
   "🤱": [
@@ -3758,9 +3775,10 @@
     "querubim",
     "cupido",
     "face",
-    "fada",
-    "fantasia",
-    "putto",
+    "anjo",
+    "anjinho",
+    "inocente",
+    "inocência",
     "conto"
   ],
   "🎅": [
@@ -3770,6 +3788,8 @@
     "macho",
     "Natal",
     "Pai Natal",
+    "Papai Noel",
+    "Noel",
     "atividade",
     "celebração",
     "homens",
@@ -3783,14 +3803,14 @@
     "fêmea",
     "Natal",
     "Mãe Natal",
+    "Mamãe Noel",
     "atividade",
     "celebração",
-    "MRS.",
     "Papai Noel",
     "mulheres"
   ],
   "🦸": [
-    "super -herói",
+    "super-herói",
     "maravilha",
     "fantasia",
     "bom",
@@ -3811,7 +3831,7 @@
     "superpotência"
   ],
   "🦸‍♀️": [
-    "Mulher_superhero",
+    "Woman_superhero",
     "mulher",
     "fêmea",
     "bom",
@@ -3867,28 +3887,27 @@
     "fantasia",
     "feiticeiro",
     "feiticeira",
-    "bruxa",
-    "mago"
-  ],
+    "bruxa"  ],
   "🧙‍♂️": [
     "man_mage",
     "homem",
     "macho",
-    "mago",
+    "bruxo",
     "feiticeiro",
     "fantasia",
     "homens",
-    "mago"
+    "mago",
+    "Gandalf"
   ],
   "🧙‍♀️": [
-    "Mulher_mage",
+    "Woman_mage",
     "mulher",
     "fêmea",
     "mago",
     "bruxa",
     "fantasia",
     "feiticeira",
-    "mago",
+    "maga",
     "mulheres"
   ],
   "🧚": [
@@ -3899,7 +3918,8 @@
     "Oberon",
     "Puck",
     "Titania",
-    "sininho"
+    "Sininho",
+    "Tinkerbell"
   ],
   "🧚‍♂️": [
     "man_fairy",
@@ -3908,7 +3928,8 @@
     "fantasia",
     "homens",
     "Oberon",
-    "Puck"
+    "Puck",
+    "fada"
   ],
   "🧚‍♀️": [
     "woman_fairy",
@@ -3916,7 +3937,8 @@
     "fêmea",
     "fantasia",
     "Titania",
-    "sininho",
+    "Sininho",
+    "Tinkerbell",
     "mulheres"
   ],
   "🧛": [
@@ -3925,7 +3947,8 @@
     "crepúsculo",
     "Drácula",
     "fantasia",
-    "mortos-vivos"
+    "mortos-vivos",
+    "Halloween"
   ],
   "🧛‍♂️": [
     "man_vampire",
@@ -3934,7 +3957,9 @@
     "Drácula",
     "fantasia",
     "homens",
-    "mortos-vivos"
+    "mortos-vivos",
+    "sangue",
+    "Halloween"
   ],
   "🧛‍♀️": [
     "woman_vampire",
@@ -3943,7 +3968,9 @@
     "fantasia",
     "mortos-vivos",
     "UNDED",
-    "mulheres"
+    "mulheres",
+    "sangue",
+    "Halloween"
   ],
   "🧜": [
     "Merperson",
@@ -3991,7 +4018,9 @@
     "mágico",
     "homens",
     "pontudas",
-    "elfo"
+    "elfo",
+    "Legolas",
+    "LOTR"
   ],
   "🧝‍♀️": [
     "woman_elf",
@@ -4026,7 +4055,7 @@
     "lâmpada"
   ],
   "🧞‍♀️": [
-    "Mulher_Genie",
+    "Woman_Genie",
     "mulher",
     "fêmea",
     "Djinn",
@@ -4056,7 +4085,7 @@
     "zumbi"
   ],
   "🧟‍♀️": [
-    "Mulher_zombie",
+    "Woman_zombie",
     "mulher",
     "fêmea",
     "mortos-vivos",
@@ -4125,7 +4154,7 @@
     "beleza"
   ],
   "💇‍♀️": [
-    "Mulher_getting_haircut",
+    "Woman_getting_haircut",
     "fêmea",
     "garota",
     "mulher",
@@ -4159,7 +4188,7 @@
     "andar"
   ],
   "🚶‍♀️": [
-    "Mulher_walking",
+    "Woman_walking",
     "humano",
     "pés",
     "passos",
@@ -4184,7 +4213,7 @@
     "ficar"
   ],
   "🧍‍♀️": [
-    "mulher_ destacado",
+    "Woman_ destacado",
     "ainda",
     "fêmea",
     "ficar",
@@ -4205,7 +4234,7 @@
     "homens"
   ],
   "🧎‍♀️": [
-    "Mulher_kneeling",
+    "Woman_kneeling",
     "respeitoso",
     "rezar",
     "fêmea",
@@ -4227,7 +4256,7 @@
     "branco"
   ],
   "👩‍🦯": [
-    "Mulher_with_probing_cane",
+    "Woman_with_probing_cane",
     "cego",
     "acessibilidade",
     "fêmea",
@@ -4247,7 +4276,7 @@
     "homens"
   ],
   "👩‍🦼": [
-    "Mulher_in_motorized_wheelchair",
+    "Woman_in_motorized_wheelchair",
     "inabilidade",
     "acessibilidade",
     "fêmea",
@@ -4268,7 +4297,7 @@
     "homens"
   ],
   "👩‍🦽": [
-    "Mulher_in_manual_wheelchair",
+    "Woman_in_manual_wheelchair",
     "inabilidade",
     "acessibilidade",
     "cadeira de rodas",
@@ -4301,7 +4330,7 @@
     "dar certo"
   ],
   "🏃‍♀️": [
-    "Mulher_running",
+    "Woman_running",
     "mulher",
     "andando",
     "exercício",
@@ -4417,7 +4446,7 @@
     "Batinho a vapor"
   ],
   "🧖‍♀️": [
-    "Mulher_in_steamy_room",
+    "Woman_in_steamy_room",
     "fêmea",
     "mulher",
     "Spa",
@@ -4452,7 +4481,7 @@
     "montanhista"
   ],
   "🧗‍♀️": [
-    "Mulher_climbing",
+    "Woman_climbing",
     "esportes",
     "passatempo",
     "mulher",
@@ -4524,7 +4553,7 @@
     "tacada"
   ],
   "🏌️‍♀️": [
-    "Mulher_golfing",
+    "Woman_golfing",
     "esportes",
     "negócios",
     "mulher",
@@ -4557,7 +4586,7 @@
     "litoral"
   ],
   "🏄‍♀️": [
-    "Mulher_surfing",
+    "Woman_surfing",
     "esportes",
     "oceano",
     "mar",
@@ -4589,7 +4618,7 @@
     "veículo"
   ],
   "🚣‍♀️": [
-    "Mulher_rowing_boat",
+    "Woman_rowing_boat",
     "esportes",
     "passatempo",
     "água",
@@ -4621,7 +4650,7 @@
     "nadador"
   ],
   "🏊‍♀️": [
-    "Mulher_swiming",
+    "Woman_swiming",
     "esportes",
     "exercício",
     "humano",
@@ -4652,7 +4681,7 @@
     "NBA"
   ],
   "⛹️‍♀️": [
-    "Mulher_bouning_ball",
+    "Woman_bouning_ball",
     "esportes",
     "humano",
     "mulher",
@@ -4734,7 +4763,7 @@
     "pedal"
   ],
   "🚴‍♀️": [
-    "Mulher_biking",
+    "Woman_biking",
     "bicicleta",
     "bike",
     "ciclista",
@@ -4779,7 +4808,7 @@
     "montanha"
   ],
   "🚵‍♀️": [
-    "Mulher_mountain_biking",
+    "Woman_mountain_biking",
     "bicicleta",
     "bike",
     "ciclista",
@@ -4820,7 +4849,7 @@
     "estrelinha"
   ],
   "🤸‍♀️": [
-    "Mulher_Cartwheeling",
+    "Woman_Cartwheeling",
     "ginástica",
     "roda de carrinho",
     "fazendo",
@@ -4892,7 +4921,7 @@
     "homens"
   ],
   "🤾‍♀️": [
-    "Mulher_playing_handball",
+    "Woman_playing_handball",
     "esportes",
     "bola",
     "fêmea",
@@ -4918,7 +4947,7 @@
     "homens"
   ],
   "🤹‍♀️": [
-    "Mulher_jugging",
+    "Woman_jugging",
     "fazer malabarismos",
     "equilíbrio",
     "habilidade",
@@ -4946,7 +4975,7 @@
     "homens"
   ],
   "🧘‍♀️": [
-    "Mulher_in_lotus_Position",
+    "Woman_in_lotus_Position",
     "mulher",
     "fêmea",
     "meditação",
@@ -5006,7 +5035,7 @@
     "mulher"
   ],
   "👫": [
-    "Mulher_and_man_holding_hands",
+    "Woman_and_man_holding_hands",
     "par",
     "pessoas",
     "humano",
@@ -6003,8 +6032,9 @@
     "mouse_face",
     "animal",
     "natureza",
-    "Cheese_wedge",
-    "roedor"
+    "rato",
+    "roedor",
+    "ratinho"
   ],
   "🐁": [
     "rato",
@@ -6012,14 +6042,16 @@
     "natureza",
     "roedor",
     "Dormouse",
-    "ratos",
+    "ratazana",
     "mouse2"
   ],
   "🐀": [
     "rato",
     "animal",
     "rato",
-    "roedor"
+    "roedor",
+    "ratinho",
+    "ratazana"
   ],
   "🐹": [
     "hamster",
@@ -6036,7 +6068,10 @@
     "primavera",
     "magia",
     "coelhinho",
-    "páscoa"
+    "páscoa",
+    "coelho",
+    "lebre",
+    "Pernalonga"
   ],
   "🐇": [
     "coelho",
@@ -6046,7 +6081,8 @@
     "magia",
     "primavera",
     "coelhinho",
-    "Rabbit2"
+    "Rabbit2",
+    "lebre"
   ],
   "🐿️": [
     "Chipmunk",
@@ -6060,15 +6096,17 @@
     "animal",
     "natureza",
     "espinhoso",
-    "face"
+    "face",
+    "porco-espinho"
   ],
   "🦇": [
-    "bastão",
+    "morcego",
     "animal",
     "natureza",
     "cego",
     "vampiro",
-    "Batman"
+    "Batman",
+    "noite"
   ],
   "🐻": [
     "urso",
@@ -6623,7 +6661,7 @@
     "natureza",
     "flores",
     "amarelo",
-    "flor florida",
+    "florida",
     "margarida",
     "flor",
     "plantar"
@@ -6642,7 +6680,6 @@
     "plantar",
     "natureza",
     "grama",
-    "grama",
     "primavera",
     "brotar",
     "brotando",
@@ -6658,7 +6695,8 @@
     "pinho",
     "madeira",
     "pinheiro",
-    "árvore"
+    "árvore",
+    "natal"
   ],
   "🌳": [
     "decíduo_tree",
@@ -6689,7 +6727,10 @@
     "vegetal",
     "plantar",
     "natureza",
-    "deserto"
+    "deserto",
+    "árido",
+    "sertão",
+    "nordeste"
   ],
   "🌾": [
     "sheaf_of_rice",
@@ -6921,7 +6962,8 @@
   "🥑": [
     "abacate",
     "fruta",
-    "comida"
+    "comida",
+    "guacamole"
   ],
   "🍆": [
     "beringela",
@@ -6938,17 +6980,20 @@
     "batata",
     "comida",
     "tubérculo",
-    "vegável",
+    "vegano",
     "amido",
     "cozido",
     "Idaho",
-    "vegetal"
+    "vegetal",
+    "carbo",
+    "carbohidrato"
   ],
   "🥕": [
     "cenoura",
     "vegetal",
     "comida",
-    "laranja"
+    "laranja",
+    "coelho"
   ],
   "🌽": [
     "ear_of_corn",
@@ -6957,7 +7002,8 @@
     "plantar",
     "cobre",
     "milho",
-    "labirinto"
+    "labirinto",
+    "pamonha"
   ],
   "🌶️": [
     "hot_pepper",
@@ -7045,7 +7091,8 @@
     "esquilo",
     "bolota",
     "noz",
-    "plantar"
+    "plantar",
+    "amêndoa"
   ],
   "🍞": [
     "pão",
@@ -7102,7 +7149,7 @@
     "brunch",
     "Tapioca",
     "crepes",
-    "Hotcake",
+    "Rap10",
     "panqueca"
   ],
   "🧇": [
@@ -7111,13 +7158,16 @@
     "café da manhã",
     "brunch",
     "indeciso",
-    "ferro"
+    "desjejum"
   ],
   "🧀": [
     "Cheese_wedge",
     "comida",
     "Chadder",
-    "suíço"
+    "suíço",
+    "queijo",
+    "frios",
+    "furos"
   ],
   "🍖": [
     "meat_on_bone",
@@ -7125,7 +7175,7 @@
     "comida",
     "Drumstick",
     "churrasco",
-    "churrasco",
+    "barbecue",
     "mangá"
   ],
   "🍗": [
@@ -7133,10 +7183,14 @@
     "comida",
     "carne",
     "Drumstick",
-    "pássaro",
+    "passarinho",
     "frango",
     "peru",
-    "osso"
+    "osso",
+    "coxa",
+    "coxinha",
+    "perna",
+    "galinha"
   ],
   "🥩": [
     "cut_of_meat",
@@ -7144,10 +7198,11 @@
     "vaca",
     "carne",
     "corte",
-    "cortar",
     "Lambchop",
     "PorkChop",
-    "bife"
+    "bife",
+    "steak",
+    "açougue"
   ],
   "🥓": [
     "bacon",
@@ -7166,7 +7221,13 @@
     "carne bovina",
     "X-Burger",
     "McDonalds",
-    "Burger King"
+    "Burger King",
+    "lanche",
+    "comida",
+    "pão",
+    "cheeseburger",
+    "sanduíche",
+    "lanchonete"
   ],
   "🍟": [
     "french_fries",
@@ -7186,7 +7247,8 @@
     "Itália",
     "queijo",
     "Pepperoni",
-    "fatiar"
+    "fatiar",
+    "Pizza Hut"
   ],
   "🌭": [
     "cachorro-quente",
@@ -7214,7 +7276,8 @@
     "Taco",
     "comida",
     "mexicano",
-    "mexicana"
+    "mexicana",
+    "Taco Bell"
   ],
   "🌯": [
     "burrito",
@@ -7280,7 +7343,8 @@
     "sopa",
     "Pote quente",
     "tigela",
-    "ensopado"
+    "ensopado",
+    "poke"
   ],
   "🥣": [
     "Bowl_with_spoon",
@@ -7290,7 +7354,9 @@
     "aveia",
     "mingau",
     "congee",
-    "Tableware"
+    "Tableware",
+    "Sucrilhos",
+    "tigela"
   ],
   "🥗": [
     "Green_salad",
@@ -11004,7 +11070,7 @@
     "maiô"
   ],
   "👚": [
-    "Mulher_s_clothes",
+    "Woman_s_clothes",
     "moda",
     "Shopping_bags",
     "fêmea",
@@ -11114,7 +11180,7 @@
     "mulher"
   ],
   "👡": [
-    "Mulher_s_sandal",
+    "Woman_s_sandal",
     "sapato",
     "moda",
     "sandálias de dedo",
@@ -11133,7 +11199,7 @@
     "sapato"
   ],
   "👢": [
-    "Mulher_s_boot",
+    "Woman_s_boot",
     "sapato",
     "moda",
     "botas",
@@ -11158,7 +11224,7 @@
     "real"
   ],
   "👒": [
-    "Mulher_s_hat",
+    "Woman_s_hat",
     "moda",
     "acessórios",
     "fêmea",
@@ -13640,19 +13706,22 @@
     "certo"
   ],
   "🔜": [
-    "SOUN_ARROW",
+    "SOON_ARROW",
     "seta",
     "palavras",
     "acima",
-    "para a direita"
+    "para a direita",
+    "próximo",
+    "breve"
   ],
   "🔝": [
     "top_arrow",
     "palavras",
-    "azul-quadrado",
+    "legal",
+    "da hora",
     "acima",
-    "acima",
-    "para cima"
+    "para cima",
+    "top"
   ],
   "🛐": [
     "Place_of_worship",
@@ -13741,7 +13810,8 @@
     "castiçal",
     "Chanukiah",
     "nove",
-    "religião"
+    "religião",
+    "judeu"
   ],
   "🔯": [
     "DOTTED_SIX_PONTED_STAR",
@@ -13751,7 +13821,8 @@
     "Hexagrama",
     "ponto",
     "fortuna",
-    "meio"
+    "meio",
+    "judeu"
   ],
   "♈": [
     "Áries",
@@ -14218,11 +14289,9 @@
     "seta",
     "ambiente",
     "lixo",
-    "lixo",
     "preto",
     "verde",
     "logotipo",
-    "reciclar",
     "universal",
     "reutilizar",
     "reciclar",
@@ -15393,7 +15462,7 @@
     "pequeno"
   ],
   "💠": [
-    "diamante_with_a_dot",
+    "diamond_with_a_dot",
     "jóia",
     "azul",
     "jóia",
@@ -15405,7 +15474,8 @@
     "geométrico",
     "dentro",
     "Kawaii",
-    "forma"
+    "forma",
+    "diamante"
   ],
   "🔘": [
     "Radio_button",
@@ -15526,7 +15596,8 @@
     "bandeira",
     "United_arab_emirates",
     "Emirati",
-    "Emirados Árabes Unidos"
+    "Emirados Árabes Unidos",
+    "Dubai"
   ],
   "🇦🇫": [
     "Flag_afghanistan",
@@ -17493,7 +17564,9 @@
     "país",
     "bandeira",
     "Portugal",
-    "Português"
+    "Português",
+    "Lisboa",
+    "Madeira"
   ],
   "🇵🇼": [
     "Flag_palau",
@@ -18314,7 +18387,8 @@
     "homens",
     "pessoa",
     "terno",
-    "casamento"
+    "casamento",
+    "garçom"
   ],
   "🤵‍♀️": [
     "Mulher em Tuxedo",
@@ -18322,6 +18396,7 @@
     "moda",
     "fêmea",
     "casamento",
+    "garçonete",
     "mulheres"
   ],
   "👰‍♂️": [
@@ -18400,6 +18475,8 @@
   ],
   "🦬": [
     "bisonte",
+    "animal",
+    "bisão",
     "boi",
     "búfalo",
     "rebanho",
@@ -18443,7 +18520,7 @@
     "pássaro",
     "voar",
     "voo",
-    "luz",
+    "leve",
     "plumagem"
   ],
   "🦭": [
@@ -18451,22 +18528,28 @@
     "animal",
     "criatura",
     "mar",
-    "leão"
+    "leão",
+    "foca",
+    "Sea World"
   ],
   "🪲": [
     "besouro",
     "inseto",
-    "erro"
+    "erro",
+    "bug",
+    "escaravelho"
   ],
   "🪳": [
     "barata",
     "inseto",
     "pragas",
     "praga",
-    "barata"
+    "dedetizar",
+    "dedetização",
+    "esgoto"
   ],
   "🪰": [
-    "voar",
+    "mosca",
     "inseto",
     "doença",
     "larva",
@@ -18477,18 +18560,19 @@
     "minhoca",
     "animal",
     "anelídeo",
-    "minhoca",
-    "parasita"
+    "verme",
+    "parasita",
+    "isca"
   ],
   "🪴": [
     "planta em vasos",
     "vegetação",
     "casa",
-    "tedioso",
+    "paisagismo",
     "crescer",
     "planta de casa",
     "nutrir",
-    "inútil",
+    "decoração",
     "planta",
     "plantar",
     "vaso"
@@ -18499,13 +18583,14 @@
     "baga",
     "BILBERRY",
     "azul",
-    "mirtilo"
+    "blueberry"
   ],
   "🫒": [
     "azeitona",
     "fruta",
     "comida",
-    "azeitonas"
+    "oliva",
+    "azeite"
   ],
   "🫑": [
     "pimentão",
@@ -18559,31 +18644,34 @@
     "canudo",
     "Momi",
     "pérola",
-    "tapioca"
+    "tapioca",
+    "bubble"
   ],
   "🪨": [
     "pedra",
-    "pedra",
+    "rocha",
     "pedregulho",
     "construção",
     "pesado",
-    "sólido"
+    "sólido",
+    "obstáculo"
   ],
   "🪵": [
     "madeira",
     "natureza",
-    "madeira",
-    "porta-malas",
+    "pau",
     "construção",
-    "registro",
-    "madeira serrada"
+    "tora",
+    "madeira serrada",
+    "tronco"
   ],
   "🛖": [
     "cabana",
     "casa",
     "estrutura",
     "Roundhouse",
-    "yurt"
+    "yurt",
+    "oca"
   ],
   "🛻": [
     "Caminhão de coleta",
@@ -18592,18 +18680,24 @@
     "veículo"
   ],
   "🛼": [
-    "patins de rolo",
+    "patins",
+    "roller",
     "calçados",
     "esportes",
     "Derby",
-    "em linha"
+    "rodinhas",
+    "patinar",
+    "patinação"
   ],
   "🪄": [
     "varinha mágica",
-    "Supernatura",
+    "sobrenatural",
     "poder",
     "bruxa",
-    "mago"
+    "mago",
+    "mágico",
+    "magia",
+    "automático"
   ],
   "🪅": [
     "pinata",
@@ -18626,7 +18720,8 @@
     "pontos",
     "bordado",
     "suturas",
-    "alfaiataria"
+    "alfaiataria",
+    "costurar"
   ],
   "🪢": [
     "nó",
@@ -18635,7 +18730,8 @@
     "emaranhado",
     "gravata",
     "Twine",
-    "torção"
+    "torção",
+    "desatar"
   ],
   "🩴": [
     "Sandália da tanga",
@@ -18945,8 +19041,9 @@
     "embaraçoso",
     "tímido",
     "cativado",
-    "Peep",
-    "Olhe"
+    "medo",
+    "Olhe",
+    "terror"
   ],
   "🫡": [
     "rosto saudando",
@@ -18955,7 +19052,9 @@
     "OK",
     "ensolarado",
     "tropas",
-    "sim"
+    "sim",
+    "militar",
+    "continência"
   ],
   "🫥": [
     "face de linha pontilhada",
@@ -19131,14 +19230,20 @@
     "molho",
     "condimento",
     "vazio",
-    "loja"
+    "loja",
+    "pote",
+    "vidro"
   ],
   "🛝": [
     "Slide de playground",
     "diversão",
     "parque",
     "diversão",
-    "jogar"
+    "brincar",
+    "criança",
+    "infantil",
+    "escorregador",
+    "parquinho"
   ],
   "🛞": [
     "roda",
@@ -19508,11 +19613,17 @@
   "🍄‍🟫": [
     "cogumelo marrom",
     "Toadstool",
-    "fungo"
+    "fungo",
+    "shimeji",
+    "comida",
+    "shitake"
   ],
   "⛓️‍💥": [
     "corrente quebrada",
     "restrição",
-    "quebrar"
+    "quebrar",
+    "separação",
+    "liberdade",
+    "divórcio"
   ]
 }
