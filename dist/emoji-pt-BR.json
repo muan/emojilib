@@ -801,7 +801,7 @@
     "desapontado",
     "triste",
     "chateado",
-    "Carcaça",
+    "carranca",
     "infeliz"
   ],
   "☹️": [
@@ -809,7 +809,7 @@
     "face",
     "triste",
     "chateado",
-    "Carcaça",
+    "carranca",
     "megafrown",
     "infeliz",
     "branco"
@@ -882,7 +882,7 @@
     "face",
     "aw",
     "o que",
-    "Carcaça",
+    "carranca",
     "bocejando"
   ],
   "😧": [
@@ -2390,7 +2390,7 @@
   "👨": [
     "homem",
     "bigode",
-    "pai",
+    "tio",
     "pai",
     "cara",
     "elegante",
@@ -2404,7 +2404,9 @@
     "man_beard",
     "pessoa",
     "Berwhisked",
-    "barbudo"
+    "barbudo",
+    "barba",
+    "barbeiro"
   ],
   "👨‍🦰": [
     "man_red_hair",
@@ -2420,7 +2422,7 @@
     "man_curly_hair",
     "penteado",
     "adulto",
-    "cabelos",
+    "cacheado",
     "macho",
     "homens"
   ],
@@ -2429,15 +2431,17 @@
     "velho",
     "Ancião",
     "adulto",
-    "cabelos",
+    "cabelos brancos",
     "macho",
-    "homens"
+    "homens",
+    "idoso",
+    "terceira idade"
   ],
   "👨‍🦲": [
     "man_bald",
     "calvo",
     "adulto",
-    "cabelo",
+    "careca",
     "macho",
     "homens",
     "não"
@@ -2457,24 +2461,27 @@
     "adulto",
     "fêmea",
     "ruivo",
-    "cabelos",
     "ruiva",
-    "mulheres"
+    "mulheres",
+    "raposinha",
+    "cabelo vermelho"
   ],
   "🧑‍🦰": [
     "Person_red_hair",
     "penteado",
     "adulto",
     "gênero",
-    "cabelos",
-    "não especificado"
+    "não especificado",
+    "ruiva",
+    "ruivo",
+    "cabelo vermelho"
   ],
   "👩‍🦱": [
     "Woman_curly_hair",
     "penteado",
     "adulto",
     "fêmea",
-    "cabelos",
+    "cacheado",
     "mulheres"
   ],
   "🧑‍🦱": [
@@ -2482,7 +2489,7 @@
     "penteado",
     "adulto",
     "gênero",
-    "cabelos",
+    "cacheado",
     "não especificado"
   ],
   "👩‍🦳": [
@@ -2492,7 +2499,9 @@
     "adulto",
     "fêmea",
     "cabelos",
-    "mulheres"
+    "mulheres",
+    "idosa",
+    "terceira idade"
   ],
   "🧑‍🦳": [
     "Person_white_hair",
@@ -2501,7 +2510,10 @@
     "adulto",
     "gênero",
     "cabelos",
-    "não especificado"
+    "não especificado",
+    "idoso",
+    "idosa",
+    "terceira idade"
   ],
   "👩‍🦲": [
     "Woman_bald",
@@ -2562,7 +2574,6 @@
   ],
   "👴": [
     "Old_man",
-    "humano",
     "macho",
     "homens",
     "velho",
@@ -2571,11 +2582,14 @@
     "adulto",
     "idoso",
     "Vovô",
-    "mais velho"
+    "mais velho",
+    "calvo",
+    "careca",
+    "senhor",
+    "terceira idade"
   ],
   "👵": [
     "Old_woman",
-    "humano",
     "fêmea",
     "mulheres",
     "senhora",
@@ -2585,13 +2599,14 @@
     "adulto",
     "idoso",
     "avó",
-    "Nanna",
-    "mais velho"
+    "Vovó",
+    "mais velho",
+    "terceira idade"
   ],
   "🙍": [
     "Person_frowning",
     "preocupado",
-    "Carcaça",
+    "carranca",
     "gesto",
     "triste",
     "mulher"
@@ -2605,7 +2620,7 @@
     "deprimido",
     "desanimado",
     "infeliz",
-    "Carcaça",
+    "carranca",
     "gesto",
     "homens"
   ],
@@ -2618,7 +2633,7 @@
     "deprimido",
     "desanimado",
     "infeliz",
-    "Carcaça",
+    "carranca",
     "gesto",
     "mulheres"
   ],
@@ -4137,7 +4152,8 @@
     "corte",
     "cabelo",
     "cabeleireiro",
-    "salão"
+    "salão",
+    "tosar"
   ],
   "💇‍♂️": [
     "man_getting_haircut",
@@ -4151,7 +4167,8 @@
     "corte",
     "cabelo",
     "cabeleireiro",
-    "beleza"
+    "beleza",
+    "tosar"
   ],
   "💇‍♀️": [
     "Woman_getting_haircut",
@@ -4164,7 +4181,9 @@
     "mulheres",
     "cabelo",
     "cabeleireiro",
-    "beleza"
+    "beleza",
+    "tosar",
+    "corte"
   ],
   "🚶": [
     "Person_walking",
@@ -5709,7 +5728,8 @@
     "bicho de estimação",
     "fiel",
     "cachorro",
-    "cão"
+    "cão",
+    "pet"
   ],
   "🐕": [
     "cachorro",
@@ -5721,7 +5741,8 @@
     "fiel",
     "Dog2",
     "Doggo",
-    "cão"
+    "cão",
+    "pet"
   ],
   "🦮": [
     "guide_dog",
@@ -5730,14 +5751,21 @@
     "acessibilidade",
     "olho",
     "vendo",
-    "cachorro"
+    "cachorro",
+    "pet"
   ],
   "🐕‍🦺": [
     "Service_Dog",
     "cego",
     "animal",
     "acessibilidade",
-    "assistência"
+    "assistência",
+    "cachorro",
+    "pet",
+    "cão",
+    "guia",
+    "cão-guia",
+    "cão de serviço"
   ],
   "🐩": [
     "poodle",
@@ -5748,7 +5776,8 @@
     "bicho de estimação",
     "miniatura",
     "padrão",
-    "brinquedo"
+    "brinquedo",
+    "pet"
   ],
   "🐺": [
     "lobo",
@@ -5779,7 +5808,8 @@
     "bicho de estimação",
     "gatinho",
     "Kitty",
-    "gato"
+    "gato",
+    "pet"
   ],
   "🐈": [
     "gato",
@@ -5790,7 +5820,8 @@
     "CAT2",
     "doméstico",
     "felino",
-    "Housecat"
+    "Housecat",
+    "pet"
   ],
   "🦁": [
     "leão",
@@ -5798,7 +5829,13 @@
     "natureza",
     "face",
     "Leo",
-    "zodíaco"
+    "zodíaco",
+    "zoo",
+    "selvagem",
+    "rugido",
+    "rei",
+    "felino",
+    "zoológico"
   ],
   "🐯": [
     "tiger_face",
@@ -5917,7 +5954,13 @@
     "animal",
     "Oink",
     "natureza",
-    "cabeça"
+    "cabeça",
+    "Palmeiras",
+    "porco",
+    "focinho",
+    "porquinho",
+    "porca",
+    "bacon"
   ],
   "🐖": [
     "porco",
@@ -5925,7 +5968,8 @@
     "natureza",
     "porco",
     "Pig2",
-    "semear"
+    "semear",
+    "bacon"
   ],
   "🐗": [
     "javali",
@@ -5933,7 +5977,8 @@
     "natureza",
     "porco",
     "Warthog",
-    "selvagem"
+    "selvagem",
+    "Pumba"
   ],
   "🐽": [
     "Pig_nose",
@@ -5966,7 +6011,8 @@
     "animal",
     "natureza",
     "Capricórnio",
-    "zodíaco"
+    "zodíaco",
+    "bode"
   ],
   "🐪": [
     "camelo",
@@ -7996,7 +8042,10 @@
     "internacional",
     "planeta",
     "mundial",
-    "Africa"
+    "Africa",
+    "idioma",
+    "linguagem",
+    "língua"
   ],
   "🌎": [
     "GLOBE_SHOWING_AMERICAS",
@@ -8026,14 +8075,18 @@
     "internacional",
     "mundo",
     "Internet",
-    "interweb",
     "I18n",
     "global",
     "web",
-    "largo",
     "www",
     "Internacionalização",
-    "localização"
+    "localização",
+    "globo",
+    "idioma",
+    "linguagem",
+    "língua",
+    "tradução",
+    "tradutor"
   ],
   "🗺️": [
     "World_map",
@@ -8345,7 +8398,8 @@
     "York",
     "America",
     "EUA",
-    "USA"
+    "USA",
+    "Estados Unidos"
   ],
   "⛪": [
     "igreja",
@@ -8767,8 +8821,10 @@
     "transporte",
     "novo",
     "lado",
-    "táxi",
-    "York"
+    "taxi",
+    "York",
+    "Nova Iorque",
+    "NYC"
   ],
   "🚖": [
     "INING_TAXI",
@@ -12103,7 +12159,13 @@
     "creme",
     "Moneybag",
     "Magos de dinheiro",
-    "rico"
+    "rico",
+    "pagar",
+    "dinheiro",
+    "contas",
+    "vendas",
+    "banco",
+    "salário"
   ],
   "💴": [
     "yen_banknote",
@@ -12128,7 +12190,12 @@
     "banco",
     "Notas de banco",
     "observação",
-    "sinal"
+    "sinal",
+    "salário",
+    "dólar",
+    "dólares",
+    "pagar",
+    "rico"
   ],
   "💶": [
     "Euro_banknote",
@@ -12140,7 +12207,9 @@
     "Notas de banco",
     "conta",
     "observação",
-    "sinal"
+    "sinal",
+    "rico",
+    "europa"
   ],
   "💷": [
     "Pound_banknote",
@@ -12156,7 +12225,7 @@
     "Notas de banco",
     "conta",
     "observação",
-    "quid",
+    "libra",
     "sinal",
     "vinte"
   ],
@@ -12172,7 +12241,9 @@
     "voar",
     "vôo",
     "perdendo",
-    "observação"
+    "pagar",
+    "boleto",
+    "multa"
   ],
   "💳": [
     "Cartão de crédito",
@@ -12196,7 +12267,10 @@
     "despesas",
     "contabilidade",
     "evidência",
-    "prova"
+    "prova",
+    "boleto",
+    "contas",
+    "conta"
   ],
   "💹": [
     "CHART_INCREASHEAÇÃO_WITH_YEN",
@@ -12231,7 +12305,13 @@
     "vendas",
     "pagamento",
     "moeda",
-    "Buck"
+    "Buck",
+    "banco",
+    "dólar",
+    "sinal",
+    "pagar",
+    "salário",
+    "rico"
   ],
   "✉️": [
     "envelope",
@@ -12240,7 +12320,10 @@
     "Caixa de entrada",
     "comunicação",
     "e-mail",
-    "✉ Carta"
+    "✉ Carta",
+    "contato",
+    "correspondência",
+    "correio"
   ],
   "📧": [
     "e-mail",
@@ -12657,7 +12740,9 @@
     "corte",
     "preto",
     "corte",
-    "ferramenta"
+    "ferramenta",
+    "tosa",
+    "tosar"
   ],
   "🗃️": [
     "Card_file_box",
@@ -12834,7 +12919,11 @@
     "engrenagem",
     "cog",
     "roda dentada",
-    "ferramenta"
+    "ferramenta",
+    "configuração",
+    "mecanismo",
+    "mecânico",
+    "máquina"
   ],
   "🗜️": [
     "grampo",
@@ -12854,7 +12943,12 @@
     "Libra",
     "escalas",
     "ferramenta",
-    "zodíaco"
+    "zodíaco",
+    "equilíbrio",
+    "direito",
+    "balança",
+    "peso",
+    "pesar"
   ],
   "🦯": [
     "sond_cane",
@@ -14782,7 +14876,9 @@
     "caracteres",
     "para",
     "símbolo",
-    "entrada de símbolo"
+    "entrada de símbolo",
+    "letras",
+    "símbolos"
   ],
   "🔤": [
     "input_latin_letters",
@@ -14790,10 +14886,14 @@
     "alfabeto",
     "abc",
     "para",
-    "símbolo"
+    "símbolo",
+    "letras",
+    "palavra",
+    "escrita",
+    "escrever"
   ],
   "🅰️": [
-    "a_butão",
+    "a_button",
     "vermelho-quadrado",
     "alfabeto",
     "carta",
@@ -14840,7 +14940,8 @@
     "azul-quadrado",
     "sinal",
     "quadrado",
-    "quadrado"
+    "legal",
+    "frio"
   ],
   "🆓": [
     "free_button",
@@ -18788,7 +18889,9 @@
     "repercussão"
   ],
   "🪚": [
-    "Carpentry viu",
+    "Carpentry saw",
+    "serrote",
+    "serra",
     "corte",
     "cortar",
     "carpinteiro",
@@ -18800,19 +18903,21 @@
     "chave de fenda",
     "ferramentas",
     "parafuso",
-    "ferramenta"
+    "ferramenta",
+    "apertar"
   ],
   "🪝": [
     "gancho",
     "ferramentas",
     "pegar",
-    "trapaceiro",
     "curva",
-    "eare",
+    "anzol",
     "pesca",
-    "apontar",
-    "vendendo",
-    "ferramenta"
+    "ponta",
+    "venda",
+    "ferramenta",
+    "prender",
+    "fisgar"
   ],
   "🪜": [
     "escada",
@@ -18821,7 +18926,8 @@
     "Rung",
     "etapa",
     "ferramenta",
-    "subir"
+    "subir",
+    "manutenção"
   ],
   "🛗": [
     "elevador",
@@ -18996,19 +19102,21 @@
   ],
   "🧔‍♂️": [
     "Homem barba",
-    "Cabelo facial",
+    "barba",
     "barbudo",
     "Berwhisked",
     "macho",
-    "homens"
+    "homens",
+    "barbeiro"
   ],
   "🧔‍♀️": [
     "Mulher barba",
-    "Cabelo facial",
-    "barbudo",
+    "barba",
+    "barbuda",
     "Berwhisked",
     "fêmea",
-    "mulheres"
+    "mulheres",
+    "barbeiro"
   ],
   "🫠": [
     "face derretida",
@@ -19432,9 +19540,10 @@
     "sensu"
   ],
   "🪮": [
-    "picareta de cabelo",
+    "garfo de cabelo",
     "Afro",
-    "pentear"
+    "pentear",
+    "pente"
   ],
   "🪇": [
     "maracás",
