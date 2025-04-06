@@ -4633,7 +4633,7 @@
     "man_rowing_boat",
     "esportes",
     "passatempo",
-    "água",
+    "rio",
     "enviar",
     "macho",
     "homens",
@@ -4644,7 +4644,7 @@
     "Woman_rowing_boat",
     "esportes",
     "passatempo",
-    "água",
+    "rio",
     "enviar",
     "mulher",
     "fêmea",
@@ -4656,6 +4656,9 @@
     "Person_swinging",
     "esporte",
     "piscina",
+    "exercício",
+    "mar",
+    "natação",
     "nadar",
     "nadador"
   ],
@@ -4665,12 +4668,13 @@
     "exercício",
     "humano",
     "atleta",
-    "água",
+    "natação",
     "verão",
-    "macho",
+    "piscina",
     "homens",
     "nadar",
-    "nadador"
+    "nadador",
+    "mar"
   ],
   "🏊‍♀️": [
     "Woman_swiming",
@@ -4678,13 +4682,14 @@
     "exercício",
     "humano",
     "atleta",
-    "água",
+    "piscina",
     "verão",
     "mulher",
-    "fêmea",
+    "natação",
     "nadar",
     "nadadora",
-    "mulheres"
+    "mulheres",
+    "mar"
   ],
   "⛹️": [
     "PERSON_BOUNCING_BALL",
@@ -4727,7 +4732,8 @@
     "levantador de peso",
     "dar certo",
     "força",
-    "forte"
+    "forte",
+    "treinar"
   ],
   "🏋️‍♂️": [
     "man_lifting_weights",
@@ -4742,6 +4748,9 @@
     "força",
     "forte",
     "fisiculturista",
+    "treinamento",
+    "exercício",
+    "treinar"
   ],
   "🏋️‍♀️": [
     "Woman_lifting_weights",
@@ -4758,7 +4767,8 @@
     "dar certo",
     "força",
     "forte",
-    "fisiculturista"
+    "fisiculturista",
+    "treinar"
   ],
   "🚴": [
     "Person_biking",
@@ -4887,7 +4897,12 @@
     "esporte",
     "lutar",
     "lutador",
-    "lutadores"
+    "lutadores",
+    "luta",
+    "MMA",
+    "UFC",
+    "marciais",
+    "luta livre"
   ],
   "🤼‍♂️": [
     "Men_wrestling",
@@ -4896,7 +4911,10 @@
     "macho",
     "homem",
     "lutar",
-    "lutador"
+    "lutador",
+    "MMA",
+    "UFC",
+    "marciais"
   ],
   "🤼‍♀️": [
     "Women_wrestling",
@@ -4905,11 +4923,18 @@
     "fêmea",
     "mulher",
     "lutar",
-    "lutadora"
+    "lutadora",
+    "MMA",
+    "UFC",
+    "marciais"
   ],
   "🤽": [
     "Person_playing_water_polo",
-    "esporte"
+    "esporte",
+    "piscina",
+    "polo",
+    "aquático",
+    "biribol"
   ],
   "🤽‍♂️": [
     "man_playing_water_polo",
@@ -4934,27 +4959,33 @@
   "🤾": [
     "Person_playing_handball",
     "esporte",
-    "bola"
+    "bola",
+    "handebol",
+    "handball"
   ],
   "🤾‍♂️": [
     "man_playing_handball",
     "esportes",
     "bola",
     "macho",
-    "homens"
+    "homens",
+    "handebol",
+    "handball"
   ],
   "🤾‍♀️": [
     "Woman_playing_handball",
     "esportes",
     "bola",
     "fêmea",
-    "mulheres"
+    "mulheres",
+    "handebol",
+    "handball"
   ],
   "🤹": [
     "Person_juggling",
     "desempenho",
     "equilíbrio",
-    "fazer malabarismos",
+    "malabarismos",
     "malabarista",
     "multitarefa",
     "habilidade"
@@ -6472,6 +6503,12 @@
     "dinossauro",
     "Tyrannosaurus",
     "extinto",
+    "legado",
+    "offline",
+    "Jurássico",
+    "Jurassic",
+    "tiranossauro",
+    "rex",
     "Trex"
   ],
   "🐳": [
@@ -7133,8 +7170,8 @@
     "alface",
     "chinês",
     "cos",
-    "Verdes",
-    "Romaine",
+    "verdura",
+    "saudável",
     "vegetariano",
     "vegano"
   ],
@@ -7146,7 +7183,10 @@
     "repolho",
     "selvagem",
     "vegano",
-    "vegetariano"
+    "vegetariano",
+    "verdura",
+    "saudável",
+    "nutritivo"
   ],
   "🧄": [
     "alho",
@@ -10392,7 +10432,7 @@
     "Water_wave",
     "mar",
     "água",
-    "aceno",
+    "onda",
     "natureza",
     "Tsunami",
     "desastre",
@@ -13668,6 +13708,7 @@
   ],
   "🚰": [
     "potável_water",
+    "água",
     "azul-quadrado",
     "líquido",
     "banheiro",
@@ -16861,20 +16902,15 @@
   "🇫🇷": [
     "flag_france",
     "bandeira",
-    "bandeira",
     "nação",
     "França",
     "francês",
     "país",
-    "Clipperton",
+    "Paris",
     "fr",
-    "indicador",
-    "ilha",
-    "cartas",
+    "francesa",
     "Martin",
     "regional",
-    "santo",
-    "st.",
     "símbolo"
   ],
   "🇬🇦": [
@@ -16889,16 +16925,13 @@
   ],
   "🇬🇧": [
     "flag_united_kingdom",
-    "unido",
-    "reino",
-    "ótimo",
-    "Grã -Bretanha",
+    "Great",
+    "Grã-Bretanha",
     "norte",
     "Irlanda",
     "bandeira",
     "nação",
     "país",
-    "bandeira",
     "britânico",
     "Reino Unido",
     "inglês",
@@ -18549,8 +18582,7 @@
   ],
   "🇺🇸": [
     "flag_united_states",
-    "unido",
-    "estados",
+    "Estados Unidos",
     "América",
     "bandeira",
     "nação",
@@ -18558,13 +18590,10 @@
     "bandeira",
     "United_states",
     "americano",
-    "indicador",
-    "ilhas",
-    "cartas",
-    "periférico",
+    "gringo",
     "regional",
     "símbolo",
-    "nós",
+    "US",
     "EUA"
   ],
   "🇺🇾": [
@@ -19703,10 +19732,9 @@
   "🫗": [
     "líquido de derramamento",
     "xícara",
-    "água",
     "bebida",
     "vazio",
-    "vidro",
+    "copo",
     "derramar"
   ],
   "🫙": [
