@@ -17223,6 +17223,12 @@
     "romania",
     "romanian"
   ],
+  "🇨🇶": [
+    "flag_sark",
+    "cq",
+    "flag",
+    "banner"
+  ],
   "🇷🇸": [
     "flag_serbia",
     "rs",
@@ -19163,5 +19169,34 @@
     "broken chain",
     "constraint",
     "break"
+  ],
+  "🫩": [
+    "face with bags under eyes",
+    "tired",
+    "sleepy",
+    "exhausted"
+  ],
+  "🫆": [
+    "fingerprint"
+  ],
+  "🪾": [
+    "leafless tree"
+  ],
+  "🫜": [
+    "root vegetable",
+    "radish"
+  ],
+  "🪉": [
+    "harp",
+    "music",
+    "instrument"
+  ],
+  "🪏": [
+    "shovel",
+    "tool",
+    "dig"
+  ],
+  "🫟": [
+    "splatter"
   ]
 }
