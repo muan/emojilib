@@ -11,7 +11,6 @@
     "augment-en": "node scripts/augment-en.js",
     "test": "node scripts/test.js",
     "upgrade": "node scripts/upgrade.js",
-    "i18n": "node scripts/i18n.js",
     "improve": "node scripts/improve.js",
     "review": "node scripts/review.js"
   },
