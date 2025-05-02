@@ -7211,15 +7211,17 @@
     "plantar",
     "vegetal",
     "fungo",
-    "SHOOL",
-    "Toadstool"
+    "jardim",
+    "Toadstool",
+    "shimeji",
+    "shitake"
   ],
   "🥜": [
     "amendoim",
     "comida",
     "noz",
     "nozes",
-    "amendoim",
+    "paçoca",
     "vegetal"
   ],
   "🌰": [
@@ -7229,7 +7231,9 @@
     "bolota",
     "noz",
     "plantar",
-    "amêndoa"
+    "amêndoa",
+    "avelã",
+    "Nutella"
   ],
   "🍞": [
     "pão",
