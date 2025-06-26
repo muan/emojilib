@@ -1,5 +1,5 @@
 const fs = require('fs')
-  
+
 start()
 
 async function start() {
@@ -142,6 +142,14 @@ async function generateAugmentations(existingData) {
         (emoji.currentCldrName && byTitle[toNormalizedTitle(emoji.currentCldrName)]) ??
         byTitle[toNormalizedTitle(emoji.title)] ??
         Object.values(byTitle).find(platformData => platformData.emojipedia?.title === emoji.title)
+
+      if (
+        keywordsEmojilib.includes('woman_in_motorized_wheelchair') &&
+        platforms.fluemoji?.cldr === 'woman in motorized wheelchair facing right'
+      ) {
+        // This is a hacky workaround for a specific case where Fluemoji is bringing in a ZWJ right-facing variant of the "woman in motorized wheelchair" emoji.
+        platforms.fluemoji = undefined
+      }
 
       const fullIdentity = generateFullIdentityKeywords(keywordsEmojilib, platforms)
       const partialIdentity = generatePartialIdentityKeywords(keywordsEmojilib, fullIdentity)
