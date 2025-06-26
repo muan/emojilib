@@ -3271,7 +3271,8 @@
     "laptop",
     "software",
     "technology",
-    "developer"
+    "developer",
+    "inventor"
   ],
   "👨‍💻": [
     "man_technologist",
@@ -3287,7 +3288,8 @@
     "blogger",
     "male",
     "men",
-    "technology"
+    "technology",
+    "inventor"
   ],
   "👩‍💻": [
     "woman_technologist",
@@ -3303,7 +3305,8 @@
     "blogger",
     "female",
     "technology",
-    "women"
+    "women",
+    "inventor"
   ],
   "🧑‍🎤": [
     "singer",
@@ -18893,91 +18896,146 @@
     "dizzy",
     "shock",
     "blurry",
-    "earthquake"
+    "earthquake",
+    "vibrate"
   ],
   "🩷": [
     "pink heart",
-    "valentines"
+    "valentines",
+    "cute",
+    "like",
+    "love"
   ],
   "🩵": [
     "light blue heart",
     "ice",
-    "baby blue"
+    "baby blue",
+    "cyan",
+    "teal"
   ],
   "🩶": [
     "grey heart",
     "silver",
-    "monochrome"
+    "monochrome",
+    "gray",
+    "slate"
   ],
   "🫷": [
     "leftwards pushing hand",
     "highfive",
     "pressing",
-    "stop"
+    "stop",
+    "five",
+    "high",
+    "leftward",
+    "push",
+    "refuse",
+    "wait"
   ],
   "🫸": [
     "rightwards pushing hand",
     "highfive",
     "pressing",
-    "stop"
+    "stop",
+    "five",
+    "high",
+    "push",
+    "refuse",
+    "rightward",
+    "wait"
   ],
   "🫎": [
     "moose",
     "canada",
     "sweden",
     "sven",
-    "cool"
+    "cool",
+    "animal",
+    "antlers",
+    "elk",
+    "mammal"
   ],
   "🫏": [
     "donkey",
     "eeyore",
-    "mule"
+    "mule",
+    "animal",
+    "ass",
+    "burro",
+    "mammal",
+    "stubborn"
   ],
   "🪽": [
     "wing",
     "angel",
     "birds",
     "flying",
-    "fly"
+    "fly",
+    "angelic",
+    "aviation",
+    "bird",
+    "mythology"
   ],
   "🐦‍⬛": [
     "black bird",
-    "crow"
+    "crow",
+    "raven",
+    "rook"
   ],
   "🪿": [
     "goose",
     "silly",
     "jemima",
     "goosebumps",
-    "honk"
+    "honk",
+    "bird",
+    "fowl"
   ],
   "🪼": [
     "jellyfish",
     "sting",
-    "tentacles"
+    "tentacles",
+    "burn",
+    "invertebrate",
+    "jelly",
+    "marine",
+    "ouch",
+    "stinger"
   ],
   "🪻": [
     "hyacinth",
     "flower",
-    "lavender"
+    "lavender",
+    "bluebonnet",
+    "lupine",
+    "snapdragon"
   ],
   "🫚": [
     "ginger root",
     "spice",
     "yellow",
     "cooking",
-    "gingerbread"
+    "gingerbread",
+    "beer"
   ],
   "🫛": [
     "pea pod",
     "cozy",
-    "green"
+    "green",
+    "beans",
+    "edamame",
+    "legume",
+    "vegetable"
   ],
   "🪭": [
     "folding hand fan",
     "flamenco",
     "hot",
-    "sensu"
+    "sensu",
+    "cooling",
+    "dance",
+    "flutter",
+    "shy"
   ],
   "🪮": [
     "hair pick",
@@ -18989,7 +19047,9 @@
     "music",
     "instrument",
     "percussion",
-    "shaker"
+    "shaker",
+    "rattle",
+    "shake"
   ],
   "🪈": [
     "flute",
@@ -18997,19 +19057,25 @@
     "music",
     "instrument",
     "pied piper",
-    "recorder"
+    "recorder",
+    "fife",
+    "pipe",
+    "woodwind"
   ],
   "🪯": [
     "khanda",
     "Sikhism",
-    "religion"
+    "religion",
+    "sikh"
   ],
   "🛜": [
     "wireless",
     "wifi",
     "internet",
     "contactless",
-    "signal"
+    "signal",
+    "computer",
+    "network"
   ],
   "🙂‍↔️": [
     "head shaking horizontally",
