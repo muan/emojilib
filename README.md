@@ -1,4 +1,4 @@
-# emojilib ![CI status](https://github.com/muan/emojilib/workflows/Test%20dataset/badge.svg?branch=main) [![npm](https://img.shields.io/npm/dt/emojilib.svg?style=flat-square&colorB=fd7463)](https://www.npmjs.com/package/emojilib) [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square&colorB=f1d04a)](https://github.com/feross/standard)
+# emojilib [![Test dataset](https://github.com/muan/emojilib/actions/workflows/test.yml/badge.svg)](https://github.com/muan/emojilib/actions/workflows/test.yml) [![npm](https://img.shields.io/npm/dt/emojilib.svg?style=flat-square&colorB=fd7463)](https://www.npmjs.com/package/emojilib) [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square&colorB=f1d04a)](https://github.com/feross/standard)
 
 Make emoji searchable with this keyword library.
 
@@ -10,8 +10,13 @@ npm install emojilib --save
 
 ## Usage
 
-```javascript
-> require("emojilib")
+```js
+import emojilib from 'emojilib' with { type: 'json' }
+
+console.log(emojilib)
+```
+
+```js
 {
   '😀': [
     'grinning_face',
@@ -39,8 +44,11 @@ If you are looking for the unicode emoji dataset, including version, grouping, o
 Previously:
 
 ```js
-> var emoji = require("emojilib")
-> emoji.lib
+var emoji = require("emojilib")
+console.log(emoji.lib)
+```
+
+```js
 {
   "grinning": {
     "keywords": ["face", "smile", "happy", "joy"],
@@ -55,12 +63,16 @@ Previously:
 Now, merge keywords with other metadata from `unicode-emoji-json`:
 
 ```js
-> var data = require('unicode-emoji-json')
-> var keywordSet = require('emojilib')
-> for (const emoji in data) {
-data[emoji]['keywords'] = keywordSet[emoji]
+import data from 'unicode-emoji-json' with { type: 'json' }
+import keywordSet from 'emojilib' with { type: 'json' }
+
+for (const emoji in data) {
+  data[emoji]['keywords'] = keywordSet[emoji]
 }
-> data['😀']
+console.log(data['😀'])
+```
+
+```js
 {
   name: 'grinning face',
   slug: 'grinning_face',
@@ -77,15 +89,23 @@ data[emoji]['keywords'] = keywordSet[emoji]
 Previously:
 
 ```js
-> var emoji = require("emojilib")
-> emoji.ordered
-[ 'grinning', 'grimacing', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
+var emoji = require("emojilib")
+console.log(emoji.ordered)
+```
+
+```js
+['grinning', 'grimacing', 'grin', 'joy', 'smiley', 'smile', 'sweat_smile', ...]
 ```
 
 Now this data can be found in `unicode-emoji-json`:
 
 ```js
-> var orderedEmoji = require('unicode-emoji-json/data-ordered-emoji')
+import orderedEmoji from 'unicode-emoji-json/data-ordered-emoji.json' with { type: 'json' }
+
+console.log(orderedEmoji)
+```
+
+```js
 ['😀', '😃', '😄', '😁', '😆', '😅',...]
 ```
 
@@ -94,15 +114,23 @@ Now this data can be found in `unicode-emoji-json`:
 Previously:
 
 ```js
-> var emoji = require("emojilib")
-> emoji.fitzpatrick_scale_modifiers
+var emoji = require("emojilib")
+console.log(emoji.fitzpatrick_scale_modifiers)
+```
+
+```js
 [ '🏻', '🏼', '🏽', '🏾', '🏿' ]
 ```
 
 Now this data can be found in `unicode-emoji-json`:
 
 ```js
-> require('unicode-emoji-json/data-emoji-components')
+import components from 'unicode-emoji-json/data-emoji-components.json' with { type: 'json' }
+
+console.log(components)
+```
+
+```js
 {
   light_skin_tone: '🏻',
   medium_light_skin_tone: '🏼',
@@ -116,25 +144,34 @@ Now this data can be found in `unicode-emoji-json`:
 }
 ```
 
+---
+
 Previously:
 
 ```js
-> require("emojilib").lib['v'].fitzpatrick_scale
-true
+console.log(require("emojilib").lib['v'].fitzpatrick_scale)
+console.log(require("emojilib").lib['turtle'].fitzpatrick_scale)
+```
 
-> require("emojilib").lib['turtle'].fitzpatrick_scale
+```js
+true
 false
 ```
 
 Now this data can be found in `unicode-emoji-json`:
 
 ```js
-> require('unicode-emoji-json')['✌️'].skin_tone_support
+import data from 'unicode-emoji-json' with { type: 'json' }
+
+console.log(data['✌️'].skin_tone_support)
+console.log(data['🐢'].skin_tone_support)
+```
+
+```js
 true
-> require('unicode-emoji-json')['🐢'].skin_tone_support
 false
 ```
 
 ## Development
 
-See `CONTRIBUTING.md`.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md).
