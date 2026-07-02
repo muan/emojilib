@@ -3800,7 +3800,8 @@
     "fantasy",
     "superpower",
     "superpowers",
-    "villain"
+    "villain",
+    "masked"
   ],
   "🦹‍♂️": [
     "man_supervillain",
@@ -3814,7 +3815,8 @@
     "fantasy",
     "men",
     "superpower",
-    "villain"
+    "villain",
+    "man_masked"
   ],
   "🦹‍♀️": [
     "woman_supervillain",
@@ -3828,7 +3830,8 @@
     "fantasy",
     "superpower",
     "villain",
-    "women"
+    "women",
+    "woman_masked"
   ],
   "🧙": [
     "mage",
