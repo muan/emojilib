@@ -1,7 +1,14 @@
 const fs = require('fs')
 const test = require('tape')
+const toNormalizedText = require('./normalize-text')
 const files = fs.readdirSync('dist')
 const expectedKeys = require('unicode-emoji-json/data-ordered-emoji.json')
+
+test('normalizes regular and non-breaking spaces identically', t => {
+  t.equal(toNormalizedText('green face'), 'green_face')
+  t.equal(toNormalizedText('green\u00A0face'), 'green_face')
+  t.end()
+})
 
 for (const path of files) {
   if (!path.endsWith('.json')) continue
