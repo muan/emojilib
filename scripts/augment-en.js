@@ -1,5 +1,6 @@
 const fs = require('fs')
-  
+const toNormalizedText = require('./normalize-text')
+
 start()
 
 async function start() {
@@ -55,16 +56,7 @@ async function generateAugmentations(existingData) {
       .sort()
   }
 
-  function toNormalizedText(text = '') {
-    return text
-      .toLowerCase()
-      .replaceAll(/[ ,)(]/g, '_')
-      .replaceAll(':', '')
-      .replaceAll('-', '_')
-      .replaceAll(/__/g, '_')
-      .replaceAll(/^_/g, '')
-      .replaceAll(/_$/g, '')
-  }
+
 
   function toNormalizedTitle(text) {
     return changeCase.pascalCase(text).replaceAll(' ', '')
